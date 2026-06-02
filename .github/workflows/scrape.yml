@@ -45,7 +45,16 @@ jobs:
           git add data/feed.json data/seen.json
           if git diff --cached --quiet; then
             echo "no changes"
-          else
-            git commit -m "feed update $(date -u +%Y-%m-%dT%H:%MZ)"
-            git push
+            exit 0
           fi
+          git commit -m "feed update $(date -u +%Y-%m-%dT%H:%MZ)"
+          # Retry with rebase on push race (concurrent runs or manual pushes)
+          for i in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            echo "push rejected, rebasing and retrying ($i/3)"
+            git pull --rebase origin main
+          done
+          echo "push failed after 3 retries"
+          exit 1

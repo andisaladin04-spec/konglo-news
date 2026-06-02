@@ -9,7 +9,7 @@
 //   4. Long-press home screen → + → Scriptable → choose widget size → pick "Konglo News".
 // ---------------------------------------------------------------------------
 
-const FEED_URL = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/data/feed.json";
+const FEED_URL = "https://raw.githubusercontent.com/andisaladin04-spec/konglo-news/main/data/feed.json";
 const MAX_ITEMS_MEDIUM = 5;
 const MAX_ITEMS_LARGE = 10;
 const MAX_ITEMS_SMALL = 3;

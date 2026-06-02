@@ -152,6 +152,43 @@ function addMoreFooter(widget, totalCount, shownCount, param) {
   more.textColor = ACCENT_LINK;
 }
 
+// Quick-jump chips: each chip is its own tappable stack with a unique URL.
+// Tapping a chip launches the script with view=full&filter=<that>, landing
+// directly in that section.
+function addChips(widget, family, activeParam) {
+  // small widgets are too cramped for chips
+  if (family === "small") return;
+
+  const chipsMedium = ["all", "big", "Prajogo"];
+  const chipsLarge = ["all", "big", "Prajogo", "Bakrie", "Salim", "Astra"];
+  const chips = family === "large" ? chipsLarge : chipsMedium;
+
+  widget.addSpacer(4);
+  const row = widget.addStack();
+  row.layoutHorizontally();
+  row.spacing = 6;
+  row.centerAlignContent();
+
+  for (const c of chips) {
+    const chip = row.addStack();
+    chip.layoutHorizontally();
+    chip.centerAlignContent();
+    chip.setPadding(3, 7, 3, 7);
+    chip.cornerRadius = 8;
+    chip.url = fullListUrl(c === "all" ? "" : c);
+    const isActive =
+      (c === "all" && !activeParam) ||
+      (activeParam && activeParam.toLowerCase() === c.toLowerCase());
+    chip.backgroundColor = isActive ? ACCENT_LINK : new Color("#ffffff", 0.08);
+
+    const label = chip.addText(c.toUpperCase());
+    label.font = Font.boldSystemFont(9);
+    label.textColor = isActive ? new Color("#0b1220") : FG_PRIMARY;
+  }
+
+  row.addSpacer();
+}
+
 async function buildWidget(feed, param) {
   const w = new ListWidget();
   const gradient = new LinearGradient();
@@ -178,6 +215,8 @@ async function buildWidget(feed, param) {
     for (const item of shown) addItem(w, item, family);
     addMoreFooter(w, filtered.length, shown.length, param);
   }
+
+  addChips(w, family, param);
 
   w.refreshAfterDate = new Date(Date.now() + 10 * 60 * 1000);
   return w;

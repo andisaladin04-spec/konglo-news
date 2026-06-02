@@ -1,7 +1,84 @@
 {
-  "updated": "2026-06-02T21:33:34.661252+00:00",
+  "updated": "2026-06-02T23:19:58.101343+00:00",
   "count": 150,
   "items": [
+    {
+      "title": "Trump Appoints Bill Pulte as Acting Intelligence Chief",
+      "link": "https://en.tempo.co/read/2106508/trump-appoints-bill-pulte-as-acting-intelligence-chief",
+      "summary": "US President Donald Trump named Bill Pulte on Tuesday as the acting director of national intelligence (acting DNI).",
+      "published": "2026-06-02T23:15:04+00:00",
+      "source": "Tempo.co",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "0294524a13d3a29a"
+    },
+    {
+      "title": "Peradi Pimpinan Otto Hasibuan Menang Gugatan PK soal SK Pengurus",
+      "link": "https://news.detik.com/berita/d-8515384/peradi-pimpinan-otto-hasibuan-menang-gugatan-pk-soal-sk-pengurus",
+      "summary": "Mahkamah Agung mengabulkan gugatan Peradi pimpinan Otto Hasibuan, memerintahkan Kementerian Hukum untuk menerbitkan perubahan SK kepengurusan Peradi.",
+      "published": "2026-06-02T23:05:57+00:00",
+      "source": "Detik News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Mahkamah Agung"
+      ],
+      "big": false,
+      "id": "cc4c8e5372f4f280"
+    },
+    {
+      "title": "Pecah Amarah Trump ke Netanyahu",
+      "link": "https://news.detik.com/internasional/d-8515382/pecah-amarah-trump-ke-netanyahu",
+      "summary": "Presiden Amerika Serikat (AS) Donald Trump dilaporkan marah terhadap Perdana Menteri Israel Benjamin Netanyahu.",
+      "published": "2026-06-02T23:02:18+00:00",
+      "source": "Detik News",
+      "groups": [
+        "Geopolitics",
+        "Government / Policy"
+      ],
+      "matched": [
+        "Trump",
+        "menteri"
+      ],
+      "big": false,
+      "id": "a7e4e3eba825077e"
+    },
+    {
+      "title": "Trump berated Netanyahu? Analysts question US-Israel feud rumours",
+      "link": "https://www.aljazeera.com/news/2026/6/2/trump-berated-netanyahu-scepticism-abounds-about-us-israel-feud-rumour?traffic_source=rss",
+      "summary": "Analysts say &#039;strategic leaks&#039; aim to influence public perceptions amid diplomatic impasse in US-Israel war on Iran.",
+      "published": "2026-06-02T21:59:47+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "bd65e7073853bbbe"
+    },
+    {
+      "title": "Trump administration scrapping $1.8bn ‘anti-weaponisation fund’",
+      "link": "https://www.aljazeera.com/economy/2026/6/2/trump-administration-is-scrapping-the-1-8bn-anti-weaponisation-fund?traffic_source=rss",
+      "summary": "US Justice Department agreement with president to bar future audits of his or his family&#039;s past tax records will remain.",
+      "published": "2026-06-02T21:44:08+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "c762a0a29e414e3f"
+    },
     {
       "title": "KPK Kebut Usut Perkara Lama yang Belum Rampung, Target Selesai di 2026",
       "link": "https://news.detik.com/berita/d-8515372/kpk-kebut-usut-perkara-lama-yang-belum-rampung-target-selesai-di-2026",
@@ -993,6 +1070,21 @@
       "id": "5b3bac5702829c80"
     },
     {
+      "title": "Prabowo Tekan Angka Defisit RAPBN 2027, Maksimal Jadi 2,4 Persen - Katakini.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdDVGODhMNlFtSXpqWFMxQzBaamZlVTItTXZ5QTU3THJSd1hvS0JiWkl1aXFaWWZ4bmU2SWpleGd4UXQ0TnV3d3M0MGd6X2NoSmxQUXF2SGNURFBxTVhMZHplV3JkOEhrVndwSE1wbEI1cnVFWGlLZTI1cms5MzhfYWpKa2VPbVdDU0FNclZ3M01BTlppWkNRWV9ONkp1VmpnRUpGVjN3?oc=5",
+      "summary": "Prabowo Tekan Angka Defisit RAPBN 2027, Maksimal Jadi 2,4 Persen&nbsp;&nbsp;Katakini.com",
+      "published": "2026-05-20T05:20:00+00:00",
+      "source": "GNews – Prabowo kebijakan",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "8c81e159dbf823e8"
+    },
+    {
       "title": "Prabowo Sebut APBN Alat Lindungi Rakyat dan Perkuat Ekonomi Bangsa - Katakini.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRENqV2ZKWHdnbnphYUdOeVVXaEstS2RmeXpJOVF5STlOV3ktSWFVTnZLS3dXbGVWc3R5cW5VOFhXNmk1S3hoTGJrZEJMVXBJcjk2NEl1OU5zYW5PbFBtZWVWUF9RZVBaUGlxMkNHdHNrcXZsSWEtZmlZUU05cUhRSjE5Z0l5MEJ6X25PekR6Nm5tdklEY19uZTgwOWFjd1NFYXFvUVlWSHlDTzQ?oc=5",
       "summary": "Prabowo Sebut APBN Alat Lindungi Rakyat dan Perkuat Ekonomi Bangsa&nbsp;&nbsp;Katakini.com",
@@ -1216,6 +1308,22 @@
       ],
       "big": true,
       "id": "e9b76c4e594ffb3c"
+    },
+    {
+      "title": "Prabowo: APBN hemat Rp308 triliun hasil memangkas belanja tak produktif - ANTARA News Jateng",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY09xQy1iQlQtVXlUYUdnMGhkeDRuVTNyd2NoVlZxNlFhYU1xSEpHR1diTHNMa1JTWjdzYnBmb0xEVzNzOFdoTlJEelF0cUpJeE81SkZqaThyR0lUSnh6SklEZFEzVTg1bnF3NDZDYVotRGFUNFAwamJab1ozV3puN0I3SFV4amVoUm1lSXJLTnNwQlFFVWp0UGxaSjdWTFlsZVRqZVNuVThKV1R6bndUNE5aX2E?oc=5",
+      "summary": "Prabowo: APBN hemat Rp308 triliun hasil memangkas belanja tak produktif&nbsp;&nbsp;ANTARA News Jateng",
+      "published": "2026-03-20T07:00:00+00:00",
+      "source": "GNews – Prabowo kebijakan",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "APBN",
+        "Prabowo"
+      ],
+      "big": true,
+      "id": "9bbc359ca221cc18"
     },
     {
       "title": "Prabowo: Kita Pernah Hemat APBN Rp308 T dari Pengeluaran Akal-akalan - CNBC Indonesia",
@@ -2099,291 +2207,200 @@
       "id": "438a2aa98a7f892f"
     },
     {
-      "title": "Apa Itu BI Rate? Ini Dampaknya Jika BI Rate Turun - MetroTVNews.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUnJzZl9abTJndmlPMXE4ZWlHM2ZLamtSSFlPZFdCSG9LXzBRMURYaFppeUxON1hmTWFXbElxa0J6Y0Jsd1JTaGZUY0ljR0IyZGpVTHBaOUpDUElDaU1VTVdRVlFjTlBLV2UwN2Z3b2tnOXZMMHQyZWhkRFdPRW9zMGo2d0pzcE1OOGVsRGZPN2J3amlJ?oc=5",
-      "summary": "Apa Itu BI Rate? Ini Dampaknya Jika BI Rate Turun&nbsp;&nbsp;MetroTVNews.com",
-      "published": "2025-05-22T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate"
-      ],
-      "big": true,
-      "id": "515f8dde852e7d5c"
-    },
-    {
-      "title": "Terjepit Tugas Jaga Rupiah-Dongrak Ekonomi, BI Diramal Tak Kemana-mana - CNBC Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcTRZejNlb2dkVmtxNm5XWFFOWkJpbTBWNUc4UVN4eFpzZnVac2NhdVJyVnNacGRhRDVQZ0tnd1VpYTB5Q2V6amhQcl9HSElxVFpRa1BHbkVkWHpWYl81UWV2ZHhlcW5JLWRkeEYzdzU0b24yb2MxQXdWNVRnSWt1Y1dFLTdsT2tOaGduN2VkT2E3aHdxOGxiX1p0N2Y0bUhjbGNvVW13LUhXdXNMbjhCRm9kNGIzdFp6bEVlWkx1cEZjZVMyTWhsT2NXWFlTUkE?oc=5",
-      "summary": "Terjepit Tugas Jaga Rupiah-Dongrak Ekonomi, BI Diramal Tak Kemana-mana&nbsp;&nbsp;CNBC Indonesia",
-      "published": "2025-03-18T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah"
-      ],
-      "big": false,
-      "id": "7b579cf502010724"
-    },
-    {
-      "title": "Di Balik Efisiensi, Ada Bocor APBN 30% - MetroTVNews.com",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZEtjV2pKbnl2X2pOUFdCU0FzWjBHcUdNN0JBMHl4b3hNMlA2eDdUZDhfRkpMbTEzUE9zVHhhdFV5ZGZoNkhNM3M2Y3g5ampOUm0tWXRwWE9lVHNzM2U1YWZ4UWhXS2JQeFBHRTZLM3JYVEpBYkZfN2EwN085QUthV1VpWmc?oc=5",
-      "summary": "Di Balik Efisiensi, Ada Bocor APBN 30%&nbsp;&nbsp;MetroTVNews.com",
-      "published": "2025-02-26T08:00:00+00:00",
+      "title": "Ekonomi 2026 Bakal Gelap, Ini Desain Lengkap APBN Tahun Kedua Prabowo - CNBC Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPajBDMExlWUVRQVNzbUVmeXJmTTdQMkFDaHE1LThvdWZNNTlMb015dXhSZVpXZHdtdFRjZmRfa2hEN1dQWmFqWDhvQ0VqNFNsTlM4dVhBTUhBZWR6eEhzX0dDemc5UE85Z0ZrZ095QmpuUmkwbVR5MEs1V0kzTGFGQ2VGNTJjalRnaGhSeG0zTlNRNDNYY1FWeDRWVzRhay1uYXJ2WndCWmlrR25OOXQxclJZZWJsU1gyUno2OHVUaVZmT2pKdnfSAcsBQVVfeXFMTnFURmphcDZhUEhLcjQ0VGp4eU1LMHdjVkpnVU9yOVJpbV9pRlVfQS1xS2Rxa0VQOUhxcGY0OEYxSldmR2lObk1LcVdKWHJ2NlZ6aklISTZKbmM4Rnk4c0lJbU9USVIyUzU1N0ptUkZBZzdJaUY4ZEpaR1VmaFdZS2JITGdJQzBTVk45NHU4cndZUy1TbG1MSTRnLUE0WU11RVVpOXlBemlJLVFrbkJQcmN3ejB2em9ZTF9zeHdLV1ZWaW9seWNwSlNZelk?oc=5",
+      "summary": "Ekonomi 2026 Bakal Gelap, Ini Desain Lengkap APBN Tahun Kedua Prabowo&nbsp;&nbsp;CNBC Indonesia",
+      "published": "2025-07-02T07:00:00+00:00",
       "source": "GNews – Prabowo kebijakan",
       "groups": [
         "Government / Policy"
       ],
       "matched": [
-        "APBN"
+        "APBN",
+        "Prabowo"
       ],
       "big": true,
-      "id": "8ed638f76d738343"
+      "id": "3181852b79bb5488"
     },
     {
-      "title": "BI Rate Tetap 5,75%, Net Capital Inflow US$ 1,5 Miliar - InvestorTrust",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5rcFFJdTJwUXFRSlEtTVJGVjlkQV9aX2F1MjN1T2dZNnVVSjA2b1Y4VnBwRGEyUzBLaWJJNkxMYzF0UHNYVkZyTzBmXzFncVJHdGxBRkR5WmFhd0tmQUZfTHBySEFMMnM5bjRJRDNMaTdwUTRtOHBYRzdXQlhRUQ?oc=5",
-      "summary": "BI Rate Tetap 5,75%, Net Capital Inflow US$ 1,5 Miliar&nbsp;&nbsp;InvestorTrust",
-      "published": "2025-02-19T07:47:49+00:00",
-      "source": "GNews – BI rate rupiah",
+      "title": "Lagi, Prabowo Sebut Anggaran Pendidikan Tertinggi Sepanjang Sejarah RI, Berapa? - detikcom",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNai1BeVN0YkgxalpNa3dISFZyenNobGh6T3dxTG9jTmg0YUwyOUQwcHFXOVpPUXRUUm5ncjVmS1pWejk4N1JfWGRnd3lORGdIS1VocHY0aUJnWU9PTEJpR1BWNVpFR1FlTWowTnNpd3BUWHFyZEhnTzZyX3JacGQ0RUtqOERJVXluYlA3enItUzYwckkxY0UzNzQzU1ZSbmNsejRwVzJrc3g5TXhCQzBKWUdwcFpvZjZtaUZvdnAzWWjSAcYBQVVfeXFMTnlraFA2d1JJQmR0LW1YZF9hd3JOcXppR0J3MDF1VjVLMlROT0FoLURQcUdyb0xZR2w5VWtWVGdqcTJIN1FYTzlhdEpPeFktX1lhdlZSZWc1T256ZEJFdGJUcTl1RDNQbU52RTl0TFVVaFhfS1VBc0Fwa25FV0hjd0V2N1VBQkg3WWNWZXg0eGg1a0VxLUdGSkhBQmdiUU1oakQyTE1OWmd5OHFsejFVdjJXUUF2OUZfXzNWMUpCb2txOVY5UWV3?oc=5",
+      "summary": "Lagi, Prabowo Sebut Anggaran Pendidikan Tertinggi Sepanjang Sejarah RI, Berapa?&nbsp;&nbsp;detikcom",
+      "published": "2025-06-12T07:00:00+00:00",
+      "source": "GNews – Prabowo kebijakan",
       "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Prabowo",
+        "anggaran"
+      ],
+      "big": false,
+      "id": "85a7709dafb90b82"
+    },
+    {
+      "title": "11 Program Prioritas Prabowo Subianto yang Habiskan Rp 446 Triliun - detikcom",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVmRWR2FiT0NBLWZtYlNveVVHcXVIamVTQXRlYWlZanI3SUx3b2NPalFNMXd3SG5NNk53N19DUGhqUGJST0NVc1A5b1RnaXNsY3NWa2pFREhYdVUyUktpM3F2am1oQk1ZNXh3XzdDZjNtZGZCOUJmbDlPVml2N3dCd3o1MTJKOGJmT0M0c2YtT1lRZlFkYWNYOVF6NHpkZ2Zfem9jMFRjY1lKLU5McXdkOdIBtgFBVV95cUxPQ05KazMyV0o2ZHhtcXh6RWk1T09NNGRfZ1JJWXhjeDNPbllOclZ2OGNMSUNoSTZ1clAxRDVSV25mbmRKMWtLWW1sOUg2dGkzQmpYckJ3bjlVbTIyNHA1MG0zMEw2dGtocm80c3ZUTF9Qa1hYX1dmVkNCOXVwUUZiRTR1VVZCYkdkakxpNXBsNDlHcTl2NHdJTVdOSjBDOHZ0RkU0UWFnaHV5bldOUEx0RHJvY2lIdw?oc=5",
+      "summary": "11 Program Prioritas Prabowo Subianto yang Habiskan Rp 446 Triliun&nbsp;&nbsp;detikcom",
+      "published": "2025-06-04T07:00:00+00:00",
+      "source": "GNews – Prabowo kebijakan",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "626f75e62bc4da9b"
+    },
+    {
+      "title": "Ekonom Sebut Depresiasi Rupiah Anomali Dipicu Kebijakan Fiskal Pemerintahan Prabowo - kontan.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcVQyMjBaaE81MnFfOURUcTcwN2M5QVRXd002WnYzamltSm11Zkd5WjVmZDdfWE9VVE45cFhtLXl3cDBaNDRwLTJ0dTlyaFlJMFd6WmZ4Q1V6T3RGMGIxejl4WGE4QjRMY2RVWXBLd3BpNzQ3TE03eEUwUzBrSHFTaVRXVHI4RnUzaU1mNVNIby0taEVTaC1TckFVdERPN0dHRFZickVBZm5CQnV3RkIzc0p0NG1JVW4yUFHSAbMBQVVfeXFMT0FQMlVaUU9YOGdoem1yNDRKMFN1a3lXNVdHdk90SEhlU1ZFeWFKTW15c0xrMlZKYVBJNWttbDdWWmdTQXh6d0FQb2NQQ2hMLV8wRkxPU3FTZUhmX3AtSno1QnJFTFlmM0xFcFlReXBSSklBdV9SSkxlQ09USndsTmhEVVJqTDFRWUNhcHdXcm1CeFExV3RWSU9xVl9DcUlwMEhQcExpbWx3M1NVM1d3LXVkY3c?oc=5",
+      "summary": "Ekonom Sebut Depresiasi Rupiah Anomali Dipicu Kebijakan Fiskal Pemerintahan Prabowo&nbsp;&nbsp;kontan.co.id",
+      "published": "2025-04-13T07:00:00+00:00",
+      "source": "GNews – Prabowo kebijakan",
+      "groups": [
+        "Government / Policy",
         "Macro / Economy"
       ],
       "matched": [
-        "BI rate"
-      ],
-      "big": true,
-      "id": "0c18aed4bdf7de00"
-    },
-    {
-      "title": "Simak! Analisa 5 Ekonom Soal BI Rate Turun Jadi 5,75% - CNBC Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMHJpYy1Ib2N1SVNDRE4tTE1XcEJZZllYeU11bGZrNzZkMW01NEh2OENYeWljaGlVYWNvOWJTdnNJQVNPb29ldUtOS2EzVFBPZGhudmZzYjUycFRSLXJOZjE0dDlqUG40aTV2TTY3UTlpbkxGTmFHSE5iWkZZYm5jblF0VjZEbDUxVDdXdml0N2dVMmxSUktUYUNaYWtSM2QtMElQelFmQUxKbTFnckM4REVR0gG3AUFVX3lxTE5UYzNyektJcF9GUk5lN1NoQWRMbmszTEs1MGJQS1dFcC12b1JZQ1hUNzdBRWdoNnBqeXprNkx0eVNPVWJwR0ZzRUI5QjRvUXBCM2hmXzhIWENmaEV6WEl5SEJsT05fT3BWNXRBUWpYendqcVRWRG93TFlwTkxCQl9BMXpQY2ZZbTBkbXY4Tmt3T2ZySVNMNmlUR29ZMUQyYTVHMXdQY241dER2cm1BVEZMaVVQZllnOA?oc=5",
-      "summary": "Simak! Analisa 5 Ekonom Soal BI Rate Turun Jadi 5,75%&nbsp;&nbsp;CNBC Indonesia",
-      "published": "2025-01-16T08:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate"
-      ],
-      "big": true,
-      "id": "5fbd0c5cc3acb18b"
-    },
-    {
-      "title": "Bank Indonesia (BI) Pertahankan BI-Rate 6%, Jaga Stabilitas Rupiah di Tengah Ketidakpastian Global - Ajaib",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc3Nqc1EwSjd0OTRoemE0VFR2anE3TXJ4ZXlCMlJGSktJT2k1b1YxMDZPS1NCMDloZk9GcE9Zd0dSaVNIR1I4YjdJN1Q3dHNPR3QzVWc4YXdaREZ5RTRKclZzT1JzZF9MdXRQSXNpVTJ0a01WUkoyVUF1Mm5BZV82VWdKR3VZYXAzQmxMMkNXbnpUTENkZFhTVnM4cFRacFpBeXIybUFmTzQxTGk1RTdQdFZPaVM5clhGTUVUQ3JpQWtHLW5ETDJnTw?oc=5",
-      "summary": "Bank Indonesia (BI) Pertahankan BI-Rate 6%, Jaga Stabilitas Rupiah di Tengah Ketidakpastian Global&nbsp;&nbsp;Ajaib",
-      "published": "2024-11-25T08:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "Bank Indonesia",
+        "Prabowo",
+        "depresiasi",
         "rupiah"
       ],
       "big": false,
-      "id": "0f88e47452887798"
+      "id": "59f79159d8d2f0b8"
     },
     {
-      "title": "Apa Dampak Penurunan Suku Bunga The Fed untuk Perekonomian Indonesia? - Kompas.id",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRnZQV0hzOWN6aE4zUkJGNzZyRkFhZUN2R2xjS3psbzE1YXJNUDJuSUdSTV9QSnVsQVdkdnIwYjZMcXF4UFYydEIyYWxhY05CZThGZ2NvdUdreExYRHk5VFNsQXdYS0h4UUJoczlZVHUtN0pNZmFwWG1OUWdKVmtUU3N0M1dvSlJLRE94VUxfX2w5RmFhQXFzZW1BOWV0bGs?oc=5",
-      "summary": "Apa Dampak Penurunan Suku Bunga The Fed untuk Perekonomian Indonesia?&nbsp;&nbsp;Kompas.id",
-      "published": "2024-09-22T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
+      "title": "Sri Mulyani: Efisiensi Anggaran Akan Jadi Budaya Baru Pemerintah - Kompas.id",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeW91elQtaUtQOE9SdHJjMjZ4R2R1WnNzaWNQcy0zOVBSeUpBdENDcXVrYU5sMnU5bVo5cXlEaEV3aDV3ZHQ5b3V1NjZ6ZG10YkJRRG41TXBoUDV6UHdtTXAwRndEY3BoN1NHNjhhMXlVeEhqTEh3cXEyVWt2eFJHT2Z2OXg0eXctRUtIUV9FZl9lTDBCTTRtcQ?oc=5",
+      "summary": "Sri Mulyani: Efisiensi Anggaran Akan Jadi Budaya Baru Pemerintah&nbsp;&nbsp;Kompas.id",
+      "published": "2025-02-13T08:00:00+00:00",
+      "source": "GNews – Prabowo kebijakan",
       "groups": [
-        "Macro / Economy"
+        "Government / Policy"
       ],
       "matched": [
-        "suku bunga"
-      ],
-      "big": true,
-      "id": "2496b8524335a754"
-    },
-    {
-      "title": "BI Pangkas Suku Bunga Acuan Menjadi 6 Persen - Kompas.id",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93dlVyWkpiNkt0TWp3cG9JXzFvS2JFVXFBdzVXS0lBZ0l4bTBPU1U4UjRpeklkQW44amxkb3UwTTlCaFZyQVZoLTFIQWd6ZEYzZ2pHeTN5X3FfYXBCQ3ZGQTlMUERwSkVpWkVqb1BQOUhGSFdqTXprRQ?oc=5",
-      "summary": "BI Pangkas Suku Bunga Acuan Menjadi 6 Persen&nbsp;&nbsp;Kompas.id",
-      "published": "2024-09-18T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "suku bunga"
-      ],
-      "big": true,
-      "id": "0666f149bd7573f7"
-    },
-    {
-      "title": "Cerah! Gubernur BI Optimistis Pertumbuhan Ekonomi RI Lebih Baik dari Prediksi - InvestorTrust",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMEhQX2dsZXE5M3dzeF9ndndpZHNZN1hCUWJWajJvNzFRb3BFQjdOYUFZNnA3TlF1aC1tZ3pQV0VwYllrb2VqOFdhSXA0NUxwYUZ0bGpWRHhkc21QNmlXRHdRRk1aSnc3dWotQnZUa2c3NXRkeUtFN1UyM0VYYWdrZVgxSGNvNWJzYjMtU0xnVk5YMlo1YnREUnNYSEpLUllLZFVyUU9uNWNsUmtjTUhsdl9tdw?oc=5",
-      "summary": "Cerah! Gubernur BI Optimistis Pertumbuhan Ekonomi RI Lebih Baik dari Prediksi&nbsp;&nbsp;InvestorTrust",
-      "published": "2024-08-08T17:46:22+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "pertumbuhan ekonomi"
+        "Sri Mulyani",
+        "anggaran"
       ],
       "big": false,
-      "id": "b0865e84b20b523f"
+      "id": "6f5746e733fb6fec"
     },
     {
-      "title": "BI: Rupiah Mei Kembali Menguat 1,66%, Inflasi Menurun - InvestorTrust",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMTVXTmVKT3dYbl9DTjg2OG1uM0I4SmxKNGNDdmhPVlp3bXpqUnlSWlV0ay10S0Q2V1Itb0hOQ2dPM2J6Y2UzemkyLUVJX3FxZkd1ZzJXY3NXaEV3aGxSWnVnblJBenpWUlc4aWNZUEQxYWo0d0ZkU3dwVzFwS3l3bk55SzFaOENf?oc=5",
-      "summary": "BI: Rupiah Mei Kembali Menguat 1,66%, Inflasi Menurun&nbsp;&nbsp;InvestorTrust",
-      "published": "2024-08-04T20:07:23+00:00",
-      "source": "GNews – BI rate rupiah",
+      "title": "Efisiensi anggaran: Anggaran pendidikan dasar dan menengah dipangkas Rp8 triliun – Bagaimana nasib guru honorer dan pembangunan sekolah? - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3MFluZGNnaU5wWVlLQzRRU3lOT0VXUzU1d1I2WWhrZ3VGTUltUldNdFFWQzBCUFFNUmpkck9TQzc2MWpXaS1tWjR1aGxLQXRMMFVydExiWi1fVHNrUXVvcdIBZkFVX3lxTE5WXzA0Wlpfcnl2QUpXMVBOZTBKNVdFUU9NdTFBM2hubkN0Zll5bTdRSFdmNUtmNGVWY0pabTlScmJnSWFSQjRkdnRMSUdSeFROUUotS0hIODFoQXJvSVp1OVhiWUpRUQ?oc=5",
+      "summary": "Efisiensi anggaran: Anggaran pendidikan dasar dan menengah dipangkas Rp8 triliun – Bagaimana nasib guru honorer dan pembangunan sekolah?&nbsp;&nbsp;BBC",
+      "published": "2025-02-10T08:00:00+00:00",
+      "source": "GNews – Prabowo kebijakan",
       "groups": [
-        "Macro / Economy"
+        "Government / Policy"
       ],
       "matched": [
-        "inflasi",
-        "rupiah"
+        "anggaran"
       ],
       "big": false,
-      "id": "119a9d3d676b7c10"
+      "id": "80f180d118529edd"
     },
     {
-      "title": "BI Naikkan Suku Bunga Acuan ke 6,25 Persen - Kompas.id",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QZ25mbUF4WVNLS3FoRVpiNlBGX1g2OTJNUmgwRUM1QmdKTi1rWGlRc3p4Q0NZQWZaYXV3eVhfZFJLRHR1SHVqZEMxaGl4eU1vUmZRZkREeXJMelBiUjhIOXp1dHVyYVBaR0ZKaHViZExkSmM?oc=5",
-      "summary": "BI Naikkan Suku Bunga Acuan ke 6,25 Persen&nbsp;&nbsp;Kompas.id",
-      "published": "2024-04-24T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
+      "title": "DPR Tak Kena Pemotongan Anggaran: Manuver Prabowo Demi 'Karpet Merah' APBN? - suara.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM24yem1GSlluN19BYkN5dFh6Ny0tdHFGY1RuaHNKemRCRjk5LXgweG5UUFZsa2U1Mm8tMk9KZHJ2ejN5SmRuSTdxRUFKMHVuVlF1Sk5qQjFTV1FlYW44eFQzcXJuU2VCRkE3Q2dOSDdET2V0ZHNQcm9ZeFoyVTVldk1pMWU4UU8zVGZwSHMyb080WGhxcURXR1dtVEVHaFlHQ3VJS29wdmN1cVRPMmtvVzdmNXF6UTV5?oc=5",
+      "summary": "DPR Tak Kena Pemotongan Anggaran: Manuver Prabowo Demi 'Karpet Merah' APBN?&nbsp;&nbsp;suara.com",
+      "published": "2025-02-04T08:00:00+00:00",
+      "source": "GNews – Prabowo kebijakan",
       "groups": [
-        "Macro / Economy"
+        "Government / Policy"
       ],
       "matched": [
-        "suku bunga"
+        "APBN",
+        "DPR",
+        "Prabowo",
+        "anggaran"
       ],
       "big": true,
-      "id": "0ae89aa75226b628"
+      "id": "68cc55fb96556e5e"
     },
     {
-      "title": "BI Hadapi Dilema Kebijakan Suku Bunga - Kompas.id",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTHlqWlQ1ZG1tVlFpbkJ2ckV3bW9DWmsxTmdid2lDMWhlVkpnQ1BwQ3hBbjE4YXh1RHhsWi12Qk11WDZnRmdfQmxLM2ItT19KT3FDWHRXN2hHdEpEZ3YzMEZPVFE1bl8wQkV4T3U0M2wyRHNuM01yRE90eUJianVKY1dxMHNyTFdCazJLdGY3Mkx5NlVPVmpj?oc=5",
-      "summary": "BI Hadapi Dilema Kebijakan Suku Bunga&nbsp;&nbsp;Kompas.id",
-      "published": "2024-04-23T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
+      "title": "Apa Dampak Penghematan Anggaran Besar-Besaran terhadap Perekonomian? - Kompas.id",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcVM3bVpiaFhaSUVFdUltTXFic3RMOWZQOXRmS2E5X1Y5SWRkaGNZb0U2OVF1OHFHYy1iaTNQdWtKN2RXTmZvaEljU3ZpRk94Y1FtOGR3Zkd5NEdDbmUweXRIS25uWGFxVTBzZThKY2lLUW1uNlhKUnhRczc1allpb0JZZEppbjJEQXZJUzAtXzZOakpJUjZSYUpHdEVNQQ?oc=5",
+      "summary": "Apa Dampak Penghematan Anggaran Besar-Besaran terhadap Perekonomian?&nbsp;&nbsp;Kompas.id",
+      "published": "2025-01-25T08:00:00+00:00",
+      "source": "GNews – Prabowo kebijakan",
       "groups": [
-        "Macro / Economy"
+        "Government / Policy"
       ],
       "matched": [
-        "suku bunga"
-      ],
-      "big": true,
-      "id": "6d93642b7dab5709"
-    },
-    {
-      "title": "BI Konsisten Tahan Suku Bunga 6 Persen - Kompas.id",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EUU1FdlQxUm95cTJLNzNWTW9aTC1iNm1xQ1FudTRfREJLZlI4UG16MEdieEJ1Rm1jS1VRd05qcURNVnJtTW1uc3MzQjFHUTdROGRUNHVPa1I3a3ltdnFyTnhOYURsNWxuQS1MSldHSUhFR0lQUlZr?oc=5",
-      "summary": "BI Konsisten Tahan Suku Bunga 6 Persen&nbsp;&nbsp;Kompas.id",
-      "published": "2024-03-20T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "suku bunga"
-      ],
-      "big": true,
-      "id": "96de89517f3be051"
-    },
-    {
-      "title": "Bank Sentral RI Kembali Pakai Istilah BI Rate, Ini Sejarahnya - CNBC Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTW4yN3JjY0VnSHNncm1Xd0xCMm5kYmFKSnBsaGw0cTRYQjd0Zm9qOC1YeGF3UTlxT3B2VXh4MGIwbTBoOU5MWTdUWnMxZFlUU1QxUGVXazItdFdiNHd0dTJMSmRJMURVNGlKQ3RTSkdDVTBHNW5helhiQVVXQ1pvUWU2Ry1ma2s0ODE2MDRhYTdJaVk2Y3dmbE9fdG5zZG4yOG9uSVk2eXBkbjNyTFRrWkNuRHg5R0FMNmVTbEdObE1qWUk?oc=5",
-      "summary": "Bank Sentral RI Kembali Pakai Istilah BI Rate, Ini Sejarahnya&nbsp;&nbsp;CNBC Indonesia",
-      "published": "2023-12-22T08:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate"
-      ],
-      "big": true,
-      "id": "6c36850c83d2de3c"
-    },
-    {
-      "title": "Merespons Ketidakpastian Global, BI Naikkan Suku Bunga Acuan - Kompas.id",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN1FRTUZWeXlhZjJvMUp1RHdvSl9vRjVoOGw2UFI1ZjI3a1BtakhXNHBmSDdwSEpXaUIyaE16RXZGVEpMM0ZVNWtRTnRuLXJzb0RCb001QXNjLVc0TTdyNFVQX3htWlc3a3VQWERjaXB6UlhLWGRRYTFLZ0FGM3hlaGJ5N09yOE9YSm82cVJscDY5dw?oc=5",
-      "summary": "Merespons Ketidakpastian Global, BI Naikkan Suku Bunga Acuan&nbsp;&nbsp;Kompas.id",
-      "published": "2023-10-20T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "suku bunga"
-      ],
-      "big": true,
-      "id": "f847d1fe5d671ec7"
-    },
-    {
-      "title": "BI Lanjut Pertahankan Suku Bunga Acuan - Kompas.id",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNjRySEl5ZWxFWHF4V25zeG03QU92WGxGeUdpTU5Ha2pQOVlzMDJMVnExWUJVZzRxdlRmUXNUTk0zLWpHNlJrOHd2VE11Ymt2QWNsejdMNG5nQk1QZkt4c003OW1tZ1hZRWh6ZjJ6UG9kdVVaa216YWFPS2hsTER5bWJKZkJiakxaQWpvZVVIckFqRjlKLTM2Tkl0dEpWTTF2N25jZERZZlQ?oc=5",
-      "summary": "BI Lanjut Pertahankan Suku Bunga Acuan&nbsp;&nbsp;Kompas.id",
-      "published": "2023-07-25T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "suku bunga"
-      ],
-      "big": true,
-      "id": "25578a822f120c08"
-    },
-    {
-      "title": "Kenali Dampak Suku Bunga BI Naik dan Turun, Ini Penjelasannya! - tanamduit",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IRG1zOGUzeURVZFNwQ3paWlJialB5b052Y0dnVkRzSE9GbWhMdzFCU3FpTlhOS2x3elRBSm1ncndVNVl5MnVaSk5PY0hlU3ZHb1lwaXZodUlNSG5IVnRNVFlEcVl1X0sz?oc=5",
-      "summary": "Kenali Dampak Suku Bunga BI Naik dan Turun, Ini Penjelasannya!&nbsp;&nbsp;tanamduit",
-      "published": "2022-10-21T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "suku bunga"
-      ],
-      "big": true,
-      "id": "23a1444d593645ae"
-    },
-    {
-      "title": "BI Naikkan Suku Bunga Jadi 4,75 Persen - Kompas.id",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaTFoeHFRcUtBTjFlMnNvVHIxcEsyQ2FmNlVSenBJeXl4dThoZFVxUWFLbXUwWlhPdXpKNDJwajh5M25NN3RVdkVXSGZFblhjV3B3eUhNSXNqYWdiNkZlWFg0TGZTcUZ0Ti15bEtqajc2T3V1aVJGSTh3dTdqandWS1pya0R5d09BaXI3bnl0VHFXdXh0TVdzXzdfY3J1TVpETnpia19VdFJPM0Z1MGFDUWxvdmNiOEEyWnBsMy1sekQ?oc=5",
-      "summary": "BI Naikkan Suku Bunga Jadi 4,75 Persen&nbsp;&nbsp;Kompas.id",
-      "published": "2022-10-20T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "suku bunga"
-      ],
-      "big": true,
-      "id": "7527d00bf144d442"
-    },
-    {
-      "title": "BI 7-Day Reverse Repo Rate Tetap 3,50%: Sinergi Menjaga Stabilitas dan Memperkuat Pemulihan - Bank Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORjVhS3dSdGN3WGM2TXB5M0tiUkJKVzlaM2EybmQ5TkFZR3huZ2ZMWklHaGdCZHc5eExZU1FuN2EwNU1oMFF3YnJULVpNVFdBR1Zld0ZNVmpUZXdBZTl4Z1RWMEhsdHhZdmVhQ3dCYXhKWDdrUWRUU2VwVldLODFJUmVoaXFYLUU?oc=5",
-      "summary": "BI 7-Day Reverse Repo Rate Tetap 3,50%: Sinergi Menjaga Stabilitas dan Memperkuat Pemulihan&nbsp;&nbsp;Bank Indonesia",
-      "published": "2021-10-25T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "Bank Indonesia"
+        "anggaran"
       ],
       "big": false,
-      "id": "9d89c3d46e211622"
+      "id": "48b1081394544eca"
+    },
+    {
+      "title": "7 Program Prioritas Prabowo - Gibran, Telan Anggaran Rp 121 Triliun - Tempo.co",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR3BfYnUwZm5vd01kaHJZSG1jOW5jTzNBTGwxbGV5bzJIX25mRHp4YURUQVRnemZYMWUzb2c2TVFzVnRXa1U4RVUxeFFLbUZ3S0Q4TXJyM2F3VE5SUGVJS3pnRjdsQ3dVRmVWNl9YR1RnVnEyOVpXemw0YTA2Mml2NUVDT2VxWjU1dHRwNWlHcmctd0QzUmhEZFZ6VlJrdHRy?oc=5",
+      "summary": "7 Program Prioritas Prabowo - Gibran, Telan Anggaran Rp 121 Triliun&nbsp;&nbsp;Tempo.co",
+      "published": "2024-10-03T07:00:00+00:00",
+      "source": "GNews – Prabowo kebijakan",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Gibran",
+        "Prabowo",
+        "anggaran"
+      ],
+      "big": false,
+      "id": "1f940bff7ae16a6e"
+    },
+    {
+      "title": "Puan Dorong Penyusunan APBN 2025 Berbasis RPJMN Prabowo-Gibran - InvestorTrust",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTS1tRmU5V1dqeGxxeHV4REU5Ry1nV0VqaS1rckhtMmFvSzEwMnRIb2RBZU9wbXZ3TnloN3JtZTVfYU1pUTRuX0dLOWxZOG9JMmk3dDRCd181UmYzaFp0bm1TRVh1VGtlelItbS1PMEhMTEtKdlh6Tk9LS1VOWDV5Q1Q5S1NmTlRWTG1jS3JaMnl4X3NhT0JEelQ0TWFwRWNnclhz?oc=5",
+      "summary": "Puan Dorong Penyusunan APBN 2025 Berbasis RPJMN Prabowo-Gibran&nbsp;&nbsp;InvestorTrust",
+      "published": "2024-08-05T06:51:15+00:00",
+      "source": "GNews – Prabowo kebijakan",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "APBN",
+        "Gibran",
+        "Prabowo"
+      ],
+      "big": true,
+      "id": "f3b5cdf2f729fb81"
+    },
+    {
+      "title": "Sri Tegaskan, APBN 2025 untuk Prabowo Disusun Pemerintahan Jokowi - InvestorTrust",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTmRPeW9xX1RMa2ZMeXRxLWs2TVdwZWNXWTN0T2JYTXVJT21VXzZ6dGlMNzV6bGZoTlkwY0NzNWYxNnRjeFB5OTlfcjV2Y3F2R1JMZDlKQ2RQX2Q5MTRqMVVGU1hNamxjU0J6T1hMNTRxM01MajZGdElnc1FYUV9ncVloMkNsTnJ6Vl9JbEI3NGdMNE5fMDZIVGN1b1BZbE1VQklmLTczNy0yOWxRdnhaaXlidFIyM01Uemh3WFlzQ0t0QUlVTnprc25SVWxTQW1N?oc=5",
+      "summary": "Sri Tegaskan, APBN 2025 untuk Prabowo Disusun Pemerintahan Jokowi&nbsp;&nbsp;InvestorTrust",
+      "published": "2024-08-04T11:31:19+00:00",
+      "source": "GNews – Prabowo kebijakan",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "APBN",
+        "Jokowi",
+        "Prabowo"
+      ],
+      "big": true,
+      "id": "636cc5e30c69f69b"
+    },
+    {
+      "title": "Ekonom Ingatkan Makan Siang Gratis Prabowo Berisiko Bebani APBN - CNBC Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZlVvaUp5Q1otTDRBZTZMT29HYWtZWWZHMnBMSGVWMHBwTnAtVkpzdG9RVFV2OEtSVUttOEFZc3JkN1cwX0xzbmt4WWN1X2pEM2VqdFQtUGZPMGV6X0Zxemplb3RUMkZZTGdXZ1FOaDNJcGV2ZnZuRXdtM09VVkpxM295ZFdQLTFrNGZlb3NGaVBKbG52Z29aSmNiWXRYS2dVSHpVNFg2M04xamVsUDdWUlB5UGI4U25DVTdMaGoya9IBxAFBVV95cUxPek5IaFZpcElLOUU4YWo4aE0wYVlXa2dvcjEwUjVWRWR1d1BwaHJEcm5MYVpSMUd4WWtIZGlzUnBoYUg2Z0ROb3F6T19Gand2U0F1MG5SZlRZbmFZV1pCbVc3d29nT2VlbHd6Y1hUcnV4UFJJZktpUUdESWFyRmZzb1F4LTlOMnRMbjZSdHhQQW1jQTM4cV9DZGpPaTlzamNSTUhUU2dmRjlOSUFiRGx1QjlCcm91T1BFVDJDNGZPS0g3Q21P?oc=5",
+      "summary": "Ekonom Ingatkan Makan Siang Gratis Prabowo Berisiko Bebani APBN&nbsp;&nbsp;CNBC Indonesia",
+      "published": "2024-02-27T08:00:00+00:00",
+      "source": "GNews – Prabowo kebijakan",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "APBN",
+        "Prabowo"
+      ],
+      "big": true,
+      "id": "d50b05a07deca981"
     }
   ]
 }

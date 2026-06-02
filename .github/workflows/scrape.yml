@@ -1,0 +1,51 @@
+name: Konglo news scrape
+
+on:
+  schedule:
+    # every 10 minutes
+    - cron: "*/10 * * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - "scraper/**"
+      - ".github/workflows/scrape.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: konglo-scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scraper/requirements.txt
+
+      - run: pip install -r scraper/requirements.txt
+
+      - name: Fetch news
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_SERVER: ${{ secrets.NTFY_SERVER }}
+        run: python scraper/fetch.py
+
+      - name: Commit feed
+        run: |
+          git config user.name "konglo-bot"
+          git config user.email "konglo-bot@users.noreply.github.com"
+          git add data/feed.json data/seen.json
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "feed update $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi

@@ -1,7 +1,102 @@
 {
-  "updated": "2026-06-03T17:25:50.984185+00:00",
+  "updated": "2026-06-03T20:41:12.641762+00:00",
   "count": 150,
   "items": [
+    {
+      "title": "3 Mobil Penyidik KPK Keluar Usai 1 Jam Geledah Rumah Wamen Imipas Silmy Karim",
+      "link": "https://news.detik.com/berita/d-8516987/3-mobil-penyidik-kpk-keluar-usai-1-jam-geledah-rumah-wamen-imipas-silmy-karim",
+      "summary": "Penyidik KPK satu jam menggeledah rumah Wamen Imipas Silmy Karim. Geledah ini terkait OTT KPK di Kantor Imigrasi Jakbar",
+      "published": "2026-06-03T18:25:31+00:00",
+      "source": "Detik News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "KPK",
+        "OTT"
+      ],
+      "big": true,
+      "id": "f063884c380cb272"
+    },
+    {
+      "title": "Anggota DPR Yan Mandenas minta kepala BGN baru fokus benahi MBG Papua",
+      "link": "https://www.antaranews.com/berita/5593299/anggota-dpr-yan-mandenas-minta-kepala-bgn-baru-fokus-benahi-mbg-papua",
+      "summary": "Anggota Komisi XIII DPR RI Yan P Mandenas meminta kepala Badan Gizi Nasional (BGN) yang baru terus fokus benahi ...",
+      "published": "2026-06-03T18:23:16+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "DPR"
+      ],
+      "big": false,
+      "id": "66a25c78211ce494"
+    },
+    {
+      "title": "Dudung Respons soal Intensitas Kunjungan Prabowo ke LN: Tak Cukup dengan Zoom",
+      "link": "https://news.detik.com/berita/d-8516981/dudung-respons-soal-intensitas-kunjungan-prabowo-ke-ln-tak-cukup-dengan-zoom",
+      "summary": "Dudung Abdurachman menanggapi kritik mantan Wakil Menteri Luar Negeri Dino Patti Djalal terkait intensitas kunjungan luar negeri Presiden Prabowo Subianto.",
+      "published": "2026-06-03T17:59:30+00:00",
+      "source": "Detik News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Prabowo",
+        "menteri"
+      ],
+      "big": false,
+      "id": "e41065db0960b168"
+    },
+    {
+      "title": "Wamen Imipas Silmy Karim serahkan diri ke KPK",
+      "link": "https://www.antaranews.com/video/5593269/wamen-imipas-silmy-karim-serahkan-diri-ke-kpk",
+      "summary": "ANTARA - Wakil Menteri Imigrasi dan Pemasyarakatan Silmy Karim menyerahkan diri ke KPK, Jakarta, pada Rabu (3/6) malam. ...",
+      "published": "2026-06-03T17:38:00+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "KPK",
+        "menteri"
+      ],
+      "big": false,
+      "id": "b0fdd966fa178674"
+    },
+    {
+      "title": "KPK datangi rumah Wamen Imipas Silmy Karim di Jaksel",
+      "link": "https://www.antaranews.com/video/5593283/kpk-datangi-rumah-wamen-imipas-silmy-karim-di-jaksel",
+      "summary": "ANTARA - Penyidik Komisi Pemberantasan Korupsi (KPK) mendatangi rumah Wakil Menteri Imigrasi dan Pemasyarakatan ...",
+      "published": "2026-06-03T17:29:24+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "KPK",
+        "korupsi",
+        "menteri"
+      ],
+      "big": false,
+      "id": "1e244700082425cc"
+    },
+    {
+      "title": "Terdakwa Klaim Tak Terima Duit Terkait Dugaan Korupsi Investasi ke TaniHub",
+      "link": "https://news.detik.com/berita/d-8516974/terdakwa-klaim-tak-terima-duit-terkait-dugaan-korupsi-investasi-ke-tanihub",
+      "summary": "Dia mengaku tidak memiliki hubungan pribadi dengan founder, manajemen, investor, maupun pihak lain yang terkait dengan TaniHub Group.",
+      "published": "2026-06-03T17:28:06+00:00",
+      "source": "Detik News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "korupsi"
+      ],
+      "big": false,
+      "id": "e3f7f5c81412509d"
+    },
     {
       "title": "Indonesia-Turkiye sepakat dorong tercapainya perdamaian di Palestina",
       "link": "https://www.antaranews.com/berita/5593276/indonesia-turkiye-sepakat-dorong-tercapainya-perdamaian-di-palestina",
@@ -2135,74 +2230,10 @@
       "id": "13fb74c8d55a9328"
     },
     {
-      "title": "Hakim MA Tolak Kasasi Eks Dirut Taspen Antonius Kosasih",
-      "link": "https://metro.tempo.co/read/2106577/hakim-ma-tolak-kasasi-eks-dirut-taspen-antonius-kosasih",
-      "summary": "Mahkamah Agung menolak kasasi eks Dirut Taspen Antonius Kosasih yang divonis 10 tahun penjara dalam kasus korupsi investasi fiktif.",
-      "published": "2026-06-03T06:20:00+00:00",
-      "source": "Tempo.co",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Mahkamah Agung",
-        "korupsi"
-      ],
-      "big": false,
-      "id": "3178c1c2099dc6ce"
-    },
-    {
-      "title": "Presiden Prabowo Subianto Jaga Kebijakan Fiskal 2027 Berhati-hati - Pojok Papua",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GYzBvY1dLT201NG9NV2I0Y1Q5VHpWUUhsMDRza21jbm45SDRuVERsNm1wV0VKbzNnRndpZ3UyUkVjSlRHaDFTMzRnZDJ2RkpHRC1IUHpyMmpPWThzX1VrUFdHTmxHQnRVTlRBcFl5cUlnQQ?oc=5",
-      "summary": "Presiden Prabowo Subianto Jaga Kebijakan Fiskal 2027 Berhati-hati&nbsp;&nbsp;Pojok Papua",
-      "published": "2026-05-21T07:00:00+00:00",
-      "source": "GNews – Prabowo kebijakan",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "8f2c3f3effa7c0a0"
-    },
-    {
-      "title": "Bank Indonesia menaikkan BI Rate untuk menjaga rupiah dan inflasi - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQzRRS1hGdjR0M2RzMWwzWDRnSjRaRkpNTmtTQ1NhRTV4VktKRmFzbnExNTdiVFBuRFN0Qk5SelhpaklnNWxwaXdHN2p1SGZVOTU5aHNnVDdPVURsSTZzU3B6Vkc0OHhGYkFHUFc0XzdGX3NIb2dFcGF0YVFaaGtRMEx4Slg5WFVmbXpTSk03dl96ZjZJNHRZ?oc=5",
-      "summary": "Bank Indonesia menaikkan BI Rate untuk menjaga rupiah dan inflasi&nbsp;&nbsp;Traders Union",
-      "published": "2026-05-20T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate",
-        "Bank Indonesia",
-        "inflasi",
-        "rupiah"
-      ],
-      "big": true,
-      "id": "60c3e1f5ab33d9aa"
-    },
-    {
-      "title": "BI Tahan Suku Bunga 4,75 Persen di Tengah Badai Global, Ini Dampaknya - investor.id",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeFlHVEJRRFFvdnphbWhJRXpRbzVDMVFEbE1xVnZPaHVyb1ZYeTZINUJhbEo4OXFlTTk1TUthLTFvZ2daQnNkWmZkSGZILUMwb2V1TkQ2SUxMc2pyOXFIU2RRTmlOY0ZoeElxRE5zMl8waTRseW9rR3dicGVjWFU3WWtRN2pUSHNNMWd6Yy1OS2MtMldVWEJzMzBIOU54ZTVmTjNMNkRLWWs?oc=5",
-      "summary": "BI Tahan Suku Bunga 4,75 Persen di Tengah Badai Global, Ini Dampaknya&nbsp;&nbsp;investor.id",
-      "published": "2026-04-23T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "suku bunga"
-      ],
-      "big": true,
-      "id": "9376337b010fa342"
-    },
-    {
-      "title": "Prabowo: APBN hemat Rp308 triliun hasil pangkas belanja tak produktif - ANTARA News Yogyakarta",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN08wcGFXX1A1Qkt0dVIxN00xLTFHS2ZyS0lyRW9VNWxwekFLVVZ5Qk8zVGhqWS02aVB5WU9JQ09yNmdnRklrdS1reUVFZTJnYklXT2JJZ2VxX0piMW5SUXdjRmc4RHNwc0tLbndUQTFOam5LSWpzdXg1UTVFNm4yd2tYTVhJRUxnei1JYnBneTFIWXBwaWxhVWZaYW5sMW1YQWUwbmlwc09OREhTcXdzaw?oc=5",
-      "summary": "Prabowo: APBN hemat Rp308 triliun hasil pangkas belanja tak produktif&nbsp;&nbsp;ANTARA News Yogyakarta",
-      "published": "2026-03-20T07:00:00+00:00",
+      "title": "Soal Sapi Kurban Pakai Dana APBN, Golkar Pasang Badan Bela Prabowo: Banpres Sah, Semua untuk Kepentingan Rakyat - Kaltim Post",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNOERTb1RCT1FxQlZiMUJwYm1NNno1LXdHeVdhdElLSFcyRXpSQXRJTE9wV0ZISDBLQmE0Nlo3QXBWekJvdnRLeTFWVURQakROWnpvXzFtNm5FYlVXM3l1Wm5aRUNZeHJPeTY2UEo4MTVQZUoxUE11SXgwZHZVeHd1VEdZUTlYR2VfeGJ5ZWFNWmMzZU9tVjk0LTEzVWt5MVN5U0lUM01CUm90X0tOVUpmRlliZlFQT1ZBMVVLaDVhTkotaXNTRmUwa1k5SFFsaFpSZnB2bm1MWW53dUc5UFB2Y19CS2ZOd0pyZDcyVVFjbHHSAfYBQVVfeXFMTy1LUWlqVFVFNTVma0hCa2JHTTZ0Y2RjSmZ1bU9BSnhTcU52eUF0Y1lWQ1pobEp3cktnTXZ0Zi01RDNuY2lXYlk4V2JYa3ZmTDlrLXlfTFFkd2xXZGtfV2NQYTk4WWROQUNlajFxeThLRnF4S0ZBdVZSUW44RVBkODZuV1lZNUVSUFl1Tm5CNGlfcGV2R1pGVlRycU5TQWE3Z0huTUlUR1I3Z25QTEk5UGQwVFpycXdiMkZZZ19rSklUdDNpOVl1ZjlvXzBmNGZsX0xDV1g3cjBaMmgwMnkwNlJfYlYycHFzTHYtdjBxenF5dFA0UElR?oc=5",
+      "summary": "Soal Sapi Kurban Pakai Dana APBN, Golkar Pasang Badan Bela Prabowo: Banpres Sah, Semua untuk Kepentingan Rakyat&nbsp;&nbsp;Kaltim Post",
+      "published": "2026-05-29T09:56:20+00:00",
       "source": "GNews – Prabowo kebijakan",
       "groups": [
         "Government / Policy"
@@ -2212,44 +2243,13 @@
         "Prabowo"
       ],
       "big": true,
-      "id": "57a2f41ce97e49be"
+      "id": "090795ecac3a3448"
     },
     {
-      "title": "Tunggu Kesepakatan BI-Rate Oktober, Rupiah Melemah Ke Rp16.601 - Validnews",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT2JtVGtBR05DVVh1WDd6azZITVU2NkRxZU5RSzVFQXhXOEg4cGtwSnZwYVBUQWVDWk56aDkxQ2pDaTB5cmo5TFJkdkFwUjkzRjNhUVltbk05cF9IaWpUV3lyVzNSNUtzVmt0RkgxeWNoWFNxSTZBNGNZWGVOeWlzNUY1VnFEMXlyelNJSw?oc=5",
-      "summary": "Tunggu Kesepakatan BI-Rate Oktober, Rupiah Melemah Ke Rp16.601&nbsp;&nbsp;Validnews",
-      "published": "2025-10-22T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah"
-      ],
-      "big": false,
-      "id": "df74cac9ec4b14b8"
-    },
-    {
-      "title": "Deretan Risiko APBN Prabowo di 2026 Terungkap, Patut Waspada! - CNBC Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZkhGSFdpUHplX09qT19wZWctVExfcF9TYlBBWFJvRjRiSWVMa2UzZ3FUaFlEcUlkNUNyOVZOdmtacFhoUm1DXzlZLXhsdU5XLUJ1QjRLUGV1dFBwQXhycTI0Z0lhamttYS1jaWViNGJYOTRaeDFtMWc5RzZGbnlNdWJIUE45UXh5aFZubWdfaE50RW5LWjBFa1JYMlJBSFp0bXVvV3pmZ0I3QWlTaTd3cXkyQmtIMzBxMlHSAb8BQVVfeXFMTWlFcFV1bUJJUXpfZGQzSzhRbGVWRUlzb00wajl4V003cUtwZjFZUGxBMExmcHV4YnloUEdOTUx2X1k4QkluSUpBc3NmZVpyb3YzSlBtNGtST25jempFN1c2clZFRk9NRnIxV2FHdWNZWEo0ZFEya2dWVm1jTDNiOEZSQjZMcGhoQVVxLVE1V1BGRTQyMVVORDF1bHU1ek1DYmVEUEZ5eEQxUjJLQXg5Vk9XUW5iMnBSUkx2eFF6Sk0?oc=5",
-      "summary": "Deretan Risiko APBN Prabowo di 2026 Terungkap, Patut Waspada!&nbsp;&nbsp;CNBC Indonesia",
-      "published": "2025-08-20T07:00:00+00:00",
-      "source": "GNews – Prabowo kebijakan",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "APBN",
-        "Prabowo"
-      ],
-      "big": true,
-      "id": "e8296b07eb03be67"
-    },
-    {
-      "title": "Di Persimpangan Jalan: BI Main Aman atau Berani Pangkas Suku Bunga? - CNBC Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMGJ6WWtBdTNQRkVvV0xaTW84UTR1RGllbkh5NWFZZWxEZWNQWDlPMlFTWDd0VDI4RUNQajE2WnlLcWotZUFLYTJ3NlJ1eUJTclRDWUVBNHhLZ2dJSlNxOUlMQTh6bmxRVFo1cG1Cb3NCY25Db2FMRnpSanh5TG5qRTFraFc5YjdWMUFzdklIcjA1MldLaTVMZkEyaUlEenpqX1lvbXBlLVdfRTR2MjFmci1NMGwxMzVieW1RNzlJRTZRZVBvQkU1YXhB?oc=5",
-      "summary": "Di Persimpangan Jalan: BI Main Aman atau Berani Pangkas Suku Bunga?&nbsp;&nbsp;CNBC Indonesia",
-      "published": "2025-07-15T07:00:00+00:00",
+      "title": "Pasar Kompak Ramal BI Bakal Tahan Suku Bunga - CNBC Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbWxfeDlVbVpIT0hmS2Z4S25kT0tWTDZBRHlxT2NncDEzSVh3R2dnLXROaEpJRm1ETThJSWVVV3hxX1I5bG5wRTlJSmNZMUNOMzZya0NYQlFKeUNmZGUyTmpHbE5YUkFSNWphWVluYndiblZ3YnEwYzFwaU1KQXBfSHlEZGJuemR1cXBWUDM2WVF6ajk0SG5DOHFrRWVrUUtlNm9YVGFDSmszTDJ4QlE?oc=5",
+      "summary": "Pasar Kompak Ramal BI Bakal Tahan Suku Bunga&nbsp;&nbsp;CNBC Indonesia",
+      "published": "2025-11-18T08:00:00+00:00",
       "source": "GNews – BI rate rupiah",
       "groups": [
         "Macro / Economy"
@@ -2258,12 +2258,42 @@
         "suku bunga"
       ],
       "big": true,
-      "id": "af71666c3a691446"
+      "id": "f86ba12fa4350d5f"
     },
     {
-      "title": "Ekonom Perkirakan BI Pangkas BI Rate dalam RDG Juli - Iconomics",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcnp2OW56X1hPWmpYallQc1RjZkdpR0M4b0R5Y1pwc2dFYVdNMXY3NGF4ZWtTc0RwdDFIWUR4R1Z5Vzhwb2l4c0JFRTFCYzA5YWpLbkVKN1dCVGNHWEN5ZklZaE5rX1paV3VmYXFVLVJINWduR3Y1cDJLZkpsS1UwSFZvSkFuWVZtcDJmUnFRaUFEcjlEaEMyajdGdUR0Q2c?oc=5",
-      "summary": "Ekonom Perkirakan BI Pangkas BI Rate dalam RDG Juli&nbsp;&nbsp;Iconomics",
+      "title": "Perry: Peluang BI-Rate Turun Terbuka, Asal Inflasi-Ekonomi Kondusif - Validnews",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeTBKRkZ1U1pJTi1pSGVOQVdRTFdUTXNFdEIxcVVzZFFlTXQ5b1ZBU3o5UWc0UHluYlBnSktrSW91a3ZwMWRlcVQ3V2tYeTVMTnFmNXRYTXZKcEI0UldYVW5EWURJWWh6N2Yyc0NNcFVybVg4NW1NWTJUSWdtUnZHNFdFSjRGTkw4Z2Q5aGEyWUpYbHBGazFnUlp3?oc=5",
+      "summary": "Perry: Peluang BI-Rate Turun Terbuka, Asal Inflasi-Ekonomi Kondusif&nbsp;&nbsp;Validnews",
+      "published": "2025-11-03T08:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "inflasi"
+      ],
+      "big": false,
+      "id": "46c0a9988183d0fc"
+    },
+    {
+      "title": "”Hattrick” BI Pangkas Suku Bunga Acuan Jadi 4,75 Persen - Kompas.id",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWW0tZDlmbDJnbzhad0hGWTVkZVhOYnBYSVNfZHJMRzNhUy1obTBkRW5oTm5BMHBKdGo3YlVpMEJIVWk2dndOeFVoYzNJOU1hbUFQQndZQm5zNWRoRTg1cExCQXI5czRkWjZyZm1FVU5ycTNmWHNTQV9RUEJYWUhjd2xwZzdUTHNrbkp5NFlGb0JpT05o?oc=5",
+      "summary": "”Hattrick” BI Pangkas Suku Bunga Acuan Jadi 4,75 Persen&nbsp;&nbsp;Kompas.id",
+      "published": "2025-09-17T07:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "suku bunga"
+      ],
+      "big": true,
+      "id": "f05c5bb9a60b5feb"
+    },
+    {
+      "title": "Ekonom Prediksi BI Rate Tetap 5,5%, Meski Ada Ruang untuk Turun - Bloomberg Technoz",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZENncGRkY19EV3o4VTFrZDJIWjRiSG1ManQ2Q21xVVM5d2cyUWVQQ2NyOFlMM2dWSHIwT1ItU09XamlSd1lqZFhrc1JMX0pNYjdPMlpEX2xIWGRhSHV6djRIb05tV1lpVzI0cFlnd3lGVWMxdzREMERmRFVyc1JzY0Y0UlhxcnQwa3paRndWUzR6dlVtNXlkOVl4NktETjVUajR1ZUtDbDlSSTBRTGFUSHJ3?oc=5",
+      "summary": "Ekonom Prediksi BI Rate Tetap 5,5%, Meski Ada Ruang untuk Turun&nbsp;&nbsp;Bloomberg Technoz",
       "published": "2025-07-15T07:00:00+00:00",
       "source": "GNews – BI rate rupiah",
       "groups": [
@@ -2273,13 +2303,13 @@
         "BI rate"
       ],
       "big": true,
-      "id": "295183ad6c48d2e8"
+      "id": "1761fcd81d2c158d"
     },
     {
-      "title": "Terkena efisiensi anggaran, Perpustakaan Nasional pangkas jam operasi dan tutup hari minggu - CNA.id",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZGszN1gzSU9MN3h5ZXo1bGgzZS0wMGh1UmxJZmVQVGpidjhpcTlPU1RmbjBmdDR2U004elFMQVNoQmZ4Y25kcFpNMTE1c3dLanZYSEZkMkVUU2xHWHRnS0NHMWF3dTFSYlVaNHBHZTdQUVBQTlF1S2lTR0c5MVI0dld6SmNHZEZtNmE5SG5SVS1uNTlmVjdyMU9NREVWMTlhWURWbjZJbVFnYXlnN3ltbWxSU2pqNkdtUHNJQ2lTUzhqdjg?oc=5",
-      "summary": "Terkena efisiensi anggaran, Perpustakaan Nasional pangkas jam operasi dan tutup hari minggu&nbsp;&nbsp;CNA.id",
-      "published": "2025-02-07T08:00:00+00:00",
+      "title": "Reaksi Pemerintah Daerah atas Kebijakan Pemangkasan Anggaran - Tempo.co",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdTFIMnJ1X3JEaE14QVV3WjBra0ZmQUZMT1Y4amNRVFU5clktemwzYWFPM2lwRnBzeDhSN01SU29XdTlIT1BiRHhvamFFZTliMzRzQlRydEkzTUE0THRlVktDczNHdk5VdllpOWhsYW5KSHozM0hRdEJwUVNBNlQyOGZKQVZsVnZPNVQ3UUVMeHBUZ3g5QXlyQjAxbXhIZw?oc=5",
+      "summary": "Reaksi Pemerintah Daerah atas Kebijakan Pemangkasan Anggaran&nbsp;&nbsp;Tempo.co",
+      "published": "2025-02-11T08:00:00+00:00",
       "source": "GNews – Prabowo kebijakan",
       "groups": [
         "Government / Policy"
@@ -2288,57 +2318,22 @@
         "anggaran"
       ],
       "big": false,
-      "id": "40f7efe08897a4d1"
+      "id": "9df6ea8ec5712944"
     },
     {
-      "title": "Anggaran PSO dan Bansos Tak Kena Efisiensi APBN Prabowo - Sinar Harapan - Sinar Harapan",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM0dNeGxWZWRRWjBydGtjcVdlVmFTZ2d5aEtWaTFienFPc193X0IwY0ItM04zOTlzZnVtMkM3QnRHWjRGX1REMk16VW11eEgzSnNiU0NRNkcyX2pxakxlSklYenpnZkFOd0x2VTZLd0I5VGJGQVZuUW5jSGtqeVl1STRKbHU1X0ctNVQ2ZWFxT1l0bTJaQ0FYT2swbTVmTjRkUXNzZldn0gGrAUFVX3lxTFB2cWhyNFp1c3h6enRaX2xQUl9QblltZ0RlbkdWLWVBV2RFWEgzbHoyWmRROGZ3cnRfNDl3d01jaUtWVFFYekQ5U2pqY3E3OFJPVXpfTHN1TFJpb0JubGx2VE9qNklKZ1ltOEhNbXJnbVhNaXgxUEw1ZFRqQUVMMHZhUU1DN0JscnJ2dk1kcmdMMnVxOFZoNUctRTAwNFpLaHdxQnE3TFNJb3I1UQ?oc=5",
-      "summary": "Anggaran PSO dan Bansos Tak Kena Efisiensi APBN Prabowo - Sinar Harapan&nbsp;&nbsp;Sinar Harapan",
-      "published": "2025-02-07T08:00:00+00:00",
-      "source": "GNews – Prabowo kebijakan",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "APBN",
-        "Prabowo",
-        "anggaran"
-      ],
-      "big": true,
-      "id": "2c8ad345ebab9827"
-    },
-    {
-      "title": "Bank Indonesia Tahan BI Rate 6%, FFR Potensi Dipangkas 50 Bps Lagi - InvestorTrust",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96QTZYZ1RLNVpvcFFvYVVnSmh6YUw1Nko4ek90dUVRSXBZeEQzMWdTV01TV0pHMDFONDcwS0VlTUhTb2tZMEJFSV9BWGxUXzBUbms3LVpBWno2cTNYWGZzcGJzSVFNaXQzZFRvRTllVS1ZdmNLOVE?oc=5",
-      "summary": "Bank Indonesia Tahan BI Rate 6%, FFR Potensi Dipangkas 50 Bps Lagi&nbsp;&nbsp;InvestorTrust",
-      "published": "2024-10-16T07:32:23+00:00",
-      "source": "GNews – BI rate rupiah",
+      "title": "Indonesia Revives Rupiah Redenomination Plan - The Diplomat – Asia-Pacific",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORG5oX3RUNGFBZE8wOHg3NzFJRGVVWUpFRGw3bGc0MVk1Q3RxVVRUYWZSUnZObWFZSHpoTGN1b0ZpeUR3N0tobVNCQUlNXzdXXzBSTDlvb1p1eGMxeHBBRlhPZnRjc3ZGdThrdWo2cHJhNHN0ZUMzUmZ2aXdidHR2UW9STQ?oc=5",
+      "summary": "Indonesia Revives Rupiah Redenomination Plan&nbsp;&nbsp;The Diplomat – Asia-Pacific",
+      "published": "2016-12-23T08:00:00+00:00",
+      "source": "Reuters – Indonesia macro",
       "groups": [
         "Macro / Economy"
       ],
       "matched": [
-        "BI rate",
-        "Bank Indonesia"
-      ],
-      "big": true,
-      "id": "adbbc50395ddbf46"
-    },
-    {
-      "title": "Beberapa Kali Pertemuan Sri Mulyani dan Prabowo, Sebelum Dipinang Jadi Menteri Keuangan Lagi - Tempo.co",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZHZaSUR5NE5hOTZPcFI1eU1TWHRzcEVobUk1ZFlfenIyUFhoU091Ukhlci1INGg5b2gxMFZyZmtsNGhyYnd2SkdhNjhYbmNJNi1yWTNsTVl0a3lueWdSLTB2NEgwX2ZDSVVmLXNnNTBoSGdtdUJDZGxhY3oza0ZoTl9yQTFrMHkxX2sxZWFNNHA5VXZuNWF0Q3Mwa0ZDUXluTDFiWk90Q2Y2QzBleFk4UUpWdUNRcmVaWWhCZlAzTW1rRzN5Ync?oc=5",
-      "summary": "Beberapa Kali Pertemuan Sri Mulyani dan Prabowo, Sebelum Dipinang Jadi Menteri Keuangan Lagi&nbsp;&nbsp;Tempo.co",
-      "published": "2024-10-16T07:00:00+00:00",
-      "source": "GNews – Prabowo kebijakan",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Prabowo",
-        "Sri Mulyani",
-        "menteri"
+        "rupiah"
       ],
       "big": false,
-      "id": "8106863b264b72bf"
+      "id": "c5448123da3a30fe"
     }
   ]
 }

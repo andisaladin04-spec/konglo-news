@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-03T15:16:19.330405+00:00",
-  "count": 57,
+  "updated": "2026-06-03T19:02:14.239315+00:00",
+  "count": 59,
   "items": [
     {
       "title": "PT VKTR Teknologi Mobilitas Tbk - PT Bursa Efek Indonesia",
@@ -76,6 +76,38 @@
       ],
       "big": false,
       "id": "eedfbc0ab74fa519"
+    },
+    {
+      "title": "Rekomendasi Teknikal Saham INDF, INCO, dan PTRO untuk Kamis (4/6)",
+      "link": "https://investasi.kontan.co.id/news/rekomendasi-teknikal-saham-indf-inco-dan-ptro-untuk-kamis-46",
+      "summary": "IHSG terperosok di bawah 6.000 dan rupiah melemah. Analis berikan rekomendasi buy on weakness hingga hold untuk INDF, INCO, PTRO",
+      "published": "2026-06-03T11:56:39+00:00",
+      "source": "Kontan - Investasi",
+      "groups": [
+        "Prajogo / Barito",
+        "Salim"
+      ],
+      "matched": [
+        "INDF",
+        "PTRO"
+      ],
+      "big": false,
+      "id": "5e84db9f8506dc78"
+    },
+    {
+      "title": "Morgan Stanley Borong Saham Alfamart (AMRT), Rogoh Kocek Rp 206 Miliar",
+      "link": "https://investasi.kontan.co.id/news/morgan-stanley-borong-saham-alfamart-amrt-rogoh-kocek-rp-206-miliar",
+      "summary": "Morgan Stanley and Co International Plc tercatat melakukan pembelian saham Sumber Alfaria Trijaya (AMRT), pengelola jaringan gerai Alfamart.",
+      "published": "2026-06-03T11:52:09+00:00",
+      "source": "Kontan - Investasi",
+      "groups": [
+        "Salim"
+      ],
+      "matched": [
+        "AMRT"
+      ],
+      "big": false,
+      "id": "5400edb7e10629ac"
     },
     {
       "title": "IHSG Rontok 4,11% ke Level 5.941, Saham TPIA dan AMMN Sentuh Batas Bawah (ARB)",

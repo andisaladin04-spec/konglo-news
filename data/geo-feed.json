@@ -1,7 +1,735 @@
 {
-  "updated": "2026-06-04T13:45:53.638632+00:00",
+  "updated": "2026-06-04T16:49:49.490460+00:00",
   "count": 150,
   "items": [
+    {
+      "title": "DPR RI minta Kemenkeu segera konsolidasi fiskal moneter dengan BI",
+      "link": "https://www.antaranews.com/video/5594836/dpr-ri-minta-kemenkeu-segera-konsolidasi-fiskal-moneter-dengan-bi",
+      "summary": "ANTARA - DPR RI memberikan rekomendasi kepada pemerintah untuk segera melakukan konsolidasi dengan Bank Indonesia (BI), ...",
+      "published": "2026-06-04T16:41:04+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy",
+        "Macro / Economy"
+      ],
+      "matched": [
+        "Bank Indonesia",
+        "DPR",
+        "Kemenkeu"
+      ],
+      "big": false,
+      "id": "c68196c273a17b87"
+    },
+    {
+      "title": "Tingkatkan literasi, BI Kepri gelar bedah buku di Hari Buku Sedunia",
+      "link": "https://www.antaranews.com/video/5594821/tingkatkan-literasi-bi-kepri-gelar-bedah-buku-di-hari-buku-sedunia",
+      "summary": "ANTARA - Bank Indonesia Provinsi Kepulauan Riau (BI Kepri) menggelar kegiatan bedah buku dalam rangka menyambut Hari ...",
+      "published": "2026-06-04T16:39:58+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "Bank Indonesia"
+      ],
+      "big": false,
+      "id": "61b1031181996b36"
+    },
+    {
+      "title": "Wamen ATR/BPN imbau kepala daerah segera petakan sawah dilindungi",
+      "link": "https://www.antaranews.com/video/5594713/wamen-atr-bpn-imbau-kepala-daerah-segera-petakan-sawah-dilindungi",
+      "summary": "ANTARA - Wakil Menteri Agraria dan Tata Ruang/Wakil kepala badan Pertanahan Nasional (ATR/BPN) Ossy Dermawan meminta ...",
+      "published": "2026-06-04T16:36:46+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "menteri"
+      ],
+      "big": false,
+      "id": "a998261beb262d15"
+    },
+    {
+      "title": "Menhub: Pengembangan jalur kereta Trans Sumatra tak andalkan APBN",
+      "link": "https://www.antaranews.com/berita/5594839/menhub-pengembangan-jalur-kereta-trans-sumatra-tak-andalkan-apbn",
+      "summary": "Menteri Perhubungan (Menhub) Dudy Purwagandhi menyatakan pengembangan proyek Trans Railway Sumatra (jalur kereta Trans ...",
+      "published": "2026-06-04T16:36:22+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "APBN",
+        "menteri"
+      ],
+      "big": true,
+      "id": "251c539bddd43161"
+    },
+    {
+      "title": "Mensesneg tepis isu Menkeu Purbaya mundur dari kabinet",
+      "link": "https://www.antaranews.com/video/5594759/mensesneg-tepis-isu-menkeu-purbaya-mundur-dari-kabinet",
+      "summary": "ANTARA - Menteri Sekretaris Negara Prasetyo Hadi membantah isu mundurnya Menteri Keuangan Purbaya Yudhi Sadewa dari ...",
+      "published": "2026-06-04T16:35:20+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "kabinet",
+        "menteri"
+      ],
+      "big": true,
+      "id": "87d99e6a479362be"
+    },
+    {
+      "title": "KPK: Silmy Karim tetap terima uang saat menjabat wamen",
+      "link": "https://www.antaranews.com/berita/5594832/kpk-silmy-karim-tetap-terima-uang-saat-menjabat-wamen",
+      "summary": "Komisi Pemberantasan Korupsi (KPK) menyatakan Wakil Menteri Imigrasi dan Pemasyarakatan periode 2024-2026 Silmy Karim ...",
+      "published": "2026-06-04T16:34:57+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "KPK",
+        "korupsi",
+        "menteri"
+      ],
+      "big": false,
+      "id": "1efc3764b86d98fa"
+    },
+    {
+      "title": "US-ASEAN Business Council soroti inovasi mendukung ekonomi Bali",
+      "link": "https://www.antaranews.com/berita/5594829/us-asean-business-council-soroti-inovasi-mendukung-ekonomi-bali",
+      "summary": "US-ASEAN Business Council (US-ABC) menyoroti berbagai inovasi dan inisiatif perusahaan Amerika Serikat yang ...",
+      "published": "2026-06-04T16:30:41+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "ASEAN"
+      ],
+      "big": false,
+      "id": "c7e178880995ecfb"
+    },
+    {
+      "title": "KPK sita aset Rp17,5 miliar terkait kasus izin tinggal WNA",
+      "link": "https://www.antaranews.com/berita/5594817/kpk-sita-aset-rp175-miliar-terkait-kasus-izin-tinggal-wna",
+      "summary": "Komisi Pemberantasan Korupsi (KPK) menyita aset senilai Rp17,5 miliar dari tiga tersangka dalam kasus dugaan pemerasan ...",
+      "published": "2026-06-04T16:26:14+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "KPK",
+        "korupsi"
+      ],
+      "big": false,
+      "id": "b5a39d9b94348224"
+    },
+    {
+      "title": "Kejari Surabaya ringkus ibu dan anak buronan terpidana korupsi",
+      "link": "https://www.antaranews.com/video/5594720/kejari-surabaya-ringkus-ibu-dan-anak-buronan-terpidana-korupsi",
+      "summary": "ANTARA - Kejaksaan Negeri Surabaya meringkus ibu dan anak terpidana korupsi perkara kredit modal kerja fiktif Bank ...",
+      "published": "2026-06-04T16:21:05+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "korupsi"
+      ],
+      "big": false,
+      "id": "69bfcae61a278624"
+    },
+    {
+      "title": "7 Terdakwa Kasus Suap Sertifikat K3 Kemnaker Divonis 4 hingga 6,5 Tahun",
+      "link": "https://news.detik.com/berita/d-8518565/7-terdakwa-kasus-suap-sertifikat-k3-kemnaker-divonis-4-hingga-6-5-tahun",
+      "summary": "Tujuh terdakwa kasus suap pengurusan sertifikat K3 divonis 4 hingga 6,5 tahun penjara. Hakim menyatakan mereka bersalah melakukan korupsi bersama.",
+      "published": "2026-06-04T16:09:30+00:00",
+      "source": "Detik News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "korupsi"
+      ],
+      "big": false,
+      "id": "11f934de7da5f296"
+    },
+    {
+      "title": "KPK sebut Silmy Karim terima jatah Rp100 juta per pekan",
+      "link": "https://www.antaranews.com/video/5594788/kpk-sebut-silmy-karim-terima-jatah-rp100-juta-per-pekan",
+      "summary": "ANTARA - Komisi Pemberantasan Korupsi (KPK), Kamis (4/6), menyebut Wamen Imipas Silmy Karim menerima jatah rutin ...",
+      "published": "2026-06-04T16:05:53+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "KPK",
+        "korupsi"
+      ],
+      "big": false,
+      "id": "c5bfc3f7ddb3f0f9"
+    },
+    {
+      "title": "Wamendikdasmen cek revitalisasi infrastruktur sekolah di Tabanan",
+      "link": "https://www.antaranews.com/video/5594745/wamendikdasmen-cek-revitalisasi-infrastruktur-sekolah-di-tabanan",
+      "summary": "ANTARA -&nbsp;Wakil Menteri Pendidikan Dasar dan Menengah (Wamendikdasmen) Fajar Riza Ul Haq mengecek sejumlah Sekolah ...",
+      "published": "2026-06-04T16:05:50+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "menteri"
+      ],
+      "big": false,
+      "id": "23209fcbfddb094a"
+    },
+    {
+      "title": "Menhub pastikan TBA baru tiket pesawat jaga keseimbangan semua pihak",
+      "link": "https://www.antaranews.com/berita/5594791/menhub-pastikan-tba-baru-tiket-pesawat-jaga-keseimbangan-semua-pihak",
+      "summary": "Menteri Perhubungan (Menhub) Dudy Purwagandhi memastikan revisi tarif batas atas (TBA) tiket pesawat dirancang tetap ...",
+      "published": "2026-06-04T15:52:14+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "menteri"
+      ],
+      "big": false,
+      "id": "1554cda2d83baa7e"
+    },
+    {
+      "title": "Istana beri sinyal Said Iqbal akan masuk Kabinet Merah Putih",
+      "link": "https://www.antaranews.com/berita/5594785/istana-beri-sinyal-said-iqbal-akan-masuk-kabinet-merah-putih",
+      "summary": "Menteri Sekretaris Negara Prasetyo Hadi memberi sinyal Presiden Konfederasi Serikat Pekerja Indonesia (KSPI) sekaligus ...",
+      "published": "2026-06-04T15:49:26+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "kabinet",
+        "menteri"
+      ],
+      "big": true,
+      "id": "a66abe8f89dcc6e7"
+    },
+    {
+      "title": "Anggota Komisi VII nobar “Garuda Di Dadaku” dukung animasi lokal",
+      "link": "https://www.antaranews.com/berita/5594775/anggota-komisi-vii-nobar-garuda-di-dadaku-dukung-animasi-lokal",
+      "summary": "Anggota Komisi VII DPR RI Fraksi Partai Demokrat Dina Lorenza menyatakan dukungannya terhadap film animasi karya ...",
+      "published": "2026-06-04T15:45:57+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "DPR"
+      ],
+      "big": false,
+      "id": "b02557e60c1ff0f4"
+    },
+    {
+      "title": "‘Unpatriotic’: Trump decries Republicans who voted to constrain Iran war",
+      "link": "https://www.aljazeera.com/news/2026/6/4/unpatriotic-trump-decries-republicans-who-voted-to-constrain-iran-war?traffic_source=rss",
+      "summary": "Trump takes aim at lawmakers after House passes war powers resolution; advocates call on Senate to advance the measure.",
+      "published": "2026-06-04T15:41:15+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "703eda9a3290acef"
+    },
+    {
+      "title": "KPK: Kasus Imigrasi sistemis, pemerasan terjadi di pusat hingga daerah",
+      "link": "https://www.antaranews.com/berita/5594751/kpk-kasus-imigrasi-sistemis-pemerasan-terjadi-di-pusat-hingga-daerah",
+      "summary": "Komisi Pemberantasan Korupsi (KPK) menilai kasus dugaan pemerasan yang terjadi di lingkungan Direktorat Jenderal ...",
+      "published": "2026-06-04T15:35:17+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "KPK",
+        "korupsi"
+      ],
+      "big": false,
+      "id": "3a2293bb39684faa"
+    },
+    {
+      "title": "China alokasikan 99,9 miliar yuan untuk subsidi perawatan anak di 2026",
+      "link": "https://www.antaranews.com/berita/5594732/china-alokasikan-999-miliar-yuan-untuk-subsidi-perawatan-anak-di-2026",
+      "summary": "Kementerian Keuangan China mengalokasikan dana pemerintah pusat sebesar 99,9 miliar yuan (1 yuan = Rp2.648) atau ...",
+      "published": "2026-06-04T15:26:42+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "subsidi"
+      ],
+      "big": false,
+      "id": "0500bb5a5d40949b"
+    },
+    {
+      "title": "Mensesneg: Tak ada masalah tambah anggaran demi cegah korupsi",
+      "link": "https://www.antaranews.com/berita/5594728/mensesneg-tak-ada-masalah-tambah-anggaran-demi-cegah-korupsi",
+      "summary": "Menteri Sekretaris Negara (Mensesneg)&nbsp;Prasetyo Hadi mengatakan penambahan anggaran bagi lembaga pengawas dan ...",
+      "published": "2026-06-04T15:24:17+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "anggaran",
+        "korupsi",
+        "menteri"
+      ],
+      "big": false,
+      "id": "606f47c939341050"
+    },
+    {
+      "title": "Momen piala dunia bisa perkuat IP animasi \"Garuda di Dadaku\"",
+      "link": "https://www.antaranews.com/berita/5594724/momen-piala-dunia-bisa-perkuat-ip-animasi-garuda-di-dadaku",
+      "summary": "Menteri Ekonomi Kreatif Teuku Riefky Harsya mengatakan film animasi &quot;Garuda di Dadaku&quot; bisa memanfaatkan ...",
+      "published": "2026-06-04T15:21:45+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "menteri"
+      ],
+      "big": false,
+      "id": "daed9d3eb210c35a"
+    },
+    {
+      "title": "AMI Dorong Pemerintah Bikin UU Permuseuman dan Revisi UU Cagar Budaya",
+      "link": "https://news.detik.com/berita/d-8518533/ami-dorong-pemerintah-bikin-uu-permuseuman-dan-revisi-uu-cagar-budaya",
+      "summary": "Ketua AMI Putu Supadma Rudana dorong UU Permuseuman untuk memperkuat peran museum dalam pembangunan kebudayaan dan sejarah bangsa Indonesia.",
+      "published": "2026-06-04T15:19:13+00:00",
+      "source": "Detik News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "UU "
+      ],
+      "big": false,
+      "id": "b17045060b532ac2"
+    },
+    {
+      "title": "Istana Bantah Kabar Purbaya Akan Diganti",
+      "link": "https://nasional.tempo.co/read/2106915/istana-bantah-kabar-purbaya-akan-diganti",
+      "summary": "Beredar kabar di media sosial soal rencana pergantian Menteri Keuangan Purbaya Yudhi Sadewa.",
+      "published": "2026-06-04T15:13:00+00:00",
+      "source": "Tempo.co",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "menteri"
+      ],
+      "big": false,
+      "id": "bfb180ab22d43d54"
+    },
+    {
+      "title": "Prabowo Terima Surat Kepercayaan 17 Calon Dubes Negara Sahabat Pekan Depan",
+      "link": "https://news.detik.com/berita/d-8518517/prabowo-terima-surat-kepercayaan-17-calon-dubes-negara-sahabat-pekan-depan",
+      "summary": "Sebanyak 17 Duta Besar akan serahkan surat kepercayaan kepada Presiden Prabowo Subianto pada 8 Juni 2026, bersamaan dengan pelantikan pejabat negara.",
+      "published": "2026-06-04T15:09:03+00:00",
+      "source": "Detik News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "8f29ebebaf8f8588"
+    },
+    {
+      "title": "Ganjalan bagi Trump Bila Ingin Lanjut Perang Iran",
+      "link": "https://news.detik.com/internasional/d-8518514/ganjalan-bagi-trump-bila-ingin-lanjut-perang-iran",
+      "summary": "DPR AS setujui resolusi untuk batasi kewenangan Trump dalam perang dengan Iran",
+      "published": "2026-06-04T15:07:37+00:00",
+      "source": "Detik News",
+      "groups": [
+        "Geopolitics",
+        "Government / Policy"
+      ],
+      "matched": [
+        "DPR",
+        "Trump"
+      ],
+      "big": false,
+      "id": "d3fc6239b1f3dc3c"
+    },
+    {
+      "title": "KPK Usul Pemerintah Pusat Bikin PTSP untuk Mudahkan Layanan Perizinan",
+      "link": "https://news.detik.com/berita/d-8518510/kpk-usul-pemerintah-pusat-bikin-ptsp-untuk-mudahkan-layanan-perizinan",
+      "summary": "Ketua KPK Setyo Budiyanto dorong pemerintah untuk sistem Pelayanan Terpadu Satu Pintu (PTSP) di pusat, agar perizinan lebih efektif dan terintegrasi.",
+      "published": "2026-06-04T14:56:23+00:00",
+      "source": "Detik News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "KPK"
+      ],
+      "big": false,
+      "id": "2482c2c2f8376f99"
+    },
+    {
+      "title": "KPK Buka Peluang Jerat Silmy Karim cs dengan Pasal Pencucian Uang",
+      "link": "https://news.detik.com/berita/d-8518508/kpk-buka-peluang-jerat-silmy-karim-cs-dengan-pasal-pencucian-uang",
+      "summary": "KPK akan mengembangkan kasus yang menjerat Silmy Karim dkk ke dugaan TPPU. KPK menilai barang bukti yang disita membuka peluang tindak pidana lanjutan tersebut.",
+      "published": "2026-06-04T14:54:28+00:00",
+      "source": "Detik News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "KPK"
+      ],
+      "big": false,
+      "id": "61035807f0b06cb2"
+    },
+    {
+      "title": "Indonesian market rout deepens as Prabowo policy risks mount - The Business Times",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYXF4RGgyb2N1MFJtb0UzQUJiN2xvSWFSaUpGUXZKYTVBWXRDcXlDdklBazY0ZzFfem9ZTGtPSWFZUVJfRlFub3BzZVlfblFUMWxDZVY1M0tWRFVLa2RTaHRhYkt2UkxWcFM3cUpFdEMwQXF2dURudmZLVmlJU0VlbTllUTlxYTNfN1VITnFhZVo2MWpvS0tPeFFnUzNscDlYaG5jSnlGX0ZuTUNUUEdF?oc=5",
+      "summary": "Indonesian market rout deepens as Prabowo policy risks mount&nbsp;&nbsp;The Business Times",
+      "published": "2026-06-04T14:50:00+00:00",
+      "source": "Reuters – Indonesia macro",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "dd04761aea8d21a7"
+    },
+    {
+      "title": "Koalisi Serahkan Pernyataan Sikap Revisi UU Kehutanan ke DPR",
+      "link": "https://nasional.tempo.co/read/2106911/koalisi-serahkan-pernyataan-sikap-revisi-uu-kehutanan-ke-dpr",
+      "summary": "Koalisi meminta revisi UU Kehutanan dibahas secara total, bukan parsial.",
+      "published": "2026-06-04T14:48:00+00:00",
+      "source": "Tempo.co",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "DPR",
+        "UU ",
+        "koalisi"
+      ],
+      "big": false,
+      "id": "e2c7f4096e7373e4"
+    },
+    {
+      "title": "Kode Bagi-bagi Duit Korupsi Imigrasi: Malaikat dan Vokalis",
+      "link": "https://metro.tempo.co/read/2106912/kode-bagi-bagi-duit-korupsi-imigrasi-malaikat-dan-vokalis",
+      "summary": "Penyidik KPK mengungkap penggunaan sejumlah kode menyamarkan pembagian uang hasil dugaan pemerasan pengurusan izin tinggal WNA. Apa saja kodenya?",
+      "published": "2026-06-04T14:47:45+00:00",
+      "source": "Tempo.co",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "KPK",
+        "korupsi"
+      ],
+      "big": false,
+      "id": "f138eec68e2d25d1"
+    },
+    {
+      "title": "Pramono Ajak Menteri Prabowo Naik Angkutan Umum di Jakarta",
+      "link": "https://nasional.tempo.co/read/2106910/pramono-ajak-menteri-prabowo-naik-angkutan-umum-di-jakarta",
+      "summary": "Menurut Pramono, Jakarta telah mempunyai layanan transportasi publik yang nyaman seperti Transjakarta dan Transjabodetabek.",
+      "published": "2026-06-04T14:39:59+00:00",
+      "source": "Tempo.co",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Prabowo",
+        "menteri"
+      ],
+      "big": false,
+      "id": "aba53c48f30e447c"
+    },
+    {
+      "title": "KemenHAM Sebut RUU HAM Perkuat Komnas HAM dengan Skema Tenaga Ahli",
+      "link": "https://news.detik.com/berita/d-8518487/kemenham-sebut-ruu-ham-perkuat-komnas-ham-dengan-skema-tenaga-ahli",
+      "summary": "KemenHAM menyebut pengaturan tenaga ahli dalam RUU HAM bertujuan memperkuat independensi Komnas HAM. Penguatan dilakukan melalui penataan kelembagaan.",
+      "published": "2026-06-04T14:37:33+00:00",
+      "source": "Detik News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "UU "
+      ],
+      "big": false,
+      "id": "2489336da579e905"
+    },
+    {
+      "title": "KPK Telusuri Keterlibatan Pihak Lain di Kasus Pemerasan Izin Tinggal WNA",
+      "link": "https://news.detik.com/berita/d-8518484/kpk-telusuri-keterlibatan-pihak-lain-di-kasus-pemerasan-izin-tinggal-wna",
+      "summary": "KPK akan menelusuri keterlibatan pihak lain dalam kasus dugaan pemerasan yang menjerat Silmy Karim. Selain itu, KPK juga akan mendalami dugaan-dugaan lain.",
+      "published": "2026-06-04T14:36:52+00:00",
+      "source": "Detik News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "KPK"
+      ],
+      "big": false,
+      "id": "245141591eb7c69e"
+    },
+    {
+      "title": "KPK Ungkap Modus \"Uang Acc Klik\" Korupsi Pejabat Imigrasi",
+      "link": "https://metro.tempo.co/read/2106906/kpk-ungkap-modus-uang-acc-klik-korupsi-pejabat-imigrasi",
+      "summary": "Penyidik KPK mengungkap modus \"Uang Acc Klik\" di kasus dugaan pemerasan pengurusan izin tinggal WNA. Para pemohon diduga harus bayar biaya tambahan.",
+      "published": "2026-06-04T14:34:09+00:00",
+      "source": "Tempo.co",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "KPK",
+        "korupsi"
+      ],
+      "big": false,
+      "id": "ee3c4a58988028a8"
+    },
+    {
+      "title": "Penyaluran Duit MBG Tak Dihentikan Meski Ada Dugaan Korupsi",
+      "link": "https://metro.tempo.co/read/2106905/penyaluran-duit-mbg-tak-dihentikan-meski-ada-dugaan-korupsi",
+      "summary": "Kepala BGN Nanik S. Deyang membantah informasi yang menyebut penyaluran duit program MBG dihentikan. Jaksa selidiki penyalahgunaan insentif SPPG.",
+      "published": "2026-06-04T14:28:04+00:00",
+      "source": "Tempo.co",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "korupsi"
+      ],
+      "big": false,
+      "id": "02e2df423245bca6"
+    },
+    {
+      "title": "Wisatawan ASEAN Dominasi Kunjungan ke Yogyakarta",
+      "link": "https://travel.tempo.co/read/2106904/wisatawan-asean-dominasi-kunjungan-ke-yogyakarta",
+      "summary": "Mayoritas wisatawan asing yang berkunjung ke Yogyakarta berasal dari Malaysia dengan 3.267 kedatangan",
+      "published": "2026-06-04T14:26:15+00:00",
+      "source": "Tempo.co",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "ASEAN"
+      ],
+      "big": false,
+      "id": "990164b0d2ab1d67"
+    },
+    {
+      "title": "KPK Sebut Kode 'Malaikat' di Kasus Silmy Jatah Setoran Eseleon II ke Atas",
+      "link": "https://news.detik.com/berita/d-8518478/kpk-sebut-kode-malaikat-di-kasus-silmy-jatah-setoran-eseleon-ii-ke-atas",
+      "summary": "KPK mengungkap kode 'malaikat' dalam pemerasan WNA oleh pejabat eselon II di Kementerian Imipas. Kode itu untuk jatah setoran ke eselon II ke atas.",
+      "published": "2026-06-04T14:25:56+00:00",
+      "source": "Detik News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "KPK"
+      ],
+      "big": false,
+      "id": "979ef712804456fc"
+    },
+    {
+      "title": "Kata Purbaya soal Isu Pengunduranya dari Jabatan Menkeu",
+      "link": "https://bisnis.tempo.co/read/2106901/kata-purbaya-soal-isu-pengunduranya-dari-jabatan-menkeu",
+      "summary": "Menteri Keuangan (Menkeu) Purbaya Yudhi Sadewa membantah isu mengenai pengunduran dirinya dari jabatan Menteri Keuangan.",
+      "published": "2026-06-04T14:22:40+00:00",
+      "source": "Tempo.co",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "menteri"
+      ],
+      "big": false,
+      "id": "fd6374e6abaf1a2c"
+    },
+    {
+      "title": "Ada Rekening Pegawai Imigrasi Rp 357 M Diduga Hasil Korupsi",
+      "link": "https://metro.tempo.co/read/2106898/ada-rekening-pegawai-imigrasi-rp-357-m-diduga-hasil-korupsi",
+      "summary": "Penyidik KPK menduga Rp 357 miliar dari total aliran dana Rp 366,7 miliar merupakan hasil korupsi. Ditemukan di puluhan rekening pegawai imigrasi.",
+      "published": "2026-06-04T14:15:50+00:00",
+      "source": "Tempo.co",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "KPK",
+        "korupsi"
+      ],
+      "big": false,
+      "id": "f93ff3c49f7ee8d5"
+    },
+    {
+      "title": "Prabowo Akan Lantik Nanik S Deyang Jadi Kepala BGN Senin 8 Juni",
+      "link": "https://news.detik.com/berita/d-8518471/prabowo-akan-lantik-nanik-s-deyang-jadi-kepala-bgn-senin-8-juni",
+      "summary": "Presiden Prabowo dijadwalkan akan melantik Nanik Sudaryati Deyang jadi Kepala BGN di Istana Kepresidenan, Jakarta. Pelantikan akan digelar Senin, 8 Juni 2026.",
+      "published": "2026-06-04T14:15:25+00:00",
+      "source": "Detik News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "fcaf89ad0fb6ca4c"
+    },
+    {
+      "title": "Netanyahu Kalem Meski Diomelin Trump",
+      "link": "https://news.detik.com/internasional/d-8518470/netanyahu-kalem-meski-diomelin-trump",
+      "summary": "Donald Trump dikabarkan marah pada Netanyahu terkait konflik di Lebanon. Namun, Netanyahu tetap tenang menanggapi kemarahan Trump tersebut.",
+      "published": "2026-06-04T14:15:20+00:00",
+      "source": "Detik News",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "d994321a2ef1413a"
+    },
+    {
+      "title": "Silmy Karim Terima Setoran Izin Tinggal WNA Sejak Jabat Dirjen Lanjut Wamen",
+      "link": "https://news.detik.com/berita/d-8518469/silmy-karim-terima-setoran-izin-tinggal-wna-sejak-jabat-dirjen-lanjut-wamen",
+      "summary": "KPK mengungkap mantan Wamen Imipas Silmy Karim terima setoran pemerasan izin tinggal WNA sejah menjabat sebagai Dirjen.",
+      "published": "2026-06-04T14:14:28+00:00",
+      "source": "Detik News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "KPK"
+      ],
+      "big": false,
+      "id": "2fc141be26d81d83"
+    },
+    {
+      "title": "Jaksa Masih Kumpulkan Bukti, Dapur MBG di Jakarta Digeledah",
+      "link": "https://metro.tempo.co/read/2106895/jaksa-masih-kumpulkan-bukti-dapur-mbg-di-jakarta-digeledah",
+      "summary": "Jaksa terus mengumpulkan barang bukti dalam penyidikan dugaan korupsi program MBG. Penggeledahan dilakukan di wilayah Jakarta.",
+      "published": "2026-06-04T14:09:14+00:00",
+      "source": "Tempo.co",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "korupsi"
+      ],
+      "big": false,
+      "id": "efb510acf131e0e1"
+    },
+    {
+      "title": "Istana Beri Sinyal Said Iqbal Masuk Kabinet",
+      "link": "https://news.detik.com/berita/d-8518456/istana-beri-sinyal-said-iqbal-masuk-kabinet",
+      "summary": "Mensesneg Prasetyo Hadi membuka kemungkinan Said Iqbal masuk kabinet. Pelantikan mungkin dilaksanakan 8 Juni 2026.",
+      "published": "2026-06-04T14:05:31+00:00",
+      "source": "Detik News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "kabinet"
+      ],
+      "big": true,
+      "id": "6866afc463d0f2db"
+    },
+    {
+      "title": "Said Abdullah Dorong Sinergi Fiskal-Moneter untuk Jaga Kepercayaan Investor",
+      "link": "https://news.detik.com/berita/d-8518451/said-abdullah-dorong-sinergi-fiskal-moneter-untuk-jaga-kepercayaan-investor",
+      "summary": "Ketua Banggar DPR RI, Said Abdullah, menyoroti pelemahan rupiah dan pentingnya sinergi kebijakan fiskal-moneternya untuk menjaga stabilitas ekonomi.",
+      "published": "2026-06-04T14:01:42+00:00",
+      "source": "Detik News",
+      "groups": [
+        "Government / Policy",
+        "Macro / Economy"
+      ],
+      "matched": [
+        "DPR",
+        "rupiah"
+      ],
+      "big": false,
+      "id": "f4adfc207cb25102"
+    },
+    {
+      "title": "KPK Sebut Ada Tarif 'Mempercepat' Izin Tinggal WNA di Kasus Pemerasan Silmy",
+      "link": "https://news.detik.com/berita/d-8518429/kpk-sebut-ada-tarif-mempercepat-izin-tinggal-wna-di-kasus-pemerasan-silmy",
+      "summary": "KPK mengungkap ada tarif pemerasan dalam pengurusan izin tinggal WNA yang melibatkan mantan Wamen Imipas Silmy Karim. Tarif tergantung jalur yang dipilih.",
+      "published": "2026-06-04T13:49:45+00:00",
+      "source": "Detik News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "KPK"
+      ],
+      "big": false,
+      "id": "7b58c2ed962f1718"
+    },
+    {
+      "title": "Mensos Tegaskan Tak Ada Zona Aman bagi Pelanggaran Integritas di Kemensos",
+      "link": "https://news.detik.com/berita/d-8518430/mensos-tegaskan-tak-ada-zona-aman-bagi-pelanggaran-integritas-di-kemensos",
+      "summary": "Menteri Sosial Gus Ipul menegaskan tidak ada zona aman bagi pelanggaran integritas di Kemensos. Ia dorong penguatan integritas menjelang pengadaan 2026.",
+      "published": "2026-06-04T13:44:09+00:00",
+      "source": "Detik News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "menteri"
+      ],
+      "big": false,
+      "id": "2d8725858efead17"
+    },
+    {
+      "title": "Awal Mula KPK Temukan Dugaan Pemerasan di Balik Proses Izin Tinggal WNA",
+      "link": "https://news.detik.com/berita/d-8518417/awal-mula-kpk-temukan-dugaan-pemerasan-di-balik-proses-izin-tinggal-wna",
+      "summary": "KPK mengungkap penyimpangan izin tinggal WNA, berawal dari transaksi mencurigakan di M-banking. Delapan pegawai Kemen Imigrasi ditahan terkait kasus ini.",
+      "published": "2026-06-04T13:41:44+00:00",
+      "source": "Detik News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "KPK"
+      ],
+      "big": false,
+      "id": "569c2d3ec8c8a9ad"
+    },
     {
       "title": "Hakim: Penerimaan gratifikasi Noel tunjukkan degradasi integritas",
       "link": "https://www.antaranews.com/berita/5594579/hakim-penerimaan-gratifikasi-noel-tunjukkan-degradasi-integritas",
@@ -76,6 +804,23 @@
       ],
       "big": false,
       "id": "be830b97e46c0a37"
+    },
+    {
+      "title": "KPK Siap Tindaklanjuti Arahan Prabowo Perkuat Lembaga Antikorupsi",
+      "link": "https://news.detik.com/berita/d-8518404/kpk-siap-tindaklanjuti-arahan-prabowo-perkuat-lembaga-antikorupsi",
+      "summary": "KPK menyambut positif dukungan Presiden Prabowo untuk penguatan BPKP, KPK, dan Kejaksaan Agung dalam pemberantasan korupsi dan pengelolaan keuangan negara.",
+      "published": "2026-06-04T13:30:59+00:00",
+      "source": "Detik News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "KPK",
+        "Prabowo",
+        "korupsi"
+      ],
+      "big": false,
+      "id": "bccb98800c7eb7f1"
     },
     {
       "title": "KPK: Silmy Karim dan tujuh tersangka raup Rp145 M selama 2022-2026",
@@ -1310,116 +2055,25 @@
       "id": "f2ebd663cdf0ee03"
     },
     {
-      "title": "Purbaya Bertemu dengan S&P, Ini yang Dibahas",
-      "link": "https://bisnis.tempo.co/read/2106821/purbaya-bertemu-dengan-sp-ini-yang-dibahas",
-      "summary": "Pertemuan Purbaya dengan S&amp;P berlangsung di tengah beredarnya kabar bahwa lembaga rating tersebut akan menurunkan rating utang Indonesia.",
-      "published": "2026-06-04T09:02:55+00:00",
-      "source": "Tempo.co",
+      "title": "Indonesia’s rupiah rout is not just about the dollar - Asia Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOGIwR3Q5VkVBUUdPMTIwZ3U2aFdIT0lWMVNtNGFNOWp5NDI5XzlMc0d0dzktVV9RSjhiOEh4dFAtYXJQRU1TQ2o3ZVcxWm9IcFNLeHc2bFB2bVhRMzFWNlhONGZjcnNwRGxhU3ZMYi1YWVAxQUFNZ3Q4MXVrYnFQdldocXhkeGRsZlE?oc=5",
+      "summary": "Indonesia’s rupiah rout is not just about the dollar&nbsp;&nbsp;Asia Times",
+      "published": "2026-06-04T04:42:07+00:00",
+      "source": "Reuters – Indonesia macro",
       "groups": [
-        "Financial Crisis Signals"
+        "Macro / Economy"
       ],
       "matched": [
-        "S&P"
+        "rupiah"
       ],
       "big": false,
-      "id": "f202aeae80b803e7"
+      "id": "5336e06e807681b7"
     },
     {
-      "title": "Ketua Timwas Haji DPR: Pelaksanaan Haji 2026 Lebih Bagus",
-      "link": "https://nasional.tempo.co/read/2106818/ketua-timwas-haji-dpr-pelaksanaan-haji-2026-lebih-bagus",
-      "summary": "Timwas haji DPR juga tak menampik beberapa masalah dalam pelaksanaan haji tahun ini tak terelakan.",
-      "published": "2026-06-04T08:49:00+00:00",
-      "source": "Tempo.co",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "DPR"
-      ],
-      "big": false,
-      "id": "d62db3607119586f"
-    },
-    {
-      "title": "Ingat Heboh Motor Listrik Rp 1 T BGN? Terungkap Harganya Di-Mark Up",
-      "link": "https://news.detik.com/berita/d-8517880/ingat-heboh-motor-listrik-rp-1-t-bgn-terungkap-harganya-di-mark-up",
-      "summary": "Kejagung membongkar dugaan korupsi yang melibatkan mantan Kepala BGN Dadan Hindayana. Terungkap dugaan mark up pengadaan motor listrik yang sempat bikin heboh.",
-      "published": "2026-06-04T08:48:21+00:00",
-      "source": "Detik News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "korupsi"
-      ],
-      "big": false,
-      "id": "2bd17408a43c3ef2"
-    },
-    {
-      "title": "Trump: AS Akhiri Gencatan Senjata Jika Ada Tentara Tewas",
-      "link": "https://dunia.tempo.co/read/2106817/trump-as-akhiri-gencatan-senjata-jika-ada-tentara-tewas",
-      "summary": "Trump mengatakan hanya akan mempertimbangkan untuk mengakhiri perjanjian gencatan senjata dengan Iran apabila ada tentara AS yang tewas.",
-      "published": "2026-06-04T08:47:24+00:00",
-      "source": "Tempo.co",
-      "groups": [
-        "Geopolitics"
-      ],
-      "matched": [
-        "Trump"
-      ],
-      "big": false,
-      "id": "01a1e9be9ab07177"
-    },
-    {
-      "title": "Silmy Karim Tersangka KPK, Yusril Tegaskan Arahan Presiden Tak Pandang Bulu",
-      "link": "https://news.detik.com/berita/d-8517860/silmy-karim-tersangka-kpk-yusril-tegaskan-arahan-presiden-tak-pandang-bulu",
-      "summary": "Menko Kumham Yusril Ihza Mahendra menanggapi kasus dugaan korupsi Wamen Imipas Silmy Karim, menekankan transparansi dan dukungan penuh terhadap KPK.",
-      "published": "2026-06-04T08:36:08+00:00",
-      "source": "Detik News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "KPK",
-        "korupsi"
-      ],
-      "big": false,
-      "id": "1b29e4b49b9bee78"
-    },
-    {
-      "title": "MBG Tetap Jalan di Tengah Bayang-bayang Korupsi",
-      "link": "https://news.detik.com/foto-news/d-8517659/mbg-tetap-jalan-di-tengah-bayang-bayang-korupsi",
-      "summary": "Program MBG tetap dibagikan kepada siswa di berbagai sekolah. Di saat bersamaan, dugaan korupsi pengelolaan anggarannya tengah diusut.",
-      "published": "2026-06-04T08:28:52+00:00",
-      "source": "Detik News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "korupsi"
-      ],
-      "big": false,
-      "id": "e7e53209e77f8983"
-    },
-    {
-      "title": "Menteri PPPA Tegaskan Kasus Kekerasan Seksual Tak Bisa Diselesaikan Damai",
-      "link": "https://news.detik.com/berita/d-8517795/menteri-pppa-tegaskan-kasus-kekerasan-seksual-tak-bisa-diselesaikan-damai",
-      "summary": "Menteri PPPA Arifah Fauzi menegaskan kasus kekerasan seksual tak dapat diselesaikan lewat jalur damai dan harus diproses sesuai ketentuan hukum yang berlaku.",
-      "published": "2026-06-04T08:02:42+00:00",
-      "source": "Detik News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "menteri"
-      ],
-      "big": false,
-      "id": "c7974ef0eb8a48a1"
-    },
-    {
-      "title": "Rupiah Terus Melemah, Siap-siap BI Rate Bakal Naik Lagi - Market - Bloomberg Technoz",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSkx3MldCMk5JWkhZWGJUcHVyTGtyNXhGMHlVQWo4cElILVRPT3BxbkhobXJkWFQxWnNvbmZtMkhLM2lyYThRT0ZTUlRCOGl6ZWxiZW4xSDduUndlaVRKU25aSi00N1d4UUpDc1V6VzUzbGlYZ1N5dlg4LVFOSXI4b21PTGtnNHBwd1hiLUt3TGlZRlV5X3pETG9kWHU5ckpWSUM5NFZTNldkdw?oc=5",
-      "summary": "Rupiah Terus Melemah, Siap-siap BI Rate Bakal Naik Lagi - Market&nbsp;&nbsp;Bloomberg Technoz",
-      "published": "2026-06-04T07:48:35+00:00",
+      "title": "BI Rate Naik Jadi 5,25 Persen, Langkah BI Jaga Rupiah & Stabilitas Ekonomi - kumparan.com - Kumparan.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ3FnMnRyVUE1QXBSaWFSeEczbEtkSk82RTZ2SVVpSkt0RGpPRk1lUmU2WF85Uk01UzhHeVlCSngySlFCcmIwVVNJblRaTFdtS0UyQ29MYWpwT0ExanZ3eE5fUkg0VTkxQkxPWXA5NGdEc29yRHVqb0V5Y0pza215ckJiaXdhYUVlYXRQdnpWUXd2QzM4cUxxY1FJX2RUZHo5ZC02MTFGZ0RVc0RVaUV4cHNPTFRPd1lnc0ktS2xudGnSAcgBQVVfeXFMTXNWTFRQZ1dLdzJVcUdCZlZDel9sbUJOT1V0bTRNUnpVeXN3UDZzTGl5Q0VKN0t5RWF4VVh4dHlrOGc0NFdaMzhONTYzT3pJNS1NRldRX1A0VGJoQVhNYmtCOVZ2SjJIMk9nX3hyY2xwNkxoVTI4MzRzY3J4OUN6a2p0ZzNjZlJUVU91VEdtamZpSnFfOFoyUXRpZmp1R3Fwa01mNHhZTWZlcGJmVUxtRTRkZWd5WUxfM3dUMkdVX3ctaUlxajVMNlo?oc=5",
+      "summary": "BI Rate Naik Jadi 5,25 Persen, Langkah BI Jaga Rupiah & Stabilitas Ekonomi - kumparan.com&nbsp;&nbsp;Kumparan.com",
+      "published": "2026-06-03T03:00:00+00:00",
       "source": "GNews – BI rate rupiah",
       "groups": [
         "Macro / Economy"
@@ -1429,690 +2083,63 @@
         "rupiah"
       ],
       "big": true,
-      "id": "60e5204346e8c362"
+      "id": "928415211ecadec3"
     },
     {
-      "title": "Tanggapan Pimpinan DPR Soal Rupiah Tembus Rp 18 Ribu per Dolar AS",
-      "link": "https://nasional.tempo.co/read/2106801/tanggapan-pimpinan-dpr-soal-rupiah-tembus-rp-18-ribu-per-dolar-as",
-      "summary": "Ia menilai pemerintah bersama Bank Indonesia harus segera mengambil langkah guna menahan laju pelemah rupiah.",
-      "published": "2026-06-04T07:45:38+00:00",
-      "source": "Tempo.co",
-      "groups": [
-        "Government / Policy",
-        "Macro / Economy"
-      ],
-      "matched": [
-        "Bank Indonesia",
-        "DPR",
-        "rupiah"
-      ],
-      "big": false,
-      "id": "004a445802f1496b"
-    },
-    {
-      "title": "Silmy Karim Jadi Tersangka KPK, Punya Kekayaan Rp 234 M",
-      "link": "https://metro.tempo.co/read/2106800/silmy-karim-jadi-tersangka-kpk-punya-kekayaan-rp-234-m",
-      "summary": "Wakil Menteri Imigrasi dan Pemasyarakatan, Silmy Karim ditetapkan sebagai tersangka kasus pergurusan izin tinggal WNA. Berapa harta kekayaannya?",
-      "published": "2026-06-04T07:41:56+00:00",
-      "source": "Tempo.co",
+      "title": "Heboh Sapi Kurban Prabowo Pakai APBN Rp100 Miliar, Netizen Soroti Transparansi dan Nama Presiden - Suara Desa",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMkF3amdVOHVta0sxYnkwVUVYWjBEbFNOMGg4Z29VS3lKM0IxclNYN0hUd3NGUFdOeGFDQlNzNzhHSHZlb2tCUE5GdXBXaUUwTGNzYXRlRUtCQ1ZBZi02dTV5X0NKMlZYc2EyVFdWaEtuWXUwYi1QOFh4aEY3dmc0VUQ3cm1uTnI3Y1JTaW1aUWl1QkN6dndHSDNNMkNRbXRjeHBDN2dCMXBteUlJUWl4cVk4eVNydmlEVHM5eWNlaUpEWF9WZ0dlV1VB?oc=5",
+      "summary": "Heboh Sapi Kurban Prabowo Pakai APBN Rp100 Miliar, Netizen Soroti Transparansi dan Nama Presiden&nbsp;&nbsp;Suara Desa",
+      "published": "2026-05-28T12:16:05+00:00",
+      "source": "GNews – Prabowo kebijakan",
       "groups": [
         "Government / Policy"
       ],
       "matched": [
-        "KPK",
-        "menteri"
-      ],
-      "big": false,
-      "id": "3c9d4e9e7e7b8127"
-    },
-    {
-      "title": "Komisi V DPR Desak Menhub Integrasi Sinyal Buntut Kecelakaan KA di Bekasi",
-      "link": "https://news.detik.com/berita/d-8517753/komisi-v-dpr-desak-menhub-integrasi-sinyal-buntut-kecelakaan-ka-di-bekasi",
-      "summary": "Komisi V DPR mempertanyakan perkembangan integrasi sinyal buntut kecelakaan KA Argo Bromo Anggrek dan KRL di Stasiun Bekasi Timur.",
-      "published": "2026-06-04T07:38:02+00:00",
-      "source": "Detik News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "DPR"
-      ],
-      "big": false,
-      "id": "381372e99024b638"
-    },
-    {
-      "title": "Survei Poltracking: 72,2% Publik Puas dengan Kinerja Prabowo-Gibran",
-      "link": "https://news.detik.com/berita/d-8517729/survei-poltracking-72-2-publik-puas-dengan-kinerja-prabowo-gibran",
-      "summary": "Survei Poltracking menyebut 72,2% responden puas dengan kinerja pemerintah Prabowo-Gibran. Alasan utama lantaran bantuan pemerintah dianggap tepat sasaran.",
-      "published": "2026-06-04T07:28:48+00:00",
-      "source": "Detik News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Gibran",
+        "APBN",
         "Prabowo"
-      ],
-      "big": false,
-      "id": "d6d01974aae48cb0"
-    },
-    {
-      "title": "Kata Purbaya soal Kurs Rupiah Jeblok ke 18.000 per Dolar AS",
-      "link": "https://bisnis.tempo.co/read/2106797/kata-purbaya-soal-kurs-rupiah-jeblok-ke-18-000-per-dolar-as",
-      "summary": "Menurut Purbaya, pemerintah sudah membuat sejumlah simulasi perhitungan ketika harga minyak mentah naik.",
-      "published": "2026-06-04T07:28:27+00:00",
-      "source": "Tempo.co",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "kurs",
-        "rupiah"
-      ],
-      "big": false,
-      "id": "d11b015eae8dc52b"
-    },
-    {
-      "title": "Istana: Dua Hari ini Kami Sangat Prihatin",
-      "link": "https://nasional.tempo.co/read/2106796/istana-dua-hari-ini-kami-sangat-prihatin",
-      "summary": "Rentetan kasus korupsi yang menyeret pejabat BGN dan kementerian membuat Istana Kepresidenan prihatin.",
-      "published": "2026-06-04T07:24:00+00:00",
-      "source": "Tempo.co",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "korupsi"
-      ],
-      "big": false,
-      "id": "99cb0e6b6e151c39"
-    },
-    {
-      "title": "Netanyahu Tanggapi Santai Kemarahan Trump: Dia Teman Terbaik",
-      "link": "https://news.detik.com/internasional/d-8517704/netanyahu-tanggapi-santai-kemarahan-trump-dia-teman-terbaik",
-      "summary": "Perdana Menteri (PM) Israel Benjamin Netanyahu menanggapi santai kemarahan Presiden Amerika Serikat Donald Trump pada dirinya baru-baru ini.",
-      "published": "2026-06-04T07:12:55+00:00",
-      "source": "Detik News",
-      "groups": [
-        "Geopolitics",
-        "Government / Policy"
-      ],
-      "matched": [
-        "Trump",
-        "menteri"
-      ],
-      "big": false,
-      "id": "d0c08a4796c6ce4a"
-    },
-    {
-      "title": "Prabowo Bans Omelets from MBG Menu",
-      "link": "https://en.tempo.co/read/2106772/prabowo-bans-omelets-from-mbg-menu",
-      "summary": "President Prabowo has instructed a change in the Free Nutritious Meal (MBG) menu, banning omelets.",
-      "published": "2026-06-04T06:58:01+00:00",
-      "source": "Tempo.co",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "6551f81adfbbd7c2"
-    },
-    {
-      "title": "Wamen Imipas Silmy Karim Dinonaktifkan Usai Jadi Tersangka KPK",
-      "link": "https://news.detik.com/berita/d-8517631/wamen-imipas-silmy-karim-dinonaktifkan-usai-jadi-tersangka-kpk",
-      "summary": "Menteri Imigrasi Agus Andrianto menonaktifkan Wamen Silmy Karim dari jabatannya. Pihaknya mendukung proses hukum yang dilakukan KPK.",
-      "published": "2026-06-04T06:49:00+00:00",
-      "source": "Detik News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "KPK",
-        "menteri"
-      ],
-      "big": false,
-      "id": "67aacef666a8f11a"
-    },
-    {
-      "title": "SBY ingatkan pertumbuhan ekonomi saja tak lagi cukup",
-      "link": "https://www.antaranews.com/berita/5593787/sby-ingatkan-pertumbuhan-ekonomi-saja-tak-lagi-cukup",
-      "summary": "Presiden ke-6 RI Susilo Bambang Yudhoyono (SBY) menilai pertumbuhan ekonomi yang tinggi tidak lagi cukup menjadi ukuran ...",
-      "published": "2026-06-04T06:35:51+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "pertumbuhan ekonomi"
-      ],
-      "big": false,
-      "id": "fe760679a1d2b66e"
-    },
-    {
-      "title": "DPR ingatkan pejabat ikuti komitmen Prabowo soal pemberantasan korupsi",
-      "link": "https://www.antaranews.com/berita/5593781/dpr-ingatkan-pejabat-ikuti-komitmen-prabowo-soal-pemberantasan-korupsi",
-      "summary": "Wakil Ketua DPR RI Saan Mustopa mengingatkan kepada jajaran pejabat kementerian maupun badan untuk berpegang teguh ...",
-      "published": "2026-06-04T06:32:03+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "DPR",
-        "Prabowo",
-        "korupsi"
-      ],
-      "big": false,
-      "id": "b8f5af9472ebfa3d"
-    },
-    {
-      "title": "Rupiah dan IHSG Anjlok, DPR Minta Menkeu hingga BI Segera Intervensi",
-      "link": "https://news.detik.com/berita/d-8517600/rupiah-dan-ihsg-anjlok-dpr-minta-menkeu-hingga-bi-segera-intervensi",
-      "summary": "DPR mendesak Menkeu dan BI segera intervensi untuk meredam anjloknya rupiah dan IHSG. Cucun Ahmad Syamsurijal minta konsolidasi fiskal moneter segera dilakukan.",
-      "published": "2026-06-04T06:30:02+00:00",
-      "source": "Detik News",
-      "groups": [
-        "Government / Policy",
-        "Macro / Economy"
-      ],
-      "matched": [
-        "DPR",
-        "IHSG",
-        "rupiah"
-      ],
-      "big": false,
-      "id": "b85b7cae344c992c"
-    },
-    {
-      "title": "Menteri PPPA: Kekerasan seksual tak boleh diselesaikan secara damai",
-      "link": "https://www.antaranews.com/berita/5593767/menteri-pppa-kekerasan-seksual-tak-boleh-diselesaikan-secara-damai",
-      "summary": "Menteri Pemberdayaan Perempuan dan Perlindungan Anak (PPPA) Arifah Fauzi menegaskan tidak ada kasus kekerasan seksual ...",
-      "published": "2026-06-04T06:27:16+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "menteri"
-      ],
-      "big": false,
-      "id": "94a6969f0bccff48"
-    },
-    {
-      "title": "Daftar 8 Pejabat Imigrasi Tersangka Korupsi Izin Tinggal WNA",
-      "link": "https://metro.tempo.co/read/2106787/daftar-8-pejabat-imigrasi-tersangka-korupsi-izin-tinggal-wna",
-      "summary": "Penyidik KPK menetapkan delapan orang pejabat imigrasi jadi tersangka dugaan korupsi pengurusan izin tinggal warga negara asing. Siapa saja mereka?",
-      "published": "2026-06-04T06:23:25+00:00",
-      "source": "Tempo.co",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "KPK",
-        "korupsi"
-      ],
-      "big": false,
-      "id": "04edf1f3f16d3d11"
-    },
-    {
-      "title": "Waka DPR Prihatin Dadan dkk dan Silmy Karim cs Korupsi, Ungkit Pidato Prabowo",
-      "link": "https://news.detik.com/berita/d-8517571/waka-dpr-prihatin-dadan-dkk-dan-silmy-karim-cs-korupsi-ungkit-pidato-prabowo",
-      "summary": "Tiga mantan pimpinan BGN dan Wamen Imipas terjerat kasus korupsi. DPR prihatin dan mendukung penegakan hukum untuk memberantas korupsi di Indonesia.",
-      "published": "2026-06-04T06:23:07+00:00",
-      "source": "Detik News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "DPR",
-        "Prabowo",
-        "korupsi"
-      ],
-      "big": false,
-      "id": "d5b888991951664f"
-    },
-    {
-      "title": "98 Resolution Network: Kasus BGN Bukti Prabowo Zero-Tolerance Berantas Korupsi",
-      "link": "https://news.detik.com/berita/d-8517556/98-resolution-network-kasus-bgn-bukti-prabowo-zero-tolerance-berantas-korupsi",
-      "summary": "Aktivis 98 Resolution Network menyampaikan apresiasi terhadap Presiden Prabowo Subianto yang menindak tegas dugaan korupsi di lingkungan BGN.",
-      "published": "2026-06-04T06:17:52+00:00",
-      "source": "Detik News",
-      "groups": [
-        "Government / Policy",
-        "Macro / Economy"
-      ],
-      "matched": [
-        "Prabowo",
-        "apresiasi",
-        "korupsi"
-      ],
-      "big": false,
-      "id": "ea83a4d2fe8848d3"
-    },
-    {
-      "title": "Menteri PPPA imbau penguatan keluarga untuk cegah kasus kekerasan",
-      "link": "https://www.antaranews.com/berita/5593748/menteri-pppa-imbau-penguatan-keluarga-untuk-cegah-kasus-kekerasan",
-      "summary": "Menteri Pemberdayaan Perempuan dan Perlindungan Anak (PPPA) Arifah Fauzi mengimbau masyarakat agar mempererat hubungan ...",
-      "published": "2026-06-04T06:14:49+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "menteri"
-      ],
-      "big": false,
-      "id": "83ba7afcd1fa21b5"
-    },
-    {
-      "title": "Analis: Perlu respons terkoordinasi pulihkan rupiah-IHSG yang tertekan",
-      "link": "https://www.antaranews.com/berita/5593744/analis-perlu-respons-terkoordinasi-pulihkan-rupiah-ihsg-yang-tertekan",
-      "summary": "Senior Technical Analyst Mirae Asset Sekuritas Indonesia M Nafan Aji Gusta menilai&nbsp;respons terkoordinasi dari ...",
-      "published": "2026-06-04T06:13:03+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "IHSG",
-        "rupiah"
-      ],
-      "big": false,
-      "id": "fb2fde6e3dbc6be5"
-    },
-    {
-      "title": "Menkeu: 17 poin UU P2SK penting untuk pertumbuhan ekonomi nasional",
-      "link": "https://www.antaranews.com/berita/5593740/menkeu-17-poin-uu-p2sk-penting-untuk-pertumbuhan-ekonomi-nasional",
-      "summary": "Menteri Keuangan Purbaya Yudhi Sadewa menyatakan 17 poin pada revisi Undang-Undang tentang Perubahan atas Undang-Undang ...",
-      "published": "2026-06-04T06:12:44+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Government / Policy",
-        "Macro / Economy"
-      ],
-      "matched": [
-        "UU ",
-        "menteri",
-        "pertumbuhan ekonomi"
-      ],
-      "big": false,
-      "id": "32cc9d7a2edcb601"
-    },
-    {
-      "title": "Pejabat Imigrasi yang Jadi Tersangka KPK Dinonaktifkan",
-      "link": "https://metro.tempo.co/read/2106785/pejabat-imigrasi-yang-jadi-tersangka-kpk-dinonaktifkan",
-      "summary": "Kemenimipas menonaktifkan pejabat yang jadi tersangka KPK di kasus dugaan korupsi pengurusan izin tinggal WNA. Janji buka akses data dan dokumen.",
-      "published": "2026-06-04T06:12:14+00:00",
-      "source": "Tempo.co",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "KPK",
-        "korupsi"
-      ],
-      "big": false,
-      "id": "bf3fb260be1b2f0c"
-    },
-    {
-      "title": "Dugaan penyelewengan jadi alasan pencopotan pimpinan BGN",
-      "link": "https://www.antaranews.com/video/5593721/dugaan-penyelewengan-jadi-alasan-pencopotan-pimpinan-bgn",
-      "summary": "ANTARA - Presiden Prabowo Subianto mengaku sedih saat mencopot tiga pimpinan Badan Gizi Nasional. Keputusan itu diambil ...",
-      "published": "2026-06-04T06:10:23+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "b7aec8894cfc5361"
-    },
-    {
-      "title": "Palace to Oust Deputy Immigration Minister Silmy Karim",
-      "link": "https://en.tempo.co/read/2106778/palace-to-oust-deputy-immigration-minister-silmy-karim",
-      "summary": "The Presidential Palace will soon dismiss Deputy Minister of Immigration Silmy Karim after the KPK named him a suspect in a corruption case.",
-      "published": "2026-06-04T06:08:09+00:00",
-      "source": "Tempo.co",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "KPK"
-      ],
-      "big": false,
-      "id": "82d77d78c29754ae"
-    },
-    {
-      "title": "Rincian Barang Di-Mark Up Dadan cs: 21 Ribu Motor Listrik-32 Ribu Sepatu",
-      "link": "https://news.detik.com/berita/d-8517525/rincian-barang-di-mark-up-dadan-cs-21-ribu-motor-listrik-32-ribu-sepatu",
-      "summary": "Kejaksaan Agung ungkap dugaan korupsi dalam program Makan Bergizi Gratis. Sejumlah barang di-mark up. Tiga eks pejabat BGN ditetapkan sebagai tersangka.",
-      "published": "2026-06-04T06:05:29+00:00",
-      "source": "Detik News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "korupsi"
-      ],
-      "big": false,
-      "id": "66d3cd5bf7bfcd7f"
-    },
-    {
-      "title": "BI Kepri perkuat budaya literasi lewat bedah buku peringati Hari Buku",
-      "link": "https://www.antaranews.com/berita/5593720/bi-kepri-perkuat-budaya-literasi-lewat-bedah-buku-peringati-hari-buku",
-      "summary": "Perpustakaan Bank Indonesia (BI) Provinsi Kepulauan Riau (Kepri) menggelar kegiatan bedah buku dalam rangka ...",
-      "published": "2026-06-04T05:58:08+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "Bank Indonesia"
-      ],
-      "big": false,
-      "id": "e6c71eead6bf3479"
-    },
-    {
-      "title": "LAPI Dorong Jaksa Usut Dugaan TPPU Kasus Korupsi BGN",
-      "link": "https://metro.tempo.co/read/2106780/lapi-dorong-jaksa-usut-dugaan-tppu-kasus-korupsi-bgn",
-      "summary": "LAPI menilai Kejaksaan Agung perlu menelusuri dugaan TPPU dalam perkara proyek MBG di BGN. Eks Kepala BGN serta dua mantan wakilnya jadi tersangka.",
-      "published": "2026-06-04T05:57:56+00:00",
-      "source": "Tempo.co",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "korupsi"
-      ],
-      "big": false,
-      "id": "992850ce73895901"
-    },
-    {
-      "title": "Indonesian Rupiah Sinks To Fresh Record Lows As Fiscal Worries Intensify - Bitcoin World",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jSUZzV2lOX2Y2aC1MMmRoUXd2MnRhZHlaOEhqcC1mMXJVMG5odGxVN3U4aEhxWkxwR3Q0S0lET0hlTHVpN2xOTkJyMmxzWks3Tk9oTHNQT3dFY1BiblNqX0pleW96cVpiRWxzcDdfcE9VbF83N25xNjJ6U2FQdw?oc=5",
-      "summary": "Indonesian Rupiah Sinks To Fresh Record Lows As Fiscal Worries Intensify&nbsp;&nbsp;Bitcoin World",
-      "published": "2026-06-04T05:55:11+00:00",
-      "source": "Reuters – Indonesia macro",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah"
-      ],
-      "big": false,
-      "id": "97abc1baa343207f"
-    },
-    {
-      "title": "Indonesia to Cull Subsidiaries of State Power Firm PLN by 2028",
-      "link": "https://en.tempo.co/read/2106774/indonesia-to-cull-subsidiaries-of-state-power-firm-pln-by-2028",
-      "summary": "Danantara targets simplifying the business structure of PLN to increase operational efficiency.",
-      "published": "2026-06-04T05:54:49+00:00",
-      "source": "Tempo.co",
-      "groups": [
-        "Commodity / Energy Policy"
-      ],
-      "matched": [
-        "PLN"
-      ],
-      "big": false,
-      "id": "96e8b28669b15e02"
-    },
-    {
-      "title": "Ditahan KPK, Direktur Imipas Jaya Saputra Tutupi Wajah",
-      "link": "https://news.detik.com/foto-news/d-8517487/ditahan-kpk-direktur-imipas-jaya-saputra-tutupi-wajah",
-      "summary": "Direktur Imipas Jaya Saputra ditahan KPK usai ditetapkan sebagai tersangka. Ia tampak menutupi wajah saat meninggalkan Gedung KPK.",
-      "published": "2026-06-04T05:50:51+00:00",
-      "source": "Detik News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "KPK"
-      ],
-      "big": false,
-      "id": "e361b9783d6b1d46"
-    },
-    {
-      "title": "KPK tahan para tersangka kasus dugaan korupsi di Ditjen Imigrasi",
-      "link": "https://www.antaranews.com/foto/5593709/kpk-tahan-para-tersangka-kasus-dugaan-korupsi-di-ditjen-imigrasi",
-      "summary": "Petugas menggiring mantan Pelaksana Tugas Direktur Jenderal Imigrasi Saffar Muhammad Godam (tengah) menuju mobil ...",
-      "published": "2026-06-04T05:49:35+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "KPK",
-        "korupsi"
-      ],
-      "big": false,
-      "id": "a04a21265be793b9"
-    },
-    {
-      "title": "Mendag: Bantuan pangan akan disesuaikan dengan komoditas surplus",
-      "link": "https://www.antaranews.com/berita/5593703/mendag-bantuan-pangan-akan-disesuaikan-dengan-komoditas-surplus",
-      "summary": "Menteri Perdagangan (Mendag) Budi Santoso mengatakan bantuan pangan ke depan tidak harus selalu berupa beras dan ...",
-      "published": "2026-06-04T05:48:15+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "menteri"
-      ],
-      "big": false,
-      "id": "e25758620cc50f9f"
-    },
-    {
-      "title": "KPK tahan Wamen Imipas Silmy Karim atas dugaan pemerasan",
-      "link": "https://www.antaranews.com/video/5593673/kpk-tahan-wamen-imipas-silmy-karim-atas-dugaan-pemerasan",
-      "summary": "ANTARA - Komisi Pemberantasan Korupsi (KPK) menahan Wakil Menteri Imigrasi Dan Pemasyarakatan Silmy Karim dan tujuh ...",
-      "published": "2026-06-04T05:47:57+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "KPK",
-        "korupsi",
-        "menteri"
-      ],
-      "big": false,
-      "id": "de12f720f56d49e5"
-    },
-    {
-      "title": "DPR dorong pengembangan pariwisata jadi program nasional lintas sektor",
-      "link": "https://www.antaranews.com/berita/5593700/dpr-dorong-pengembangan-pariwisata-jadi-program-nasional-lintas-sektor",
-      "summary": "Wakil Ketua Komisi VII DPR RI Evita Nursanty mendorong pengembangan pariwisata menjadi program nasional lintas sektor ...",
-      "published": "2026-06-04T05:45:47+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "DPR"
-      ],
-      "big": false,
-      "id": "dfa33826f22d3c64"
-    },
-    {
-      "title": "Menteri Imipas minta jajarannya akomodatif dukung proses hukum di KPK",
-      "link": "https://www.antaranews.com/berita/5593697/menteri-imipas-minta-jajarannya-akomodatif-dukung-proses-hukum-di-kpk",
-      "summary": "Menteri Imigrasi dan Pemasyarakatan Agus Andrianto meminta seluruh jajarannya untuk akomodatif mendukung proses hukum ...",
-      "published": "2026-06-04T05:44:25+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "KPK",
-        "menteri"
-      ],
-      "big": false,
-      "id": "2b86353c77e17386"
-    },
-    {
-      "title": "Waka Komisi III DPR Minta Dadan Hindayana Dkk Dihukum Berat Biar Jera",
-      "link": "https://news.detik.com/berita/d-8517482/waka-komisi-iii-dpr-minta-dadan-hindayana-dkk-dihukum-berat-biar-jera",
-      "summary": "Tiga mantan pimpinan BGN ditetapkan tersangka korupsi program Makan Bergizi Gratis. DPR minta hukuman berat dan pengusutan tuntas hingga ke akar.",
-      "published": "2026-06-04T05:44:00+00:00",
-      "source": "Detik News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "DPR",
-        "korupsi"
-      ],
-      "big": false,
-      "id": "0e270849301c2287"
-    },
-    {
-      "title": "Diperiksa lebih 10 jam, KPK akhirnya tetapkan Silmy Karim sebagai tersangka",
-      "link": "https://www.antaranews.com/foto/5593695/diperiksa-lebih-10-jam-kpk-akhirnya-tetapkan-silmy-karim-sebagai-tersangka",
-      "summary": "Wakil Menteri Imigrasi dan Pemasyarakatan (Imipas) Silmy Karim memasuki mobil tahanan usai menjalani pemeriksaan di ...",
-      "published": "2026-06-04T05:43:29+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "KPK",
-        "menteri"
-      ],
-      "big": false,
-      "id": "5e630c63dcdad599"
-    },
-    {
-      "title": "Trump Bilang Akhir Pekan Ini Akan Ada Hasil Pembicaraan AS-Iran",
-      "link": "https://news.detik.com/internasional/d-8517478/trump-bilang-akhir-pekan-ini-akan-ada-hasil-pembicaraan-as-iran",
-      "summary": "Presiden Amerika Serikat Donald Trump mengatakan bahwa pembicaraan dengan Iran berjalan sangat baik, dan dapat memberikan hasil pada akhir pekan ini.",
-      "published": "2026-06-04T05:42:10+00:00",
-      "source": "Detik News",
-      "groups": [
-        "Geopolitics"
-      ],
-      "matched": [
-        "Trump"
-      ],
-      "big": false,
-      "id": "5f99e9ce3c475d4d"
-    },
-    {
-      "title": "Menteri Imipas Dukung Proses Hukum Kasus Silmy Karim: Momen Berbenah",
-      "link": "https://news.detik.com/berita/d-8517461/menteri-imipas-dukung-proses-hukum-kasus-silmy-karim-momen-berbenah",
-      "summary": "Menteri Imigrasi Agus Andrianto mendukung proses hukum terhadap Wamen Silmy Karim. Ia menyebut kasus tersebut jadi momen untuk berbenah.",
-      "published": "2026-06-04T05:37:44+00:00",
-      "source": "Detik News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "menteri"
-      ],
-      "big": false,
-      "id": "21419152aac215d3"
-    },
-    {
-      "title": "Pemerintah Segera Naikkan Harga Eceran Minyakita",
-      "link": "https://bisnis.tempo.co/read/2106775/pemerintah-segera-naikkan-harga-eceran-minyakita",
-      "summary": "Budi mengatakan, pemerintah tidak bisa langsung menetapkan besaran kenaikan harga Minyakita karena fluktuasi harga CPO.",
-      "published": "2026-06-04T05:33:43+00:00",
-      "source": "Tempo.co",
-      "groups": [
-        "Commodity / Energy Policy"
-      ],
-      "matched": [
-        "CPO"
-      ],
-      "big": false,
-      "id": "36955e8e0fc1b5e6"
-    },
-    {
-      "title": "Tiga eks pimpinan BGN tersangka korupsi MBG",
-      "link": "https://www.antaranews.com/infografik/5593505/tiga-eks-pimpinan-bgn-tersangka-korupsi-mbg",
-      "summary": "Kejaksaan Agung (Kejagung) menetapkan tiga mantan pimpinan Badan Gizi Nasional (BGN) sebagai tersangka dugaan korupsi ...",
-      "published": "2026-06-04T05:30:00+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "korupsi"
-      ],
-      "big": false,
-      "id": "c8dd589c37549ebb"
-    },
-    {
-      "title": "BRIN dekatkan hilirisasi riset untuk sejahterakan masyarakat desa",
-      "link": "https://www.antaranews.com/berita/5593676/brin-dekatkan-hilirisasi-riset-untuk-sejahterakan-masyarakat-desa",
-      "summary": "Badan Riset dan Inovasi Nasional (BRIN) menggelar kegiatan BRIN Goes to Villages&nbsp;sebagai wadah untuk mendekatkan ...",
-      "published": "2026-06-04T05:26:53+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Commodity / Energy Policy"
-      ],
-      "matched": [
-        "hilirisasi"
       ],
       "big": true,
-      "id": "133690c867100ec5"
+      "id": "21c298baf2b32437"
     },
     {
-      "title": "Prabowo Segera Copot Silmy Karim dari Jabatan Wakil Menteri",
-      "link": "https://nasional.tempo.co/read/2106773/prabowo-segera-copot-silmy-karim-dari-jabatan-wakil-menteri",
-      "summary": "Istana meminta agar penahanan Silmy Karim tak mengganggu layanan imigrasi dan pemasyarakatan.",
-      "published": "2026-06-04T05:16:00+00:00",
-      "source": "Tempo.co",
+      "title": "Puan Sebut Rancang Bangun APBN 2027 yang Dibawa Prabowo Jadi Pondasi Kesejahteraan Rakyat - Inilah.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSDFQa29OSGtKUTdxbmxRSE1oak9nX2k4MWhZY2NSeWNEdHYyUkF0U255eHN4N1FSV2NhUXNkZTVaWDlOMWdsOElNRDh6Q0FaRFpTT3lnY3dtWDVwcjYzYW90QnhpLTBWYkhkME9sODZua012TGlWOUFXcXBDLUJMaGQ0ZUhGMmlLMkFyN1dINzhfVlNXZkZYb3BYRks3SUtXUy16RTJKaHFnc1VycDZKbGx3?oc=5",
+      "summary": "Puan Sebut Rancang Bangun APBN 2027 yang Dibawa Prabowo Jadi Pondasi Kesejahteraan Rakyat&nbsp;&nbsp;Inilah.com",
+      "published": "2026-05-20T07:00:00+00:00",
+      "source": "GNews – Prabowo kebijakan",
       "groups": [
         "Government / Policy"
       ],
       "matched": [
-        "Prabowo",
-        "menteri"
-      ],
-      "big": false,
-      "id": "5c7c47a62fc6f671"
-    },
-    {
-      "title": "Pemerintah sepakat menaikkan harga eceran tertinggi minyakita",
-      "link": "https://www.antaranews.com/berita/5593668/pemerintah-sepakat-menaikkan-harga-eceran-tertinggi-minyakita",
-      "summary": "Menteri Perdagangan (Mendag) Budi Santoso menyatakan pemerintah akan menaikkan harga eceran tertinggi (HET) untuk ...",
-      "published": "2026-06-04T05:11:26+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "menteri"
-      ],
-      "big": false,
-      "id": "a3d8259ad5768246"
-    },
-    {
-      "title": "Prabowo: MBG dorong ekonomi desa dan sejahterakan petani",
-      "link": "https://www.antaranews.com/video/5593657/prabowo-mbg-dorong-ekonomi-desa-dan-sejahterakan-petani",
-      "summary": "ANTARA - Presiden Prabowo Subianto menegaskan program Makan Bergizi Gratis (MBG) tidak hanya bertujuan meningkatkan ...",
-      "published": "2026-06-04T05:10:43+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
+        "APBN",
         "Prabowo"
       ],
-      "big": false,
-      "id": "0fbf028b6fe7f7ec"
+      "big": true,
+      "id": "fe7ad8b5c65cce5c"
     },
     {
-      "title": "Rupiah breaches key psychological level as market rout deepens - The Straits Times",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVkhxTFZuMXAtOGxCQW1aVGJncW5YWUdTTDFBalVPeXVNU2V6bjMzSmh0Q2lKX0YzRHlnNHpwMDBzQmJOUjlvRFZrckpNUzhvSnNscWJGMUNZbnVfSDJlV0JObUtWbEJ0RU5uWGR0d2FveU1PZDRFTnlyTmp3dmhoT1pQLTRUVUVWUDlSNW5fVGk3R25RbFJqcnRZY0FZRE5OeTJnNjNiSklzUTkwNFUwZl9RTVVVQlpqNnJHbWpiczRZRkhfTjM2WThvbEN4dkk?oc=5",
-      "summary": "Rupiah breaches key psychological level as market rout deepens&nbsp;&nbsp;The Straits Times",
-      "published": "2026-06-04T02:14:00+00:00",
+      "title": "Bank Indonesia menaikkan BI Rate untuk menjaga rupiah dan inflasi - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQzRRS1hGdjR0M2RzMWwzWDRnSjRaRkpNTmtTQ1NhRTV4VktKRmFzbnExNTdiVFBuRFN0Qk5SelhpaklnNWxwaXdHN2p1SGZVOTU5aHNnVDdPVURsSTZzU3B6Vkc0OHhGYkFHUFc0XzdGX3NIb2dFcGF0YVFaaGtRMEx4Slg5WFVmbXpTSk03dl96ZjZJNHRZ?oc=5",
+      "summary": "Bank Indonesia menaikkan BI Rate untuk menjaga rupiah dan inflasi&nbsp;&nbsp;Traders Union",
+      "published": "2026-05-20T07:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "BI rate",
+        "Bank Indonesia",
+        "inflasi",
+        "rupiah"
+      ],
+      "big": true,
+      "id": "60c3e1f5ab33d9aa"
+    },
+    {
+      "title": "Rupiah Slide Past 17,600 Reflects Fiscal Risks, Not Monetary Pressure: Economist - Jakarta Globe",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSUZRNWhILXZrOElDbkVDR1Z6MHdlY0tEZmRlS3RhWjF5eko3bTg2YzY2MGNQWXNpak45N1hhVHZHbnl6aTQxWGFHTkxSUXpSbmVreHE1YjRPZWZuUWlWUlIwWG15enJ1dkotOEtuaUJLenk1M0d3VXoySzcxajdxcG43M1dfQnRBQkY4dUU0V0NoYThMQjNzMDZuaF9VZnVucEVpTHpoLUpXRUpkb2NN?oc=5",
+      "summary": "Rupiah Slide Past 17,600 Reflects Fiscal Risks, Not Monetary Pressure: Economist&nbsp;&nbsp;Jakarta Globe",
+      "published": "2026-05-18T07:00:00+00:00",
       "source": "Reuters – Indonesia macro",
       "groups": [
         "Macro / Economy"
@@ -2121,13 +2148,74 @@
         "rupiah"
       ],
       "big": false,
-      "id": "dbfaa35beb133bfa"
+      "id": "2fb5abaf1bc4ab64"
     },
     {
-      "title": "Tren BI Rate Indonesia dalam 5 Tahun Terakhir - Media Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY19SZnBFVkV1Y3l5LTd3N0IyVnR5TWpJanBzb1VzV1oybHBIQk1tdUNRRW5ERk1NdXF6Q3ZQWXZQQ2xQZEtsX1RvZ3FSWjhMdmlLaGdGU3pEZGJLOVJBZlEtNzVMN1lKTFZpdmJJeXFVNllxTG51dmFHTWFZUTE5blEtQWhwLXY3R3dzbA?oc=5",
-      "summary": "Tren BI Rate Indonesia dalam 5 Tahun Terakhir&nbsp;&nbsp;Media Indonesia",
-      "published": "2026-05-24T07:00:00+00:00",
+      "title": "Investor Confidence Tested as Rupiah Weakness Deepens Beyond 1998 Level - Jakarta Globe",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWFJMN085VWNYcDN0N1d5NzB5bFhyRm91QjJObFFCdEV2d09TdFpyVFNqTW9sQ0h4bG84ZGlWX0pEMnVKOE4tQWFqblgyZDEyMWE4Q1h0TGZuYXBhb2UzcmZ4V2M4MENrUkZVcHFoLTBZa2o5ZXQ0Qm9TUlVNbUNHX3dtam5XVmRaeTRVUnRFTWlmSjRaekI2VzVYLVItTlhiZGFlX0pMOA?oc=5",
+      "summary": "Investor Confidence Tested as Rupiah Weakness Deepens Beyond 1998 Level&nbsp;&nbsp;Jakarta Globe",
+      "published": "2026-05-15T07:00:00+00:00",
+      "source": "Reuters – Indonesia macro",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "rupiah"
+      ],
+      "big": false,
+      "id": "cbc402b822c4da92"
+    },
+    {
+      "title": "BI: SRBI Tembus Rp 885 Triliun Ikut Topang Penguatan Rupiah - InvestorTrust",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcm5uREJFT1hMcWtLblpsRmdwc0diS0dST2N6aU5uNnoxcV9SQ1MyaXpzSkYwLTVqX2xlN1lrb0N0eTBwWFZpdk1CemVLVzBmMEZEd0VBbmdrTUxaSmJGb09jWmNZUW51NmVwdnhabUNNLTh0Q0V5cEdKWGNkVEhCNDFwTHF2dnRWblBYSmtCTVp2VGRhbGtDQ2RYSkk?oc=5",
+      "summary": "BI: SRBI Tembus Rp 885 Triliun Ikut Topang Penguatan Rupiah&nbsp;&nbsp;InvestorTrust",
+      "published": "2026-04-22T07:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "rupiah"
+      ],
+      "big": false,
+      "id": "68efb9e8c384e1a7"
+    },
+    {
+      "title": "Prabowo: APBN hemat Rp308 triliun hasil pangkas belanja tak produktif - ANTARA News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTDFXZjlSTFdSTTFuVnVBU3JMZWlCeWFILWhIQjhhYmNsTTcydGlBUGJmYU5tY2tZMURhMHRHempwY2poXzlVdFluLTJsZ0o4Y0s2Wk9WUHlLN3ZLWmt3TVJrR19VbEhZNXlabTMtOWFtQUU1S2V3eHU4V1B0NVhDd1hfZ3dFQ1dBYmF5M01GMWRzaEtmV1V4aENJZmlCbTJFOXhBdXVUQ0hVSzlDX1Fv0gGyAUFVX3lxTE91RElqRFh6NUhRZXNOdjZma01XeWc0eTFWbWpzSkpLN083Q0hzc3RDQWVTbTYwRHc0V2xxd19kengwMFZzX0RhQVdvR09fZlJnZWhyMFFQc2JpSEk4WHA5czU0Vi1BTXMxVGgxeFB3NTZQXy14ZGk5a093cXNyOXNFVEI1S1VvelFnRFlGUmZRUDdOSzk4V2dGNXczUmZyanp2YkRNckZvRFR3M2c3cXlSeHc?oc=5",
+      "summary": "Prabowo: APBN hemat Rp308 triliun hasil pangkas belanja tak produktif&nbsp;&nbsp;ANTARA News",
+      "published": "2026-03-19T07:00:00+00:00",
+      "source": "GNews – Prabowo kebijakan",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "APBN",
+        "Prabowo"
+      ],
+      "big": true,
+      "id": "b6eb85df4a698470"
+    },
+    {
+      "title": "Indonesia tightens FX rules, supports rupiah with hawkish hold - The Edge Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBucmU3U1VXWlhNLVBfNjdhUU9kQU90ZGFXZk9HaVJFdGRGTjQwZTg4NS04NWZSaEh5NGk5MlJsUDQzLVVYUWZ3LWw4Um4yaWdY?oc=5",
+      "summary": "Indonesia tightens FX rules, supports rupiah with hawkish hold&nbsp;&nbsp;The Edge Malaysia",
+      "published": "2026-03-17T07:00:00+00:00",
+      "source": "Reuters – Indonesia macro",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "rupiah"
+      ],
+      "big": false,
+      "id": "2d2f2c0799c584d3"
+    },
+    {
+      "title": "BI Rate Tetap Bertahan di Angka 4,75% pada Desember 2025 - Pajakku",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbS02V1ZxcEJIdnJJdGZMUUFWbm42dEF3bUk4N25jY0xxUlBFeTdFZEFXdHZObG9ySHJhY2NqZmo4N0pGUW95TTdLT3p2eldZcGdpZ214UGI3ZDgxZjVBUmhONVlrQWVYbU1TanY3b2VicHQyMGFSdmpsSDJKT1JOMjFFMmhnM21Hanc?oc=5",
+      "summary": "BI Rate Tetap Bertahan di Angka 4,75% pada Desember 2025&nbsp;&nbsp;Pajakku",
+      "published": "2025-12-18T08:00:00+00:00",
       "source": "GNews – BI rate rupiah",
       "groups": [
         "Macro / Economy"
@@ -2136,127 +2224,44 @@
         "BI rate"
       ],
       "big": true,
-      "id": "42408b5b6923b6e7"
+      "id": "bdb37e23fb8edb9c"
     },
     {
-      "title": "BI Rate Naik ke 5,25 Persen dan Sinyal Stabilitas Rupiah - Pojok Papua",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXRzlOd3VUUEJuWm9OSzNwM1VVM0FleFgtUzFzT29Mdkt0RU1GZndPamdVM09ENkJhWUxTdVlNT0JGaGpjamhnTUNFeEdnelhKckUxVW1WbWloOXVZMVFTSndFTmd2aTA?oc=5",
-      "summary": "BI Rate Naik ke 5,25 Persen dan Sinyal Stabilitas Rupiah&nbsp;&nbsp;Pojok Papua",
-      "published": "2026-05-21T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
+      "title": "Bank Indonesia seeks rate cuts while balancing stability, growth - The Business Times",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOEF6VWpQaVRKUHBINFdPalctMjM5YUVoY192YlJPMG9SSmo2RWFkNVVGMEkxOTJpellZRm0td1BFSDNzRmNBZkxuR0NvYnFTelFyYkxaZ1pzUXFELXd6bGtHdjhrcEpxY1d2TXR6VDdVOXdmZkR4dVMzeE1pMlNxUUkyaWZieERKTGUzTi1mRmtPcnVjaHRBdnR4M3FRYm9iRHlkb2RIbHZuMkNrNjZmYzZWbk5YZkk?oc=5",
+      "summary": "Bank Indonesia seeks rate cuts while balancing stability, growth&nbsp;&nbsp;The Business Times",
+      "published": "2025-11-29T08:00:00+00:00",
+      "source": "Reuters – Indonesia macro",
       "groups": [
         "Macro / Economy"
       ],
       "matched": [
-        "BI rate",
-        "rupiah"
-      ],
-      "big": true,
-      "id": "2423bffcb9ccc6a2"
-    },
-    {
-      "title": "Suku Bunga Acuan Naik, BI Yakini Pertumbuhan Ekonomi di Kisaran 4,9-5,7 Persen - BALIPOST.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMHNnWmREdDUwclB6MDBlRTVCeVlBek1RUW53aVVyV1htQzNfeWctV1JjOHdFNjA5TC1fbXRNSGZIdEpoa19mTlF2eXFKWFVLT0VsUnRUVHF6SmR2bTVyZXhGTXpyQVVkeE5oYjVGZHFHTkZTTGR1bXB0cThyWmIwMUxUT1QtQQ?oc=5",
-      "summary": "Suku Bunga Acuan Naik, BI Yakini Pertumbuhan Ekonomi di Kisaran 4,9-5,7 Persen&nbsp;&nbsp;BALIPOST.com",
-      "published": "2026-05-20T13:11:14+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "pertumbuhan ekonomi",
-        "suku bunga"
-      ],
-      "big": true,
-      "id": "5c5618307eb6aeec"
-    },
-    {
-      "title": "Rupiah Terpuruk Dalam, BI Kerek Naik Suku Bunga ke 5,25 Persen - Kompas.id",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13Qk40YWJjY1pkclAyMmNSRDNWb3JWRmNfV09VNkhTR21FNGd1X01VcEZCeXJTMkh2MUhxQkh0R3dDRXd2eTZ1SmVxWlF1ZEZBWUtLaXc3NDNjVjFwOFE4bUFsY2tNX0taTWJNbkNMSjNjTGpGX2pkMy1sT0Rub00?oc=5",
-      "summary": "Rupiah Terpuruk Dalam, BI Kerek Naik Suku Bunga ke 5,25 Persen&nbsp;&nbsp;Kompas.id",
-      "published": "2026-05-20T08:28:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah",
-        "suku bunga"
-      ],
-      "big": true,
-      "id": "84b239abb231e918"
-    },
-    {
-      "title": "BI Naikkan Suku Bunga Jadi 5,25 Persen, Sebut Rupiah Fokus Utama - KabarBursa.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY3N2SGVGSnROWXF2d3dBY2ZhdVZXWnNSZzZzLVAyQTUwMnk3ZW93UWhhV0dOejF3SEl4OWhpVHk3cmpIX1ZYdWpSVFZELWwwM2tMeVdHNlcxbkZwT24xRktRemhLaXBSMUtldF9uekYwZ1dBNDA4d3BCNnFyYXFfSUZMWnFQX2JPWlBsTmxfby1MYlpLZnd3TWlpYw?oc=5",
-      "summary": "BI Naikkan Suku Bunga Jadi 5,25 Persen, Sebut Rupiah Fokus Utama&nbsp;&nbsp;KabarBursa.com",
-      "published": "2026-05-20T07:52:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah",
-        "suku bunga"
-      ],
-      "big": true,
-      "id": "1f8520fa0e2d03c1"
-    },
-    {
-      "title": "Bank Indonesia Naikkan BI Rate ke 5,25 Persen Mei 2026 - CNN Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbEh6SWFreVdpRFpxQXF0Y1N4WElWbThpSGNqakM1eVNSazBoeGhiTkIzejZUdlN4c0hYeWEwQTBfTTRhRXFacE1wRnFWTm1jdnVZaDJqZGxXNDRwcWpqVjB3Z2FlckJTMHRZRzB6VHM3R3FOaFdQcldZUTJTSkh3Nm5nN3VlMW1RX1dGQXFscDhDTkM5RUs2S2tzc3gyTHV2OV9PekhKN1drdmc5aUxFZTU5T2ZUVEHSAbwBQVVfeXFMUGZlZ21LUTVOSHBlS3Z5V1l5N2dMT1VlNWE2LTM0UXVGSUF3VVRMOHVPN0FkamRkQjVMMi0wWnBEM2lJZnlnT0xrNmtQYlIxVWhHanFZcjlXMnF0SnUtYnBGd25LR2FKNTh1Sk1qdlU4SWdibFNzUTU3QTc5YVpWYlhhbzEwX0NkRmw0TV9UUE5sdDU2eVdfY1dsS0Z3UnB3LTA5Z2g2NWFWMlNmdEhEUTFuY3pZV0pJMGY2UVk?oc=5",
-      "summary": "Bank Indonesia Naikkan BI Rate ke 5,25 Persen Mei 2026&nbsp;&nbsp;CNN Indonesia",
-      "published": "2026-05-20T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate",
         "Bank Indonesia"
       ],
-      "big": true,
-      "id": "87ff0e25b2f658c2"
+      "big": false,
+      "id": "fcb542ff0a01c870"
     },
     {
-      "title": "Andalkan APBN, Prabowo Bidik Pertumbuhan Ekonomi 8 Persen di 2029 - RCTI+",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYUNFLVRDdC1VbkpMVTZvelRucDdub2tVSVZJXzJHM1ZsZjdwdGxvMlU4bFdIZm5rRi1ZTERrX2syUk5LN056eHdQdDg2QnNhdVlVbWFmMDgzUFZlTlJ5SHVWbVo1RW1TM3dpUkxZRE5NLXNWZ0ZoY01TNEloWUFrS0hHc2IyZl9obldNWnNYVlctYTJWaGRKMkVLWFBlUHhpbkRTYnNCZXdvSDN5YlRjem5HTmNjS0ppY3c2RU9B?oc=5",
-      "summary": "Andalkan APBN, Prabowo Bidik Pertumbuhan Ekonomi 8 Persen di 2029&nbsp;&nbsp;RCTI+",
-      "published": "2026-05-20T04:40:05+00:00",
-      "source": "GNews – Prabowo kebijakan",
+      "title": "Indonesia to inject 200 trillion rupiah into economy to spur growth - The Business Times",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVWM3OUU2NW9KbVlhaGJTRHQ4VFBKUVlQOFJWR2w3VWlvbGpCemx4UnhOY1ZxbTEwczk3b3BzN2ZSS09qNHZNbzdjZkxHMTFDU0V6bG9rRDRDbWEwM085dG9fd1llVGZPTVV5RDFBZHZDc1FwTFJIUG9lR3daZnFrNjZsZTQ3ZVc1cDJ6TmZmcEEwSGRDSlBFZmViUnFjdV9IUGdSaWlYWl92VFBPdEE?oc=5",
+      "summary": "Indonesia to inject 200 trillion rupiah into economy to spur growth&nbsp;&nbsp;The Business Times",
+      "published": "2025-09-10T07:00:00+00:00",
+      "source": "Reuters – Indonesia macro",
       "groups": [
-        "Government / Policy",
         "Macro / Economy"
       ],
       "matched": [
-        "APBN",
-        "Prabowo",
-        "pertumbuhan ekonomi"
+        "rupiah"
       ],
-      "big": true,
-      "id": "13957e86ef67dda4"
+      "big": false,
+      "id": "0b6590bfbb583584"
     },
     {
-      "title": "Respons Purbaya soal MBG dan Kopdes Disebut Membebani APBN - Tempo.co",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYkhlMDJwT3ZuQ19kazZ4azlBS0c3Zy05cTBkZ1JscERnbG5tVUZzU1BVeW5jNU1GcEd3VmxlOGdBSV81Q1hjREowRktrTzhIT2p2Tk5kUVF3U01qb0F2amNvUDU4RkJDTjNraGZGQ05FdjFtU2R4THozeFVrSWdISDFHd2JxMkx2QnB4MkVzRk5FU2JHRE9kckZ3Zw?oc=5",
-      "summary": "Respons Purbaya soal MBG dan Kopdes Disebut Membebani APBN&nbsp;&nbsp;Tempo.co",
-      "published": "2026-05-18T07:00:00+00:00",
-      "source": "GNews – Prabowo kebijakan",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "APBN"
-      ],
-      "big": true,
-      "id": "0ebe90ac0f32d30d"
-    },
-    {
-      "title": "Risiko Mengintai Bank Himbara di Balik Wacana Guyuran Kredit Murah 5% Prabowo - kontan.co.id",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdk9wZFRDa2E4RXBGbTZBN0JrQUhnNFQyWF9wNG1qN2lTSUstZlBIQmZCd25DVXRGaERDWWtpUWQ1TnI4azV0MnNTR1NQVEF0eWRsdFhLc09FZ1lHc011YndlWFBaWDhRM3I0dEpzczZqajgtRm02RzdiUVlpcHprbmFydUpPUnFoRVg3OG92azBxOG5HV0ltRWxfdjJ5SUVrcEZWX0pRM2Y1UjZoeS00b9IBqgFBVV95cUxOdjk1ckFQR2haMi1zVVJvTlliRzF4d0lFT1hTQks4RjVHY0lkOUV2NFk0TGtEcXBYa0d3eTBpTEhpdVhkUWQ3bDNrZXZFaVlodV9ib0FJNFdnVXF1Z2FJNzhPNnM5Tm1FSExtX3V6Nld5dTB2UzlHbDJFWGt1eVl1MERERVh3bEVxc1AyUTlnR3VWaDFmSDhtOHRqVmU2QXp6eVRIbHRxTnJrQQ?oc=5",
-      "summary": "Risiko Mengintai Bank Himbara di Balik Wacana Guyuran Kredit Murah 5% Prabowo&nbsp;&nbsp;kontan.co.id",
-      "published": "2026-05-04T07:00:00+00:00",
-      "source": "GNews – Prabowo kebijakan",
+      "title": "Indonesia: Prabowo’s populism clashes with economic realities - Lowy Institute",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa1c4TW53MzFYdjZBU2xINHhGcFBsRWlZak12cWZ4aXdCVGpuQ1VHN3Qyd2xINTJmeVVUY2dIVG9kdVZyamRaWUcySFE1Z25rNnNmbVZmT0puWjJNd0tMTUZUNVpjaF9rdzNHRzQ3NFgyaEloRzBrQ3FHLU9aUkF6LXdvTGgwNnpudEZXT0VBZm5lUGJsUHdLSjc0SWpFVTZYX1pN?oc=5",
+      "summary": "Indonesia: Prabowo’s populism clashes with economic realities&nbsp;&nbsp;Lowy Institute",
+      "published": "2025-07-08T07:00:00+00:00",
+      "source": "Reuters – Indonesia macro",
       "groups": [
         "Government / Policy"
       ],
@@ -2264,43 +2269,30 @@
         "Prabowo"
       ],
       "big": false,
-      "id": "3a3f88365da99c06"
+      "id": "f9fd499698a985d7"
     },
     {
-      "title": "Bank Indonesia Reassures Global Investors on Policy Stability - Tempo.co English",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeTJPSi0wMzBLRWQ3TjY5b3VXVzZaRGZYenhaVjhlSlpzUy1kMDN4Mkk5SmY3RkU5T1pGNjIzNTFZSHhPSFhjSmZ5NHVWb2dUWXJDTkRPalFvTUI4ZV9SNFNEelhrWVloNS1ya3V5LVFycUlvTnQycTh3YW1DM2hZOEVOSTdpNmI3b2ZlcHpSNm5mY3NjM0h0cURR?oc=5",
-      "summary": "Bank Indonesia Reassures Global Investors on Policy Stability&nbsp;&nbsp;Tempo.co English",
-      "published": "2026-04-15T07:00:00+00:00",
+      "title": "Indonesia’s Rupiah Falls to Lowest Level Since Asian Financial Crisis - The Diplomat – Asia-Pacific",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZkxqZ2xFYTV5bUM2QWY2YWVlZXFJVTdwVmdNbnV0OW9VNkFZd3RGT1NMSmtIZkFFdTl5UXQ3VlFfWkVpeGUwLXVhZTJncGhmcFB0Z3lwVWhwb3RwQ0pydmJKdVJFZ2RFeGswSDBiQ29Md1ZXX2dYckF5c2ZqaDZXQnhLZ3VUR01udTRIWVRkZVJiZE1xSlZfRF8wUkpoTmQtLUJV?oc=5",
+      "summary": "Indonesia’s Rupiah Falls to Lowest Level Since Asian Financial Crisis&nbsp;&nbsp;The Diplomat – Asia-Pacific",
+      "published": "2025-03-26T07:00:00+00:00",
       "source": "Reuters – Indonesia macro",
       "groups": [
+        "Financial Crisis Signals",
         "Macro / Economy"
       ],
       "matched": [
-        "Bank Indonesia"
-      ],
-      "big": false,
-      "id": "9d1aae4b9c97a6e8"
-    },
-    {
-      "title": "Suku Bunga Acuan BI Tak Berubah, Tetap di 4,75% - detikFinance",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMW5xdUk4LTZobHJhQWpPY0psMnM2VWx6ZEdMTzNVSFM1dzdTcmxoT0tUbDJOVDNEenpxbTBaSWJraDM0T1BYVkdwcUYxYUFCVlNlbS1UbENva2FoUlg0QmRqMnJaMUFyeUdYVWhQMXF6VUs3bEo2NzJUSmNEcE5yZkIwb1hpME9Lc3AxcDZ4ZV9KLVnSAZgBQVVfeXFMT2lOSEtReXM5c1BRbWFoYVBEaGc5NlhuYTZTS1NYRm1rQ3FCS3JUdFZwZGM3N2tJMnJGVElUSnVHYklaUWs1ckQxMHZtbGFRQXI5LWEwMlNtdjdGRFQ1QXhqazRVRzRaQ1dnTEdGNm1fNEJucHp4YlAxOXY4NFFnbkhUd3JLbFpRRExmcElOdW93Qy1GNHhVMS0?oc=5",
-      "summary": "Suku Bunga Acuan BI Tak Berubah, Tetap di 4,75%&nbsp;&nbsp;detikFinance",
-      "published": "2026-02-19T08:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "suku bunga"
+        "financial crisis",
+        "rupiah"
       ],
       "big": true,
-      "id": "c0764d47ce005a8d"
+      "id": "54762b464dc5bae7"
     },
     {
-      "title": "Rupiah Weakens Despite Solid Q3 Growth, Fed Policy Keeps Dollar Strong - Jakarta Globe",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVWZyMnVkdWtNbXlmOEgxdVRla3VBakRSal9ZZ2hFYzR1RkpCVTFIMzJaUGEzako5ZmJXUmhuOXdUT0NBd3NlYVZfNzZURDNoUHdTNXJaVkFmbWdZU2NVajFPaEdwVnRrWVIxaGZDbDJjMkwwOWZmNzY2cTMwdmlmaDdjSXRLdWltdGVFYWxvNDVvYmU0c210dFFBZUw2VmRzZVVUbw?oc=5",
-      "summary": "Rupiah Weakens Despite Solid Q3 Growth, Fed Policy Keeps Dollar Strong&nbsp;&nbsp;Jakarta Globe",
-      "published": "2025-11-05T08:00:00+00:00",
+      "title": "Indonesias new forex regulation can help strengthen rupiah: IBC - ANTARA News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU3B6V1AyZ1BUd3FtS05DTDZqR3BzV2s3VXVmeE9PQU8yUWdyT3ByZzhpZ205eE4yZVpJc3VUTWVfVjR2T3Ftd0JyZzNSWVo1NWRSbk13cEFmanVrbTk2YVJ1QW5kMXpuV081VWxKdXZtTDczTGJFZUNleGRLS0xGTW5PcU5rYmVkWjYtdWRVNWtBR0k2aXF6YlZyZnpiTTNWQVHSAacBQVVfeXFMTXMyMnZMWE5Vb3pwT3lORjBrNkxhQUR4V2hLU090MzFxWGZSby1PXzRSRVpDMDlWWU1TUDVpTkZkZEpGNnR0VmNkTHZ5djl6X2JVWnpSZ09zWWFiY0FvUC13RGQ1VDZiSlRpUk9uMlF1emtSQnJEUWFuZ3FoX0RhOW9ad1VRajR0dkxRaFZZaXlnSmZ3ckhkUUVXQjlOOGxpYWFHZ00xOTg?oc=5",
+      "summary": "Indonesias new forex regulation can help strengthen rupiah: IBC&nbsp;&nbsp;ANTARA News",
+      "published": "2025-02-18T08:00:00+00:00",
       "source": "Reuters – Indonesia macro",
       "groups": [
         "Macro / Economy"
@@ -2309,13 +2301,13 @@
         "rupiah"
       ],
       "big": false,
-      "id": "b30cf0fe3551f7b8"
+      "id": "9f20318da4a943db"
     },
     {
-      "title": "Rupiah Depressed, IPB University Economics Expert Outlines Factors Causing It - IPB University",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcGtHeklmcmNiR1RyLTZMZ2FmOHdnRFotWVN5MURLdk52OGR0c1BOb1BzOTZmTVJZTFdSZ2pRbHNSU0FFVDROTGJucUNWRGNFN3pmcEdsRXcwWXRMME93M1JhSUphZWx6QVVfUG1RTnFSWWswbnBlX3lNVzBzQUJEeVdYZVpZTzhNMFhfNDl1cjdLMXE1eURkN1NNMU5ZTXlDeTZjTDk2cTBoQ2Y5dnhBQ3lxeGRlWk54TFE?oc=5",
-      "summary": "Rupiah Depressed, IPB University Economics Expert Outlines Factors Causing It&nbsp;&nbsp;IPB University",
-      "published": "2025-04-22T07:00:00+00:00",
+      "title": "Indonesia: Rupiah May Have Rallied, But Jakarta's Policy Decisions Still Bear Scrutiny - Asia Society",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYUFiT3I5X0FxUDI2OThNWGJuQTdSYU0zUVAxc3g5c3VxRUJ2WGVrazhCeEdraGZMNnFGdmJGRENkbEJSZzMwTXZTdGVyOHNfVjlWdi1tTG8wbi1Sa2NUcS1OR3M3c1NkMlZ4cGxtWHdXeFIzek90T2xiN0hIWEVfejFuS1ZDeWZrZExWMElYb2R4V29wUUJQbURZcE53dEZpb2t2Q1UxUUcyQzBkSWhaVjRlVQ?oc=5",
+      "summary": "Indonesia: Rupiah May Have Rallied, But Jakarta's Policy Decisions Still Bear Scrutiny&nbsp;&nbsp;Asia Society",
+      "published": "2013-10-08T07:00:00+00:00",
       "source": "Reuters – Indonesia macro",
       "groups": [
         "Macro / Economy"
@@ -2324,7 +2316,7 @@
         "rupiah"
       ],
       "big": false,
-      "id": "e9df4d7f21d6cf2d"
+      "id": "822c5149853d969e"
     }
   ]
 }

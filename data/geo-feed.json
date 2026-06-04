@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-04T21:10:30.061101+00:00",
+  "updated": "2026-06-04T22:47:56.844266+00:00",
   "count": 150,
   "items": [
+    {
+      "title": "Trump Sebut Dirinya Sarankan Zelnsky Bertemu Putin Untuk Akhiri Perang",
+      "link": "https://news.detik.com/internasional/d-8518613/trump-sebut-dirinya-sarankan-zelnsky-bertemu-putin-untuk-akhiri-perang",
+      "summary": "Presiden Trump menyambut baik usulan Zelensky untuk bertemu Putin. Dia dia mengklaim telah menyarankan Zelensky bertemu Putin untuk mengakhiri perang.",
+      "published": "2026-06-04T21:57:41+00:00",
+      "source": "Detik News",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "7307ace9e6b9f92f"
+    },
+    {
+      "title": "US defence secretary compares Bolivia protests to government ‘overthrow’",
+      "link": "https://www.aljazeera.com/news/2026/6/4/us-defence-secretary-compares-bolivia-protests-to-government-overthrow?traffic_source=rss",
+      "summary": "The Trump administration has supported Bolivian President Rodrigo Paz after his electoral victory over left-wing MAS.",
+      "published": "2026-06-04T21:01:12+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "be6793cc70dc814d"
+    },
     {
       "title": "Genjot ekspor langsung, Kaltara siapkan insentif klinik ekspor",
       "link": "https://www.antaranews.com/video/5594947/genjot-ekspor-langsung-kaltara-siapkan-insentif-klinik-ekspor",
@@ -1857,6 +1887,22 @@
       "id": "c5c3977d0c544b77"
     },
     {
+      "title": "Komisi III-Pemerintah Lanjut Rapat RUU Polri Senin Depan, Bahas Usia Pensiun",
+      "link": "https://news.detik.com/berita/d-8518025/komisi-iii-pemerintah-lanjut-rapat-ruu-polri-senin-depan-bahas-usia-pensiun",
+      "summary": "Komisi III DPR RI membahas revisi UU Polri, termasuk perpanjangan usia pensiun. Rapat dilanjutkan pada Senin depan.",
+      "published": "2026-06-04T09:57:39+00:00",
+      "source": "Detik News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "DPR",
+        "UU "
+      ],
+      "big": false,
+      "id": "56ee0305be4d6a0b"
+    },
+    {
       "title": "Heboh Sapi Kurban Prabowo Pakai APBN Rp100 Miliar, Netizen Soroti Transparansi dan Nama Presiden - Suara Desa",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMkF3amdVOHVta0sxYnkwVUVYWjBEbFNOMGg4Z29VS3lKM0IxclNYN0hUd3NGUFdOeGFDQlNzNzhHSHZlb2tCUE5GdXBXaUUwTGNzYXRlRUtCQ1ZBZi02dTV5X0NKMlZYc2EyVFdWaEtuWXUwYi1QOFh4aEY3dmc0VUQ3cm1uTnI3Y1JTaW1aUWl1QkN6dndHSDNNMkNRbXRjeHBDN2dCMXBteUlJUWl4cVk4eVNydmlEVHM5eWNlaUpEWF9WZ0dlV1VB?oc=5",
       "summary": "Heboh Sapi Kurban Prabowo Pakai APBN Rp100 Miliar, Netizen Soroti Transparansi dan Nama Presiden&nbsp;&nbsp;Suara Desa",
@@ -1936,6 +1982,21 @@
       ],
       "big": true,
       "id": "2423bffcb9ccc6a2"
+    },
+    {
+      "title": "Sejarah Langka, Hanya 5 Periode BI Menaikkan Suku Bunga 50 bps, Kapan? - CNBC Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ1I3MjBRbmlFdmZEVE5FUzRIeGtXb0lmYlc0UmRYeHlmQ1R4TFh6cE5kNF9yQ1JBTHA5Y2VZUndDeGI3OTNoUnhib0hsTU9pSGEwRktTTWlWSGlvVlFoblZhTmlQWEhXcDhuZF9sV0w3dksyMkJkaVZZSW1lSDJMWGxGM1MxVVF5eUdYV19kWldKMXljNkxRdHJWNGFvU3A3NnF4NXdoN3QzTWFyWEQwY0Y5VWFNOG5KYXhmM3RfUzQ4QnBqTXRQbmg0RUs?oc=5",
+      "summary": "Sejarah Langka, Hanya 5 Periode BI Menaikkan Suku Bunga 50 bps, Kapan?&nbsp;&nbsp;CNBC Indonesia",
+      "published": "2026-05-20T07:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "suku bunga"
+      ],
+      "big": true,
+      "id": "5b3bac5702829c80"
     },
     {
       "title": "Breaking News! BI Rate Naik Jadi 5,25% di Mei 2026 - CNBC Indonesia",
@@ -2267,70 +2328,6 @@
       ],
       "big": true,
       "id": "0d0c3f1e470aeeb1"
-    },
-    {
-      "title": "Bank Indonesia Pertahankan BI Rate 4,75%, Fokus Jaga Stabilitas Rupiah - kontan.co.id",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcktub05kTkhlZm1FWlFxdmhHOXFxaDNGVHg1T0RRWmhpTWJ1TDZ4VmhmOF8tUThJclJyRGwtdExiTE1tUk5SUzBTdkdkbnI2X091VG1qS0ZsM0dOSDJfU1U1TjktcFZreTgwVTZTN1h3aDZOSnQwdzlnenRCZGx0YkhRZ0wzLUdKMnFKLWJxcXhsaXE4UU9DamhGTFFmNHhlMEowaNIBngFBVV95cUxNMkM2SW93YXFKZDNNT2k4RG13NVdmWm1wZHRIWWVESzl3Y09NUC1VZ1BtcmI1emdLSXJzMTl6NzR4eXp4N2Qwa1BoNHYxOVNXdElsX21Ub2Z2TlpmOUc2Ym10R2dXZmZVWDk0ZjRFUmpqQUhSMVQ1dm83dE9PVXl0UTdEOTFLNC1OelZfUXQzandNNnh0Y04tYXhhUmhjdw?oc=5",
-      "summary": "Bank Indonesia Pertahankan BI Rate 4,75%, Fokus Jaga Stabilitas Rupiah&nbsp;&nbsp;kontan.co.id",
-      "published": "2026-01-21T08:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate",
-        "Bank Indonesia",
-        "rupiah"
-      ],
-      "big": true,
-      "id": "3ac5b80745e2a0a2"
-    },
-    {
-      "title": "Bank Indonesia beri sinyal pemangkasan BI Rate 2026 - IDNFinancials",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTUl6aW9nVV9NZTJqSlBRcDRrb3R0b2Y5RHY5QXJGd0kyeXozazRnWVptZ3FrdUxMd3lFaDhvUE1WTXYwMjhRRkVwYTFHNG1hYUZ1X0FwaXFsSkpDRGtVaUFBZjRHTmF6QVpkaVZ3NWVpRTFYOEJxZXh3RENadDRFR1JWbDJCdjhUR3BhSm5DSmFvYUlmQ0g4ZGxuSQ?oc=5",
-      "summary": "Bank Indonesia beri sinyal pemangkasan BI Rate 2026&nbsp;&nbsp;IDNFinancials",
-      "published": "2025-12-17T08:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate",
-        "Bank Indonesia"
-      ],
-      "big": true,
-      "id": "846d3683ce20eaeb"
-    },
-    {
-      "title": "Ternyata! Ini Alasan Bank Indonesia Tahan BI Rate 4,75% di Akhir Tahun - CNBC Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYWFXTFRvOHJGTFRyRHZBUll2cTB0Q3dpZEpLdXdXUVpRNDZSWExXa3AwYU44V0l2WTljNUxnMGxFTnJISTMwcVVIREkzSmY1QTEzNUkxaXBlMjZwR3RGMUh3ZzlnMWk4bHBOdWRFQWZDeEhieXNmQm9BUm0tck15UEljbkpKWXBpQUJzMUJvVDFHNnNuQ2hEZlI3U256UGxZRWczdUhqaUtPelloSTcyQXhRajZfXzQwYl9FNExaSkNyWHF2MzhxStIBzgFBVV95cUxNalZGNDM0cnZOR2ExdUFfLTFCamlkbGI4Q0VOY0lTU095VUJiU0k2YjNuZ2dPSDE1Wmk4bGZQTUJ0NE1NWmpiRExxSVRjUVFzRFNhVG81NzBjb3VvZmc1UDBPRFAyY1F0VjE2WjFyVXdoSVdMUWl3UEZNSEt5QjBkcWNEc3YyTkRDVWV1RkpmMEVGa1dUeW9HN1ZSUmJLLWJESXRsdG9QNGdGMUw5U29VQ1pUVUppbElnbkFEbEdVeVZOb2JvX3NZcXdNV1AxUQ?oc=5",
-      "summary": "Ternyata! Ini Alasan Bank Indonesia Tahan BI Rate 4,75% di Akhir Tahun&nbsp;&nbsp;CNBC Indonesia",
-      "published": "2025-12-17T08:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate",
-        "Bank Indonesia"
-      ],
-      "big": true,
-      "id": "3e88ac5e2fb50c3b"
-    },
-    {
-      "title": "Indonesia: BI holds rates amid rupiah concerns - MUFG Research",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQmptN0tIYXpPNzlWb2FuWjNNcTVRd3VSU2t2V1FydXA4eXVPaHVCTHFVdmpQUjl0QUdCWkFYbUI3aWh2Y2Y5RXA0c0hJMWVpRU02bzE5a0V1MXZrZ0Y5TENqaF9nekpGRjFULUdRN3NyOUlxOUNCaVlnRzVCdVpoNUNud0FobXU5a25mdW1fdVNGNy1p?oc=5",
-      "summary": "Indonesia: BI holds rates amid rupiah concerns&nbsp;&nbsp;MUFG Research",
-      "published": "2025-04-23T07:00:00+00:00",
-      "source": "Reuters – Indonesia macro",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah"
-      ],
-      "big": false,
-      "id": "4438d92af869ba84"
     }
   ]
 }

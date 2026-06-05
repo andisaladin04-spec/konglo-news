@@ -1,38 +1,70 @@
-"""Config for the geopolitical + big Indonesia news tracker.
+"""Config for the geo + global finance news tracker.
 
-"Big" is defined as: government policy, macro signals, geopolitical events, or
-regional/global crises that could materially affect Indonesia's economy or markets.
-Everyday crime, celebrity, sports, and lifestyle are filtered out by design.
+Sources lean heavily international (FT, Reuters, Bloomberg, WSJ, Nikkei)
+for global market signals, plus Indonesian domestic politics + macro.
+"Big" alerts fire for macro shocks, rate decisions, and geopolitical moves
+that materially affect Indonesia or global markets.
 """
 
 # ---------------------------------------------------------------------------
 # TOPIC WATCHLIST
-# Matches if ANY keyword appears in title or summary (word-boundary, case rules below).
-# Keep these high-signal — each additional keyword increases noise.
 # ---------------------------------------------------------------------------
 
 GEO_WATCHLIST = {
 
+    # NEW: Global Finance — this is the primary new bucket
+    "Global Finance": [
+        # Central banks
+        "Federal Reserve", "Fed rate", "FOMC", "Jerome Powell",
+        "ECB", "Bank of England", "BOE", "BOJ", "Bank of Japan",
+        "rate hike", "rate cut", "interest rate",
+        "quantitative tightening", "QT", "quantitative easing", "QE",
+
+        # Markets
+        "S&P 500", "Nasdaq", "Dow Jones",
+        "bond yield", "Treasury yield", "10-year yield",
+        "credit spread", "high yield", "investment grade",
+        "IPO", "earnings beat", "earnings miss",
+        "hedge fund", "private equity",
+        "Bitcoin", "crypto", "stablecoin",
+
+        # Global macro signals affecting EM/Indonesia
+        "DXY", "dollar index", "US dollar",
+        "oil price", "Brent crude", "WTI",
+        "gold price",
+        "coal price", "thermal coal",
+        "emerging market", "EM sell-off", "risk-off", "risk-on",
+        "carry trade",
+        "MSCI EM", "MSCI rebalancing", "index inclusion",
+
+        # Institutions & ratings
+        "IMF", "World Bank", "ADB",
+        "S&P", "Moody's", "Fitch",
+        "downgrade", "upgrade", "outlook",
+
+        # Trade & geopolitics with market impact
+        "tariff", "trade war", "sanctions",
+        "supply chain", "reshoring",
+    ],
+
     "Government / Policy": [
-        "Prabowo", "Gibran", "kabinet", "menteri", "Jokowi",
-        "DPR", "MPR", "MK", "Mahkamah Konstitusi", "Mahkamah Agung",
-        "UU ", "omnibus", "perppu", "peraturan pemerintah",
+        "Prabowo", "Gibran", "kabinet", "menteri",
+        "DPR", "MPR", "MK", "Mahkamah Konstitusi",
+        "UU ", "omnibus", "perppu",
         "APBN", "anggaran", "defisit fiskal", "subsidi",
-        "Bappenas", "Kemenkeu", "Sri Mulyani",
-        "pemilu", "pilkada", "koalisi", "oposisi",
-        "KPK", "korupsi", "OTT",
+        "Kemenkeu", "Sri Mulyani", "Bappenas",
+        "KPK", "OTT",
     ],
 
     "Macro / Economy": [
         "BI rate", "Bank Indonesia", "suku bunga",
         "rupiah", "kurs", "depresiasi", "apresiasi",
-        "inflasi", "deflasi", "neraca dagang",
+        "inflasi", "deflasi",
         "cadangan devisa", "current account",
+        "neraca dagang", "neraca pembayaran",
         "utang luar negeri", "sovereign",
-        "IMF", "World Bank", "ADB",
-        "resesi", "kontraksi ekonomi", "pertumbuhan ekonomi",
-        "IHSG", "bursa efek",
-        "ekspor", "impor", "neraca pembayaran",
+        "resesi", "pertumbuhan ekonomi", "GDP Indonesia",
+        "IHSG", "bursa efek Indonesia",
     ],
 
     "Commodity / Energy Policy": [
@@ -41,8 +73,7 @@ GEO_WATCHLIST = {
         "batu bara", "batubara",
         "CPO", "sawit",
         "Pertamina", "PLN",
-        "transisi energi",
-        "IKN", "ibu kota nusantara",
+        "transisi energi", "IKN",
     ],
 
     "Geopolitics": [
@@ -50,105 +81,151 @@ GEO_WATCHLIST = {
         "Trump", "Xi Jinping",
         "perang dagang", "trade war",
         "Laut China Selatan", "South China Sea",
-        "geopolitik",
         "BRICS", "de-dolarisasi",
-        # Only flag sanctions/tariffs when clearly about Indonesia
-        "sanksi terhadap Indonesia", "tarif impor Indonesia",
-        "Indonesia trade", "Indonesia sanctions",
+        "geopolitik",
     ],
 
     "Financial Crisis Signals": [
         "krisis keuangan", "financial crisis",
-        "bank gagal", "bank kolaps", "bank run",
-        "default", "gagal bayar",
+        "bank run", "bank failure", "bank collapse",
+        "default", "gagal bayar", "sovereign default",
         "bailout", "bail-in",
-        "contagion", "penularan",
         "capital flight", "pelarian modal",
-        "MSCI", "index rebalancing", "index inclusion",
-        "downgrade", "upgrade",
-        "S&P", "Moody's", "Fitch",
+        "contagion",
     ],
 }
 
 GEO_ALL_KEYWORDS = [(group, kw) for group, kws in GEO_WATCHLIST.items() for kw in kws]
 
-# 4-letter all-caps words that should still be case-insensitive (not IDX tickers)
-GEO_CASE_INSENSITIVE_FORCE = {"NASA", "OPEC", "NATO", "ASEAN", "APBN", "MSCI", "BRICS"}
+GEO_CASE_INSENSITIVE_FORCE = {
+    "MSCI", "ASEAN", "APBN", "BRICS", "NATO", "OPEC",
+    "FOMC", "ECB", "BOE", "BOJ", "QE", "QT",
+    "DXY", "WTI", "IMF", "ADB", "CPO", "PLN",
+    "IHSG", "GDP",
+}
 
 
 # ---------------------------------------------------------------------------
 # SOURCES
 # ---------------------------------------------------------------------------
+# Ordered roughly by signal quality. International finance sources first,
+# then Indonesia domestic.
+# ---------------------------------------------------------------------------
 
 GEO_SOURCES = [
-    # Indonesian domestic — politics & general
+    # --- INTERNATIONAL FINANCE (high quality) ---
+
+    # Financial Times via Google News — paywall-gated but headlines are free
+    {"name": "Financial Times (via GNews)", "type": "rss",
+     "url": "https://news.google.com/rss/search"
+            "?q=Financial+Times+Indonesia+economy"
+            "&hl=en-ID&gl=ID&ceid=ID:en"},
+
+    # Reuters via Google News (direct RSS feed is DNS-dead)
+    {"name": "Reuters – Indonesia", "type": "rss",
+     "url": "https://news.google.com/rss/search"
+            "?q=Reuters+Indonesia+economy+rupiah+market"
+            "&hl=en-ID&gl=ID&ceid=ID:en"},
+
+    # Bloomberg via Google News (direct feed is paywalled)
+    {"name": "Bloomberg (via GNews)", "type": "rss",
+     "url": "https://news.google.com/rss/search"
+            "?q=site:bloomberg.com+Indonesia+OR+\"Fed+rate\"+OR+\"emerging+market\""
+            "&hl=en-ID&gl=ID&ceid=ID:en"},
+
+    # WSJ — global macro & trade
+    {"name": "WSJ (via GNews)", "type": "rss",
+     "url": "https://news.google.com/rss/search"
+            "?q=site:wsj.com+Indonesia+OR+tariff+OR+\"Fed+rate\"+OR+\"trade+war\""
+            "&hl=en-ID&gl=ID&ceid=ID:en"},
+
+    # Nikkei Asia — best for SEA/Indonesia specific finance
+    {"name": "Nikkei Asia (via GNews)", "type": "rss",
+     "url": "https://news.google.com/rss/search"
+            "?q=site:asia.nikkei.com+Indonesia"
+            "&hl=en-ID&gl=ID&ceid=ID:en"},
+
+    # The Economist — macro narratives, EM coverage
+    {"name": "The Economist (via GNews)", "type": "rss",
+     "url": "https://news.google.com/rss/search"
+            "?q=site:economist.com+Indonesia+OR+\"emerging+markets\""
+            "&hl=en-ID&gl=ID&ceid=ID:en"},
+
+    # CNBC global — Fed, market moves
+    {"name": "CNBC Global Markets", "type": "rss",
+     "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml"
+            "?partnerId=wrss01&id=20910258"},
+
+    # BBC World Business
+    {"name": "BBC Business", "type": "rss",
+     "url": "https://feeds.bbci.co.uk/news/business/rss.xml"},
+
+    # --- INDONESIA DOMESTIC ---
+
+    # Tempo.co — best for policy depth
     {"name": "Tempo.co", "type": "rss",
      "url": "https://rss.tempo.co/"},
 
+    # CNN Indonesia — fast breaking
     {"name": "CNN Indonesia", "type": "rss",
      "url": "https://www.cnnindonesia.com/rss"},
 
+    # Antara (state wire) — official announcements
     {"name": "Antara News", "type": "rss",
      "url": "https://www.antaranews.com/rss/terkini.xml"},
 
-    {"name": "Detik News", "type": "rss",
-     "url": "https://news.detik.com/rss"},
-
-    # International — quality filter via Google News to surface only
-    # Indonesia-relevant geopolitical stories
-    {"name": "Reuters – Indonesia macro", "type": "rss",
-     "url": "https://news.google.com/rss/search"
-            "?q=Indonesia+economy+policy+rupiah&hl=en-ID&gl=ID&ceid=ID:en"},
-
-    {"name": "GNews – Prabowo kebijakan", "type": "rss",
-     "url": "https://news.google.com/rss/search"
-            "?q=Prabowo+kebijakan+APBN+anggaran&hl=id&gl=ID&ceid=ID:id"},
-
+    # Google News targeted queries
     {"name": "GNews – BI rate rupiah", "type": "rss",
      "url": "https://news.google.com/rss/search"
-            "?q=BI+rate+rupiah+inflasi+ekonomi+Indonesia&hl=id&gl=ID&ceid=ID:id"},
+            "?q=BI+rate+rupiah+inflasi+Indonesia"
+            "&hl=id&gl=ID&ceid=ID:id"},
 
-    # BBC Asia covers Southeast Asia geopolitics reliably
-    {"name": "BBC Asia", "type": "rss",
-     "url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml"},
+    {"name": "GNews – Prabowo APBN", "type": "rss",
+     "url": "https://news.google.com/rss/search"
+            "?q=Prabowo+APBN+kebijakan+ekonomi"
+            "&hl=id&gl=ID&ceid=ID:id"},
 
-    # Al Jazeera — good for ASEAN, US-China, global crises
+    # Al Jazeera — ASEAN, US-China
     {"name": "Al Jazeera", "type": "rss",
      "url": "https://www.aljazeera.com/xml/rss/all.xml"},
 ]
 
 
 # ---------------------------------------------------------------------------
-# "BIG NEWS" RULES — what triggers a push notification
-# ---------------------------------------------------------------------------
-# Geo stories push if they match watchlist AND contain a high-urgency signal.
-# Set deliberately high bar — you don't want 20 geo pushes a day.
+# "BIG NEWS" — push notification triggers
+# High bar: macro decisions, market shocks, geopolitical escalation.
 # ---------------------------------------------------------------------------
 
 GEO_BIG_KEYWORDS = [
-    # Macro shocks
-    "BI rate", "suku bunga", "darurat", "emergency",
-    "krisis", "crisis", "resesi", "recession",
-    "capital flight", "pelarian modal",
-    "downgrade", "default", "gagal bayar",
-    "MSCI", "index rebalancing",
+    # Central bank decisions
+    "rate hike", "rate cut", "Fed rate", "FOMC", "BI rate", "suku bunga",
+    "quantitative tightening", "QT",
 
-    # Geopolitical escalation
-    "perang", "invasi", "sanctions", "sanksi",
-    "tariff", "perang dagang", "trade war",
+    # Market shocks
+    "market crash", "stock market crash", "circuit breaker",
+    "MSCI rebalancing", "index inclusion", "index exclusion",
+    "downgrade", "sovereign default", "default",
+
+    # Indonesia macro
+    "rupiah", "capital flight", "cadangan devisa",
+    "resesi", "recession",
+    "APBN", "OTT KPK",
+
+    # Geopolitical escalation with market impact
+    "trade war", "perang dagang",
+    "sanctions", "tariff",
     "Laut China Selatan",
 
-    # High-impact domestic
-    "darurat nasional", "darurat sipil", "darurat militer",
-    "OTT KPK",  # anti-corruption arrests
-    "kabinet", "reshuffle",
-    "APBN",
-
-    # Commodity policy
-    "larangan ekspor", "hilirisasi",
+    # Commodity shocks
+    "oil price crash", "coal ban", "larangan ekspor",
     "harga BBM", "subsidi BBM",
 ]
 
+# These big-news words REQUIRE Indonesia context to push
+_INDONESIA_CONTEXT_REQUIRED_WORDS = {
+    "rupiah", "resesi", "recession", "capital flight",
+    "sanctions", "tariff", "downgrade",
+}
 
 # ---------------------------------------------------------------------------
 # OUTPUT
@@ -159,10 +236,22 @@ GEO_SEEN_FILE = "data/geo-seen.json"
 MAX_GEO_FEED_ITEMS = 150
 GEO_SEEN_HISTORY_LIMIT = 2000
 
-# Noise filter — skip stories from these domains even if keyword-matched
-# (tabloid / not serious enough for this tracker)
 GEO_DOMAIN_BLOCKLIST = [
+    # Soft content / tabloid
     "entertainment", "lifestyle", "seleb", "gossip",
     "olahraga", "sport", "bola", "nba",
     "kesehatan", "health", "resep", "kuliner",
+    "horoscope", "zodiac",
+]
+
+# Title-level noise filter — reject if title contains these (not URL-based)
+# These are everyday retail price / religious / social stories that match
+# macro keywords purely by coincidence.
+GEO_TITLE_BLOCKLIST = [
+    "harga cabai", "cabai rawit", "harga bawang", "harga telur",
+    "harga beras", "harga daging", "harga sembako", "harga pangan",
+    "pesantren", "santri", "madrasah",
+    "bencana alam", "gempa", "banjir", "longsor",
+    "kecelakaan", "kriminal", "narkoba", "penangkapan",
+    "pernikahan", "wisuda", "lomba",
 ]

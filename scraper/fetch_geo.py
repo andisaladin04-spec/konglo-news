@@ -59,13 +59,20 @@ def _compile_pattern(keyword: str) -> re.Pattern:
 _KW_PATTERNS = [(g, kw, _compile_pattern(kw)) for g, kw in cfg.GEO_ALL_KEYWORDS]
 _BIG_PATTERNS = [_compile_pattern(kw) for kw in cfg.GEO_BIG_KEYWORDS]
 _NOISE_RE = re.compile("|".join(cfg.GEO_DOMAIN_BLOCKLIST), re.IGNORECASE)
+_TITLE_NOISE_RE = re.compile(
+    "|".join(re.escape(p) for p in getattr(cfg, "GEO_TITLE_BLOCKLIST", [])),
+    re.IGNORECASE,
+)
 
-# Generic big-news words that should only push if the story also mentions Indonesia
-_INDONESIA_CONTEXT_REQUIRED = {
-    "perang", "krisis", "crisis", "sanksi", "sanctions",
-    "tariff", "default", "downgrade", "capital flight",
-}
-_INDONESIA_RE = re.compile(r"\bIndonesia\b|\bRI\b|Jakarta|Prabowo|rupiah|IHSG", re.IGNORECASE)
+# Words that require Indonesia context to trigger a push
+_INDONESIA_CONTEXT_REQUIRED = getattr(
+    cfg, "_INDONESIA_CONTEXT_REQUIRED_WORDS",
+    {"rupiah", "resesi", "recession", "capital flight", "sanctions", "tariff", "downgrade"},
+)
+_INDONESIA_RE = re.compile(
+    r"\bIndonesia\b|\bRI\b|Jakarta|Prabowo|rupiah|IHSG|Bank Indonesia",
+    re.IGNORECASE,
+)
 
 
 def match_watchlist(text: str) -> list[tuple[str, str]]:
@@ -84,9 +91,15 @@ def is_big_news(text: str) -> bool:
 
 
 def is_noise(item: dict) -> bool:
-    # Reject if URL or title looks like soft content (lifestyle, sport, etc.)
+    # Reject soft-content URLs/domains
     combined = f"{item.get('link', '')} {item.get('title', '')}"
-    return bool(_NOISE_RE.search(combined))
+    if _NOISE_RE.search(combined):
+        return True
+    # Reject everyday retail/social titles
+    title = item.get("title", "")
+    if _TITLE_NOISE_RE.search(title):
+        return True
+    return False
 
 
 def _http_get(url: str) -> requests.Response:

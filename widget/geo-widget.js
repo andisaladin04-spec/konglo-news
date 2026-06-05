@@ -1,51 +1,55 @@
-// Geo + Big Indonesia News Widget — Scriptable
+// Geo + Big Indonesia + Global Finance News Widget — Scriptable
 // ---------------------------------------------------------------------------
 // SETUP:
-//   1. In Scriptable, create a new script named "Geo News".
-//   2. Paste this entire file into it.
-//   3. Long-press home screen → + → Scriptable → pick size → "Geo News".
+//   1. In Scriptable, create a script named "Geo News". Paste this file.
+//   2. Long-press home screen → + → Scriptable → pick size → "Geo News".
 //
-// USAGE:
-//   - Tap a headline         → opens the article in Safari
-//   - Tap the GEO header     → opens full scrollable list
-//   - Chip bar at bottom     → instant jump to a topic section:
-//       ALL · BIG · Macro · Gov · Geo · Commodity
-//   - Widget Parameter (long-press → Edit Widget → Parameter):
-//       leave blank     → all topics
-//       "big"           → breaking alerts only
-//       "Macro"         → macro/economy stories
-//       "Gov"           → government/policy
-//       "Geo"           → geopolitics
-//       "Commodity"     → energy/commodity policy
+// TAPPING:
+//   - Tap a headline              → opens article in Safari
+//   - Tap GEO header / "+N more" → section picker sheet appears
+//   - "↩ Change section" in list → back to picker
+//
+// WIDGET PARAMETER (skip picker, go direct):
+//   "big"  |  "Macro"  |  "Gov"  |  "Geo"  |  "Commodity"  |  "Finance"
 // ---------------------------------------------------------------------------
 
 const FEED_URL = "https://raw.githubusercontent.com/andisaladin04-spec/konglo-news/main/data/geo-feed.json";
 const SCRIPT_NAME = "Geo News";
-
 const MAX_MEDIUM = 5;
-const MAX_LARGE = 10;
-const MAX_SMALL = 3;
-const FULL_LIST_LIMIT = 150;
+const MAX_LARGE  = 10;
+const MAX_SMALL  = 3;
+const LIST_LIMIT = 150;
 
-// Colors — slightly different palette from konglo widget so you can tell them apart at a glance
-const BG_TOP      = new Color("#0f1a10");   // dark green-black
-const BG_BOTTOM   = new Color("#1a2d1c");   // deep forest
-const FG_PRIMARY  = new Color("#ffffff");
-const FG_SECONDARY= new Color("#8fc99a");   // muted green
-const ACCENT_BIG  = new Color("#ff6b6b");   // red dot for breaking
-const ACCENT_GROUP= new Color("#a8e6b4");   // light green for topic tag
-const ACCENT_LINK = new Color("#a8e6b4");
+// Dark green palette — distinct from blue Konglo widget
+const BG_TOP       = new Color("#0f1a10");
+const BG_BOTTOM    = new Color("#1a2d1c");
+const FG_PRIMARY   = new Color("#ffffff");
+const FG_SECONDARY = new Color("#8fc99a");
+const ACCENT_BIG   = new Color("#ff6b6b");
+const ACCENT_GROUP = new Color("#a8e6b4");
+const ACCENT_CHIP  = new Color("#a8e6b4");
 
-// Topic filter mapping: chip label → partial group name match
+const SECTIONS = [
+  { label: "All topics",            param: ""          },
+  { label: "🔴 Breaking only",      param: "big"       },
+  { label: "📈 Finance & Markets",  param: "Finance"   },
+  { label: "📊 Macro / Economy",    param: "Macro"     },
+  { label: "🏛  Government / Policy",param: "Gov"       },
+  { label: "🌏 Geopolitics",        param: "Geo"       },
+  { label: "⛏  Commodity / Energy", param: "Commodity" },
+];
+
+// Topic filter: param → partial group name match
 const TOPIC_MAP = {
-  "Macro":     "Macro",
-  "Gov":       "Government",
-  "Geo":       "Geopolit",
-  "Commodity": "Commodity",
+  "Finance":   "finance",
+  "Macro":     "macro",
+  "Gov":       "government",
+  "Geo":       "geopolit",
+  "Commodity": "commodity",
 };
 
 // ---------------------------------------------------------------------------
-// Data
+// Data helpers
 // ---------------------------------------------------------------------------
 
 async function fetchFeed() {
@@ -67,17 +71,9 @@ function filterItems(items, param) {
   if (!param) return items;
   const p = param.toLowerCase().trim();
   if (p === "big") return items.filter(it => it.big);
-  // Try exact topic filter first
-  const topicTarget = Object.entries(TOPIC_MAP).find(([k]) => k.toLowerCase() === p);
-  if (topicTarget) {
-    const target = topicTarget[1].toLowerCase();
-    return items.filter(it =>
-      (it.groups || []).some(g => g.toLowerCase().includes(target))
-    );
-  }
-  // Fallback: substring match on group names
+  const target = TOPIC_MAP[param] || p;
   return items.filter(it =>
-    (it.groups || []).some(g => g.toLowerCase().includes(p))
+    (it.groups || []).some(g => g.toLowerCase().includes(target))
   );
 }
 
@@ -87,232 +83,238 @@ function pickN(items, family) {
   return items.slice(0, MAX_MEDIUM);
 }
 
-function fullListUrl(param) {
+function scriptUrl(param) {
   const enc = encodeURIComponent(SCRIPT_NAME);
-  const q = `view=full${param ? `&filter=${encodeURIComponent(param)}` : ""}`;
-  return `scriptable:///run/${enc}?${q}`;
+  return param
+    ? `scriptable:///run/${enc}?view=full&filter=${encodeURIComponent(param)}`
+    : `scriptable:///run/${enc}`;
 }
 
 // ---------------------------------------------------------------------------
-// Widget rendering
+// Section picker
 // ---------------------------------------------------------------------------
 
-function addHeader(widget, updatedIso, param) {
-  const header = widget.addStack();
-  header.layoutHorizontally();
-  header.centerAlignContent();
-  header.url = fullListUrl(param);
+async function pickSection(feed) {
+  const alert = new Alert();
+  alert.title   = "GEO · FINANCE";
+  alert.message = "Choose a section";
 
-  const label = param ? `GEO · ${param.toUpperCase()}` : "GEO";
-  const title = header.addText(label);
-  title.font = Font.boldSystemFont(11);
-  title.textColor = FG_SECONDARY;
-
-  header.addSpacer();
-
-  if (updatedIso) {
-    const upd = header.addText(`↻ ${formatRelative(updatedIso)}`);
-    upd.font = Font.systemFont(9);
-    upd.textColor = FG_SECONDARY;
+  for (const s of SECTIONS) {
+    const count = filterItems(feed.items || [], s.param).length;
+    alert.addAction(`${s.label}  (${count})`);
   }
-}
+  alert.addCancelAction("Cancel");
 
-function addItem(widget, item, family) {
-  const row = widget.addStack();
-  row.layoutVertically();
-  row.spacing = 2;
-  row.url = item.link;
-
-  const tagRow = row.addStack();
-  tagRow.layoutHorizontally();
-  tagRow.centerAlignContent();
-  tagRow.spacing = 4;
-
-  if (item.big) {
-    const dot = tagRow.addText("●");
-    dot.font = Font.boldSystemFont(9);
-    dot.textColor = ACCENT_BIG;
-  }
-
-  const groups = (item.groups || []).map(g => {
-    // Shorten long group names for the widget
-    return g.replace("Government / Policy", "Gov").replace("Commodity / Energy Policy", "Commodity")
-            .replace("Financial Crisis Signals", "Crisis").replace("Macro / Economy", "Macro")
-            .replace("Geopolitics", "Geo");
-  }).join(" · ");
-
-  if (groups) {
-    const g = tagRow.addText(groups.toUpperCase());
-    g.font = Font.boldSystemFont(8);
-    g.textColor = ACCENT_GROUP;
-    g.lineLimit = 1;
-  }
-
-  tagRow.addSpacer();
-
-  const t = tagRow.addText(formatRelative(item.published));
-  t.font = Font.systemFont(8);
-  t.textColor = FG_SECONDARY;
-
-  const headline = row.addText(item.title);
-  headline.font = family === "small" ? Font.systemFont(10) : Font.systemFont(11);
-  headline.textColor = FG_PRIMARY;
-  headline.lineLimit = family === "small" ? 2 : 3;
-
-  widget.addSpacer(4);
-}
-
-function addMoreFooter(widget, totalCount, shownCount, param) {
-  if (totalCount <= shownCount) return;
-  const footer = widget.addStack();
-  footer.layoutHorizontally();
-  footer.url = fullListUrl(param);
-  footer.addSpacer();
-  const more = footer.addText(`+${totalCount - shownCount} more →`);
-  more.font = Font.systemFont(9);
-  more.textColor = ACCENT_LINK;
-}
-
-function addChips(widget, family, activeParam) {
-  if (family === "small") return;
-
-  const chipsMedium = ["all", "big", "Macro", "Gov"];
-  const chipsLarge = ["all", "big", "Macro", "Gov", "Geo", "Commodity"];
-  const chips = family === "large" ? chipsLarge : chipsMedium;
-
-  widget.addSpacer(4);
-  const row = widget.addStack();
-  row.layoutHorizontally();
-  row.spacing = 6;
-  row.centerAlignContent();
-
-  for (const c of chips) {
-    const chip = row.addStack();
-    chip.layoutHorizontally();
-    chip.centerAlignContent();
-    chip.setPadding(3, 7, 3, 7);
-    chip.cornerRadius = 8;
-    chip.url = fullListUrl(c === "all" ? "" : c);
-    const isActive =
-      (c === "all" && !activeParam) ||
-      (activeParam && activeParam.toLowerCase() === c.toLowerCase());
-    chip.backgroundColor = isActive ? ACCENT_LINK : new Color("#ffffff", 0.08);
-
-    const label = chip.addText(c.toUpperCase());
-    label.font = Font.boldSystemFont(9);
-    label.textColor = isActive ? new Color("#0f1a10") : FG_PRIMARY;
-  }
-
-  row.addSpacer();
-}
-
-async function buildWidget(feed, param) {
-  const w = new ListWidget();
-  const gradient = new LinearGradient();
-  gradient.colors = [BG_TOP, BG_BOTTOM];
-  gradient.locations = [0, 1];
-  w.backgroundGradient = gradient;
-  w.setPadding(10, 12, 10, 12);
-  w.url = fullListUrl(param);
-
-  const family = config.widgetFamily || "medium";
-  addHeader(w, feed.updated, param);
-  w.addSpacer(6);
-
-  const filtered = filterItems(feed.items || [], param);
-  const shown = pickN(filtered, family);
-
-  if (shown.length === 0) {
-    const empty = w.addText(param ? `No matches for "${param}"` : "No matches yet.");
-    empty.font = Font.systemFont(11);
-    empty.textColor = FG_SECONDARY;
-  } else {
-    for (const item of shown) addItem(w, item, family);
-    addMoreFooter(w, filtered.length, shown.length, param);
-  }
-
-  addChips(w, family, param);
-
-  w.refreshAfterDate = new Date(Date.now() + 10 * 60 * 1000);
-  return w;
+  const idx = await alert.presentSheet();
+  if (idx < 0) return null;
+  return SECTIONS[idx].param;
 }
 
 // ---------------------------------------------------------------------------
-// Full-list (in-app, scrollable)
+// Full list (UITable)
 // ---------------------------------------------------------------------------
 
-function buildFullList(feed, param) {
+async function showList(feed, param) {
+  const items = filterItems(feed.items || [], param).slice(0, LIST_LIMIT);
+  const sLabel = SECTIONS.find(s => s.param === (param || ""))?.label
+    || param || "All topics";
+
   const table = new UITable();
   table.showSeparators = true;
 
-  const filtered = filterItems(feed.items || [], param).slice(0, FULL_LIST_LIMIT);
-
   // Header
-  const header = new UITableRow();
-  header.isHeader = true;
-  header.backgroundColor = new Color("#0f1a10");
-  const title = param ? `GEO · ${param.toUpperCase()}  —  ${filtered.length} stories` : `GEO  —  ${filtered.length} stories`;
-  const hcell = header.addText(title, `updated ${formatRelative(feed.updated)} ago`);
-  hcell.titleColor = FG_PRIMARY;
-  hcell.subtitleColor = FG_SECONDARY;
-  hcell.titleFont = Font.boldSystemFont(15);
-  hcell.subtitleFont = Font.systemFont(11);
-  table.addRow(header);
-
-  // Filter chips
-  const filterOptions = [
-    ["", "▸ All"],
-    ["big", "▸ 🔴 Breaking only"],
-    ["Macro", "▸ Macro / Economy"],
-    ["Gov", "▸ Government / Policy"],
-    ["Geo", "▸ Geopolitics"],
-    ["Commodity", "▸ Commodity / Energy"],
-  ];
-
-  for (const [f, label] of filterOptions) {
+  {
     const row = new UITableRow();
-    row.height = 36;
-    const active = (param || "") === f;
-    const cell = row.addText(active ? `● ${label.slice(2)}` : label);
-    cell.titleColor = active ? ACCENT_LINK : FG_SECONDARY;
-    cell.titleFont = active ? Font.boldSystemFont(13) : Font.systemFont(13);
-    row.onSelect = () => { Safari.open(fullListUrl(f)); };
+    row.isHeader = true;
+    row.backgroundColor = new Color("#0f1a10");
+    const cell = row.addText(
+      `GEO · ${sLabel.replace(/[^\w\s]/g,"").trim().toUpperCase()}`,
+      `${items.length} stories  ·  updated ${formatRelative(feed.updated)} ago`
+    );
+    cell.titleColor    = FG_PRIMARY;
+    cell.subtitleColor = FG_SECONDARY;
+    cell.titleFont     = Font.boldSystemFont(14);
+    cell.subtitleFont  = Font.systemFont(10);
+    table.addRow(row);
+  }
+
+  // Change section button
+  {
+    const row = new UITableRow();
+    row.height = 38;
+    row.backgroundColor = new Color("#132015");
+    const cell = row.addText("↩  Change section");
+    cell.titleColor = ACCENT_CHIP;
+    cell.titleFont  = Font.boldSystemFont(13);
     row.dismissOnSelect = true;
     table.addRow(row);
   }
 
-  // Divider
-  const sep = new UITableRow();
-  sep.height = 8;
-  sep.backgroundColor = new Color("#1a2d1c");
-  table.addRow(sep);
-
-  // Stories
-  if (filtered.length === 0) {
-    const empty = new UITableRow();
-    empty.addText("No matches.", "Try a different filter.");
-    table.addRow(empty);
+  // Story rows
+  if (items.length === 0) {
+    const row = new UITableRow();
+    row.addText("No stories yet.", "Check back after the next scrape.");
+    table.addRow(row);
   } else {
-    filtered.forEach(item => {
+    for (const item of items) {
       const row = new UITableRow();
-      row.height = 78;
-      row.cellSpacing = 6;
-      const groups = (item.groups || []).join(" · ");
+      row.height = 76;
+
+      const groups  = (item.groups || []).map(g =>
+        g.replace("Government / Policy","Gov")
+         .replace("Commodity / Energy Policy","Commodity")
+         .replace("Financial Crisis Signals","Crisis")
+         .replace("Macro / Economy","Macro")
+         .replace("Geopolitics","Geo")
+         .replace("Global Finance","Finance")
+      ).join(" · ");
+
       const flag = item.big ? "🔴 " : "";
-      const subtitle = `${flag}${groups}   ·   ${item.source}   ·   ${formatRelative(item.published)} ago`;
-      const cell = row.addText(item.title, subtitle);
-      cell.titleColor = FG_PRIMARY;
+      const sub  = `${flag}${groups}  ·  ${item.source}  ·  ${formatRelative(item.published)} ago`;
+      const cell = row.addText(item.title, sub);
+      cell.titleColor    = FG_PRIMARY;
       cell.subtitleColor = item.big ? ACCENT_BIG : FG_SECONDARY;
-      cell.titleFont = Font.systemFont(14);
-      cell.subtitleFont = Font.systemFont(10);
-      cell.widthWeight = 90;
-      row.onSelect = () => { Safari.open(item.link); };
+      cell.titleFont     = Font.systemFont(14);
+      cell.subtitleFont  = Font.systemFont(10);
+      cell.widthWeight   = 90;
+      row.onSelect       = () => { Safari.open(item.link); };
       row.dismissOnSelect = false;
       table.addRow(row);
-    });
+    }
   }
 
-  return table;
+  await table.present(true);
+}
+
+// ---------------------------------------------------------------------------
+// Widget (homescreen)
+// ---------------------------------------------------------------------------
+
+function buildWidget(feed, param) {
+  const family   = config.widgetFamily || "medium";
+  const filtered = filterItems(feed.items || [], param);
+  const shown    = pickN(filtered, family);
+
+  const w    = new ListWidget();
+  const grad = new LinearGradient();
+  grad.colors    = [BG_TOP, BG_BOTTOM];
+  grad.locations = [0, 1];
+  w.backgroundGradient = grad;
+  w.setPadding(10, 12, 10, 12);
+  w.url = scriptUrl(param);
+
+  // Header
+  {
+    const hdr = w.addStack();
+    hdr.layoutHorizontally();
+    hdr.centerAlignContent();
+    const lbl = param ? `GEO · ${param.toUpperCase()}` : "GEO · FINANCE";
+    const t = hdr.addText(lbl);
+    t.font      = Font.boldSystemFont(11);
+    t.textColor = FG_SECONDARY;
+    hdr.addSpacer();
+    const u = hdr.addText(`↻ ${formatRelative(feed.updated)}`);
+    u.font      = Font.systemFont(9);
+    u.textColor = FG_SECONDARY;
+  }
+
+  w.addSpacer(6);
+
+  if (shown.length === 0) {
+    const e = w.addText("No matches yet.");
+    e.font      = Font.systemFont(11);
+    e.textColor = FG_SECONDARY;
+  } else {
+    for (const item of shown) {
+      const row = w.addStack();
+      row.layoutVertically();
+      row.spacing = 2;
+      row.url = item.link;
+
+      const tagRow = row.addStack();
+      tagRow.layoutHorizontally();
+      tagRow.centerAlignContent();
+      tagRow.spacing = 4;
+
+      if (item.big) {
+        const dot = tagRow.addText("●");
+        dot.font      = Font.boldSystemFont(9);
+        dot.textColor = ACCENT_BIG;
+      }
+
+      const groups = (item.groups || []).map(g =>
+        g.replace("Government / Policy","GOV")
+         .replace("Commodity / Energy Policy","COMMOD")
+         .replace("Financial Crisis Signals","CRISIS")
+         .replace("Macro / Economy","MACRO")
+         .replace("Geopolitics","GEO")
+         .replace("Global Finance","FINANCE")
+      ).join(" · ");
+
+      if (groups) {
+        const g = tagRow.addText(groups);
+        g.font      = Font.boldSystemFont(8);
+        g.textColor = ACCENT_GROUP;
+        g.lineLimit = 1;
+      }
+      tagRow.addSpacer();
+      const ts = tagRow.addText(formatRelative(item.published));
+      ts.font      = Font.systemFont(8);
+      ts.textColor = FG_SECONDARY;
+
+      const hl = row.addText(item.title);
+      hl.font      = family === "small" ? Font.systemFont(10) : Font.systemFont(11);
+      hl.textColor = FG_PRIMARY;
+      hl.lineLimit = family === "small" ? 2 : 3;
+      w.addSpacer(4);
+    }
+
+    if (filtered.length > shown.length) {
+      const footer = w.addStack();
+      footer.layoutHorizontally();
+      footer.url = scriptUrl(param);
+      footer.addSpacer();
+      const more = footer.addText(`+${filtered.length - shown.length} more →`);
+      more.font      = Font.systemFont(9);
+      more.textColor = ACCENT_CHIP;
+    }
+  }
+
+  // Chip bar
+  if (family !== "small") {
+    w.addSpacer(5);
+    const bar = w.addStack();
+    bar.layoutHorizontally();
+    bar.spacing = 5;
+
+    const chips = family === "large"
+      ? ["ALL","BIG","FINANCE","MACRO","GOV","GEO"]
+      : ["ALL","BIG","FINANCE","MACRO"];
+
+    const chipParams = {
+      ALL:"", BIG:"big", FINANCE:"Finance", MACRO:"Macro",
+      GOV:"Gov", GEO:"Geo", COMMOD:"Commodity"
+    };
+    const active = (param || "").toUpperCase() || "ALL";
+
+    for (const c of chips) {
+      const chip = bar.addStack();
+      chip.layoutHorizontally();
+      chip.centerAlignContent();
+      chip.setPadding(3, 5, 3, 5);
+      chip.cornerRadius = 7;
+      chip.url = scriptUrl(chipParams[c] || "");
+      const isActive = c === active;
+      chip.backgroundColor = isActive ? ACCENT_CHIP : new Color("#ffffff", 0.09);
+      const lbl = chip.addText(c);
+      lbl.font      = Font.boldSystemFont(8);
+      lbl.textColor = isActive ? new Color("#0f1a10") : FG_PRIMARY;
+    }
+    bar.addSpacer();
+  }
+
+  w.refreshAfterDate = new Date(Date.now() + 10 * 60 * 1000);
+  return w;
 }
 
 // ---------------------------------------------------------------------------
@@ -328,35 +330,36 @@ async function main() {
       const w = new ListWidget();
       w.backgroundColor = BG_TOP;
       const err = w.addText("Feed unreachable");
-      err.font = Font.systemFont(11);
-      err.textColor = ACCENT_BIG;
+      err.font = Font.systemFont(11); err.textColor = ACCENT_BIG;
       Script.setWidget(w);
     } else {
-      const a = new Alert();
-      a.title = "Feed unreachable";
-      a.message = String(e);
+      const a = new Alert(); a.title = "Feed unreachable"; a.message = String(e);
       await a.present();
     }
-    return;
+    Script.complete(); return;
   }
 
-  const urlFilter = (args.queryParameters && args.queryParameters.filter) || "";
   const widgetParam = (args.widgetParameter || "").trim();
-  const param = urlFilter || widgetParam;
+  const urlParam    = (args.queryParameters && args.queryParameters.filter) || "";
+  const presetParam = widgetParam || urlParam;
 
-  const wantsFullList =
-    (args.queryParameters && args.queryParameters.view === "full") ||
-    !config.runsInWidget;
-
-  if (wantsFullList) {
-    const table = buildFullList(feed, param);
-    await table.present(true);
-    Script.complete();
-    return;
+  if (config.runsInWidget) {
+    Script.setWidget(buildWidget(feed, presetParam));
+    Script.complete(); return;
   }
 
-  const widget = await buildWidget(feed, param);
-  Script.setWidget(widget);
+  let param = presetParam;
+  while (true) {
+    if (param === null) break;
+    if (!param && !presetParam) {
+      param = await pickSection(feed);
+      if (param === null) break;
+    }
+    await showList(feed, param);
+    if (presetParam) break;
+    param = "";
+  }
+
   Script.complete();
 }
 

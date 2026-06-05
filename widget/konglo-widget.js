@@ -1,41 +1,51 @@
 // Konglo News iOS Widget — Scriptable
 // ---------------------------------------------------------------------------
 // SETUP:
-//   1. Install Scriptable from the App Store.
-//   2. Copy this file into Scriptable (new script named "Konglo News").
-//   3. Long-press home screen → + → Scriptable → pick a size → "Konglo News".
+//   1. In Scriptable, create (or replace) a script named "Konglo News".
+//   2. Paste this entire file.
+//   3. Long-press home screen → + → Scriptable → pick size → "Konglo News".
 //
-// USAGE:
-//   - Tap a headline    → opens the article in Safari
-//   - Tap the KONGLO header or "more →" → opens a scrollable full list
-//     of all matches (all groups, all 200 stored stories)
-//   - Inside the full list, tap a row → opens the article
-//   - Widget Parameter (long-press widget → Edit Widget → Parameter):
-//        leave blank        → shows all groups, newest first
-//        "Prajogo"          → filters to Prajogo / Barito only
-//        "Bakrie"           → filters to Bakrie only
-//        "Salim", "Astra", "Sinar Mas", "Djarum"  → same
-//        "big"              → only big-news flagged items
+// TAPPING:
+//   - Tap any headline on the widget  → opens that article in Safari
+//   - Tap the KONGLO header, "+N more", or any empty area
+//       → section picker sheet appears, choose a section → filtered list
+//   - Inside the full list, tap a story → opens article
+//   - "↩ Change section" button at top of list → back to section picker
+//
+// WIDGET PARAMETER (skip the picker, go directly to one section):
+//   Long-press widget → Edit Widget → Parameter field:
+//   "big"  |  "Prajogo"  |  "Bakrie"  |  "Salim"  |  "Astra"  |  "Sinar Mas"  |  "Djarum"
 // ---------------------------------------------------------------------------
 
 const FEED_URL = "https://raw.githubusercontent.com/andisaladin04-spec/konglo-news/main/data/feed.json";
-const SCRIPT_NAME = "Konglo News"; // must match the Scriptable script name
-const MAX_ITEMS_MEDIUM = 5;
-const MAX_ITEMS_LARGE = 10;
-const MAX_ITEMS_SMALL = 3;
-const FULL_LIST_LIMIT = 200;
+const SCRIPT_NAME = "Konglo News";
+const MAX_MEDIUM = 5;
+const MAX_LARGE  = 10;
+const MAX_SMALL  = 3;
+const LIST_LIMIT = 200;
 
 // Colors
-const BG_TOP = new Color("#0b1220");
-const BG_BOTTOM = new Color("#1a2540");
-const FG_PRIMARY = new Color("#ffffff");
+const BG_TOP       = new Color("#0b1220");
+const BG_BOTTOM    = new Color("#1a2540");
+const FG_PRIMARY   = new Color("#ffffff");
 const FG_SECONDARY = new Color("#9ab0d6");
-const ACCENT_BIG = new Color("#ff6b6b");
+const ACCENT_BIG   = new Color("#ff6b6b");
 const ACCENT_GROUP = new Color("#7dd3fc");
-const ACCENT_LINK = new Color("#7dd3fc");
+const ACCENT_CHIP  = new Color("#7dd3fc");
+
+const SECTIONS = [
+  { label: "All groups",       param: ""          },
+  { label: "🔴 Big news only", param: "big"       },
+  { label: "Prajogo / Barito", param: "Prajogo"   },
+  { label: "Bakrie",           param: "Bakrie"    },
+  { label: "Salim",            param: "Salim"     },
+  { label: "Astra",            param: "Astra"     },
+  { label: "Sinar Mas",        param: "Sinar Mas" },
+  { label: "Djarum",           param: "Djarum"    },
+];
 
 // ---------------------------------------------------------------------------
-// Data
+// Data helpers
 // ---------------------------------------------------------------------------
 
 async function fetchFeed() {
@@ -46,14 +56,11 @@ async function fetchFeed() {
 }
 
 function formatRelative(iso) {
-  const then = new Date(iso).getTime();
-  const now = Date.now();
-  const mins = Math.max(1, Math.floor((now - then) / 60000));
+  const mins = Math.max(1, Math.floor((Date.now() - new Date(iso).getTime()) / 60000));
   if (mins < 60) return `${mins}m`;
   const hrs = Math.floor(mins / 60);
   if (hrs < 24) return `${hrs}h`;
-  const days = Math.floor(hrs / 24);
-  return `${days}d`;
+  return `${Math.floor(hrs / 24)}d`;
 }
 
 function filterItems(items, param) {
@@ -66,239 +73,236 @@ function filterItems(items, param) {
 }
 
 function pickN(items, family) {
-  if (family === "small") return items.slice(0, MAX_ITEMS_SMALL);
-  if (family === "large") return items.slice(0, MAX_ITEMS_LARGE);
-  return items.slice(0, MAX_ITEMS_MEDIUM);
+  if (family === "small")  return items.slice(0, MAX_SMALL);
+  if (family === "large")  return items.slice(0, MAX_LARGE);
+  return items.slice(0, MAX_MEDIUM);
 }
 
-// URL that re-launches this script in app, telling it to show the full list.
-// `view=full` is parsed below in main() to decide what to render.
-function fullListUrl(param) {
+// Open-script URL — used for widget-tap and headline taps
+function scriptUrl(param) {
   const enc = encodeURIComponent(SCRIPT_NAME);
-  const q = `view=full${param ? `&filter=${encodeURIComponent(param)}` : ""}`;
-  return `scriptable:///run/${enc}?${q}`;
+  return param
+    ? `scriptable:///run/${enc}?view=full&filter=${encodeURIComponent(param)}`
+    : `scriptable:///run/${enc}`;
 }
 
 // ---------------------------------------------------------------------------
-// Widget rendering (home screen)
+// Section picker (Alert sheet)
+// Returns the chosen param string, or null if cancelled.
 // ---------------------------------------------------------------------------
 
-function addHeader(widget, updatedIso, param, family) {
-  const header = widget.addStack();
-  header.layoutHorizontally();
-  header.centerAlignContent();
-  header.url = fullListUrl(param); // tap header → open full list
+async function pickSection(feed) {
+  const alert = new Alert();
+  alert.title = "KONGLO";
+  alert.message = "Choose a section";
 
-  const title = header.addText(param ? `KONGLO · ${param.toUpperCase()}` : "KONGLO");
-  title.font = Font.boldSystemFont(11);
-  title.textColor = FG_SECONDARY;
-
-  header.addSpacer();
-
-  if (updatedIso) {
-    const upd = header.addText(`↻ ${formatRelative(updatedIso)}`);
-    upd.font = Font.systemFont(9);
-    upd.textColor = FG_SECONDARY;
+  for (const s of SECTIONS) {
+    const count = filterItems(feed.items || [], s.param).length;
+    alert.addAction(`${s.label}  (${count})`);
   }
-}
+  alert.addCancelAction("Cancel");
 
-function addItem(widget, item, family) {
-  const row = widget.addStack();
-  row.layoutVertically();
-  row.spacing = 2;
-  row.url = item.link; // tap row → open article
-
-  const tagRow = row.addStack();
-  tagRow.layoutHorizontally();
-  tagRow.centerAlignContent();
-  tagRow.spacing = 4;
-
-  if (item.big) {
-    const bang = tagRow.addText("●");
-    bang.font = Font.boldSystemFont(9);
-    bang.textColor = ACCENT_BIG;
-  }
-
-  const groups = (item.groups || []).join(" · ");
-  if (groups) {
-    const g = tagRow.addText(groups.toUpperCase());
-    g.font = Font.boldSystemFont(8);
-    g.textColor = ACCENT_GROUP;
-    g.lineLimit = 1;
-  }
-
-  tagRow.addSpacer();
-
-  const t = tagRow.addText(formatRelative(item.published));
-  t.font = Font.systemFont(8);
-  t.textColor = FG_SECONDARY;
-
-  const headline = row.addText(item.title);
-  headline.font = family === "small" ? Font.systemFont(10) : Font.systemFont(11);
-  headline.textColor = FG_PRIMARY;
-  headline.lineLimit = family === "small" ? 2 : 3;
-
-  widget.addSpacer(4);
-}
-
-function addMoreFooter(widget, totalCount, shownCount, param) {
-  if (totalCount <= shownCount) return;
-  const footer = widget.addStack();
-  footer.layoutHorizontally();
-  footer.url = fullListUrl(param); // tap footer → open full list
-  footer.addSpacer();
-  const more = footer.addText(`+${totalCount - shownCount} more →`);
-  more.font = Font.systemFont(9);
-  more.textColor = ACCENT_LINK;
-}
-
-// Quick-jump chips: each chip is its own tappable stack with a unique URL.
-// Tapping a chip launches the script with view=full&filter=<that>, landing
-// directly in that section.
-function addChips(widget, family, activeParam) {
-  // small widgets are too cramped for chips
-  if (family === "small") return;
-
-  const chipsMedium = ["all", "big", "Prajogo"];
-  const chipsLarge = ["all", "big", "Prajogo", "Bakrie", "Salim", "Astra"];
-  const chips = family === "large" ? chipsLarge : chipsMedium;
-
-  widget.addSpacer(4);
-  const row = widget.addStack();
-  row.layoutHorizontally();
-  row.spacing = 6;
-  row.centerAlignContent();
-
-  for (const c of chips) {
-    const chip = row.addStack();
-    chip.layoutHorizontally();
-    chip.centerAlignContent();
-    chip.setPadding(3, 7, 3, 7);
-    chip.cornerRadius = 8;
-    chip.url = fullListUrl(c === "all" ? "" : c);
-    const isActive =
-      (c === "all" && !activeParam) ||
-      (activeParam && activeParam.toLowerCase() === c.toLowerCase());
-    chip.backgroundColor = isActive ? ACCENT_LINK : new Color("#ffffff", 0.08);
-
-    const label = chip.addText(c.toUpperCase());
-    label.font = Font.boldSystemFont(9);
-    label.textColor = isActive ? new Color("#0b1220") : FG_PRIMARY;
-  }
-
-  row.addSpacer();
-}
-
-async function buildWidget(feed, param) {
-  const w = new ListWidget();
-  const gradient = new LinearGradient();
-  gradient.colors = [BG_TOP, BG_BOTTOM];
-  gradient.locations = [0, 1];
-  w.backgroundGradient = gradient;
-  w.setPadding(10, 12, 10, 12);
-
-  // Whole-widget tap fallback: anything not covered by a stack URL opens full list.
-  w.url = fullListUrl(param);
-
-  const family = config.widgetFamily || "medium";
-  addHeader(w, feed.updated, param, family);
-  w.addSpacer(6);
-
-  const filtered = filterItems(feed.items || [], param);
-  const shown = pickN(filtered, family);
-
-  if (shown.length === 0) {
-    const empty = w.addText(param ? `No matches for "${param}"` : "No matches yet.");
-    empty.font = Font.systemFont(11);
-    empty.textColor = FG_SECONDARY;
-  } else {
-    for (const item of shown) addItem(w, item, family);
-    addMoreFooter(w, filtered.length, shown.length, param);
-  }
-
-  addChips(w, family, param);
-
-  w.refreshAfterDate = new Date(Date.now() + 10 * 60 * 1000);
-  return w;
+  const idx = await alert.presentSheet();
+  if (idx < 0) return null;
+  return SECTIONS[idx].param;
 }
 
 // ---------------------------------------------------------------------------
-// Full-list rendering (in-app, scrollable UITable)
+// Full scrollable list (UITable)
+// Returns true if caller should show the section picker again.
 // ---------------------------------------------------------------------------
 
-function buildFullList(feed, param) {
+async function showList(feed, param) {
+  const items = filterItems(feed.items || [], param).slice(0, LIST_LIMIT);
+  const sectionLabel = SECTIONS.find(s => s.param === (param || ""))?.label || param;
+
   const table = new UITable();
   table.showSeparators = true;
 
-  const filtered = filterItems(feed.items || [], param).slice(0, FULL_LIST_LIMIT);
-
-  // Header row
-  const header = new UITableRow();
-  header.isHeader = true;
-  header.backgroundColor = new Color("#0b1220");
-  const headerTitle = param
-    ? `KONGLO · ${param.toUpperCase()}  —  ${filtered.length} stories`
-    : `KONGLO  —  ${filtered.length} stories`;
-  const hcell = header.addText(headerTitle, `updated ${formatRelative(feed.updated)} ago`);
-  hcell.titleColor = FG_PRIMARY;
-  hcell.subtitleColor = FG_SECONDARY;
-  hcell.titleFont = Font.boldSystemFont(15);
-  hcell.subtitleFont = Font.systemFont(11);
-  table.addRow(header);
-
-  // Filter chips row (tap to re-open with a different filter)
-  const chipFilters = ["", "big", "Prajogo", "Bakrie", "Salim", "Astra", "Sinar Mas", "Djarum"];
-  for (const f of chipFilters) {
+  // — Header row —
+  {
     const row = new UITableRow();
-    row.height = 36;
-    const label = f === "" ? "▸ All" : f === "big" ? "▸ Big news only" : `▸ ${f}`;
-    const active = (param || "") === f;
-    const cell = row.addText(active ? `● ${label.slice(2)}` : label);
-    cell.titleColor = active ? ACCENT_LINK : FG_SECONDARY;
-    cell.titleFont = active ? Font.boldSystemFont(13) : Font.systemFont(13);
-    row.onSelect = () => {
-      Safari.open(fullListUrl(f)); // re-launch script with new filter
-    };
+    row.isHeader = true;
+    row.backgroundColor = new Color("#0b1220");
+    const title = `KONGLO · ${sectionLabel.toUpperCase()}`;
+    const sub   = `${items.length} stories  ·  updated ${formatRelative(feed.updated)} ago`;
+    const cell = row.addText(title, sub);
+    cell.titleColor    = FG_PRIMARY;
+    cell.subtitleColor = FG_SECONDARY;
+    cell.titleFont    = Font.boldSystemFont(14);
+    cell.subtitleFont = Font.systemFont(10);
+    table.addRow(row);
+  }
+
+  // — "Change section" button —
+  {
+    const row = new UITableRow();
+    row.height = 38;
+    row.backgroundColor = new Color("#111d35");
+    const cell = row.addText("↩  Change section");
+    cell.titleColor = ACCENT_CHIP;
+    cell.titleFont  = Font.boldSystemFont(13);
+    // Dismiss the table; caller will show picker again
+    row.onSelect = () => { table.dismiss && table.dismiss(); };
     row.dismissOnSelect = true;
     table.addRow(row);
   }
 
-  // Spacer / separator
-  const sep = new UITableRow();
-  sep.height = 8;
-  sep.backgroundColor = new Color("#1a2540");
-  table.addRow(sep);
-
-  // Story rows
-  if (filtered.length === 0) {
-    const empty = new UITableRow();
-    empty.addText("No matches.", "Try a different filter.");
-    table.addRow(empty);
+  // — Story rows —
+  if (items.length === 0) {
+    const row = new UITableRow();
+    row.addText("No stories yet.", "Check back after the next scrape.");
+    table.addRow(row);
   } else {
-    filtered.forEach((item, idx) => {
+    for (const item of items) {
       const row = new UITableRow();
-      row.height = 78;
+      row.height = 76;
       row.cellSpacing = 6;
 
-      const groups = (item.groups || []).join(" · ").toUpperCase();
-      const flag = item.big ? "🔴 " : "";
-      const subtitle = `${flag}${groups}   ·   ${item.source}   ·   ${formatRelative(item.published)} ago`;
-      const cell = row.addText(item.title, subtitle);
-      cell.titleColor = FG_PRIMARY;
+      const groups  = (item.groups || []).join(" · ");
+      const flag    = item.big ? "🔴 " : "";
+      const sub     = `${flag}${groups}  ·  ${item.source}  ·  ${formatRelative(item.published)} ago`;
+      const cell    = row.addText(item.title, sub);
+      cell.titleColor    = FG_PRIMARY;
       cell.subtitleColor = item.big ? ACCENT_BIG : FG_SECONDARY;
-      cell.titleFont = Font.systemFont(14);
-      cell.subtitleFont = Font.systemFont(10);
-      cell.widthWeight = 90;
+      cell.titleFont     = Font.systemFont(14);
+      cell.subtitleFont  = Font.systemFont(10);
+      cell.widthWeight   = 90;
 
-      row.onSelect = () => {
-        Safari.open(item.link);
-      };
-      row.dismissOnSelect = false; // stay on the list after returning
+      row.onSelect      = () => { Safari.open(item.link); };
+      row.dismissOnSelect = false;
       table.addRow(row);
-    });
+    }
   }
 
-  return table;
+  await table.present(true);
+}
+
+// ---------------------------------------------------------------------------
+// Widget rendering (homescreen)
+// ---------------------------------------------------------------------------
+
+function buildWidget(feed, param) {
+  const family = config.widgetFamily || "medium";
+  const filtered = filterItems(feed.items || [], param);
+  const shown    = pickN(filtered, family);
+
+  const w = new ListWidget();
+  const grad = new LinearGradient();
+  grad.colors    = [BG_TOP, BG_BOTTOM];
+  grad.locations = [0, 1];
+  w.backgroundGradient = grad;
+  w.setPadding(10, 12, 10, 12);
+  // Single tap URL: opens script → triggers section picker (or direct if param set)
+  w.url = scriptUrl(param);
+
+  // — Header —
+  {
+    const hdr = w.addStack();
+    hdr.layoutHorizontally();
+    hdr.centerAlignContent();
+
+    const title = hdr.addText(param ? `KONGLO · ${param.toUpperCase()}` : "KONGLO");
+    title.font      = Font.boldSystemFont(11);
+    title.textColor = FG_SECONDARY;
+    hdr.addSpacer();
+    const upd = hdr.addText(`↻ ${formatRelative(feed.updated)}`);
+    upd.font      = Font.systemFont(9);
+    upd.textColor = FG_SECONDARY;
+  }
+
+  w.addSpacer(6);
+
+  // — Headlines —
+  if (shown.length === 0) {
+    const empty = w.addText("No matches yet.");
+    empty.font      = Font.systemFont(11);
+    empty.textColor = FG_SECONDARY;
+  } else {
+    for (const item of shown) {
+      const row = w.addStack();
+      row.layoutVertically();
+      row.spacing = 2;
+      row.url = item.link;   // individual headline → article
+
+      const tagRow = row.addStack();
+      tagRow.layoutHorizontally();
+      tagRow.centerAlignContent();
+      tagRow.spacing = 4;
+
+      if (item.big) {
+        const dot = tagRow.addText("●");
+        dot.font      = Font.boldSystemFont(9);
+        dot.textColor = ACCENT_BIG;
+      }
+
+      const groups = (item.groups || []).join(" · ");
+      if (groups) {
+        const g = tagRow.addText(groups.toUpperCase());
+        g.font      = Font.boldSystemFont(8);
+        g.textColor = ACCENT_GROUP;
+        g.lineLimit = 1;
+      }
+      tagRow.addSpacer();
+
+      const ts = tagRow.addText(formatRelative(item.published));
+      ts.font      = Font.systemFont(8);
+      ts.textColor = FG_SECONDARY;
+
+      const hl = row.addText(item.title);
+      hl.font      = family === "small" ? Font.systemFont(10) : Font.systemFont(11);
+      hl.textColor = FG_PRIMARY;
+      hl.lineLimit = family === "small" ? 2 : 3;
+
+      w.addSpacer(4);
+    }
+
+    // "more" footer
+    if (filtered.length > shown.length) {
+      const footer = w.addStack();
+      footer.layoutHorizontally();
+      footer.url = scriptUrl(param);
+      footer.addSpacer();
+      const more = footer.addText(`+${filtered.length - shown.length} more →`);
+      more.font      = Font.systemFont(9);
+      more.textColor = ACCENT_CHIP;
+    }
+  }
+
+  // — Chip bar (decorative labels + individual tap URLs) —
+  // Note: on iOS, child stack URLs are unreliable — widget.url is the primary tap.
+  // These chips ARE tappable on some iOS versions; on others only the section picker works.
+  if (family !== "small") {
+    w.addSpacer(5);
+    const bar = w.addStack();
+    bar.layoutHorizontally();
+    bar.spacing = 5;
+
+    const chips = family === "large"
+      ? ["ALL","BIG","PRAJOGO","BAKRIE","SALIM","ASTRA"]
+      : ["ALL","BIG","PRAJOGO"];
+
+    const chipParams = { ALL:"", BIG:"big", PRAJOGO:"Prajogo", BAKRIE:"Bakrie", SALIM:"Salim", ASTRA:"Astra" };
+    const active = (param || "").toUpperCase() || "ALL";
+
+    for (const c of chips) {
+      const chip = bar.addStack();
+      chip.layoutHorizontally();
+      chip.centerAlignContent();
+      chip.setPadding(3, 6, 3, 6);
+      chip.cornerRadius = 7;
+      chip.url = scriptUrl(chipParams[c]);
+      const isActive = c === active;
+      chip.backgroundColor = isActive ? ACCENT_CHIP : new Color("#ffffff", 0.09);
+      const lbl = chip.addText(c);
+      lbl.font      = Font.boldSystemFont(8);
+      lbl.textColor = isActive ? new Color("#0b1220") : FG_PRIMARY;
+    }
+    bar.addSpacer();
+  }
+
+  w.refreshAfterDate = new Date(Date.now() + 10 * 60 * 1000);
+  return w;
 }
 
 // ---------------------------------------------------------------------------
@@ -306,6 +310,7 @@ function buildFullList(feed, param) {
 // ---------------------------------------------------------------------------
 
 async function main() {
+  // Fetch feed
   let feed;
   try {
     feed = await fetchFeed();
@@ -314,40 +319,54 @@ async function main() {
       const w = new ListWidget();
       w.backgroundColor = BG_TOP;
       const err = w.addText("Feed unreachable");
-      err.font = Font.systemFont(11);
+      err.font      = Font.systemFont(11);
       err.textColor = ACCENT_BIG;
       Script.setWidget(w);
     } else {
       const a = new Alert();
-      a.title = "Feed unreachable";
+      a.title   = "Feed unreachable";
       a.message = String(e);
       await a.present();
     }
-    return;
-  }
-
-  // Determine the active filter param:
-  //   - from widget config (Parameter field set on the home-screen widget)
-  //   - or from URL query (?filter=Prajogo) when opened by tapping the widget
-  const urlFilter = (args.queryParameters && args.queryParameters.filter) || "";
-  const widgetParam = (args.widgetParameter || "").trim();
-  const param = urlFilter || widgetParam;
-
-  // If launched via URL with view=full, OR run in-app (not as widget), show the list
-  const wantsFullList =
-    (args.queryParameters && args.queryParameters.view === "full") ||
-    !config.runsInWidget;
-
-  if (wantsFullList) {
-    const table = buildFullList(feed, param);
-    await table.present(true); // true = fullscreen
     Script.complete();
     return;
   }
 
-  // Otherwise render the home-screen widget
-  const widget = await buildWidget(feed, param);
-  Script.setWidget(widget);
+  // Determine filter: widget parameter takes priority
+  const widgetParam = (args.widgetParameter || "").trim();
+  // URL query params (works on some iOS versions when chip URL is tapped)
+  const urlParam = (args.queryParameters && args.queryParameters.filter) || "";
+  const presetParam = widgetParam || urlParam;
+
+  if (config.runsInWidget) {
+    // Render homescreen widget
+    Script.setWidget(buildWidget(feed, presetParam));
+    Script.complete();
+    return;
+  }
+
+  // Running in-app (widget was tapped or script opened manually)
+  // If we have a preset param (widget parameter or reliable URL param) go direct.
+  // Otherwise show the section picker sheet.
+  let param = presetParam;
+
+  while (true) {
+    if (param === null) break;          // user cancelled picker
+
+    if (!param && !presetParam) {
+      // No preset — show section picker
+      param = await pickSection(feed);
+      if (param === null) break;        // cancelled
+    }
+
+    await showList(feed, param);
+
+    // After list is dismissed: if we had a preset we're done,
+    // otherwise loop back to picker so "↩ Change section" works.
+    if (presetParam) break;
+    param = "";  // will trigger picker on next loop
+  }
+
   Script.complete();
 }
 

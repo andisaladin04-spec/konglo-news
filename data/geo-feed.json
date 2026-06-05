@@ -1,7 +1,129 @@
 {
-  "updated": "2026-06-05T17:05:07.234741+00:00",
+  "updated": "2026-06-05T19:07:07.165046+00:00",
   "count": 150,
   "items": [
+    {
+      "title": "Trump to meet AI leaders to discuss US investment in their companies",
+      "link": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president said on Friday he expects to meet the leaders of top AI companies next week.",
+      "published": "2026-06-05T19:03:26+00:00",
+      "source": "BBC Business",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "577f303224f45a75"
+    },
+    {
+      "title": "Judge strikes down Trump bar on asylum, visa processing for 39 countries",
+      "link": "https://www.aljazeera.com/news/2026/6/5/judge-strikes-down-trump-bar-on-asylum-visa-processing-for-39-countries?traffic_source=rss",
+      "summary": "Judge says restrictions put lives of immigrants in &#039;indeterminate legal limbo&#039;, motivated by &#039;anti-immigrant sentiment&#039;.",
+      "published": "2026-06-05T18:50:31+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "fd4c31697c0d4200"
+    },
+    {
+      "title": "China pererat hubungan dengan Myanmar di bawah pemerintahan baru",
+      "link": "https://www.antaranews.com/berita/5596543/china-pererat-hubungan-dengan-myanmar-di-bawah-pemerintahan-baru",
+      "summary": "Menteri Luar Negeri China Wang Yi berjanji untuk meningkatkan hubungan dengan Myanmar, yang membentuk pemerintahan baru ...",
+      "published": "2026-06-05T18:44:56+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "menteri"
+      ],
+      "big": false,
+      "id": "95f023f2cae1117f"
+    },
+    {
+      "title": "AS-Filipina bahas upaya majukan perdamaian di Laut China Selatan",
+      "link": "https://www.antaranews.com/berita/5596535/as-filipina-bahas-upaya-majukan-perdamaian-di-laut-china-selatan",
+      "summary": "Menteri Luar Negeri AS Marco Rubio bertemu Menlu Filipina Maria Theresa Lazaro di Washington, Jumat (5/6), untuk ...",
+      "published": "2026-06-05T18:31:11+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Geopolitics",
+        "Government / Policy"
+      ],
+      "matched": [
+        "Laut China Selatan",
+        "menteri"
+      ],
+      "big": true,
+      "id": "b0c856d863eef3b5"
+    },
+    {
+      "title": "Trump admin’s cancellation of wind energy projects causes business turmoil",
+      "link": "https://www.aljazeera.com/economy/2026/6/5/trump-admins-cancellation-of-wind-energy-projects-causes-business-turmoil?traffic_source=rss",
+      "summary": "Seven northeastern states have sued US gov&#039;t for paying TotalEnergies to withdraw from offshore wind projects.",
+      "published": "2026-06-05T18:12:44+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "9b723f98d9c55119"
+    },
+    {
+      "title": "Garut raih Kabupaten Terbaik I Pengendalian Inflasi Regional Jawa-Bali",
+      "link": "https://www.antaranews.com/berita/5596519/garut-raih-kabupaten-terbaik-i-pengendalian-inflasi-regional-jawa-bali",
+      "summary": "Pemerintah Kabupaten Garut, Jawa Barat meraih prestasi penghargaan Kategori Pengendalian Inflasi Terbaik I Tingkat ...",
+      "published": "2026-06-05T17:41:21+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "inflasi"
+      ],
+      "big": false,
+      "id": "eae27c6cbf324af2"
+    },
+    {
+      "title": "AI crypto scams soar in US as annual losses top $11bn - Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdzZOajRZYnFxUHp2ME9PS1BQU0EzaWY5NmgyMThfTnVXVXRBbE03ZE1tUTdVZHlwQWlpMkowRk5KYnNCdlF6clljNUFDWDJoS1ZKN08tS0FZYlBuWFlZbHJ6U0RIYmxMOS1ad25XZExPMEhrZ21CblpTdzlfMFZsMkFjOG1hNTFvUmtQSTZhOGo5VDlmNVVrdEVsb0ZrX0M1VUE?oc=5",
+      "summary": "AI crypto scams soar in US as annual losses top $11bn&nbsp;&nbsp;Nikkei Asia",
+      "published": "2026-06-05T17:28:00+00:00",
+      "source": "Nikkei Asia (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "crypto"
+      ],
+      "big": false,
+      "id": "142caa5101785177"
+    },
+    {
+      "title": "Purbaya sebut belanja negara capai Rp1.365,4 triliun hingga Mei 2026",
+      "link": "https://www.antaranews.com/berita/5596511/purbaya-sebut-belanja-negara-capai-rp13654-triliun-hingga-mei-2026",
+      "summary": "Menteri Keuangan (Menkeu) Purbaya Yudhi Sadewa melaporkan realisasi belanja negara hingga Mei 2026 mencapai Rp1.365,4 ...",
+      "published": "2026-06-05T17:26:21+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "menteri"
+      ],
+      "big": false,
+      "id": "b6070b92de999539"
+    },
     {
       "title": "Komisi VII DPR: Nobar Piala Dunia jadi ruang penguatan ekonomi rakyat",
       "link": "https://www.antaranews.com/berita/5596491/komisi-vii-dpr-nobar-piala-dunia-jadi-ruang-penguatan-ekonomi-rakyat",
@@ -1685,6 +1807,53 @@
       "id": "1c7f6ca0c0fa3b85"
     },
     {
+      "title": "Watch US Hiring Surged in May, Boosting Bets on Fed Rate Hike - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLUd3alRlV2Zfbmh2UUxYZXEwWENkZHJJZE9RT1VRTm12ZnFyX0NjSlNiVEwwSi1yXzFvZ1NJaEZ1N0pudDlKOWpSR0lsUFZlTHhKUVVocnZGZXU1UmZUdzlaMjJkdXdzX1p5Z1hlbnlaR0RMdzVOS3ppZ1lwbXJFcmkzb0hZU05EQ0lkRUcwVnlOZlFsbzJULUpwRW5qSjFVazJEMUFnQURtb0pIZGc?oc=5",
+      "summary": "Watch US Hiring Surged in May, Boosting Bets on Fed Rate Hike&nbsp;&nbsp;Bloomberg",
+      "published": "2026-06-05T00:00:00+00:00",
+      "source": "Bloomberg (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "Fed rate",
+        "rate hike"
+      ],
+      "big": true,
+      "id": "d416a21f8cd36c7d"
+    },
+    {
+      "title": "Watch SpaceX (SPCX) IPO Denied Fast Track Entry by S&P - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOemxxcV9tbUJFWjhLbjFUVzZaZjlxLWt5Y1N6OFdWeHhSOEJOcVNBcmlaeFVjY1JXOEpPOHRUZE42WHprWWlFM296dHZOdUNRTFRiRVhHZFdlT1ZJSkNzSF9KcXItZE10eGtHaUYxWWxLc0pNdHl0UlRKaTZIV1lPWGZ5NFpZb3hLRUhyTURHS3lfZzhkZnJTYS1tQTc?oc=5",
+      "summary": "Watch SpaceX (SPCX) IPO Denied Fast Track Entry by S&amp;P&nbsp;&nbsp;Bloomberg",
+      "published": "2026-06-05T00:00:00+00:00",
+      "source": "Bloomberg (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "IPO",
+        "S&P"
+      ],
+      "big": false,
+      "id": "e37f968704c97a43"
+    },
+    {
+      "title": "Watch SpaceX, (SPCX) Other Mega IPOs Denied Fast Index Entry by S&P - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQamVSd2tMU0Zwclk1XzRUMXV5dnUyaUFUYXNfWl93dENkZkg1VC1FMHVaNWo5c3dXbFRvY1FmblRZSGQ0bmVRRmE1ZVZGcjZ4bEx5ZHN5UXBCRmR1ME95a0RDa0sxTGdVY1ZheWY0WHh0QUlBZV80eHEwa2NfSnBLc21iUGFYb0lQRkkwTkhWQ25JMzhET2Jtams1WUkzSzBDM0g0dFJQaTRKQjda?oc=5",
+      "summary": "Watch SpaceX, (SPCX) Other Mega IPOs Denied Fast Index Entry by S&amp;P&nbsp;&nbsp;Bloomberg",
+      "published": "2026-06-05T00:00:00+00:00",
+      "source": "Bloomberg (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "S&P"
+      ],
+      "big": false,
+      "id": "f9bcc14010f4f733"
+    },
+    {
       "title": "Watch Nomura's Koo: Weak Yen Tied to Slow BOJ Hikes - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc3RmSzV5c0NIVU5qSHZsTzRiYzNLQUphMV8xN2RSTnh6bFpHbFFGVkR6b1JDa0pfdFhld3p1cERGY1RjSVk2cnhINzllQmN2bGxOMmVLRmJsN2NYbmw1aVdXbWd5dWVwbnF6dm5iWFB3Q05saGRGUnNiemdSdVlEeWpndS11N1FfelZvM1Z0NkNsZmFvUW9wdlVSTnR0SXQ2?oc=5",
       "summary": "Watch Nomura's Koo: Weak Yen Tied to Slow BOJ Hikes&nbsp;&nbsp;Bloomberg.com",
@@ -1775,57 +1944,41 @@
       "id": "ce51a658f29e05fb"
     },
     {
-      "title": "Prabowo Canangkan Defisit APBN em 2027 Máximo 2.4 Persen - jornalemdestaque.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVTRGdnlHUEN4TUVZa2dMdU0tNmJzS0hHM1dpcVh5SDlJNW9VX0hOS1BDMENTUDZCN2FmdGFabWE2VUJpb2M4eXd2V2g3b2VCXzAySkk2Mk5GMGhXZ1hEX1hmZTlvRG15bGM0cWZXdHYxTGotbTNBcXVEVzZyYTQ2VXN5U1V3MERmNVZmYjhPam9QMmdqSUQyZEw5T2t3RXZDc0lRVWM4aE9VZw?oc=5",
-      "summary": "Prabowo Canangkan Defisit APBN em 2027 Máximo 2.4 Persen&nbsp;&nbsp;jornalemdestaque.com",
-      "published": "2026-05-20T04:43:23+00:00",
+      "title": "Proyeksi BI Rate: Bank Indonesia Bakal Tahan Suku Bunga di RDG April 2026 - Bisnis.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcmZrSEFZb2VDT2c5Qm5jWG80SXJMMXZTRTMwb0NQM3hONThNNjNaSUpYWlRlNVZZWVdzdzd1Z3dPYXJEaE1zNjJQdE9ZMFBqdE5qNno3aENSUENaczBhYjJLd2JMQThaVHczWDBxSE90Q184dk4ycWl2aXltRnJ1cGdldElJSUlDdEZZc3R3bTJEVFlFdGVOS1BFeXUtcGh4UUYyVTZPaDQzR1o4WnhreGdCVVNCdUxReWs2c1dHRzBkTFNZ?oc=5",
+      "summary": "Proyeksi BI Rate: Bank Indonesia Bakal Tahan Suku Bunga di RDG April 2026&nbsp;&nbsp;Bisnis.com",
+      "published": "2026-04-21T07:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "BI rate",
+        "Bank Indonesia",
+        "suku bunga"
+      ],
+      "big": true,
+      "id": "faf119f609e1a37d"
+    },
+    {
+      "title": "FOTO: Ekonom : Narasi Pemakzulan Presiden Prabowo karena Kondisi Ekonomi Tak Berbasis Data - SINDOnews.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGFucTJKQW9Tal9WV0kxNVZHRHJ1bGFIMVN5NHdXUnoxcGttSmFIUXJIWHNnZUJvdHA0LWZQd0Z6anlJZFBOODZZWmt2b3ZTdTJOMTNOc1A0bUUwWjJsWXliZVZlNEd2Q1p2WHJBYnFzeFBReW4wVTNJNkdkRXloRDZIcjBMNEVRY3lyQmJrbko2RVlDU2VKNDVzTTdqcGR3UktZYUNSN1Z4Rkx4UTdSLUgySmN4VmlKd18wa1RGTWlCRzMyb3pB0gHLAUFVX3lxTE1hZTZELXQ4Qk5uMFpqQmdjMGF0dUlKQlJURWVaX28wSWdsdVpELThYdEluazludUd0Q19CY0c4TjFnQk5VNkdKYmdpTk5lVXZqSDFhMENCNmRQQy1LT2xiRHlqQjZLbU5JQk9UMVV1bmhYODU1b2pzYUhiSGZCNDhPR2otTWpkZlFXVnoyTGF6bjhJYWRzTDdHNHoxMlFaU2xwZnNyWHV6dDVHdEs2Z2JabWlvZUo3UEhfQU02dG5abTRLMHhZcGI3RUNj?oc=5",
+      "summary": "FOTO: Ekonom : Narasi Pemakzulan Presiden Prabowo karena Kondisi Ekonomi Tak Berbasis Data&nbsp;&nbsp;SINDOnews.com",
+      "published": "2026-04-12T07:00:00+00:00",
       "source": "GNews – Prabowo APBN",
       "groups": [
         "Government / Policy"
       ],
       "matched": [
-        "APBN",
         "Prabowo"
       ],
-      "big": true,
-      "id": "bf5018e50c1ce2f4"
+      "big": false,
+      "id": "8ec28ef520985984"
     },
     {
-      "title": "Rupiah Tertekan, Bank Indonesia Diyakini Tahan BI-Rate 4,75 Persen - Media Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWGQ4aU1ubzZhTVJLbnBkM2VaMWV4ZkE1enRMc2J2SUtHVUxHbnBjTngtOVRVd2dld1pCM0k0M3A1a094Z0ZSR1psMTFJVUJqaDhnN3ZhSEdTUVYzRnMzSHZSWGswYzdKbmpWR0IyQW8zUHI3d1dMUjVEb05zT3YzU1pkUzZaMUFkRWVtaHFfRkJYeXdITWt0RzZFUWZpVHk3cGRCNDNUTmdLUQ?oc=5",
-      "summary": "Rupiah Tertekan, Bank Indonesia Diyakini Tahan BI-Rate 4,75 Persen&nbsp;&nbsp;Media Indonesia",
-      "published": "2026-04-22T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "Bank Indonesia",
-        "rupiah"
-      ],
-      "big": true,
-      "id": "7501da115ef2575a"
-    },
-    {
-      "title": "LPEM UI: Tekanan Inflasi dan Rupiah Melemah, BI Diprediksi Tahan BI-Rate di 4,75% - Kontan TV",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0NXVDWFdobTM5Zi1SdXBISmtfWVRZbVdMVmdLemU2aXo2TUNLeGMtakJlTDdudmVqaDZKVG9vdVdtSGpmV1J3Sk50SnFwUkVFeTFJ?oc=5",
-      "summary": "LPEM UI: Tekanan Inflasi dan Rupiah Melemah, BI Diprediksi Tahan BI-Rate di 4,75%&nbsp;&nbsp;Kontan TV",
-      "published": "2026-03-18T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "inflasi",
-        "rupiah"
-      ],
-      "big": true,
-      "id": "9ee1c23f7f85e7b3"
-    },
-    {
-      "title": "LPEM UI: Tekanan Inflasi dan Rupiah Melemah, BI Diprediksi Tahan BI-Rate di 4,75% - kontan.co.id",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcWxJdTFYU2xJV2lCOGhOQUZxUmdQTVhOVVpNdklEQ2VJcHR5RzVzT1RqSEE0OEcxcFBHWjBNbDhqeklkZFoxcXBXcnMzem9kQXZnZ2NkRnd1QmROVENxY1FTTDZrV25NOVgxQWhfa0JfNFVlZG1ZQUY2MTB6bVdMdU53T2dpYl8zbXptUm9RQVdjWU5scWQtX1VRWU9QQ0NjM2REYTFJR2JGYUZ4TkxlcGtn0gGrAUFVX3lxTFBxenROdGlFOFJfcWMzS2Rua3NZMG5pd3BaLXQtN2xCYW4tUzVqQnQ2Y3doQm1CVFhKUjB3Um9QUnIyUlVOWFpqUm5sM2djV0JPanVaaV9jZmlUNGtScTFEWnZrWlpYeEVKenpadDl2Nm5uZXBRWjBaWWE2aXJ4VlRNdnNIT1FUX21kanVkeElVeGQwdkZfZVNZSzU2a0RyWWt3UUZSOEZMX3pUUQ?oc=5",
-      "summary": "LPEM UI: Tekanan Inflasi dan Rupiah Melemah, BI Diprediksi Tahan BI-Rate di 4,75%&nbsp;&nbsp;kontan.co.id",
+      "title": "Demi Jaga Rupiah dan Inflasi, BI Masih Pertahankan Suku Bunga di Level 4,75% - MetroTVNews.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZlJ1UzFQN1BJLURCRFZIOUFCOWlJMVNiSGZlT2ZSc3BXcTJuTGdMU1BCRnJmd0tJa2x0c3c3dkFXR1Q1bmt6bVdDOEI4eDBEbWNubTN2S2ZJWkRvTFRXLU5iVEhjTVlNTkhOWkduMUU5N0FWSDg2WUE0dlRtX3lFTWgtSXc2RTFCU0UwVXJWb0FqT0JZTXhiRWs3emtZYnBpYUFULUQtUVFkQnFyVjljQU9IZzFJUmM?oc=5",
+      "summary": "Demi Jaga Rupiah dan Inflasi, BI Masih Pertahankan Suku Bunga di Level 4,75%&nbsp;&nbsp;MetroTVNews.com",
       "published": "2026-03-17T07:00:00+00:00",
       "source": "GNews – BI rate rupiah",
       "groups": [
@@ -1833,16 +1986,17 @@
       ],
       "matched": [
         "inflasi",
-        "rupiah"
+        "rupiah",
+        "suku bunga"
       ],
       "big": true,
-      "id": "cf66cd737371ba96"
+      "id": "a1d282c9955cdf20"
     },
     {
-      "title": "Di Tengah Perang dan Rupiah Ambruk, Investor Menanti Jurus BI - CNBC Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSklZaGRGcFR4V1Ftd1piRmpBcFhjOWJSSE5aSXJRbXA3Zl83Tm9SeUdmdkNDUm1MTUVfaDRkbWRDeEZtNlNmeF9FX0I2bVNVMEdXOUZyRHp6NTNIelNfSEFicEllZjZDRWloMDY3NFhMaGhwcWVLNW4wRF8yZVRqdTNCdEZrUC1HMGxlWVJjMGcydHlyLVdhRWc0eWFtOU1PNE5WdFg3RUZlUHpvZkdRLVVaUWZNa2V5aVkyMHZwd0JIS3M?oc=5",
-      "summary": "Di Tengah Perang dan Rupiah Ambruk, Investor Menanti Jurus BI&nbsp;&nbsp;CNBC Indonesia",
-      "published": "2026-03-16T07:00:00+00:00",
+      "title": "BI-Rate Maret 2026 Diramal Ditahan, Karena BI Fokus Jaga Stabilitas Rupiah - kontan.co.id",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNczlKbWYwdmpEM2VDRWs1bmFUUjFmYWlBdTR1Nk1kWnNJWUJnQXBUZ2d0dXZ1TUV1LTFUd2tXVVVXbkJXcGllOEZkaXZiNUhEWEdwMXZmLXBfU2NyRFFEX3lmWjRPYUtvaXBEX1NCeFR3TkVkTE9CS3BZV3J4VlhoZVdzOTRSX0R0ZjZHZ1JNTTUybFFNem56MnhLeEw2N1pqZzdZbE5NT3Bsamx00gGmAUFVX3lxTFBDaVVaVW5qQjlzbUNGaEFDaEM5MVNNLS1Lc1ZKSXljWmVmVzdnNzlTUWo0NE1RRk1hakxnWGZPbTRzZGFfcHl3Y1Y3cFJNdVNZY1FWV0l5aXNuaEpwSjVHRzhVXzJkdGhyMVMyMTVKN1VPWUVURnVKWEhMZ1EyU3ZzeHF6R1NKeGNBSTNWVzBwQlpyYl9KOWt0VHBKNzBuTXc0U2RkdUE?oc=5",
+      "summary": "BI-Rate Maret 2026 Diramal Ditahan, Karena BI Fokus Jaga Stabilitas Rupiah&nbsp;&nbsp;kontan.co.id",
+      "published": "2026-03-15T07:00:00+00:00",
       "source": "GNews – BI rate rupiah",
       "groups": [
         "Macro / Economy"
@@ -1851,14 +2005,246 @@
         "rupiah"
       ],
       "big": true,
-      "id": "26da0eff5ee53942"
+      "id": "d2f9a81987f992f9"
     },
     {
-      "title": "Indonesia feels heat to leave Trump's Board of Peace after Iran strikes - Nikkei Asia",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUFdLSEdyR3pPdHpYU0Z5V29kSzU1Qll1a2ZRb2ZoWmcyLUs3NTVFQnJMOGNaUlBtb3FBUVo2QW54V0RUaW1FT0x6MFg4WDNBcmpFMFctSjJBVGQwT1BLcW1oQXRTYmVkM3Y4dS1TbWxnUF94MVpQS3lpYmpBODdXenV0M0RaMk51UjNZNlNaSWJVWi1HaXdldU5odmRXZS1jSUNjRHUxdzR3YnVpLXFCcDlhY3VQVHM1TTdz?oc=5",
-      "summary": "Indonesia feels heat to leave Trump's Board of Peace after Iran strikes&nbsp;&nbsp;Nikkei Asia",
+      "title": "Algoma Steel Fourth-Quarter Loss Widens With Tariff Costs - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYXVDUWRHdHZfUWlQeGlvbmxuYzU4bGxjcUhNZDlpMFpDc1hTdzBLelJuZjhWd0NTckF0LTA4UEhPUkdaQjV5ZVFrMkF3VnBldnhLT2w4Mk5YVmFuSjZkNFR6VGpRY0J0cFU5amZCaTZWR3Q2UlExRmE2ZkZENGFhVmRhcmZzRmVtOWRvaUwzUTlyTHBmV3pweTZzazF4a3ZDNk5pQ0dIWQ?oc=5",
+      "summary": "Algoma Steel Fourth-Quarter Loss Widens With Tariff Costs&nbsp;&nbsp;WSJ",
+      "published": "2026-03-11T07:00:00+00:00",
+      "source": "WSJ (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "tariff"
+      ],
+      "big": false,
+      "id": "c43b3f903b4b51ad"
+    },
+    {
+      "title": "Costco Evaluating Possibility of Tariff Refunds as Second-Quarter Revenue Rises - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaUdSZjgtWHhFMkdnWGVJS1l5eFZNS3h5bjNNMWpKN2pGMktiZ1NSdDBGTnM3aUFxY2VDdEhEU1ZlMEpPRnh6LU9MbXpxRF80VGdlNW9RZXNEZ0lHekJBVzAyY3dXdG1xdDNwYXZkdmZQMmNIUHRSeGtpdWduS0trNGw5V1RkQ1VkSWtfTEkxbVluRUFqMU53ajcwWGRqclJxenlSWWJPckY1MnpZcmVYVzRCRGpGQ1c3MjlfZA?oc=5",
+      "summary": "Costco Evaluating Possibility of Tariff Refunds as Second-Quarter Revenue Rises&nbsp;&nbsp;WSJ",
       "published": "2026-03-05T08:00:00+00:00",
-      "source": "Nikkei Asia (via GNews)",
+      "source": "WSJ (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "tariff"
+      ],
+      "big": false,
+      "id": "bc87e881f0b72a12"
+    },
+    {
+      "title": "Fitch cuts Indonesia credit rating outlook to negative - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWkpuUGZ4MklRZUJ4bEtwcnVPeTF5NUJaS09adzNrb3hoVlFBTFR0VURMU1NkSktqVlBYNTJjN3VCSUNYS0xDN0d1NXZXR1JYNlNIcTdQUExTTmJJYU0wR1BMM2FXM0hycVhiZUNPWnhqU00zS2EyR2xJQzdlUHBBR0xJS1Q5a2ZhQzMwcklYNXZRX0hYRUtYVDRnR0MtNTI5N0pXWENpU3NvNFI4ZzhaMENFOTUyRmFpWVp0MzVB?oc=5",
+      "summary": "Fitch cuts Indonesia credit rating outlook to negative&nbsp;&nbsp;Reuters",
+      "published": "2026-03-04T08:00:00+00:00",
+      "source": "Reuters – Indonesia",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "Fitch",
+        "outlook"
+      ],
+      "big": false,
+      "id": "9bd30db166fbc3b7"
+    },
+    {
+      "title": "Peluang Turunkan BI Rate Masih Terbuka, Ini Syaratnya - Bloomberg Technoz",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONDZZY3Z1a3ZQOHZpUGgtSEpzX3g1dElnOVk3b3hLSDc4Z3VqdzVFZjBCQkUxdU1XaGQ4a1oySjVCa2JORExCOWEwekZmcmJuemstd0htdWtGUmRWYTNjLVFDcmRWRmUySmtoQWNMUW9yaG44dUpMQlpKRWtVdm82Z0h4ZHZtMkdXMW0tRXc5TW5KUGlrWGlyUHI0WDlZTno0NU40ZEdQRQ?oc=5",
+      "summary": "Peluang Turunkan BI Rate Masih Terbuka, Ini Syaratnya&nbsp;&nbsp;Bloomberg Technoz",
+      "published": "2026-02-20T08:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "BI rate"
+      ],
+      "big": true,
+      "id": "381ac25fdce8f92c"
+    },
+    {
+      "title": "Inflasi Melampaui Target, BI Diproyeksi Tetap Pertahankan Suku Bunga Acuan - investor.id",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNblIwUUFXd19vMUlfdzc0UkNvOGFJQVdRa3J4XzdsWVV0bk93MEppajFZOTlUTWJYVXFiOHhZbTVia194dU1pckphZDlVQlFMeFRnemdLZ0pHSkoyY2lnRHp4eElybmI3ZmNabzFqWklaNnlJSGdhVW5SNFoxcUl6Snh6OUgzS3NtMV9sMWY1RHJ0WFRGMlU1UkZNb0ZZQ3lKSF9GeTZlc2dEcDYxUnZnQTJWaw?oc=5",
+      "summary": "Inflasi Melampaui Target, BI Diproyeksi Tetap Pertahankan Suku Bunga Acuan&nbsp;&nbsp;investor.id",
+      "published": "2026-02-19T08:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "inflasi",
+        "suku bunga"
+      ],
+      "big": true,
+      "id": "ac99c71bf3dcc379"
+    },
+    {
+      "title": "Risiko Pasar Keuangan Masih Tinggi, BI Diprediksi Menahan BI Rate pada Februari 2026 - kontan.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM2dGWmFlaDJhZGRlOUN1ell5QnUtNVpfaTVlZTB4LXRJMVFmNVl3dWV1YzZSbVRYUEhCaVJBdWEzb3ktWGRLNHdoalhRdDFDS19jS0RocThOcXlKam1wbTZmR05sMWc1SjAxZXZRcUgyTGV3RmNqSmJ0aXdVQnpPQ1RES0M5SFF3cVNSWTlzY29iTTBYN1NOS1ozT1hVTXJnd3JybGdrTEJYY2NBOW83QUljOUdtczFiTXfSAbMBQVVfeXFMTTMxMW5nTjcyN3dzSDVPdUFFYmt3X0lXNW1xc1YtWVNNWXM1VUgwYkhhUjBNRUxaM2xiS251WDlkalk0amU2M3FhUTVibUgyM2JnMnJrNjFXS1ZZNElLMnBmT3g5aEpGUU5FTDhDa3VMRjhOVnNkZ3FZYk5QVTMxX19nZ01UdGlDNTFfNWNqeDdpZkRDTXlPVW5wNG81VUZZMlZGUWkyTHdBY1N3bkNFNkJhcGs?oc=5",
+      "summary": "Risiko Pasar Keuangan Masih Tinggi, BI Diprediksi Menahan BI Rate pada Februari 2026&nbsp;&nbsp;kontan.co.id",
+      "published": "2026-02-17T08:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "BI rate"
+      ],
+      "big": true,
+      "id": "91b9348c59b89077"
+    },
+    {
+      "title": "Modal Asing Berisiko 'Kabur', BI Pastikan Jaga Rupiah & Inflasi - Bloomberg Technoz",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS3p6djM2SHZuZU5VdjJCY2dCdkdhWlVPWFdqa2lsNmlSZU00SmFfQ3E0MnA5WXRJUHhqTFZxcTNNVDdwdkpWVk5mbUdsLWh3dmhqN0RtOTZ2NDQxQXRoQVB5eXdlU0c1YkZMZUFYazRJZENHSEhpaHEyVlBOcEJxaFpHM3pweWlLTURIWEdLZkoyZzBiNnVheUxLS1VsbXFWbE5CZlctZy1EVU1lQ0E?oc=5",
+      "summary": "Modal Asing Berisiko 'Kabur', BI Pastikan Jaga Rupiah & Inflasi&nbsp;&nbsp;Bloomberg Technoz",
+      "published": "2026-02-08T08:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "inflasi",
+        "rupiah"
+      ],
+      "big": true,
+      "id": "616f0101319790fc"
+    },
+    {
+      "title": "Untuk Jaga Stabilitas Rupiah & Inflasi Bank Sentral Tepat Pertahankan BI-Rate - RM.ID",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbzVIRjhZMXZ3QzM1cGNvRXNLMW5HSEpzNEhRdTdBSkcySTk2bTI5eW90SkphcDdrcFBpVGM1Q1Vibl9SbFpxblgwRGlMYnA3R0ZfNmY1YUNianIyRnFCQzM0Ui1kLU5IeU1nbVZqM0lpbjFjNmh2d1pEV2FhcTBfX09iMW15RFZJVkxQYnUwM1Z1WFVqNmZPWlh3cEFDT1NtZngtdjFRZ3NPWGV1TjJTQ2ZzMXhBYXMyZzAxZmJMOA?oc=5",
+      "summary": "Untuk Jaga Stabilitas Rupiah & Inflasi Bank Sentral Tepat Pertahankan BI-Rate&nbsp;&nbsp;RM.ID",
+      "published": "2026-01-25T08:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "inflasi",
+        "rupiah"
+      ],
+      "big": true,
+      "id": "7702c5813a51161f"
+    },
+    {
+      "title": "POLL Bank Indonesia to hold rates steady at 4.75% on November 19, cut next month - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMTdoT3B1TkhMNWJDdG5SX1p6QUdmMUJSbndOSTRWelJJNzVDbnVOVzlpQ0ZDMHNjblZXYVFfYnhkYy1YOWJLYjNha2lwQ3l1eUpFUTJmYWhGRHVRRHNkWkNpN3JhY3kwYUJlOFN2eVl6ekVLRVVYTDdYNmtMb3BpT2FlSHNIMFZ5N0tLZXhJWDgzR2kxN0ZrR0RTSXdJQW56TmhNMnVLeUc2Rl80RGpLYTRxQTNkVUdmSlE?oc=5",
+      "summary": "POLL Bank Indonesia to hold rates steady at 4.75% on November 19, cut next month&nbsp;&nbsp;Reuters",
+      "published": "2025-11-17T08:00:00+00:00",
+      "source": "Reuters – Indonesia",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "Bank Indonesia"
+      ],
+      "big": false,
+      "id": "2ca4a0e65526bc15"
+    },
+    {
+      "title": "Sony Raises Guidance on Anime Success, Smaller Expected Tariff Hit - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObU1qRkRvMmhyLWt3MnRKWVNQMWFPaUs3cTlDV1Y3eU9yYV9haUNxQW1xRmNtWEYxY1VyMlRzSW9OSGZMMmRLM1ZfT0RtUDFxVXhkdGxMRDg4NVFVbUpCbF9EV0tOQ2dUbkVaU09zR25iMVlKT2M3bXZvUnBFc2pjem44V1BFdm5MOXA1Tk05dUdSbWJpZXpNZzFna1IyOUlGd2dtLWpuNnpUcjg?oc=5",
+      "summary": "Sony Raises Guidance on Anime Success, Smaller Expected Tariff Hit&nbsp;&nbsp;WSJ",
+      "published": "2025-11-11T08:00:00+00:00",
+      "source": "WSJ (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "tariff"
+      ],
+      "big": false,
+      "id": "9a8210742e6b0465"
+    },
+    {
+      "title": "Trump Ends De Minimis Tariff Rule: What This Means for U.S. Shoppers - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVmVTcHRueXlBa2FxYURvUVoyQjlHVkdBdlAwVDZpYTN4UlNvTXN0WUJFQVZVQlZqanpMZEowMDdGLWtYM3poSkFwenhjTU5zX3hqSFlMQkduTjRHOU1ZN3l3VU9XNlNHWmFhOUNyY3BBdm9yNnRIMVpIV1hLVW9wX3BfSW5DM1F2MWJwRE9PYW1HenQ2ZGxPUGdWRW1oWXV6UUNmcEd6VFdlRVBjM1Nlc3FYM0EwQlB0eERad05DUVE2ZHJkUTZkQ1JrczlKLVFMcUZiMzY2eTZURng0Z2NrSHlUQlFuZw?oc=5",
+      "summary": "Trump Ends De Minimis Tariff Rule: What This Means for U.S. Shoppers&nbsp;&nbsp;WSJ",
+      "published": "2025-08-29T07:00:00+00:00",
+      "source": "WSJ (via GNews)",
+      "groups": [
+        "Geopolitics",
+        "Global Finance"
+      ],
+      "matched": [
+        "Trump",
+        "tariff"
+      ],
+      "big": false,
+      "id": "eede0f7eab06af03"
+    },
+    {
+      "title": "Alcon Shares Fall After Guidance Trim on U.S. Trade Tariff Hit - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYV84YXdydHVkMGh4S0VET2JoMi1XUndXd2NkMXFBRXREQ0pHZ2hNajdpblRJZkZlSlBQRkpKM2xLdmVWSF93czlCY2ZueWNYN2dOai1qcS1sNmVYeDRwb3FZSGdrMWY2UVVEQXRTR0haYkFXLXRiS0h2TUxVQi1VVlc0Z2RHTldKWU5GdWJqSkJfN2ZHRUdIWWJlb2hJSlIwRHVpRExjemkzVmRj?oc=5",
+      "summary": "Alcon Shares Fall After Guidance Trim on U.S. Trade Tariff Hit&nbsp;&nbsp;WSJ",
+      "published": "2025-08-20T07:00:00+00:00",
+      "source": "WSJ (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "tariff"
+      ],
+      "big": false,
+      "id": "7831cf2c9ab66dc6"
+    },
+    {
+      "title": "Presiden Prabowo Janjikan APBN Tanpa Defisit Paling Lambat 2028 - Kompas.id",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYm5VeE1iMXN3Y3dsRkJQQlZfM0pNbWU3Q0J5ckVhZlBoWXY1dGhRUHVRUWV2SUhwamdGZnRWR01MQVFDdWN4Y0hYWWlGaTY4M0oyeUJsRldrNlVUaW5EVkx1WHN2aG1sZFhvNHNkSXE5NTdMemRJQXNpa1lwNVNaQ3F2bnpjTENSelppX19GNzlMUEJNdS1hbQ?oc=5",
+      "summary": "Presiden Prabowo Janjikan APBN Tanpa Defisit Paling Lambat 2028&nbsp;&nbsp;Kompas.id",
+      "published": "2025-08-15T07:00:00+00:00",
+      "source": "GNews – Prabowo APBN",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "APBN",
+        "Prabowo"
+      ],
+      "big": true,
+      "id": "02825d3113cb9cae"
+    },
+    {
+      "title": "Toyota Motor Profit Drops, Sees $9.5 Billion Tariff Hit - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOazhwMjZKODlRUDVnTHVFOHgtdnQ2bTVUMkgxQjhJa3FvQmJkdTZSSjVVNUZJYzY5ZHk1WENrWFg2MTlfVS1La3dfdWhDcXZLRlFRQUh6Q2M2dXVMZ3pFWV9xNkEzZTZUY0hEdjJPVjVjSEZsOEFfR0xjQmRzUkx6dlAtbnZVXzFhaERTVDNoQjVzWUlKeU5IQjBBcGJYZUVHVFE?oc=5",
+      "summary": "Toyota Motor Profit Drops, Sees $9.5 Billion Tariff Hit&nbsp;&nbsp;WSJ",
+      "published": "2025-08-07T07:00:00+00:00",
+      "source": "WSJ (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "tariff"
+      ],
+      "big": false,
+      "id": "11201ea5f921116f"
+    },
+    {
+      "title": "Alcoa Posts Higher Second-Quarter Earnings Despite $115 Million in Aluminum Tariff Costs - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcEQ1ZUdBbWU1WEFpb2psX3B6Rm9HM0ZxTkFUbHF5cDJ2UGhBVWNaVjZ3SFFrYzNfY0tBM21BMWlkNEtyTGY3TFdoY3lIRHBFdFBJMEJKR0tjS3BJbXpVUWg0RnRRS21rOEFhaG44VHJwdE9wdnNFbWoxX2JKbTNsMlpuN3ZSaUkweW1VSUtjeF9qZXNqRkNPWTJlZjdjRktRc2FRang1dDFXaW9uSmRWUGVvUGVQVHF6bmJzck9MWG1ISHoxRW1hTEMzTlpScG8?oc=5",
+      "summary": "Alcoa Posts Higher Second-Quarter Earnings Despite $115 Million in Aluminum Tariff Costs&nbsp;&nbsp;WSJ",
+      "published": "2025-07-16T07:00:00+00:00",
+      "source": "WSJ (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "tariff"
+      ],
+      "big": false,
+      "id": "232730ff9dd5f67e"
+    },
+    {
+      "title": "How You Can Get Around Trump’s Tariffs When Traveling Abroad - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObFNUNERuVkw5anAyeGtybDd1R0l1LTFVQWdYbDd3aUR4OVY1czFqQnVJMzNBUmM5WDdVS1B0QlVLcXJObDB4cTdxOUY2dUNaSThWMko3Y2MtdEE2QXUwWkhYeGQ4Y0xfSXBSMEpOclc5Mm1zWHgyOGZfMEN2a25GTEhUSEhIQ19UNEZYcnkyb3Ryb0dGVVJkYzItVktOaFB6U3RuR2lxRExzcld2WU9VdklsOTRWeDNaYWU3b1RzUlQ3RV94dV9WU1ZESTU4ZENQQ1BCeDhiOEdFdUhU?oc=5",
+      "summary": "How You Can Get Around Trump’s Tariffs When Traveling Abroad&nbsp;&nbsp;WSJ",
+      "published": "2025-04-24T07:00:00+00:00",
+      "source": "WSJ (via GNews)",
       "groups": [
         "Geopolitics"
       ],
@@ -1866,450 +2252,52 @@
         "Trump"
       ],
       "big": false,
-      "id": "c9c0466d06755739"
+      "id": "3139c3d962f7bf8b"
     },
     {
-      "title": "Pasar Menilai BI Rate Tetap 4,75% Jadi yang Paling Logis Saat Ini - Bloomberg Technoz",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWjdEV21LUF81MGloTDZ4VFpjU3N0T052RU9ROUFIeEM2UUJqbXhmeWJqenM1OHZlRzh1RzktYjk3R2YtNDNoSktzallfTm0yYW9YTWJoTlZ2cUVMUlN5SGptMEI1d3hfQ29NeVdOcThuY2w4SWh3allyTnAwci1nZk9ldE8teWlYVFRrUUtDbnFncFZxMEp2TFBVVm5JVzE2Q0hWTldCYlpjaFNSTGNramVKenVZam8?oc=5",
-      "summary": "Pasar Menilai BI Rate Tetap 4,75% Jadi yang Paling Logis Saat Ini&nbsp;&nbsp;Bloomberg Technoz",
-      "published": "2026-02-19T08:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
+      "title": "Canadian Property Market Hurt by Tariff Concerns - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbzZUdHR2alN5OTc3OGpyQS1aZUppc0FERHlBMXduYnVWMjhQMkxaT3FYd3A3cXpHLUw5em9VMzZfSGZNOTB0akJfSEdxZGZ6YmF0V0hORTc5LXFJSFVhNFo1MFV1M1o4dXJSR1p5YndvU2ZJQ09PaGVmdzJpM1pUZVBHSU9LVnZqMlZ3dk1QS1AzT2VkTVNvag?oc=5",
+      "summary": "Canadian Property Market Hurt by Tariff Concerns&nbsp;&nbsp;WSJ",
+      "published": "2025-04-14T07:00:00+00:00",
+      "source": "WSJ (via GNews)",
       "groups": [
-        "Macro / Economy"
+        "Global Finance"
       ],
       "matched": [
-        "BI rate"
-      ],
-      "big": true,
-      "id": "c6914cc4807e02b0"
-    },
-    {
-      "title": "BI Rate Ditahan 4,75% Bulan Ini, Kapan Bisa Turun? - Bloomberg Technoz",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZnl1aldoV1B4RVBpMHE0TjRJak53YVppYUpab2hzMUplbWZZajhsd0drall1TVlzbnhMcDJ0c0NCT1RwWnNuRjE5cDIyWnVpZXVwYWpUSjZVX2owTXBBeXBnZFpsa0ZZWjljczN5dFplT0RnSGxSV0ZFMmZ4TkdGUU9PODl3YjFhUFNRSGFyN1hRdEZWYjNFQ1lLeGZlNTJ5?oc=5",
-      "summary": "BI Rate Ditahan 4,75% Bulan Ini, Kapan Bisa Turun?&nbsp;&nbsp;Bloomberg Technoz",
-      "published": "2026-02-19T08:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate"
-      ],
-      "big": true,
-      "id": "8358510494291eca"
-    },
-    {
-      "title": "Peluang Pemangkasan BI Rate Masih Terbuka Tahun Ini, Perry Ungkap Syaratnya - kontan.co.id",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX056bU1TQk8wMFN4X0o1bjhiejFSYlNaejN3OFNPd0pybWh3Um1sY3lfT0gtallTVDlEbkpyc2VHbVlHTDllaF96RktvNG1GbnlkTGpVamhKSllvZ2NtN3RmYjliUXdObVpUb283dWlVanY2cVJMdUdDdUVBam5NeHIwX3ptUkxza0s4dHAyNWdnbDBkdUJrTW5GWXpWbHg2X094c25yM0RWbjZOSEHSAacBQVVfeXFMT3pYeXhJUzRpLVc0ZmJ5dGVlbGh3bHdQQ3ZRM2kxS0E0TkpJQ2lFMkM3a1ZpMVJXTnFkdmNUR2hWa01KaDBtNmJXVEJ5czh2cExlZUk5TmpaU0hUb3FvLWpiV2hOXzZ0MVZCVFE4RWNwUTY2VVVaZXRSUENFd0p1c1ljZ3VVcDM5UTFVckRQaFJwNjJXeElueEVMQmtXeXlWNWxtYXl5d1U?oc=5",
-      "summary": "Peluang Pemangkasan BI Rate Masih Terbuka Tahun Ini, Perry Ungkap Syaratnya&nbsp;&nbsp;kontan.co.id",
-      "published": "2026-02-19T08:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate"
-      ],
-      "big": true,
-      "id": "723a2b572459ea5a"
-    },
-    {
-      "title": "Rupiah Butuh Diselamatkan, BI Ogah Pangkas Suku Bunga? - CNBC Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZXY4YmJJemZXNU1iU1JVZVpINlVvQzhfRm9DNklrUlltNk5NUms3RmluWUplYVMyNzJ2NFFyS1VLcG1mVHdRNDNMdWVTV2xiUkVJcG1nbV9mLWRJZmtXMXR5TDRETnpMYlFqOURjcXR4ajBGSDZJNTNTNVVFd0docWVic1hOQW4takRVdkl3dG1rS2N4Y2dKTGtIVEF5dlVvbmFpbFBJOEs1ejlRQTZTMnVzdV9iby1n?oc=5",
-      "summary": "Rupiah Butuh Diselamatkan, BI Ogah Pangkas Suku Bunga?&nbsp;&nbsp;CNBC Indonesia",
-      "published": "2026-02-18T08:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah",
-        "suku bunga"
-      ],
-      "big": true,
-      "id": "10e5a1e3f3465b4b"
-    },
-    {
-      "title": "Watch Prabowo Says Indonesia's Growth in 2026 'Will Be Higher' - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQlVVZk1kbko0Q21td1Fkb2VSVS1xRS0wTzU0WUNEM0VaQkVvWjZNOTBWSFNpSV9RaFlTSEt5cEhlZVh2bEMwbEpFUHBwdHVsWVdOSEtrckZWdHpOcnRkWmpCazJTNFJoRTc5UVk3U1JNZG8tNngtNkt5NXEyUEtNVGRabVZ5Y0tlZG1xOTdZeVZBekt2SjI2TUFrNTdvNkJtOFBNT1ZiQkJwbC1LSFE?oc=5",
-      "summary": "Watch Prabowo Says Indonesia's Growth in 2026 'Will Be Higher'&nbsp;&nbsp;Bloomberg",
-      "published": "2026-01-22T08:00:00+00:00",
-      "source": "Bloomberg (via GNews)",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Prabowo"
+        "tariff"
       ],
       "big": false,
-      "id": "d740ff53646494e5"
+      "id": "7c42301811342617"
     },
     {
-      "title": "BI Tahan Lagi Suku Bunga BI Rate 4,75% di Awal 2026, Ini Alasannya! - CNBC Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYy1zUmxtQWl2d1Y4bG9KMGtCVUVCb2J4SktBMW9zRmplenhyeFNRN3J2Z0RhQmJTNUtFU1FKcWppNFczeEV5VWx2aVRIbGM3Rk1mTWQ0WUtvVGtYSmZHaDk0SDZqNmt4SXZ6OGtOdXoxczJqSC1rS1dCTzVwZFlqcHhzaTFqM0t2QnF3T19MWXZmVGdBeE5LcFVrb1pTdTdwcEkxSktIcUVJUlc4YmFWZmU1V01pT29PdWJXSFRuRzlmTFXSAcgBQVVfeXFMTzYwWVFvSzRnQU12cEhqUUNjeE5pT0g4cmV6cEJDcHJEUDI1c1Buc2JuRG01bHJyWGlxaHQyTUZjcmEwa0wzbVpaQWZTV2Iwc2pqaFpzeDU2ZWJlXzhnZDd1alVJQU9kRGltaEtLR0MxaTU0d0FDV2syZmplU0xKNjNLbXRyQnFjay10ODcwc216M084MGhzV2NmbGZYY2dnQ1RYSHIxNlp4MDhvTzFldF9DLUFDZVJXWEtKTTJNZU14Q3hxTG1DeU8?oc=5",
-      "summary": "BI Tahan Lagi Suku Bunga BI Rate 4,75% di Awal 2026, Ini Alasannya!&nbsp;&nbsp;CNBC Indonesia",
-      "published": "2026-01-21T08:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
+      "title": "China to Cut Import Tariff on Autos to 15% From 25% - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdTE1TUd2Z2Q3Tnh5aEpURTNhZTZUN0tXaUxoSlBQLWZaMGJKdEdLWTQ2N2JPUU5teWdtRGo5V1ItY1RyUjRsV3lzQlF5cTk5WngwMUt0V1V3THo3SXNMMjAxbjhqRFRsbkJ5RWpneVI3Qldud0plSENOaFluYVZwUnFELV9TVHpmaG9qUmRUc1g0WWc?oc=5",
+      "summary": "China to Cut Import Tariff on Autos to 15% From 25%&nbsp;&nbsp;WSJ",
+      "published": "2018-05-22T07:00:00+00:00",
+      "source": "WSJ (via GNews)",
       "groups": [
-        "Macro / Economy"
+        "Global Finance"
       ],
       "matched": [
-        "BI rate",
-        "suku bunga"
-      ],
-      "big": true,
-      "id": "f01a148202d5fd42"
-    },
-    {
-      "title": "Jaga Rupiah dan Inflasi, LPEM UI Sarankan BI Rate Dipertahankan - Kompas.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPelkyRzh5SnFQZ3FmWm1MWGtIUWppZ2NOT3FQaW52RXNjWnR0Wlpyb0NJYnYyX20yM1ZVOTZQWEdoSUhFN1lCd0IzV1hXeEwxdlBOd201OTR5eklVSmlJaGkyd0c2akFZQXN4QV9lT0J4WGN2dFJXV3JSckgycWtLLThwaFJONUl6Y1RGLVMwOWN5YTdrd2VYNWlrWkl0NTlmaFdnX25LMm5pTjJ1dzJmR1FmWQ?oc=5",
-      "summary": "Jaga Rupiah dan Inflasi, LPEM UI Sarankan BI Rate Dipertahankan&nbsp;&nbsp;Kompas.com",
-      "published": "2026-01-21T08:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate",
-        "inflasi",
-        "rupiah"
-      ],
-      "big": true,
-      "id": "a439389e93c6f6df"
-    },
-    {
-      "title": "Alasan BI-Rate Dipertahankan: Jaga Rupiah dan Target Inflasi - investor.id",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaWs2elpSelZ0SkVYTk9RSlRPQ0xzMWNnZjQ1X3JlRGQxOUZueU9hdkxPZXFBQUhjTExxLWpFNVE1b3N2alNZaEc5MjhJUWFxd05ET2s3TWlDR010TU9vRGtoYjd5Xy1McVByM0V3dXlWemZRaVVPeDNPUm10MVA5Nl9sZTd3QkVqdHlISFowMk5NcWFvVnkxTVQzR042MFk?oc=5",
-      "summary": "Alasan BI-Rate Dipertahankan: Jaga Rupiah dan Target Inflasi&nbsp;&nbsp;investor.id",
-      "published": "2026-01-21T08:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "inflasi",
-        "rupiah"
-      ],
-      "big": true,
-      "id": "5fdf1daf6de0f870"
-    },
-    {
-      "title": "Bank Indonesia Pertahankan BI Rate 4,75%, Fokus Jaga Stabilitas Rupiah - kontan.co.id",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcktub05kTkhlZm1FWlFxdmhHOXFxaDNGVHg1T0RRWmhpTWJ1TDZ4VmhmOF8tUThJclJyRGwtdExiTE1tUk5SUzBTdkdkbnI2X091VG1qS0ZsM0dOSDJfU1U1TjktcFZreTgwVTZTN1h3aDZOSnQwdzlnenRCZGx0YkhRZ0wzLUdKMnFKLWJxcXhsaXE4UU9DamhGTFFmNHhlMEowaNIBngFBVV95cUxNMkM2SW93YXFKZDNNT2k4RG13NVdmWm1wZHRIWWVESzl3Y09NUC1VZ1BtcmI1emdLSXJzMTl6NzR4eXp4N2Qwa1BoNHYxOVNXdElsX21Ub2Z2TlpmOUc2Ym10R2dXZmZVWDk0ZjRFUmpqQUhSMVQ1dm83dE9PVXl0UTdEOTFLNC1OelZfUXQzandNNnh0Y04tYXhhUmhjdw?oc=5",
-      "summary": "Bank Indonesia Pertahankan BI Rate 4,75%, Fokus Jaga Stabilitas Rupiah&nbsp;&nbsp;kontan.co.id",
-      "published": "2026-01-21T08:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate",
-        "Bank Indonesia",
-        "rupiah"
-      ],
-      "big": true,
-      "id": "3ac5b80745e2a0a2"
-    },
-    {
-      "title": "Rupiah Tersungkur, BI Diproyeksi Tahan BI Rate di Level 4,75% pada Hari Ini (21/1) - kontan.co.id",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONjEwNC1Wa0NOeHVoLU94dTFVUHB4eHdENlo4X3dwSDZpNzZIS1BISFRnSk1IczBrSi1BSGFZNzRKRWdWdVBiTkhPREc5TDlTTW44Zm9FazNwUXBuUUlSVUF3RzVzUFJwVDNwMXhUdUl4Si05cmx5V2E2WFlVaWRmYTRZVmRtQnBidmhfNjJTc2RESUxaS2NRcndrT0o4YS1MSDBnVl8ta1g2NHkwbkxDd9IBqgFBVV95cUxORVZQSkk3MC1oVkJHU1VJU091anhVdzQ4UW9mQlB2RHZRQUxHdHpUdS1sVU51dUxTVGVhTHJtaE1WcDZVUnBVUzYybm9kV1VRNGJfaVhWZFhwblZLd3NKLXU5VHM4WGJfa1BHdzFvQ3B5Q3JqUndnbXdMMEI1S2ZEY0xqQmlnOF9lSm5XdDJINlg0bHU3cHRMaFhyWXNMT3VyeW95WklJLXZUdw?oc=5",
-      "summary": "Rupiah Tersungkur, BI Diproyeksi Tahan BI Rate di Level 4,75% pada Hari Ini (21/1)&nbsp;&nbsp;kontan.co.id",
-      "published": "2026-01-21T08:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate",
-        "rupiah"
-      ],
-      "big": true,
-      "id": "c3c1574706018255"
-    },
-    {
-      "title": "Rupiah Melemah, Dolar Dekati RP 17.000, Indonesia Menunggu Langkah BI - CNBC Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMUItVG9WbDRucVQ4RVdUczdFQmN6WURKLWduemYxdkhsWEF3Z3N0NHMxLXAyZExfbVF0Zk1yQjgyb3ZRZ3RKSW9qWTVGMHBNWUNpR2FHUHZDbUcyUFpoQ24zX3RsM1JlRXpCMEpLcW83cDBEMTEwT2lUaDlhWWdnd1RpcXFPajBaaXo1REhSd0VoN19wZ09mWWpUd1RPUW9ldEh2WEU3UnY5VWpLNWlRMTdLTnlldW9UMFBRY3NJNUVaSW43QjVDUlh4bw?oc=5",
-      "summary": "Rupiah Melemah, Dolar Dekati RP 17.000, Indonesia Menunggu Langkah BI&nbsp;&nbsp;CNBC Indonesia",
-      "published": "2026-01-20T08:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah"
-      ],
-      "big": true,
-      "id": "e4a31f1d06d1b875"
-    },
-    {
-      "title": "Rupiah Melemah, Ekonom Prediksi BI Pertahankan Suku Bunga Acuan pada RDG Januari 2026 - kontan.co.id",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeDRCel9tNXFuenYtWFlCa3dETzlKMWhDTnFXb05rZ3FMX2dIVE1uNjhLdzVtcllIM2tDZEg4TEg0NlhISG1Zb2JFOWU4RVI1NFlvRUVGSnpubmZXT1VQbDN6cW5KX2hpaFpGZjljQVhBY0l0dXVkaUxwSG5lal8tc0R6SFBXZkxoX1g2SFdCZ0VfeF9Oa3FieWdGZ3gxQnRnR29RZmpoRFBWZGJTWkRSa2loZ0ZMMWs0SFlJ0gG0AUFVX3lxTFBDX3VDVFVYN0xTdldLdEFUSVlXY29aanlLLV9XOF9qSXh6VEtUVVlVWTVhTFd5X3dJLVkzRUZSeEFOaHdmaVFNVElFVndZd3Q3cHNhaVFWeTFYZEJOZHZ5N0RNbzB3N2RyajlkTDdCRzVCank1Y3gtUDVmckx6Ql9USzd3bDFDN2dXNmhkRUpac0Q2aS1RZlQ3Um9RU1htd1R4S2xpSjBta0tUZWVBZUVYYWRBOA?oc=5",
-      "summary": "Rupiah Melemah, Ekonom Prediksi BI Pertahankan Suku Bunga Acuan pada RDG Januari 2026&nbsp;&nbsp;kontan.co.id",
-      "published": "2026-01-19T08:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah",
-        "suku bunga"
-      ],
-      "big": true,
-      "id": "18f801d2557a38b5"
-    },
-    {
-      "title": "Prabowo makes Indonesia's disaster response a test of strength - Nikkei Asia",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNazlPVV9SdFZudm9PR3JmVVl5OERnTmQ1R2xlTTdlM0czUlNncHJIMlQ0VWJNcmV6VTRCU3JqRkdxaWdPQ3hZLVBPY3ZXblJONExlV3NTTFNxeUlzZFRXelBrQkVYSDlpZWNrU2xsTXJhd0ktZHQ0WnlFWkNST055TTRnX3ZIT1IwSzlZQUwzeHdmcm9KcUtFN3Q1QzR0SUZUVjRBTVpfME1saVg5?oc=5",
-      "summary": "Prabowo makes Indonesia's disaster response a test of strength&nbsp;&nbsp;Nikkei Asia",
-      "published": "2025-12-26T08:00:00+00:00",
-      "source": "Nikkei Asia (via GNews)",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Prabowo"
+        "tariff"
       ],
       "big": false,
-      "id": "b6e28966023c40f0"
+      "id": "7553bdcd7bb34996"
     },
     {
-      "title": "Tutup Buku 2025, BI Tahan Suku Bunga Acuan 4,75 Persen - Kompas.id",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb0NPWnVjb3laWmFDOHRkNnFiMm5hWkFORjBURy14NXozTFJiXzlXd2ROWGxKWU9ocS1Cb0FBTGJoQ2NORS03dzFBQWc2RnFreDN1OHphTExXRE5lV3JoMmduV0RsQzZ0d1dHUmhBYnlNMUYtV0UtSU9FRzhkNmFNd3A1bVhjSmFVY2c?oc=5",
-      "summary": "Tutup Buku 2025, BI Tahan Suku Bunga Acuan 4,75 Persen&nbsp;&nbsp;Kompas.id",
-      "published": "2025-12-17T08:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
+      "title": "Bank Indonesia Says 38 Officials Don't Meet Industry Requirements - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sU29FZjFYcDVxSkRwSlgwQ0t5bW5ZcXh2bFJiNGFLcjBMb1Z6UUNGVVFHMTQzZ1RWSTNMdDJYSGNYaFhDekFYcFA1bGs3VmU1U25XUFlMMENtWkluM2c?oc=5",
+      "summary": "Bank Indonesia Says 38 Officials Don't Meet Industry Requirements&nbsp;&nbsp;WSJ",
+      "published": "1999-08-03T07:00:00+00:00",
+      "source": "WSJ (via GNews)",
       "groups": [
         "Macro / Economy"
       ],
       "matched": [
-        "suku bunga"
-      ],
-      "big": true,
-      "id": "4818de1cf182205a"
-    },
-    {
-      "title": "Bank Indonesia beri sinyal pemangkasan BI Rate 2026 - IDNFinancials",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTUl6aW9nVV9NZTJqSlBRcDRrb3R0b2Y5RHY5QXJGd0kyeXozazRnWVptZ3FrdUxMd3lFaDhvUE1WTXYwMjhRRkVwYTFHNG1hYUZ1X0FwaXFsSkpDRGtVaUFBZjRHTmF6QVpkaVZ3NWVpRTFYOEJxZXh3RENadDRFR1JWbDJCdjhUR3BhSm5DSmFvYUlmQ0g4ZGxuSQ?oc=5",
-      "summary": "Bank Indonesia beri sinyal pemangkasan BI Rate 2026&nbsp;&nbsp;IDNFinancials",
-      "published": "2025-12-17T08:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate",
         "Bank Indonesia"
       ],
-      "big": true,
-      "id": "846d3683ce20eaeb"
-    },
-    {
-      "title": "Ternyata! Ini Alasan Bank Indonesia Tahan BI Rate 4,75% di Akhir Tahun - CNBC Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYWFXTFRvOHJGTFRyRHZBUll2cTB0Q3dpZEpLdXdXUVpRNDZSWExXa3AwYU44V0l2WTljNUxnMGxFTnJISTMwcVVIREkzSmY1QTEzNUkxaXBlMjZwR3RGMUh3ZzlnMWk4bHBOdWRFQWZDeEhieXNmQm9BUm0tck15UEljbkpKWXBpQUJzMUJvVDFHNnNuQ2hEZlI3U256UGxZRWczdUhqaUtPelloSTcyQXhRajZfXzQwYl9FNExaSkNyWHF2MzhxStIBzgFBVV95cUxNalZGNDM0cnZOR2ExdUFfLTFCamlkbGI4Q0VOY0lTU095VUJiU0k2YjNuZ2dPSDE1Wmk4bGZQTUJ0NE1NWmpiRExxSVRjUVFzRFNhVG81NzBjb3VvZmc1UDBPRFAyY1F0VjE2WjFyVXdoSVdMUWl3UEZNSEt5QjBkcWNEc3YyTkRDVWV1RkpmMEVGa1dUeW9HN1ZSUmJLLWJESXRsdG9QNGdGMUw5U29VQ1pUVUppbElnbkFEbEdVeVZOb2JvX3NZcXdNV1AxUQ?oc=5",
-      "summary": "Ternyata! Ini Alasan Bank Indonesia Tahan BI Rate 4,75% di Akhir Tahun&nbsp;&nbsp;CNBC Indonesia",
-      "published": "2025-12-17T08:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate",
-        "Bank Indonesia"
-      ],
-      "big": true,
-      "id": "3e88ac5e2fb50c3b"
-    },
-    {
-      "title": "Jaga Stabilitas Rupiah, BI Tahan Suku Bunga Acuan di Level 4,75 Persen - Infobanknews",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdEZCNU1Oemdzbm9wZUZQdTJlOTN1dmQ2c05wdG04SFdtZGs1aG94cnlRS1BvdlFYbXJtQ3NtR2o1NzVsRmo3VzE3N1BIZ3BFTWYwWmxRLXA4WE92YnlfMjBTVWxYaTJvYXZYZThPckxGaTRsTHFLLWJEM2pwZzJHZU5fRDl2YjRIcGgyVmwtT245QnJwU05JWg?oc=5",
-      "summary": "Jaga Stabilitas Rupiah, BI Tahan Suku Bunga Acuan di Level 4,75 Persen&nbsp;&nbsp;Infobanknews",
-      "published": "2025-12-17T08:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah",
-        "suku bunga"
-      ],
-      "big": true,
-      "id": "bba3dc9bef75eb0b"
-    },
-    {
-      "title": "Pengaruh Dinamika Penurunan Suku Bunga Acuan THE FED terhadap Perekonomian Indonesia (Perspektif Inflasi, Pasar Modal, Suku Bunga BI, dan Kinerja Perpajakan) - Ikatan Konsultan Pajak Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSGVtSjRpYTJfU0x2MlVuaUVhUVJRQWFrYzlCcmo0MVFlYWpGdExvRmJfMmNlNG0xNThaRXBKTzBybmZjc3BDMHlHcVpSU0VOalRQcl9iZ2Myd05OUTJKYWFJZHFRbldjWnNQSmtwejZIN2dZQWFKTWc3RDdMNUtmZ19pd2daQ2FNckl1c0hIZ0x4R0RkN2pQWW5SMjZyZnduczdtQ1hyZ1hUZmlRRjBrUVl5TnJ5Nk9waXUzWUhmWjBOVy1TVG5HZHR1VHMwTngwelpNUjJ0SUhBeE01US1CNFZRQTIwRHBPbjcxdWJKalFadk5yVE0weE9YdmNxVlJ0UFE?oc=5",
-      "summary": "Pengaruh Dinamika Penurunan Suku Bunga Acuan THE FED terhadap Perekonomian Indonesia (Perspektif Inflasi, Pasar Modal, Suku Bunga BI, dan Kinerja Perpajakan)&nbsp;&nbsp;Ikatan Konsultan Pajak Indonesia",
-      "published": "2025-12-12T08:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "inflasi",
-        "suku bunga"
-      ],
-      "big": true,
-      "id": "39b7ad7c8abe404c"
-    },
-    {
-      "title": "Ini Alasan BI Rate Masih Bertahan di 4,75% - InvestorTrust",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUkhtMjlob2RRSG05VkMtdUFhbG1heVk4RXQ2X01WMkpRMFNUb1g2bXljcWpjSUx2Z3I3ZFg3S3c0YnhQaVh4OU12MzFjcWluYlRZRUVTY29vbUlqU1VJMjRMdll5dC1saXdRWW0xb3kxQTUwNFg0bUwtNE03Q0JHWGpKbUtEWnlwMXc?oc=5",
-      "summary": "Ini Alasan BI Rate Masih Bertahan di 4,75%&nbsp;&nbsp;InvestorTrust",
-      "published": "2025-11-19T10:20:51+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate"
-      ],
-      "big": true,
-      "id": "18f140cc697518c3"
-    },
-    {
-      "title": "BI Tahan Suku Bunga demi Stabilitas Rupiah | - Republika.id",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY1dLUFowdEd5WHBoOHlKdmRzSWxPZUotNEhqN05PMXY2LTl1WFhSajVnUzFFX0kyT3pUQTRFa2NteE9Fem4ta09lSXFvWmU0WF95RUxoc2RKTlY1SDUzcHM5bUJ6d2hWMnhMSHZlMXJBMnlUaTFDT1c1MGxZQTZ0YzQ5Z09OUQ?oc=5",
-      "summary": "BI Tahan Suku Bunga demi Stabilitas Rupiah |&nbsp;&nbsp;Republika.id",
-      "published": "2025-11-19T08:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah",
-        "suku bunga"
-      ],
-      "big": true,
-      "id": "3f590548a3e78ec8"
-    },
-    {
-      "title": "Pasar Kompak Ramal BI Bakal Tahan Suku Bunga - CNBC Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbWxfeDlVbVpIT0hmS2Z4S25kT0tWTDZBRHlxT2NncDEzSVh3R2dnLXROaEpJRm1ETThJSWVVV3hxX1I5bG5wRTlJSmNZMUNOMzZya0NYQlFKeUNmZGUyTmpHbE5YUkFSNWphWVluYndiblZ3YnEwYzFwaU1KQXBfSHlEZGJuemR1cXBWUDM2WVF6ajk0SG5DOHFrRWVrUUtlNm9YVGFDSmszTDJ4QlE?oc=5",
-      "summary": "Pasar Kompak Ramal BI Bakal Tahan Suku Bunga&nbsp;&nbsp;CNBC Indonesia",
-      "published": "2025-11-18T08:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "suku bunga"
-      ],
-      "big": true,
-      "id": "f86ba12fa4350d5f"
-    },
-    {
-      "title": "BI Rate Ditahan 4,75%, Data Ini yang Jadi Pertimbangan pada 2025 - Ajaib",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lOXhvbnItVm9pYnBHdU1YQVluZVBQcjUyV0VtempiejJHbVYzTFZYUHJlUlQ2Z2RLelpWeDFjUEN3aERXSWd5eVgxMHdmcldFelZydnpJSWtCcEhOS2dDQnBHOVA2aWc?oc=5",
-      "summary": "BI Rate Ditahan 4,75%, Data Ini yang Jadi Pertimbangan pada 2025&nbsp;&nbsp;Ajaib",
-      "published": "2025-10-27T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate"
-      ],
-      "big": true,
-      "id": "559616bec4799300"
-    },
-    {
-      "title": "Breaking News! BI Rate Ditahan 4,75%, Berbeda dari Konsensus - Ajaib",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5lUk1rNm5HdnhMcmRpM0hRU0Q2c09KRlV4elE0VHVvTjFnMmVFMG1BNWZUSDBGY3N5XzlxRUFPUUJyX0dmZkgxd1BlaFQ4NGFvWndvWnpvTy1YZ3NlYnBJOUdIa3U1eVRNVXJpTU1PWGoxcWM?oc=5",
-      "summary": "Breaking News! BI Rate Ditahan 4,75%, Berbeda dari Konsensus&nbsp;&nbsp;Ajaib",
-      "published": "2025-10-22T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate"
-      ],
-      "big": true,
-      "id": "10266ca7be139d64"
-    },
-    {
-      "title": "Setelah ”Hattrick”, BI Tahan Suku Bunga Acuan 4,75 Persen - Kompas.id",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXhHejVBek1rUlpqV2V4dDhXMTNBNmNwVV9lTlZsOGpySV9hNVpRRUNteTlXMnBlbW1DTDV5bE9fQVpxcXItb1pOeTlnOEFQLWprRE5DVkNNOXJCaGZHajc5N2RhcXctR1FEd1gxaTQ1eUp3b2ZPTnFKTkxJSC1WVzBnLVoxT2tRak1V?oc=5",
-      "summary": "Setelah ”Hattrick”, BI Tahan Suku Bunga Acuan 4,75 Persen&nbsp;&nbsp;Kompas.id",
-      "published": "2025-10-22T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "suku bunga"
-      ],
-      "big": true,
-      "id": "38a179bbb4c49152"
-    },
-    {
-      "title": "BI Rate Ditahan di Level 4,75 Persen, Fokus pada Stabilitas Rupiah dan Inflasi - Kompas.tv",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2E1cWR2ZXQ2bzJpS2RYR0ZPa0MzeURsV2JsY3RCaVUwdUFTempKcU1iREYyOWh4WlRmRkhLUjNFa2Q0Uk9sQ0UybkpOZk5DMV9DbTdST3hDMVJQQzNlc2VJYVJrVkRrTVBqX2VzTGwxMHEzU0Z4WmNJaHZDeEQyYy1TQ0hoSnhLTFJMUWFBWGxaWDhkRmlfcTZzam42MkMycER2S18wdWtpdDFndlFIZ0VTd3DSAboBQVVfeXFMTnpjQU5VMkxFTVRsXzVsNEpRM1o3Qllpdk9PNkd2cFJXNTZadmRwLUtkLUFqNVVxNTBJVGptRFp0VHVxTWhhMEtkeXQtRmk4X0VWcXRiWUU0RjRwYUlxUkJkTXhtVWl1VFF3Sk14T21FWkpGWjg1eWVrZDlHN1dhaXphSm5qTnhQc0tFT3N6YTRfRmFZSFA1QXRxRnhGUGxEYzhwNFhNckg1SzVRdS11aDRFZnhQLVR4MkN3?oc=5",
-      "summary": "BI Rate Ditahan di Level 4,75 Persen, Fokus pada Stabilitas Rupiah dan Inflasi&nbsp;&nbsp;Kompas.tv",
-      "published": "2025-10-22T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate",
-        "inflasi",
-        "rupiah"
-      ],
-      "big": true,
-      "id": "feb85103181f2816"
-    },
-    {
-      "title": "Bank Indonesia Pertahankan BI Rate 4,75 persen: Stabilitas Rupiah dan Inflasi Tetap Terkendali - Berita Manado",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV1BrWm5UZXhCWUJ2ck5wN3YzU25HVEc2bmVjMU1iRkJzU3J6U29sMHhLN0x2UE9Fdzl4dngtRWkxSU92TVdFNzZWZWhtUUlMMTliR3FOdU1fQ2pxSnNEbVBUTVM4aFhZckxhVjlFQ012MEQ2Z2RsbzFLcWZQU0pOTUIyR1paRndLM0xBMUI1Ny1iTnRyWl9HRC02Vi1SeW45MjM0eTgwMHFUMl9iTVYzYWlUM0FwZk1Ibnc?oc=5",
-      "summary": "Bank Indonesia Pertahankan BI Rate 4,75 persen: Stabilitas Rupiah dan Inflasi Tetap Terkendali&nbsp;&nbsp;Berita Manado",
-      "published": "2025-10-22T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate",
-        "Bank Indonesia",
-        "inflasi",
-        "rupiah"
-      ],
-      "big": true,
-      "id": "9b8a187e1aff1399"
-    },
-    {
-      "title": "1 Tahun Prabowo-Gibran: Defisit APBN-Rasio Utang Terjaga - Inilah.com",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON2ZzeEU4eTdCV2JNb1NfREp1ejRRU1JCTzhsQk92N1dYbjlaZ21ZUHhJQko1Q1ZUTS13MnpyY0g4NDI2Smp6anR1NlBPTVQ3UHdydU14aV9zZGlSMnNxYnM1SWVBRlV0UmFPOXI1OFZVQ3Y5cUVzZFRyVnJaUWJ1VXpyaEg?oc=5",
-      "summary": "1 Tahun Prabowo-Gibran: Defisit APBN-Rasio Utang Terjaga&nbsp;&nbsp;Inilah.com",
-      "published": "2025-10-20T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "APBN",
-        "Gibran",
-        "Prabowo"
-      ],
-      "big": true,
-      "id": "3e39ab792a8fe1cf"
-    },
-    {
-      "title": "Kemenkeu: APBN Bertugas Wujudkan Mimpi Prabowo Biar Ekonomi Tumbuh 8% - MetroTVNews.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLUc2VHBLRl9zbFVFakp3MTlOSlVPTjQxeUg3czA2ckNWalh5VWxrYXJEMU5fb2pxbGNGMmtNbnNiYWRMNXgtdVpCdXZYSFJ1Z0pWeFFPQnZsUkpNVjZ2S21HVWZIdmMzY3hzVW12bzdKVzdKOUNxUGI3czliR2k1MjRQZ2lnNFh3cDU3cUcxU2hsRVpfOEVTR1M4ckNmY3JsTmIyVVNkd0cybUxoMGc?oc=5",
-      "summary": "Kemenkeu: APBN Bertugas Wujudkan Mimpi Prabowo Biar Ekonomi Tumbuh 8%&nbsp;&nbsp;MetroTVNews.com",
-      "published": "2025-10-16T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "APBN",
-        "Kemenkeu",
-        "Prabowo"
-      ],
-      "big": true,
-      "id": "cb1cd8c48d294f72"
+      "big": false,
+      "id": "19551e8800b66177"
     }
   ]
 }

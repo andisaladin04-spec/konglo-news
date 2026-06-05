@@ -1,7 +1,38 @@
 {
-  "updated": "2026-06-05T19:07:07.165046+00:00",
+  "updated": "2026-06-05T20:57:31.017576+00:00",
   "count": 150,
   "items": [
+    {
+      "title": "Trump hails jobs surge, says Iran talks ‘going well’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/trump-hails-jobs-surge-says-iran-talks-going?traffic_source=rss",
+      "summary": "Trump hailed jobs growth before pivoting to Iran, saying negotiations with Tehran &quot;seem to be going quite well&quot;.",
+      "published": "2026-06-05T20:36:28+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "a0d559bea62edab7"
+    },
+    {
+      "title": "Citigroup Economists Maintain Lonely Call for Fed Rate Cuts - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN3RvOVdseVlmSVJHYnRSZkpOZkJLamc3Q2hFT2RjNTFYd0t3N2pULW1EMnoxaUpyRDBVTjVyTnhIeElGQkpUQ3d1dHpVZHZuTnJBUmJCeXJoRmpKWklLaXd4VlhZcGFSd2pzQ0w5RzFpeloyMklIcjMxSHV2dXBCLTgtYVQzbkZKaDlRXzZfQnFiX2xqSHpZMFNha3dZSjgzRW1TRWlJSkdQUXROc2tR?oc=5",
+      "summary": "Citigroup Economists Maintain Lonely Call for Fed Rate Cuts&nbsp;&nbsp;Bloomberg.com",
+      "published": "2026-06-05T19:43:53+00:00",
+      "source": "Bloomberg (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "Fed rate",
+        "rate cut"
+      ],
+      "big": true,
+      "id": "cca9e5bba5bd50d4"
+    },
     {
       "title": "Trump to meet AI leaders to discuss US investment in their companies",
       "link": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&at_campaign=rss",
@@ -1807,6 +1838,21 @@
       "id": "1c7f6ca0c0fa3b85"
     },
     {
+      "title": "Watch The Look Ahead: US Inflation, SpaceX IPO, Knicks - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM0x6aGlUZWZJc2Y4VXdGMUNYUXFfSndHTTg3d0FOVUZfbnJVNjEwR0hYeFdvREZjaDBzajdiV2FtQVFHa0lOMXp1V0RVaF9OT1FBT2JVbFp0N0F0QU50R2ZHOTlMa0xyQVpGYzI0cVU5cjduRVp0MjRlMUEyRmszWEg5T3hKVHZua0xHTFF6MDZFU1BkY0RpamhxSFA5Vk5ZUXc?oc=5",
+      "summary": "Watch The Look Ahead: US Inflation, SpaceX IPO, Knicks&nbsp;&nbsp;Bloomberg.com",
+      "published": "2026-06-05T00:00:00+00:00",
+      "source": "Bloomberg (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "IPO"
+      ],
+      "big": false,
+      "id": "cbd40bae8817af71"
+    },
+    {
       "title": "Watch US Hiring Surged in May, Boosting Bets on Fed Rate Hike - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLUd3alRlV2Zfbmh2UUxYZXEwWENkZHJJZE9RT1VRTm12ZnFyX0NjSlNiVEwwSi1yXzFvZ1NJaEZ1N0pudDlKOWpSR0lsUFZlTHhKUVVocnZGZXU1UmZUdzlaMjJkdXdzX1p5Z1hlbnlaR0RMdzVOS3ppZ1lwbXJFcmkzb0hZU05EQ0lkRUcwVnlOZlFsbzJULUpwRW5qSjFVazJEMUFnQURtb0pIZGc?oc=5",
       "summary": "Watch US Hiring Surged in May, Boosting Bets on Fed Rate Hike&nbsp;&nbsp;Bloomberg",
@@ -1942,6 +1988,38 @@
       ],
       "big": false,
       "id": "ce51a658f29e05fb"
+    },
+    {
+      "title": "Record low rupiah sparks memes, call for central bank governor to resign - The Straits Times",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZy1oMVJfUXg2cjNjTHZKMEhRRkZ6ekowdGlCSWJkTk85WWdna1BwM1hxaThWYzg2dm9YaUhMbHk3WGUydjVNVVVJSUVsb0dCOHY1X3F1VVdLb09LYWFhY0o4SlkwU1Yxc3RmM3YzalVxREwzRGJCQkt6eExSWnNkS0U3Rkx4Nm9QSkVOclprNXFqLXBOQjVINXF4ZG5TRnBiNWlLM1Rfa3U?oc=5",
+      "summary": "Record low rupiah sparks memes, call for central bank governor to resign&nbsp;&nbsp;The Straits Times",
+      "published": "2026-05-19T07:00:00+00:00",
+      "source": "Financial Times (via GNews)",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "rupiah"
+      ],
+      "big": true,
+      "id": "80ca022dcc7cd5bc"
+    },
+    {
+      "title": "Prabowo Subianto Tegaskan Ketersediaan Anggaran APBN Aman - asatunews.co.id",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBESmJCQkh2V2ljYXBCTnhaYmFNdmVrdVphZnlRTDNTRjhkRkxlSXFYZFhhRi1vVXVuejY2ekNoeE00czRxcFcwU1MydWpJLTNpcldLT21uUldXT2w0c0pVWUo3MllCdGNyMTd2SUVnVXg?oc=5",
+      "summary": "Prabowo Subianto Tegaskan Ketersediaan Anggaran APBN Aman&nbsp;&nbsp;asatunews.co.id",
+      "published": "2026-05-05T07:00:00+00:00",
+      "source": "GNews – Prabowo APBN",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "APBN",
+        "Prabowo",
+        "anggaran"
+      ],
+      "big": true,
+      "id": "813cd5b26ed740f8"
     },
     {
       "title": "Proyeksi BI Rate: Bank Indonesia Bakal Tahan Suku Bunga di RDG April 2026 - Bisnis.com",
@@ -2132,6 +2210,39 @@
       "id": "7702c5813a51161f"
     },
     {
+      "title": "Beda Arah Kebijakan Prabowo di APBN 2026 vs 2025, Efisiensi Anggaran Berlanjut? - Katadata.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS2xSQ3dEc0lDdkhZaUhGUlRhdGJObVhHY2M4a240dUF0ZlFZY1VtT1dhY1BjbjgtNl83b3pDUjBPMzJmbDBnR0lDY2Z0VDNTUHhfVFBZdlU5b05pTlpZU0p4NVU2MlJvRDZfLTVPQnZZUU1UYkE2YXNSQTZQMk8ySzNDbGVJVHZCcmszemJkVmstaUVweDBmb1lVSDZ5Zzd3S0ZzWHpnUlpaSXZxaU15R2sxRjdKS0pDeTVvVWw3S21rRnM0dlUzRVBR0gHQAUFVX3lxTE53cWlCdEJ0b0x4Mk96WDA5UFZRRWNLU3VnMG5qTHliS2xKdXBTZEdRNVNMeUM5MWp2RFZiajQ1NlNZSlFQRzlveUZJc1o2WmlIbW1QZW1ITDdDbnVyamJDMm13Q0xzVjVRbjE4c0ticGFYajFnaTNWZDBRZC1wSXFEbk9iTlNneWFucXJYVERPa1VJWUFfaTgxdHoteExoYVhscEI5bnM3dUlFanpFelFFaGw2MzJLQWs0NVJTNTJhTUk1RDZlM3J3S1V1NnpzdGQ?oc=5",
+      "summary": "Beda Arah Kebijakan Prabowo di APBN 2026 vs 2025, Efisiensi Anggaran Berlanjut?&nbsp;&nbsp;Katadata.co.id",
+      "published": "2026-01-13T08:00:00+00:00",
+      "source": "GNews – Prabowo APBN",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "APBN",
+        "Prabowo",
+        "anggaran"
+      ],
+      "big": true,
+      "id": "cf5a1732b906c99b"
+    },
+    {
+      "title": "Inflasi 2025 Diramal 2,8%, Bisakah BI Rate Turun Tahun Depan? - Bloomberg Technoz",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcV9XdXZqbWxUMGNGRzAxQ0ZINUZ0cVc1ckJEeklTaGZrNHB5dmpJa09POWdDOGNMYXY2YzNhcmtRam4wMnYzTVNaREJKbVdVZmMyZEpLQVFTcVpxM3M5NzdMY09pOVA5cXNaMEYtVFhhN004NU9ELUNROXdfT2JkQU92VF9Cd3F2Zmw4bDE1dFlBY3R6VWdSODl6TElLdEtNMXg0SFNEQ0tqaEhfMkE?oc=5",
+      "summary": "Inflasi 2025 Diramal 2,8%, Bisakah BI Rate Turun Tahun Depan?&nbsp;&nbsp;Bloomberg Technoz",
+      "published": "2025-12-31T08:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "BI rate",
+        "inflasi"
+      ],
+      "big": true,
+      "id": "7ce6a7cedd1fb515"
+    },
+    {
       "title": "POLL Bank Indonesia to hold rates steady at 4.75% on November 19, cut next month - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMTdoT3B1TkhMNWJDdG5SX1p6QUdmMUJSbndOSTRWelJJNzVDbnVOVzlpQ0ZDMHNjblZXYVFfYnhkYy1YOWJLYjNha2lwQ3l1eUpFUTJmYWhGRHVRRHNkWkNpN3JhY3kwYUJlOFN2eVl6ekVLRVVYTDdYNmtMb3BpT2FlSHNIMFZ5N0tLZXhJWDgzR2kxN0ZrR0RTSXdJQW56TmhNMnVLeUc2Rl80RGpLYTRxQTNkVUdmSlE?oc=5",
       "summary": "POLL Bank Indonesia to hold rates steady at 4.75% on November 19, cut next month&nbsp;&nbsp;Reuters",
@@ -2147,57 +2258,26 @@
       "id": "2ca4a0e65526bc15"
     },
     {
-      "title": "Sony Raises Guidance on Anime Success, Smaller Expected Tariff Hit - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObU1qRkRvMmhyLWt3MnRKWVNQMWFPaUs3cTlDV1Y3eU9yYV9haUNxQW1xRmNtWEYxY1VyMlRzSW9OSGZMMmRLM1ZfT0RtUDFxVXhkdGxMRDg4NVFVbUpCbF9EV0tOQ2dUbkVaU09zR25iMVlKT2M3bXZvUnBFc2pjem44V1BFdm5MOXA1Tk05dUdSbWJpZXpNZzFna1IyOUlGd2dtLWpuNnpUcjg?oc=5",
-      "summary": "Sony Raises Guidance on Anime Success, Smaller Expected Tariff Hit&nbsp;&nbsp;WSJ",
-      "published": "2025-11-11T08:00:00+00:00",
-      "source": "WSJ (via GNews)",
+      "title": "Perjalanan Sri Mulyani Kawal Kebijakan Fiskal SBY, Jokowi, hingga Prabowo - Bisnis.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSnhqMVk3b3IyZi01czE0b1RQQVBLUFlwbWdjYnVLaWpCWUN6NXJBWHVtQ011LXEwaGpGSFVOLUt5dVNYMnhDZW0xcVBhaTFOZ2JTejE3TmlXMllTZDNJblNKWmkxTmxDYXNxV3NibmU5a292OWtsT09xZjhYRHI0aGgwX28zWFNhR0dLbWcxSGtnMTlHOTY5XzFCLTRuX01obUFrTF9fb2lIaWp5bU9hZE96Mmo2RFFWenNCZElFUjI?oc=5",
+      "summary": "Perjalanan Sri Mulyani Kawal Kebijakan Fiskal SBY, Jokowi, hingga Prabowo&nbsp;&nbsp;Bisnis.com",
+      "published": "2025-09-09T07:00:00+00:00",
+      "source": "GNews – Prabowo APBN",
       "groups": [
-        "Global Finance"
+        "Government / Policy"
       ],
       "matched": [
-        "tariff"
+        "Prabowo",
+        "Sri Mulyani"
       ],
       "big": false,
-      "id": "9a8210742e6b0465"
+      "id": "45842c8c78a40261"
     },
     {
-      "title": "Trump Ends De Minimis Tariff Rule: What This Means for U.S. Shoppers - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVmVTcHRueXlBa2FxYURvUVoyQjlHVkdBdlAwVDZpYTN4UlNvTXN0WUJFQVZVQlZqanpMZEowMDdGLWtYM3poSkFwenhjTU5zX3hqSFlMQkduTjRHOU1ZN3l3VU9XNlNHWmFhOUNyY3BBdm9yNnRIMVpIV1hLVW9wX3BfSW5DM1F2MWJwRE9PYW1HenQ2ZGxPUGdWRW1oWXV6UUNmcEd6VFdlRVBjM1Nlc3FYM0EwQlB0eERad05DUVE2ZHJkUTZkQ1JrczlKLVFMcUZiMzY2eTZURng0Z2NrSHlUQlFuZw?oc=5",
-      "summary": "Trump Ends De Minimis Tariff Rule: What This Means for U.S. Shoppers&nbsp;&nbsp;WSJ",
-      "published": "2025-08-29T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Geopolitics",
-        "Global Finance"
-      ],
-      "matched": [
-        "Trump",
-        "tariff"
-      ],
-      "big": false,
-      "id": "eede0f7eab06af03"
-    },
-    {
-      "title": "Alcon Shares Fall After Guidance Trim on U.S. Trade Tariff Hit - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYV84YXdydHVkMGh4S0VET2JoMi1XUndXd2NkMXFBRXREQ0pHZ2hNajdpblRJZkZlSlBQRkpKM2xLdmVWSF93czlCY2ZueWNYN2dOai1qcS1sNmVYeDRwb3FZSGdrMWY2UVVEQXRTR0haYkFXLXRiS0h2TUxVQi1VVlc0Z2RHTldKWU5GdWJqSkJfN2ZHRUdIWWJlb2hJSlIwRHVpRExjemkzVmRj?oc=5",
-      "summary": "Alcon Shares Fall After Guidance Trim on U.S. Trade Tariff Hit&nbsp;&nbsp;WSJ",
-      "published": "2025-08-20T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "tariff"
-      ],
-      "big": false,
-      "id": "7831cf2c9ab66dc6"
-    },
-    {
-      "title": "Presiden Prabowo Janjikan APBN Tanpa Defisit Paling Lambat 2028 - Kompas.id",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYm5VeE1iMXN3Y3dsRkJQQlZfM0pNbWU3Q0J5ckVhZlBoWXY1dGhRUHVRUWV2SUhwamdGZnRWR01MQVFDdWN4Y0hYWWlGaTY4M0oyeUJsRldrNlVUaW5EVkx1WHN2aG1sZFhvNHNkSXE5NTdMemRJQXNpa1lwNVNaQ3F2bnpjTENSelppX19GNzlMUEJNdS1hbQ?oc=5",
-      "summary": "Presiden Prabowo Janjikan APBN Tanpa Defisit Paling Lambat 2028&nbsp;&nbsp;Kompas.id",
-      "published": "2025-08-15T07:00:00+00:00",
+      "title": "Prabowo Diminta Fokuskan APBN untuk Counter-Cycle Policy, Buntut Situasi Ekonomi Global - Tempo.co",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWGdUSUduVllsd0RRSXVrc2ZYTE9KbjNqZFRGVWQ1bkVtRWpFNEF4Vmg0VlJTMjBITlUwUUY1Nms1RkN0WW9GMjdyWXBrclJTQWJBbU9kQm9TMVVSejd2ZVZyQXZrbXgxTHdERDUyQlBnWUZwRWZnbWtvMlRfaWwtVUhMWTljbWR1YjI0NWpfS2FFZU5lLWpUYjE0M3F1WWJtM1VkazQzUks0MXEtYVFNYVJLUzBwdUlwLTVsUWJB?oc=5",
+      "summary": "Prabowo Diminta Fokuskan APBN untuk Counter-Cycle Policy, Buntut Situasi Ekonomi Global&nbsp;&nbsp;Tempo.co",
+      "published": "2024-06-26T07:00:00+00:00",
       "source": "GNews – Prabowo APBN",
       "groups": [
         "Government / Policy"
@@ -2207,97 +2287,26 @@
         "Prabowo"
       ],
       "big": true,
-      "id": "02825d3113cb9cae"
+      "id": "9d9428674affc6c4"
     },
     {
-      "title": "Toyota Motor Profit Drops, Sees $9.5 Billion Tariff Hit - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOazhwMjZKODlRUDVnTHVFOHgtdnQ2bTVUMkgxQjhJa3FvQmJkdTZSSjVVNUZJYzY5ZHk1WENrWFg2MTlfVS1La3dfdWhDcXZLRlFRQUh6Q2M2dXVMZ3pFWV9xNkEzZTZUY0hEdjJPVjVjSEZsOEFfR0xjQmRzUkx6dlAtbnZVXzFhaERTVDNoQjVzWUlKeU5IQjBBcGJYZUVHVFE?oc=5",
-      "summary": "Toyota Motor Profit Drops, Sees $9.5 Billion Tariff Hit&nbsp;&nbsp;WSJ",
-      "published": "2025-08-07T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
+      "title": "Sri Mulyani Sebut Pertumbuhan Ekonomi RI di APBN 2025 Era Prabowo Dirancang 5,1-5,5 Persen - Riau Pos",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSjQzS3YyVnZRRjAyTzkzTi0wQk5TWjk1ZFhfYUVaUjVFLUpBaUFzNkJxeFNBeUVJRGxteVFhLWt5NGpidndSNmJQN2RUWUotWTEtalNHc001ZExWbmpQbEtZZThTOXBxaUJ6SV9NblhaRnRnRkJWWVA2cTdES3ZmbGU0bXFibWp5MEZzaU5LS3hXRXpQaFJhUUhxN1kzOGtLS1diaVZNSk9xWTUwY1YxM1Jna2VJRW5zQVRITE5lTlc3empLam5oSjV6UEZVZlZ10gHWAUFVX3lxTE9XU1NWV0d5ZERhcFl0Tnpna1htNG5xdjZ4MkpmQ1BVNHR4bVlmLW9Rdm00ajM5V1hTZFZpby03WHpneXBTRzZJSG5UVExrOXBSWDFlTHIxRmkxdUZOMW9UVzJTdFVaQmhsVFBSTDUxNmNPM0RaamVfd1hrdmRVSXFGeS1CckM3WTBjSS13OWJIUWlNUEc3SDM1cHFlRW5vd0dUWDRDZWRUVnBLdUNMbDkyNkZrSFRCZFk4eFdVd2JjbWx1QWl0WDRrcEpKcFd5akNEYWE1V0E?oc=5",
+      "summary": "Sri Mulyani Sebut Pertumbuhan Ekonomi RI di APBN 2025 Era Prabowo Dirancang 5,1-5,5 Persen&nbsp;&nbsp;Riau Pos",
+      "published": "2024-05-20T07:00:00+00:00",
+      "source": "GNews – Prabowo APBN",
       "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "tariff"
-      ],
-      "big": false,
-      "id": "11201ea5f921116f"
-    },
-    {
-      "title": "Alcoa Posts Higher Second-Quarter Earnings Despite $115 Million in Aluminum Tariff Costs - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcEQ1ZUdBbWU1WEFpb2psX3B6Rm9HM0ZxTkFUbHF5cDJ2UGhBVWNaVjZ3SFFrYzNfY0tBM21BMWlkNEtyTGY3TFdoY3lIRHBFdFBJMEJKR0tjS3BJbXpVUWg0RnRRS21rOEFhaG44VHJwdE9wdnNFbWoxX2JKbTNsMlpuN3ZSaUkweW1VSUtjeF9qZXNqRkNPWTJlZjdjRktRc2FRang1dDFXaW9uSmRWUGVvUGVQVHF6bmJzck9MWG1ISHoxRW1hTEMzTlpScG8?oc=5",
-      "summary": "Alcoa Posts Higher Second-Quarter Earnings Despite $115 Million in Aluminum Tariff Costs&nbsp;&nbsp;WSJ",
-      "published": "2025-07-16T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "tariff"
-      ],
-      "big": false,
-      "id": "232730ff9dd5f67e"
-    },
-    {
-      "title": "How You Can Get Around Trump’s Tariffs When Traveling Abroad - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObFNUNERuVkw5anAyeGtybDd1R0l1LTFVQWdYbDd3aUR4OVY1czFqQnVJMzNBUmM5WDdVS1B0QlVLcXJObDB4cTdxOUY2dUNaSThWMko3Y2MtdEE2QXUwWkhYeGQ4Y0xfSXBSMEpOclc5Mm1zWHgyOGZfMEN2a25GTEhUSEhIQ19UNEZYcnkyb3Ryb0dGVVJkYzItVktOaFB6U3RuR2lxRExzcld2WU9VdklsOTRWeDNaYWU3b1RzUlQ3RV94dV9WU1ZESTU4ZENQQ1BCeDhiOEdFdUhU?oc=5",
-      "summary": "How You Can Get Around Trump’s Tariffs When Traveling Abroad&nbsp;&nbsp;WSJ",
-      "published": "2025-04-24T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Geopolitics"
-      ],
-      "matched": [
-        "Trump"
-      ],
-      "big": false,
-      "id": "3139c3d962f7bf8b"
-    },
-    {
-      "title": "Canadian Property Market Hurt by Tariff Concerns - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbzZUdHR2alN5OTc3OGpyQS1aZUppc0FERHlBMXduYnVWMjhQMkxaT3FYd3A3cXpHLUw5em9VMzZfSGZNOTB0akJfSEdxZGZ6YmF0V0hORTc5LXFJSFVhNFo1MFV1M1o4dXJSR1p5YndvU2ZJQ09PaGVmdzJpM1pUZVBHSU9LVnZqMlZ3dk1QS1AzT2VkTVNvag?oc=5",
-      "summary": "Canadian Property Market Hurt by Tariff Concerns&nbsp;&nbsp;WSJ",
-      "published": "2025-04-14T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "tariff"
-      ],
-      "big": false,
-      "id": "7c42301811342617"
-    },
-    {
-      "title": "China to Cut Import Tariff on Autos to 15% From 25% - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdTE1TUd2Z2Q3Tnh5aEpURTNhZTZUN0tXaUxoSlBQLWZaMGJKdEdLWTQ2N2JPUU5teWdtRGo5V1ItY1RyUjRsV3lzQlF5cTk5WngwMUt0V1V3THo3SXNMMjAxbjhqRFRsbkJ5RWpneVI3Qldud0plSENOaFluYVZwUnFELV9TVHpmaG9qUmRUc1g0WWc?oc=5",
-      "summary": "China to Cut Import Tariff on Autos to 15% From 25%&nbsp;&nbsp;WSJ",
-      "published": "2018-05-22T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "tariff"
-      ],
-      "big": false,
-      "id": "7553bdcd7bb34996"
-    },
-    {
-      "title": "Bank Indonesia Says 38 Officials Don't Meet Industry Requirements - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sU29FZjFYcDVxSkRwSlgwQ0t5bW5ZcXh2bFJiNGFLcjBMb1Z6UUNGVVFHMTQzZ1RWSTNMdDJYSGNYaFhDekFYcFA1bGs3VmU1U25XUFlMMENtWkluM2c?oc=5",
-      "summary": "Bank Indonesia Says 38 Officials Don't Meet Industry Requirements&nbsp;&nbsp;WSJ",
-      "published": "1999-08-03T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
+        "Government / Policy",
         "Macro / Economy"
       ],
       "matched": [
-        "Bank Indonesia"
+        "APBN",
+        "Prabowo",
+        "Sri Mulyani",
+        "pertumbuhan ekonomi"
       ],
-      "big": false,
-      "id": "19551e8800b66177"
+      "big": true,
+      "id": "8fd0a8acf43f0e40"
     }
   ]
 }

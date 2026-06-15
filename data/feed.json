@@ -1,7 +1,22 @@
 {
-  "updated": "2026-06-15T13:25:42.124458+00:00",
+  "updated": "2026-06-15T18:08:00.530171+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "Free Float TPIA Naik ke 25,7%, Dorong Sentimen Positif Saham",
+      "link": "https://investasi.kontan.co.id/news/free-float-tpia-naik-ke-257-dorong-sentimen-positif-saham",
+      "summary": "&#8203;Free float TPIA naik ke 25,7% setelah SCGC melepas sebagian saham. Kenaikan ini memperkuat likuiditas tanpa mengubah kendali perusahaan.",
+      "published": "2026-06-15T14:13:51+00:00",
+      "source": "Kontan - Investasi",
+      "groups": [
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "TPIA"
+      ],
+      "big": false,
+      "id": "abe1411ad5067235"
+    },
     {
       "title": "IHSG Parkir di Level 6.254, Saham COIN, BRMS, ARCI Jadi Top Gainers",
       "link": "https://katadata.co.id/finansial/bursa/6a2fce9854cda/ihsg-parkir-di-level-6254-saham-coin-brms-arci-jadi-top-gainers",
@@ -35,6 +50,21 @@
       ],
       "big": false,
       "id": "68beb5c94fe8003d"
+    },
+    {
+      "title": "IHSG Ditutup Naik 4,12% ke 6.254,9 Senin (15/6), Top Gainers: Saham TOWR, DEWA, HRTA",
+      "link": "https://investasi.kontan.co.id/news/ihsg-ditutup-naik-412-ke-62549-senin-156-top-gainers-saham-towr-dewa-hrta",
+      "summary": "Bursa Asia melanjutkan penguatan setelah AS dan Iran menyepakati kerangka awal perdamaian yang membuka peluang berakhirnya konflik di Timur Tengah",
+      "published": "2026-06-15T09:25:47+00:00",
+      "source": "Kontan - Investasi",
+      "groups": [
+        "Bakrie"
+      ],
+      "matched": [
+        "DEWA"
+      ],
+      "big": false,
+      "id": "f0cb5e1cb225fb9b"
     },
     {
       "title": "IHSG Ditutup Terbang 4,12% ke 6.254, Saham Prajogo hingga Hapsoro Melaju - Bisnis.com",
@@ -3083,38 +3113,6 @@
       ],
       "big": false,
       "id": "5bf1bb6b21426446"
-    },
-    {
-      "title": "IHSG Mampu Melesat di Tengah Sentimen Rebalancing MSCI",
-      "link": "https://www.cnbcindonesia.com/market/20260529140338-17-738770/ihsg-mampu-melesat-di-tengah-sentimen-rebalancing-msci",
-      "summary": "IHSG bangkit 1,43% pada 29 Mei 2026, didorong rebalancing MSCI. Saham konglomerat seperti BREN dan BRPT jadi penopang utama. Potensi volatilitas masih ada.",
-      "published": "2026-05-29T07:10:25+00:00",
-      "source": "CNBC Indonesia - Market",
-      "groups": [
-        "Prajogo / Barito"
-      ],
-      "matched": [
-        "BREN",
-        "BRPT"
-      ],
-      "big": false,
-      "id": "889205e4422fca3f"
-    },
-    {
-      "title": "10 Saham Paling Cuan Hari Ini, Ada 5 Milik Prajogo Pangestu",
-      "link": "https://www.cnbcindonesia.com/market/20260529122336-17-738713/10-saham-paling-cuan-hari-ini-ada-5-milik-prajogo-pangestu",
-      "summary": "IHSG melonjak 1,43% pada 29 Mei 2026, didorong oleh saham konglomerat. Transaksi mencapai Rp 16,06 triliun, dengan Grup Barito mendominasi kenaikan.",
-      "published": "2026-05-29T06:03:23+00:00",
-      "source": "CNBC Indonesia - Market",
-      "groups": [
-        "Prajogo / Barito"
-      ],
-      "matched": [
-        "Pangestu",
-        "Prajogo"
-      ],
-      "big": true,
-      "id": "fdeeaa0dd574a6c7"
     }
   ]
 }

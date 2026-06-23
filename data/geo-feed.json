@@ -1,7 +1,22 @@
 {
-  "updated": "2026-06-23T21:18:08.306044+00:00",
+  "updated": "2026-06-23T22:46:15.342789+00:00",
   "count": 150,
   "items": [
+    {
+      "title": "Trump allies reassure Israelis amid tensions on US-Iran deal",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/trump-allies-reassure-israelis-amid-tensions-on-us-iran-deal?traffic_source=rss",
+      "summary": "Trump allies reassure Israelis amid tensions on US-Iran deal",
+      "published": "2026-06-23T21:19:35+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "4d00f8c5899b3355"
+    },
     {
       "title": "Trump disputes Iran’s rejection of nuclear inspectors",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/trump-disputes-irans-rejection-of-nuclear-inspectors?traffic_source=rss",
@@ -2287,23 +2302,6 @@
       ],
       "big": true,
       "id": "fe5d93f362880635"
-    },
-    {
-      "title": "Risks ahead despite Indonesian rupiah recovery - The ASEAN Post",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUm9RUmZGTWVDU1hacEt5R0hQaFI2SUh2UlhtMHZVbnprc2I1SFFhMHhpRkF3dWdob1ZxTk4xMElISlpSbDZGS2NzQW5uMGFxTEJyd3RkYTdXWTBTMFpYcm5UNmZDNk5wdzlvVzI3SXEtdnNfTENhc0RReUU2aHBaNE1qOVJJUdIBiwFBVV95cUxOc2NsNjlnWk1La00tU3VMRVdnbTBEV2hUclliWFk0UWVBemxJV2NSblZDY1duQjlYOTFMNWV0UkpXSGtlVk04OEt0TjBHUWZ4OWRrbGtfT3lOOWZTQWtSZnRNTUVadFNOOG1IOVpqcEgyXzFqS2NrUmQ3dTVCOGlYMTl5dGh4YThXU2hJ?oc=5",
-      "summary": "Risks ahead despite Indonesian rupiah recovery&nbsp;&nbsp;The ASEAN Post",
-      "published": "2018-03-17T07:00:00+00:00",
-      "source": "Reuters – Indonesia",
-      "groups": [
-        "Geopolitics",
-        "Macro / Economy"
-      ],
-      "matched": [
-        "ASEAN",
-        "rupiah"
-      ],
-      "big": true,
-      "id": "1d3f6bb095170ced"
     }
   ]
 }

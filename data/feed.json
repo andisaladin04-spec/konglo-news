@@ -1,7 +1,41 @@
 {
-  "updated": "2026-06-25T08:02:23.730349+00:00",
+  "updated": "2026-06-25T10:51:45.646135+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Ditutup Naik 1,96%, Saham BBCA, BMRI, TPIA, DSSA dan BUMI Diburu Investor",
+      "link": "https://katadata.co.id/finansial/bursa/6a3cf872a05fe/ihsg-ditutup-naik-1-96-saham-bbca-bmri-tpia-dssa-dan-bumi-diburu-investor",
+      "summary": "Indeks Harga Saham Gabungan (IHSG) pada perdagangan Kamis (25/6) ditutup naik 1, 96%. Sejumlah saham terafiliasi konglomerat ramai diburu.",
+      "published": "2026-06-25T09:44:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Bakrie",
+        "Djarum / Hartono",
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "BBCA",
+        "BUMI",
+        "TPIA"
+      ],
+      "big": false,
+      "id": "bd371ee930754525"
+    },
+    {
+      "title": "Indeks Bisnis-27 Ditutup Menguat, Saham MIKA, JPFA & ASII Kompak Melaju - Bisnis.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSUI5Nm1jNzBXODBlWHFNcmVaNlpGWHczeFpSZ2NzOFhVNzRreDJlYy1EdVZycEFMOGFoeW1Fa2kxQjJkZ2tfX25OZDV0MEdvM0liUWtoVG0wNFhHV0N0UnhfSzY1UXA0blBuWkhIUjROaDl2dTEyOUJHMEFwS21FS0hFR3prLW1kWFZvMDhlRjVFTUtLckZOaVhtTi0wSVBTM0o3bFFRZGpBckExbDlZZnd0ZmZjSTBy?oc=5",
+      "summary": "Indeks Bisnis-27 Ditutup Menguat, Saham MIKA, JPFA & ASII Kompak Melaju&nbsp;&nbsp;Bisnis.com",
+      "published": "2026-06-25T09:28:50+00:00",
+      "source": "Bisnis Indonesia (via GNews)",
+      "groups": [
+        "Astra"
+      ],
+      "matched": [
+        "ASII"
+      ],
+      "big": false,
+      "id": "7d804380b1bbfb5c"
+    },
     {
       "title": "Penjualan Toko Aspirasi Hidup (ACES) Tumbuh 2,1% Hingga Mei 2026, Ini Pendorongnya",
       "link": "https://investasi.kontan.co.id/news/penjualan-toko-aspirasi-hidup-aces-tumbuh-21-hingga-mei-2026-ini-pendorongnya",
@@ -3091,37 +3125,6 @@
       ],
       "big": false,
       "id": "85af66b047e208ff"
-    },
-    {
-      "title": "Kilau Saham BUMI, Emiten Grup Bakrie dan Salim Jadi Buruan Asing Kala IHSG Longsor - Bisnis Indonesia Premium",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSXJIekI0Z0dVczZDT2dWeVlhbDB2Z3V1anV2b2M3N3l2anpiRjhVRzdaVUlaLVdsWkl0bW50aDlVcTY3RG5MOWlLNF84MVlhVEdJdmFTUlNFX0plXzZEVDR6aURvN01CZHp3aWh4MkpGd0plaG9SUXUzc3BSZHJyeW45RVFrd0ZPT3lkeWtzMUdTdUIzNmlWNG4xeHc3bHBiQXRYd0FqeFl2MTcyMldLZnNjZS1qYTQtSnhjSllPWUI1NGNhTGJjMS1PcjRKOUU?oc=5",
-      "summary": "Kilau Saham BUMI, Emiten Grup Bakrie dan Salim Jadi Buruan Asing Kala IHSG Longsor&nbsp;&nbsp;Bisnis Indonesia Premium",
-      "published": "2026-06-08T22:16:45+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Bakrie"
-      ],
-      "matched": [
-        "BUMI",
-        "Bakrie"
-      ],
-      "big": false,
-      "id": "f2464848aaa01d1b"
-    },
-    {
-      "title": "Cermati Rekomendasi Teknikal Saham ACES, TOWR, dan AADI untuk Selasa (9/6)",
-      "link": "https://investasi.kontan.co.id/news/cermati-rekomendasi-teknikal-saham-aces-towr-dan-aadi-untuk-selasa-96",
-      "summary": "IHSG ambruk 4,52%, namun ACES menunjukkan sinyal 'buy on weakness'. Kalkulasi terbaru menunjukkan ada potensi untung jika cermat.",
-      "published": "2026-06-08T13:35:23+00:00",
-      "source": "Kontan - Investasi",
-      "groups": [
-        "Astra"
-      ],
-      "matched": [
-        "ACES"
-      ],
-      "big": true,
-      "id": "e14a9d66e16fd4ea"
     }
   ]
 }

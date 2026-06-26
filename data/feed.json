@@ -1,7 +1,73 @@
 {
-  "updated": "2026-06-26T06:10:47.307860+00:00",
+  "updated": "2026-06-26T09:53:35.220920+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Akhir Pekan Ditutup Turun ke 5.896, Saham EMAS, DEWA, ENRG Merosot Tajam",
+      "link": "https://katadata.co.id/finansial/bursa/6a3e498221fa6/ihsg-akhir-pekan-ditutup-turun-ke-5896-saham-emas-dewa-enrg-merosot-tajam",
+      "summary": "Indeks Harga Saham Gabungan atau IHSG ditutup merosot hingga 1, 72% ke 5.896 pada penutupan hari ini, Jumat (26/6). Sebelas sektor yang ada di BEI tercatat mengalami penurunan.",
+      "published": "2026-06-26T09:42:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Bakrie"
+      ],
+      "matched": [
+        "DEWA",
+        "ENRG"
+      ],
+      "big": false,
+      "id": "3ea412d4c68b9b42"
+    },
+    {
+      "title": "Historia Bisnis: Cengkeraman Jardine Makin Kuat di Astra (ASII) - Bisnis Indonesia Premium",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMXdCRHk4blpXY3dIam5zZXR1VnE2eHBGQjZIblNfRUN1eUFFekhzZi12MFBweVdHNW1wMzltZVpUWW9pbGZRdS0wanZKZklJUmg1QXJuazNGT1hkZFRTLVpkLXpxTUJxbEtTQ1ZuanlaQURTSmJYMk5uYVUtSFhoV0REaDF1S0ZfMXFLU2VsY2hGcXp1T3RPRkduWVpySmV0a3l2alVQUDBNV085bkhpUXM3SQ?oc=5",
+      "summary": "Historia Bisnis: Cengkeraman Jardine Makin Kuat di Astra (ASII)&nbsp;&nbsp;Bisnis Indonesia Premium",
+      "published": "2026-06-26T09:34:00+00:00",
+      "source": "Bisnis Indonesia (via GNews)",
+      "groups": [
+        "Astra"
+      ],
+      "matched": [
+        "ASII",
+        "Jardine"
+      ],
+      "big": false,
+      "id": "bd02a573c82ce6c8"
+    },
+    {
+      "title": "Emiten Grup Bakrie BRMS, DEWA, hingga BUMI Tekan Indeks Bisnis-27 Ditutup Melemah - Bisnis.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMTVSMExIcHBaUWxXYllhU2NKRGhMRzdqOFV2eVoydGo2azd1VzBEUmhDbWlwdlM0VUVEMmU0dkN1NkVVeGRaeHhRR1ZoMjRpRXZsV0JUSEZLQ3ZIWXFORElkMlFuYmVtc182R1dMUm94My1Ja19uVmV0bFMwbDNHWGhsLWNuX1hDZWloekZmU1gtd01IOEEwMDhUUkdlMU82YmRJa1N1cHRfMWRTWnpGRmlJS0szRFk2bVVXSGEyN0Y4SFNhSk11dw?oc=5",
+      "summary": "Emiten Grup Bakrie BRMS, DEWA, hingga BUMI Tekan Indeks Bisnis-27 Ditutup Melemah&nbsp;&nbsp;Bisnis.com",
+      "published": "2026-06-26T09:33:04+00:00",
+      "source": "Bisnis Indonesia (via GNews)",
+      "groups": [
+        "Bakrie",
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "BRMS",
+        "BUMI",
+        "Bakrie",
+        "DEWA"
+      ],
+      "big": false,
+      "id": "47a3fb9e537335ba"
+    },
+    {
+      "title": "Afaliasi UNTR Borong Dua Smelter HPAL di Morowali, Bidik Produsen Nikel Nomor 1",
+      "link": "https://katadata.co.id/finansial/bursa/6a3e24ced6801/afaliasi-untr-borong-dua-smelter-hpal-di-morowali-bidik-produsen-nikel-nomor-1",
+      "summary": "Entitas asosiasi yang terafiliasi dengan PT United Tractors Tbk (UNTR) mengakuisisi dua smelter nikel di Morowali.",
+      "published": "2026-06-26T07:07:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Astra"
+      ],
+      "matched": [
+        "UNTR"
+      ],
+      "big": false,
+      "id": "e0ab76d29af27da2"
+    },
     {
       "title": "IHSG Anjlok 2,73% ke 5.835 pada Sesi I Jumat (26/6), CUAN, DEWA, HRTA Top Losers LQ45",
       "link": "https://investasi.kontan.co.id/news/ihsg-anjlok-273-ke-5835-pada-sesi-i-jumat-266-cuan-dewa-hrta-top-losers-lq45",
@@ -210,6 +276,21 @@
       ],
       "big": false,
       "id": "6a8dadc5919bc841"
+    },
+    {
+      "title": "Usai Akuisisi dan IPO Anak Usaha, BRPT Bagi Dividen US$8,5 Juta - Bisnis.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVWhVazltZENUU1hOcEtOSmJqM0ZSX1Z1SEhyMVFaOGg0NlB6Znl4OUx4U254dFc2eThSWXdwVnd0MFNEcU9YbjNUWXNxQU82RHU1YnBvSjZDcVVpa0lBVTdjMExMWFp0eEN1TS1OaTRWWVlkYXR0czhkNTBWTURZdHc1NDNQTDAxWW55blBnYzhMU2g5NDE1UDA1eXFmNy1ZR1JhdTNRbXlKeEtKNm5xdWln?oc=5",
+      "summary": "Usai Akuisisi dan IPO Anak Usaha, BRPT Bagi Dividen US$8,5 Juta&nbsp;&nbsp;Bisnis.com",
+      "published": "2026-06-25T11:20:30+00:00",
+      "source": "Bisnis Indonesia (via GNews)",
+      "groups": [
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "BRPT"
+      ],
+      "big": true,
+      "id": "b7e98dc208756ab5"
     },
     {
       "title": "Cermati Rekomendasi Teknikal Saham TOWR, CUAN, AMRT untuk Jumat (26/6)",
@@ -3060,81 +3141,6 @@
       ],
       "big": false,
       "id": "bf3c1c000b8c2eb3"
-    },
-    {
-      "title": "Mereka yang Berburu & Menaruh Asa di Saham BCA (BBCA) - Bisnis Indonesia Premium",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcFhlenpKcEdtWm1ZbXlva0UtZEdCUDhJLU5VZWRaNk05TUNmTHBOWUYzVTl1M1ZKX3I0NEc3eDY4TTZLZXNYdjlQUmY4LVJKNy0yYW8zeno2LUd3aGQ5S2pvRTdJZmFHYU5OdTFRWTRxNHpkaHh2eF9KWWNDVGdMN0JpcjJhblV6eTNCRmQxOVBTcEpkSHo1Qm9oSHY2OTRtZzRxQg?oc=5",
-      "summary": "Mereka yang Berburu & Menaruh Asa di Saham BCA (BBCA)&nbsp;&nbsp;Bisnis Indonesia Premium",
-      "published": "2026-06-09T23:55:00+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Djarum / Hartono"
-      ],
-      "matched": [
-        "BBCA"
-      ],
-      "big": false,
-      "id": "d124ba4e1f8969bb"
-    },
-    {
-      "title": "IHSG Diramal Menguat, Analis Jagokan ANTM, BBNI hingga TINS",
-      "link": "https://katadata.co.id/finansial/bursa/6a289f9aa6adf/ihsg-diramal-menguat-analis-jagokan-antm-bbni-hingga-tins",
-      "summary": "IHSG diprediksi menguat pada perdagangan Rabu dengan target area 6.143-6.264. Sementara itu, analis merekomendasikan sejumlah saham seperti ANTM, BBNI, dan BRMS.",
-      "published": "2026-06-09T23:19:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Prajogo / Barito"
-      ],
-      "matched": [
-        "BRMS"
-      ],
-      "big": false,
-      "id": "78f545d246bd9990"
-    },
-    {
-      "title": "Harga Saham Anjlok 43% Ytd, Emiten Grup Djarum Ini Akan Beri Dividen Rp 1 Triliun",
-      "link": "https://investasi.kontan.co.id/news/harga-saham-anjlok-43-ytd-emiten-grup-djarum-ini-akan-beri-dividen-rp-1-triliun",
-      "summary": "TBIG membagikan dividen Rp 1,05 triliun atau Rp 47 per saham dari laba 2025. Pembagian dividen terjadi di tengah harga saham yang anjlok",
-      "published": "2026-06-09T22:20:11+00:00",
-      "source": "Kontan - Investasi",
-      "groups": [
-        "Djarum / Hartono"
-      ],
-      "matched": [
-        "Djarum"
-      ],
-      "big": true,
-      "id": "7238124c38c146dc"
-    },
-    {
-      "title": "Langkah Summarecon Tumbuh dan Berdampak",
-      "link": "https://industri.kontan.co.id/news/langkah-summarecon-tumbuh-dan-berdampak",
-      "summary": "SMRA berupaya menyeimbangkan pengembangan bisnis dengan tanggung jawab sosial dan lingkungan sebagai bagian dari strategi jangka panjang",
-      "published": "2026-06-09T15:26:31+00:00",
-      "source": "Kontan - Industri",
-      "groups": [
-        "Sinar Mas"
-      ],
-      "matched": [
-        "SMRA"
-      ],
-      "big": false,
-      "id": "eac3520265aaee56"
-    },
-    {
-      "title": "Pangsa Pasar Meningkat, Alfamart (AMRT) Perkuat Dominasi di Industri Minimarket",
-      "link": "https://investasi.kontan.co.id/news/pangsa-pasar-meningkat-alfamart-amrt-perkuat-dominasi-di-industri-minimarket",
-      "summary": "PT Sumber Alfaria Trijaya Tbk (AMRT) semakin memperkuat posisinya di industri ritel modern dengan menguatasi pangsa pasar&nbsp;36,2% pada 2025.",
-      "published": "2026-06-09T13:30:33+00:00",
-      "source": "Kontan - Investasi",
-      "groups": [
-        "Salim"
-      ],
-      "matched": [
-        "AMRT"
-      ],
-      "big": false,
-      "id": "20c512c0597dbf60"
     }
   ]
 }

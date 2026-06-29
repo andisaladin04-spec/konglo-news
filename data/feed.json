@@ -1,7 +1,70 @@
 {
-  "updated": "2026-06-29T01:57:25.172282+00:00",
+  "updated": "2026-06-29T06:55:23.724723+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Turun Hampir 1% ke 5.838, Saham Bank Jumbo BBCA, BBRI, BMRI Merosot",
+      "link": "https://katadata.co.id/finansial/bursa/6a42052250e67/ihsg-turun-hampir-1-ke-5838-saham-bank-jumbo-bbca-bbri-bmri-merosot",
+      "summary": "Indeks Harga Saham Gabungan atau IHSG ditutup turun 0, 97% atau 57, 19 poin ke 5.838 pada perdagangan sesi pertama, Senin (29/6). Saham-saham perbankan jumbo melemah pada perdagangan hari ini.",
+      "published": "2026-06-29T05:38:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Djarum / Hartono"
+      ],
+      "matched": [
+        "BBCA"
+      ],
+      "big": false,
+      "id": "a38322d03ebcd907"
+    },
+    {
+      "title": "Investor Siap Cuan, Grup Salim INDF, ICBP, SIMP & LSIP Bagikan Dividen, Cek Nominalnya - Bisnis.com - Market",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObnV3LVAwVlFkeWM1TW1peWdMOUtSLUw2NUJhWHRHd0JNSXozNmpVbkY3eER5QnBzRVBaemUxRnNnZ2JORkFnSVpadFFKN05UUXBGLURFa184cmtqeEQ3LWJfSHNyRXRKT1RtWm40ZTdxai0yNkhVaXVkRERRZWpTWGJkT09DWHV2Y0lxTlZsdlRrVU1ZTkJzb2NBeUJIWGRqSjNMczhPbFNydWhGaFlkWndBei1saEpTTThCSnFSSkxwdkR4a0dkRWhaTEo?oc=5",
+      "summary": "Investor Siap Cuan, Grup Salim INDF, ICBP, SIMP & LSIP Bagikan Dividen, Cek Nominalnya&nbsp;&nbsp;Bisnis.com - Market",
+      "published": "2026-06-29T03:40:59+00:00",
+      "source": "Bisnis Indonesia (via GNews)",
+      "groups": [
+        "Salim"
+      ],
+      "matched": [
+        "ICBP",
+        "INDF"
+      ],
+      "big": true,
+      "id": "07f03245c55b8eea"
+    },
+    {
+      "title": "Indeks Bisnis-27 Dibuka Melemah, Saham ANTM, BRMS & MEDC Justru Panen Cuan - Bisnis.com - Market",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSUZMaXJVQm1TcDYxa2RZUThpa0dVdHVsa1ZybElwM0FTbjBRVHdJY01vR2lFUXJPVU1FQlFyM1Brem5lamlkTHAwald0czFIcm9JeVYzQkdtdmhHdnNCWnJkOWJkNHB0Sk05MW15T0RmWXVLb1NZQUJ2R2tpSk81TjY4Ql9QMlZJRDNNYkZWWk9nSWU5ZWR5UkFSUlBjNE5lNHFwVUtkd01CcjVfNDFTMVRDNTFrZVJubmQwbQ?oc=5",
+      "summary": "Indeks Bisnis-27 Dibuka Melemah, Saham ANTM, BRMS & MEDC Justru Panen Cuan&nbsp;&nbsp;Bisnis.com - Market",
+      "published": "2026-06-29T02:25:23+00:00",
+      "source": "Bisnis Indonesia (via GNews)",
+      "groups": [
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "BRMS"
+      ],
+      "big": false,
+      "id": "1ddf7f87a2fbb000"
+    },
+    {
+      "title": "IHSG Dibuka Melemah ke 5.884, Saham BBCA, BREN hingga BBRI Jadi Penekan - Bisnis.com - Market",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZk5DTHE1LXZsOE0zbjc4TGZiQUFZX0EtMGxXTGw0VTEyVXRhb2tTdGh6czdmTmhrY0ZUZ3I1VXlzbGVydi1LaExwQzJYbkc3ejAyNVFHUkpDNG11eFplRU9oMnh5N1EteU9oOGpOR1NyTDd3Y0hfTnk0aVV6NVBVRU1fY2JsYXMwWUh3TlJXQklTSWVORk4zZUpDVEstSUhoRVVOY0JMYVhHaG9udS14NUdSTXJzdHhfRFE?oc=5",
+      "summary": "IHSG Dibuka Melemah ke 5.884, Saham BBCA, BREN hingga BBRI Jadi Penekan&nbsp;&nbsp;Bisnis.com - Market",
+      "published": "2026-06-29T02:16:36+00:00",
+      "source": "Bisnis Indonesia (via GNews)",
+      "groups": [
+        "Djarum / Hartono",
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "BBCA",
+        "BREN"
+      ],
+      "big": false,
+      "id": "dc32bb82a1632b15"
+    },
     {
       "title": "IHSG Diramal Terkoreksi, Analis Rekomendasikan Saham CUAN, JSMR, hingga ISAT",
       "link": "https://katadata.co.id/finansial/bursa/6a41b7cf2b0a0/ihsg-diramal-terkoreksi-analis-rekomendasikan-saham-cuan-jsmr-hingga-isat",
@@ -3072,66 +3135,6 @@
       ],
       "big": false,
       "id": "add22f85c3db9f6f"
-    },
-    {
-      "title": "Simak Rekomendasi Teknikal Saham ACES, INCO, TLKM untuk Kamis (11/6)",
-      "link": "https://investasi.kontan.co.id/news/simak-rekomendasi-teknikal-saham-aces-inco-tlkm-untuk-kamis-116",
-      "summary": "Analis memberikan rekomendasi teknikal sejumlah saham ACES, INCO, TLKM&nbsp;untuk perdagangan Kamis (11/6). Simak ulasan lengkapnya:&#8203;",
-      "published": "2026-06-10T22:55:48+00:00",
-      "source": "Kontan - Investasi",
-      "groups": [
-        "Astra"
-      ],
-      "matched": [
-        "ACES"
-      ],
-      "big": false,
-      "id": "7bb05373539d5df0"
-    },
-    {
-      "title": "Harga Turun 36%, Saham Rp 300-an Ini Punya Yield Dividen Hampir 10%",
-      "link": "https://investasi.kontan.co.id/news/harga-turun-36-saham-rp-300-an-ini-punya-yield-dividen-hampir-10",
-      "summary": "RUPTS ACES&nbsp;menyetujui pembagian dividen tunai sebesar Rp 548,02 miliar.&nbsp;Harga saham ACES telah anjlok&nbsp;197 poin atau&nbsp;36,15% dalam setahun terakhir",
-      "published": "2026-06-10T22:20:37+00:00",
-      "source": "Kontan - Investasi",
-      "groups": [
-        "Astra"
-      ],
-      "matched": [
-        "ACES"
-      ],
-      "big": true,
-      "id": "b45ba59dd8e406e7"
-    },
-    {
-      "title": "Astra (ASII) Siapkan Buyback Rp8 Triliun Mulai Juli 2026 - Bisnis.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQklvWVoydzNUM3Q0TFpJbVJ3QVRjTGpTaEFYUzBQWTFnVVBZOW1oRHYzN0tiV3ZWNXRpTUduZklIdUVUS3FTejFkbmgyTXItdEJzTjV6ZS03aUo2RlZOSVVUUVdjeHY3dlJFNmwwZUVmWm9wZlFnUlJwU1RXT3pCTFpCWXYwdk5xNkoyX2U1R0VQc01FeHhEbEdiM3VQTVpWaWxmTDRCTGdRUQ?oc=5",
-      "summary": "Astra (ASII) Siapkan Buyback Rp8 Triliun Mulai Juli 2026&nbsp;&nbsp;Bisnis.com",
-      "published": "2026-06-10T13:24:00+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Astra"
-      ],
-      "matched": [
-        "ASII"
-      ],
-      "big": true,
-      "id": "b414c33010e4d4ea"
-    },
-    {
-      "title": "ACES Bakal Bagikan Dividen Payout Tertinggi 82%, Tebar Rp 32,01 per Saham",
-      "link": "https://katadata.co.id/finansial/bursa/6a295d0847732/aces-bakal-bagikan-dividen-payout-tertinggi-82-tebar-rp-32-01-per-saham",
-      "summary": "PT Aspirasi Hidup Indonesia Tbk (ACES) akan membagikan dividen tunai sebesar Rp 548, 02 miliar atau Rp 32, 01 per saham dari laba Tahun Buku 2025.",
-      "published": "2026-06-10T12:48:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Astra"
-      ],
-      "matched": [
-        "ACES"
-      ],
-      "big": true,
-      "id": "e3a00c0c076efdc7"
     }
   ]
 }

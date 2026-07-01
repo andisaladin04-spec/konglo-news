@@ -1,7 +1,71 @@
 {
-  "updated": "2026-07-01T01:59:18.201228+00:00",
+  "updated": "2026-07-01T06:41:16.555798+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Menguat ke 5.690, Saham Konglomerat RATU, CUAN, BRPT Melesat",
+      "link": "https://katadata.co.id/finansial/bursa/6a44a8cf558ca/ihsg-menguat-ke-5690-saham-konglomerat-ratu-cuan-brpt-melesat",
+      "summary": "Indeks Harga Saham Gabungan atau IHSG ditutup naik 0, 84% atau 47, 39 poin ke level 5.690 pada perdagangan sesi pertama, Rabu (1/7).",
+      "published": "2026-07-01T05:42:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "BRPT",
+        "CUAN"
+      ],
+      "big": false,
+      "id": "cf5444bb12becad3"
+    },
+    {
+      "title": "BUMI Alihkan Saham Tambang Emas Palu Mineral ke BRMS, Ini Tujuannya",
+      "link": "https://katadata.co.id/finansial/bursa/6a448ef9be81e/bumi-alihkan-saham-tambang-emas-palu-mineral-ke-brms-ini-tujuannya",
+      "summary": "Emiten kongsi Grup Bakrie-Salim, PT Bumi Resources Tbk (BUMI), memperamping bisnisnya dengan melakukan divestasi terhadap perusahaan tambang emas PT Citra Palu Mineral (CPM).",
+      "published": "2026-07-01T03:52:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Bakrie",
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "BRMS",
+        "BUMI",
+        "Bakrie"
+      ],
+      "big": true,
+      "id": "4c9deec65bb47d72"
+    },
+    {
+      "title": "Darma Henwa (DEWA) Raih Kontrak Jasa Tambang Rp22 Triliun dari Sebuku Sejaka Coal - Bisnis.com - Market",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbU5NdHE3WWJ5RGFrbGY2ZlJ1VmpzYnpvUVg3ZG5iWDBqbnlVS3NURk1RcmlEUHo5UVJCYWoyVVdSbURUVExGRHpDUWNzSHpHblM2X05qTHNWMnRZSUhYeGEzeTB3cmFTZm9XV2FvWmRnaTNvajZVVndwSEw3STFOc3VJZUJncFpjNFRDeTduZ09TajZrWUZ6UmlhN09CQ0owTVFmYXBxTHloWk5wYWdwRUhMOUU5TEhUXzFIQy1kZzRnNEtLVGZBWlJfVQ?oc=5",
+      "summary": "Darma Henwa (DEWA) Raih Kontrak Jasa Tambang Rp22 Triliun dari Sebuku Sejaka Coal&nbsp;&nbsp;Bisnis.com - Market",
+      "published": "2026-07-01T03:28:24+00:00",
+      "source": "Bisnis Indonesia (via GNews)",
+      "groups": [
+        "Bakrie"
+      ],
+      "matched": [
+        "DEWA"
+      ],
+      "big": false,
+      "id": "73c17edad33d64b5"
+    },
+    {
+      "title": "Indeks Bisnis-27 Dibuka Menguat, Saham BBCA, INCO, MBMA Kompak Melaju - Bisnis.com - Market",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMVZBcmhLSDRHUmRQT0JJUFE0OHh1UHVDMmVINFdsRGx0VFZXSTVYOWZ1VHQtNlNoSFd0NFlwdVR4dmFaNEhnd2dHdHE0aWxhb1RkRFVqMDJhcGRfSi1GZVZUMzU5Vy02RXcxbkJRTUQzOXFDODdmcU0zTU1EUEtpQUt4MVp3ODNubUlxV25xZG5ramFjRFh2cEtxTWh5U29TQ0RvbVVZd1JwNUdZMXlfSU5fMHlyS1E?oc=5",
+      "summary": "Indeks Bisnis-27 Dibuka Menguat, Saham BBCA, INCO, MBMA Kompak Melaju&nbsp;&nbsp;Bisnis.com - Market",
+      "published": "2026-07-01T02:22:52+00:00",
+      "source": "Bisnis Indonesia (via GNews)",
+      "groups": [
+        "Djarum / Hartono"
+      ],
+      "matched": [
+        "BBCA"
+      ],
+      "big": false,
+      "id": "c72f4ecc2ee12bf9"
+    },
     {
       "title": "Mitratel (MTEL) Jajaki Merger dengan Emiten Saratoga TBIG",
       "link": "https://katadata.co.id/finansial/korporasi/6a43e9d7a2a92/mitratel-mtel-jajaki-merger-dengan-emiten-saratoga-tbig",
@@ -3079,69 +3143,6 @@
       ],
       "big": false,
       "id": "c82922157122711f"
-    },
-    {
-      "title": "Modal Saham BBCA Kembali Tancap Gas - Bisnis Indonesia Premium",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZFlwYlVJeWUzVEExY3hJX3N1dmRYbmxBZkJKZTNVUjh3eDJ2a3ZHNWFueF9WZkxRZ244V2l6Tk9zMnoxc1lYRElDZV9aQ3pKaFFhWHFqWG9DZkstLThhb1RDc2hZanlaX1lvU0loYkhhWlhvdWZnVDNSVDRRbXM4UnhEaGJfZVBoZHViNGNKS1p6QQ?oc=5",
-      "summary": "Modal Saham BBCA Kembali Tancap Gas&nbsp;&nbsp;Bisnis Indonesia Premium",
-      "published": "2026-06-12T07:08:00+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Djarum / Hartono"
-      ],
-      "matched": [
-        "BBCA"
-      ],
-      "big": false,
-      "id": "a7d2e301b019e6f5"
-    },
-    {
-      "title": "Indeks Bisnis-27 Dibuka Menguat, Saham BRMS, DEWA, INCO Jadi Penopang - Bisnis.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ082V0R3MVZZMDBvTFk3OFM0bng2eGF5N1dzcE5zRVB1aWhBVWVlN3Bnd1NDU3pXZWpxSkxWZ1YzcVpHdHVMRTlPZHBVTFpHcTF1Qm1iMk1ibVFvcE9zUEw0TGIwNDNCVEJmaFNscVpneV8wcks2Sy1OSVdqckJ1NTl0SnRnajFlTW5iRGhDOHhpR2xtUU9VeWRVT3J0azZjaFkxVHNSTHhLYjF3TlNHakhuc2ZnRk0?oc=5",
-      "summary": "Indeks Bisnis-27 Dibuka Menguat, Saham BRMS, DEWA, INCO Jadi Penopang&nbsp;&nbsp;Bisnis.com",
-      "published": "2026-06-12T02:22:07+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Bakrie",
-        "Prajogo / Barito"
-      ],
-      "matched": [
-        "BRMS",
-        "DEWA"
-      ],
-      "big": false,
-      "id": "477afba0974ef395"
-    },
-    {
-      "title": "IHSG Berpotensi Naik, Saham ADRO, ASII hingga ISAT Dijagokan Analis",
-      "link": "https://katadata.co.id/finansial/makro/6a2b47af57c45/ihsg-berpotensi-naik-saham-adro-asii-hingga-isat-dijagokan-analis",
-      "summary": "Analis merekomendasikan saham PT Alamtri Resources Indonesia Tbk (ADRO), PT Astra International Tbk (ASII) hingga PT Indosat Tbk (ISAT) di tengah potensi kenaikan IHSG hari ini.",
-      "published": "2026-06-12T00:37:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Astra"
-      ],
-      "matched": [
-        "ASII",
-        "Astra International"
-      ],
-      "big": false,
-      "id": "8cc9c58de56e0337"
-    },
-    {
-      "title": "Harga Saham BBCA Melonjak 19% dalam Tiga Hari, Mulai Diburu Investor Asing?",
-      "link": "https://katadata.co.id/finansial/bursa/6a2b4d3885890/harga-saham-bbca-melonjak-19-dalam-tiga-hari-mulai-diburu-investor-asing",
-      "summary": "Harga saham BBCA melonjak dalam tiga hari terakhir, benarkah investor asing mulai masuk dan menjadi pendorongnya?",
-      "published": "2026-06-12T00:37:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Djarum / Hartono"
-      ],
-      "matched": [
-        "BBCA"
-      ],
-      "big": true,
-      "id": "fd63eba6e9c2fce8"
     }
   ]
 }

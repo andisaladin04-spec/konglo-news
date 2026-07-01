@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-01T20:27:58.920415+00:00",
+  "updated": "2026-07-01T22:06:46.707247+00:00",
   "count": 150,
   "items": [
+    {
+      "title": "E Jean Carroll demands Donald Trump pay $5.8m in damages from 2019 case",
+      "link": "https://www.aljazeera.com/news/2026/7/1/e-jean-carroll-demands-donald-trump-pay-5-8m-in-damages-from-2019-case?traffic_source=rss",
+      "summary": "Carroll&#039;s lawyers have asked for an expedited resolution to the payment question after US Supreme Court declines appeal.",
+      "published": "2026-07-01T21:45:58+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "70987125e256d212"
+    },
+    {
+      "title": "World Cup could boost the June jobs report by 40,000, Goldman estimates",
+      "link": "https://www.cnbc.com/2026/07/01/world-cup-could-boost-the-june-jobs-report-by-40000-goldman-estimates.html",
+      "summary": "Nonfarm payrolls are projected to post a gain of 115,000, according to the Dow Jones consensus.",
+      "published": "2026-07-01T20:27:09+00:00",
+      "source": "CNBC Global Markets",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "Dow Jones"
+      ],
+      "big": false,
+      "id": "31d620d955ea6e96"
+    },
+    {
+      "title": "Despite marquee losses, Supreme Court term grows Trump’s presidential power",
+      "link": "https://www.aljazeera.com/news/2026/7/1/despite-marquee-losses-supreme-court-term-grows-trumps-presidential-power?traffic_source=rss",
+      "summary": "Set backs on tariffs, birthright citizenship overlay broad interpretation of presidential power supported by Trump.",
+      "published": "2026-07-01T20:26:33+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "db7692673da7da20"
+    },
     {
       "title": "KPK tahu Bupati Kuansing dijemput sejumlah pihak saat OTT terjadi",
       "link": "https://www.antaranews.com/berita/5631429/kpk-tahu-bupati-kuansing-dijemput-sejumlah-pihak-saat-ott-terjadi",
@@ -416,6 +461,21 @@
       ],
       "big": true,
       "id": "5f363a7953df7279"
+    },
+    {
+      "title": "BI: Inflasi Juni 2026 Terjaga 3,34 Persen Berkat Sinergi Pemerintah - Media Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORlQ5QmxDX01pQ3YyeTQ0MTZRV01WNmxrekpuTUdaR3NnUjZoVUJWVzFHRTNjVGpnM2dOT3hxalRKVUxxR1NsQWNVeXVXSk5BSnZIZnRUZlZTX1p0TEVKZTZ2MEp0TDdQVndURVVWejRtajB3VEtUX0t3cVktZDVDNVRWOTlLdVZUNHJfbm1wMU1lbkxnTTJkWFR6MDRiTUNFSDZhdnFSNDRxb0k?oc=5",
+      "summary": "BI: Inflasi Juni 2026 Terjaga 3,34 Persen Berkat Sinergi Pemerintah&nbsp;&nbsp;Media Indonesia",
+      "published": "2026-07-01T15:53:22+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "inflasi"
+      ],
+      "big": false,
+      "id": "4a581fdd0de8bdf3"
     },
     {
       "title": "DJPb: Inflasi terkendali pembiayaan UMKM tumbuh dukung ekonomi Maluku",
@@ -1705,6 +1765,21 @@
       "id": "0286523fd7c4af87"
     },
     {
+      "title": "Aluminum Set for Worst Monthly Loss Since 2008 on Supply Outlook - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSmFpeXpPb2VpZ1pJaXlDYlY4TXpGUlFxUHFmS1V2MjFLeF8taU9mcHU5TmlYYmtjOTltTEVQYnBOVlBkdnRabnNnTklfUHdaZWNYMVduUTB3N1FPSXZ2eFBWM1cwRE9Ydi03azhVYVlZUC10UUMwZlg2c3B1dDlNLTBwM0hNdURFZWExd0E5UzRQSDlfdU9JTEs2ZWJCVmlpWmpldlJaYTRZTzFNbnZWb2cwSktTZw?oc=5",
+      "summary": "Aluminum Set for Worst Monthly Loss Since 2008 on Supply Outlook&nbsp;&nbsp;Bloomberg.com",
+      "published": "2026-06-30T18:58:09+00:00",
+      "source": "Bloomberg (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "outlook"
+      ],
+      "big": false,
+      "id": "23baf5df4c87bb2a"
+    },
+    {
       "title": "Saudi Sovereign-Wealth Fund Struggles to Find Winning Investments - WSJ",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONmFtUFZONWZkWldsWGhyQTM3bnE4ZGtobXM0UWNkcmlKOV9LQl8xV3FxNk55b3dIOEhKRi1nRldhUUl1X2JybjN6MkZKZjhRcEdabUFvZm9mc2xYRDJxejVmUUlrYmF3UGdoZC1mTG00ZzhIdHh5U25pS295S0o5aGVlNzNOcFlFai1OeWhwUnY0TFRVdGhYOE9QbWNGSWpHYWpvQXpuVGFZM1pkaWdBRUpn?oc=5",
       "summary": "Saudi Sovereign-Wealth Fund Struggles to Find Winning Investments&nbsp;&nbsp;WSJ",
@@ -1718,6 +1793,21 @@
       ],
       "big": false,
       "id": "7d54629aa030c36a"
+    },
+    {
+      "title": "'Circumstances Don't Call for Rate Hikes Right Now' Says Win Thin - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb2NDZ1NmbzBzX0dzSVlVQzNtNGRsZjM2Ul9VRTUwbVlfVVByTlo2X0MtcHJvSDJjUG5OOUs0QndMbmgwSUJNcXNCSU9FUE82ckE3aE1MSzVyTmpNYXZsd1FoTDdGSnBCaEdqeUNwajhDY3hEdk5GalEtdTZkQlplUkVMSms2ZXJPQ0lFREdGU1VjQndqVmhCR3hRZVRDeTJLbjQtR0ZyejBrSktJ?oc=5",
+      "summary": "'Circumstances Don't Call for Rate Hikes Right Now' Says Win Thin&nbsp;&nbsp;Bloomberg.com",
+      "published": "2026-06-30T15:06:59+00:00",
+      "source": "Bloomberg (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "rate hike"
+      ],
+      "big": true,
+      "id": "9b27f7150ef99156"
     },
     {
       "title": "Prabowo Ungkap KEM-PPKF 2027: Target Ekonomi Tembus 6,5%, Defisit Dijaga Ketat, Kebijakan Ekspor SDA Dirombak Besar-besaran - Blitar Kawentar",
@@ -1860,6 +1950,21 @@
       "id": "a7d15e9fda83db6f"
     },
     {
+      "title": "BI Rate Naik, Ini Jeritan Pengusaha - CNBC Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaEVuc2RFbkxVeGhodVd5SWxpdzNDcTJzcjI1VUdUZV85OGREem0tbHhPUFVVV0hZSHhYVDJRUmg5dTh2ZU5KSUtteFVpNDF5aW1ab1ZBdzJWQ1RQOXlrdjhCWndCdWxhU2FvX3NkOF9iWUt0R0d3MmxhbW1zMk5LTWtZa0kxQzQ3ZklfUTdCMUZLSGZkaDRHa9IBngFBVV95cUxNRzc3blljWnA0X1BYVHRxekptc2pNMFdieTJLVmFvSkRmU29CMjJoNkRXVXRZX05TdWU0bGV0QzZiMFQ1M2k1VzlWOUNwVUd2Y0xLTkxSZDB2VzAxeEJGUkVUV0VrTE9DaGFXVDV1WHdsWDYyTXpaYzNIcTF1dUlwOVpadlN0cFdvZC1yM1ZjY0F6MUdpSGE4bVhrMm9HUQ?oc=5",
+      "summary": "BI Rate Naik, Ini Jeritan Pengusaha&nbsp;&nbsp;CNBC Indonesia",
+      "published": "2026-06-23T07:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "BI rate"
+      ],
+      "big": true,
+      "id": "1b3ef55831df3a06"
+    },
+    {
       "title": "Produktivitas Industri Topang Kenaikan BI Rate Jadi 5,75 Persen, Rupiah Menguat - imcnews.id",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX0RHU2lXcXdCR0RaSWxfTDBncWFsVkZHd1ZOVWh1ZGVDelBuTlRrQnYtVF9TTUpaa1N1dnF2aXc5YmcxWHNhMVZiWTM5OHhSSzhNN0QtQlQyeU1BazdMTHpLb2x3dHBNTzBmaWFqeWNrT1IxdTg4Y0ZzNHlmSnc1VXRuNHlwWEVPZ2MxSF9NWDBaNjZuV01DU0tFSWhrazdsRGtvbV9WV1Uzc01hTWU0RERJcWlZLVpHc0E?oc=5",
       "summary": "Produktivitas Industri Topang Kenaikan BI Rate Jadi 5,75 Persen, Rupiah Menguat&nbsp;&nbsp;imcnews.id",
@@ -1955,6 +2060,23 @@
       "id": "7535f001eb5bf5b6"
     },
     {
+      "title": "BI Naikkan Suku Bunga Acuan Jadi 575 Persen Perkuat Rupiah dan Kendalikan Inflasi - Batamtoday.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObE43c1BMaHg5VW9XeTdVMnp2ZGRSZzFFYzlsTG03bGswdnp3N1JKVXdLMWE3QWxWQXBGWW1NMGJES1NBTlpmeTFNMnpnbVlNcDNVeDUtMWVpWjcxSWd3V01lVUhXUXQ2TktmNkJXSGNueExiRXdwY09nS09mc1g4OWpmUW55akt0aTBLVmp4ZGNyeGE5bU9KUXBlNU9FVGVRNmYwZktPTTR6ekpzTWdIcGtMM0I3RmJERFJya2xVX0VfNUhMdUE?oc=5",
+      "summary": "BI Naikkan Suku Bunga Acuan Jadi 575 Persen Perkuat Rupiah dan Kendalikan Inflasi&nbsp;&nbsp;Batamtoday.com",
+      "published": "2026-06-19T04:28:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "inflasi",
+        "rupiah",
+        "suku bunga"
+      ],
+      "big": true,
+      "id": "80589ac1b97f2856"
+    },
+    {
       "title": "Bank of England holds interest rates at 3.75% amid Iran war peace prospects",
       "link": "https://www.cnbc.com/2026/06/18/inflation-interest-rates-uk-bank-of-england-iran-deal.html",
       "summary": "The Bank of England's Monetary Policy Committee voted 7-2 to keep rates on hold.",
@@ -1969,6 +2091,23 @@
       ],
       "big": false,
       "id": "0f86497559037a51"
+    },
+    {
+      "title": "BI Rate Naik Jadi 5,75 Persen, Pemerintah Hitung Dampaknya ke Inflasi dan Rupiah - Kompas.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTUd2TldHN0stNGVHaW93SWM1eXNIa0NDY2ctSkFEU0dCallBeGhjT0dfZ2lQaGYyM21zSk1VUjFTR0FEVVJjOXhpei1NakJTamtqbFVxck5kSFl2V0FSVklGUElaUE04LWI3UG9lTkRtb25CbEp5WTNJcVNVU2w4LUktZ0pydkxnZzlEV1A4QkdpVWNkRFQ0QXp1dUx6WnJrei10WjZvTXpMaWEyTEh2SWhQX3dpOVJjMHkySW9NV09ITHIyOGdHaA?oc=5",
+      "summary": "BI Rate Naik Jadi 5,75 Persen, Pemerintah Hitung Dampaknya ke Inflasi dan Rupiah&nbsp;&nbsp;Kompas.com",
+      "published": "2026-06-18T07:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "BI rate",
+        "inflasi",
+        "rupiah"
+      ],
+      "big": true,
+      "id": "5d457607d117bd5c"
     },
     {
       "title": "BI-Rate Naik 25 Bps Jadi 5,75%, Bank Indonesia Perkuat Stabilitas Rupiah - Ajaib",
@@ -1987,133 +2126,25 @@
       "id": "32277d0006ebc145"
     },
     {
-      "title": "BI Rate Naik Lagi Jadi 5,75 Persen, Demi Jaga Rupiah Dan Inflasi - waspada.id",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSWpNWnl6TTdfbmc1d3U2WGVQa0dfM3BMZzdQTUtYTjZseUdSSHdQam5veEttNXBaYnhJMnZfQnNPOUstZUZCUVJGN1J2YjVyRHptSlVhQ2I3WnJIbTJXMHV2N3pKQ1JJLXhyN3pHdUZQMFpfNmswR25OMXY0RGo0VUplRndrTjEyMWVmbzJ4QkgzZmRQTExfMw?oc=5",
-      "summary": "BI Rate Naik Lagi Jadi 5,75 Persen, Demi Jaga Rupiah Dan Inflasi&nbsp;&nbsp;waspada.id",
-      "published": "2026-06-18T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate",
-        "inflasi",
-        "rupiah"
-      ],
-      "big": true,
-      "id": "f9a0b45730d8d791"
-    },
-    {
-      "title": "Coal prices soar on Indonesia export controls, China mine disaster - Nikkei Asia",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOHlDX3h6VDRVSXhvdnlaQ3lnZmU1QTBCSlBUVklrbGloNzRaZkROMGhpQlpKVjQwc2UwLW85cWxBcUZPNjhXcXJyLU1KNDlBdHp5Wl9kMU0yYXZyUlJxb1owVmUxYWhvVVpsdWtaYko3RnBuQnFDMkpDR1F0NFBUYU5KeW1IaEFXREhwb005U2JXcEFTTTFlU0NKakFkUTNuRVY1QWRHMXI?oc=5",
-      "summary": "Coal prices soar on Indonesia export controls, China mine disaster&nbsp;&nbsp;Nikkei Asia",
-      "published": "2026-06-18T07:00:00+00:00",
-      "source": "Nikkei Asia (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "coal price"
-      ],
-      "big": false,
-      "id": "51c4aef6b4f019be"
-    },
-    {
-      "title": "BI Diprediksi Tahan Suku Bunga di Level 5,50 Persen, Apa Pertimbangannya? - Suara.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVmV6UXM1ajFzaWRwbmRJV2ZINF9ESHFPMUhrWlNYcUFDWXdQclc3ZFpmQklQbkkzYk11OTlZX2U1V2xjM2dPdTdmcDdDVzZacWVQdC0xNW1pMnBMcmdDU1ZLY05PZWZuU3J1WEdHaV9XU0J3UHdYS3dvZ3JlLWVWS3V6Yk8xaXdWRVBSLU1FaGhUSlRSYVJqODVvdzRYNEJWRmJFdkRGRlM0SHFZcXdjZUJ3emZlaVJl0gG4AUFVX3lxTFBrdXpwdEZGaVNGVnM2NGtMU2ZJY244cnkxc2dzWkZlVnkzZ1g2QVc5bnN2NERnSlBRTE53dG9rZk9qTnUyQW9jdUx2TE9jNS15azlFa2NWazAtcFJibWdFd1FyQ1hiTmVmcnpXejZLbmlHOUdLMGhoY3pqZVd5ZkhTZE9OM1UzeHhMbGpSeElOMmktN3FDcDY1YUV2QkFSNWJ1XzFjdEc2MFQwSFUzWVdCcUVEN3lnSzc?oc=5",
-      "summary": "BI Diprediksi Tahan Suku Bunga di Level 5,50 Persen, Apa Pertimbangannya?&nbsp;&nbsp;Suara.com",
-      "published": "2026-06-18T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "suku bunga"
-      ],
-      "big": true,
-      "id": "ba67dafcaba98845"
-    },
-    {
-      "title": "World Bank says Indonesia's GDP to slow to 5% in 2026 as fiscal pressures rise - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZkdIMmFsLTE1TXNyZVc5MmtqYnROdFY5dHlQUXRhY0twbjhyNEgyZTlGd1M5VGRfanZVOTN6aE1ETkxYYWJrU3A2ekVvc3JLZ0pESlZ6T204N1Q5UUllcU05cHVpTUpxT1FhNG5kUjZUM3dRcmxjdThnWkhwZmVNNFhvVWJqZ05FaTVuRWozZTRUb2pXcm1wX3RfYlQ2MjZBOG85Y0RndVgzRlFQVFo4bXZXNmFzT2cyQVVZ?oc=5",
-      "summary": "World Bank says Indonesia's GDP to slow to 5% in 2026 as fiscal pressures rise&nbsp;&nbsp;Reuters",
-      "published": "2026-06-11T07:00:00+00:00",
-      "source": "Reuters – Indonesia",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "World Bank"
-      ],
-      "big": false,
-      "id": "5a892c87d58e22ef"
-    },
-    {
-      "title": "BI Naikkan BI-Rate Jadi 5,50 Persen, Rupiah Jadi Fokus Utama - jatengpos.co.id",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObEVrdWFmMlpKdGJyT3FOOVRsMzdzM0dUWUJBMFFlMEstQ2FYZlhKUkw1MUlrQUpGQWFYRjdnR3pjMzFjZ01GYU5MVXRqR1B1Q1ZOcXExMm8zMk15UW1lMHFMaHl5c29EUjNRNThJSVMycDd5RTNnT0Fqek1VY1M5SEJJQzNLMl94Z2RGZHNYYXQ3TW1xN2NoY3RMT0M2UDR6cTBiNw?oc=5",
-      "summary": "BI Naikkan BI-Rate Jadi 5,50 Persen, Rupiah Jadi Fokus Utama&nbsp;&nbsp;jatengpos.co.id",
+      "title": "Alasan yang Bikin BI Tiba-tiba Naikkan Suku Bunga - detikFinance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTXVLOHNlRmM4RzdaMjd2MWl6akh6NV9NM1o3dnlmNkxFcTRLNE9GQ19RYXJWcGEtTW0yVUpBM1FNNnBUaTVmUk1qS1ptRW84cjBPUEZhM09CQVoxdUNVVm1mak5WaVkxa0ZVbm52UnUtZzRHVjNrdFF5R1lzZ3IwUkI0VzhqTU45d3FqMzVIUmZ0ekRQUllTb9IBngFBVV95cUxOdDhhaGwzcXhfNkR3dTRrZjJhdi1JS1lEZUpUeHlXQVd1U2tQbWo5N1JrSVV6d1hJUXBOVTJtT3ZnT2stdy02NTZKNjNucDROLTFtWFM5RWlwcGZvQkF5TjhSM3FvLUhtdENpVlotbThUQ1JBTGZaZkRlak14RW9BVWJhUjhJaUEzQjVENVJsdjdSSm1DTVN6b19uV0hOUQ?oc=5",
+      "summary": "Alasan yang Bikin BI Tiba-tiba Naikkan Suku Bunga&nbsp;&nbsp;detikFinance",
       "published": "2026-06-10T07:00:00+00:00",
       "source": "GNews – BI rate rupiah",
       "groups": [
         "Macro / Economy"
       ],
       "matched": [
-        "rupiah"
-      ],
-      "big": true,
-      "id": "898df9df25a82c86"
-    },
-    {
-      "title": "Indonesia’s crisis of confidence as markets decode Prabowo - The Business Times",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUWFHWGNMVk1Xdmx1YVBfNVk0aHVOZGNtZFEzVk5hX2xja0dYWjc0dkdGUzVJWHJQUTRfeWMwSVJqdUd3dkRraTNaaGRjYWRzQjhPMGFaXzFVUXRjWExKNk5fcERTcDFZMHJhc0lBSHJIczU1U0pEdmJzZ3RRV0pMMGdELTRwbkpaMklReEVxTVJQaU8wNUU3SHB0bkZSSzV2UEZvcjhnVQ?oc=5",
-      "summary": "Indonesia’s crisis of confidence as markets decode Prabowo&nbsp;&nbsp;The Business Times",
-      "published": "2026-06-07T07:00:00+00:00",
-      "source": "Financial Times (via GNews)",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "c540bbcb912a7b4c"
-    },
-    {
-      "title": "Suku bunga acuan naik: Cicilan akan naik, kelas menengah bersiap turun kelas - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ac0NMaWpJWEloZ2gycV9XeEFlYTV4UWNVQVFmSlJVQUxhTlUxM0s4TnM1ME5kNFhUZUlzZFBzWlRBbjFlc3dVZW10QmNNUTh3dDJvYU9XUE9lcWZJT3lXetIBZkFVX3lxTFA2Ym9ybEdPckR0REFTRkRlTVBwSmlTVXZhMk1yU2lOWDNIVTRILXlaMnk0SDA0T2Q4MHl0M2tBMWItc2FVNklLTHhNaDdHR19JVS1xX3J5bW1XcHUwMTRPZTVwaF81Zw?oc=5",
-      "summary": "Suku bunga acuan naik: Cicilan akan naik, kelas menengah bersiap turun kelas&nbsp;&nbsp;BBC",
-      "published": "2026-05-22T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
         "suku bunga"
       ],
       "big": true,
-      "id": "edd56b8dd7332bf0"
+      "id": "efe1bf79ef4d9b84"
     },
     {
-      "title": "BI Rate Naik 50 Bps, Deretan Ekonom Ungkap Efeknya ke Rupiah & Ekonomi - CNBC Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX1VhVUo0RDg3d0hLY0RTUU5XOHZMN2tsNzBwTGpybHNqY3NNMWhwWFkxX1NjVy15WWJ3akpNYmNBejhEZlc4VS1HbWVXR3VjQXpBNjFFTUZRZ1ZvT0Z1cnR5bTB1cDBhYjFhMFVVNW9TNUFHWE96VGJFbllBTXppRk1uMTd5TnA0eVpzQVhGQU13UzI5ZWJfVWg5dGRoRkZQVXhwdlpxNEFRVVhGdHpJSFBsajIyeGlDNk54emZaMDc0S2h4RWV1MdIBzgFBVV95cUxNU0dqUHZMbjVHMFV4M2swakxGVUhCZ2ZfcUk2UGR2SW1SSjVoNWpYR0tSdUNZT0UtcUdMaDRuTWVyQXlDeC1PLWlSS0xQWG5Bd0hyc2MxalZuNUZmdm43ZXlCME5NMjZjSDZQVC1fZkxxeEh2QTFsYk91UE1PT3QzZlctTGtZQ0hMaDY5VC16MERTVVI4cWhxelZPdkQwcjBOekpYNEwycFR6bC1XOXZpakk5OXBEZ2NHclJrQ2dDbFRtekFpWFNMa2NLNWtLQQ?oc=5",
-      "summary": "BI Rate Naik 50 Bps, Deretan Ekonom Ungkap Efeknya ke Rupiah & Ekonomi&nbsp;&nbsp;CNBC Indonesia",
-      "published": "2026-05-21T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate",
-        "rupiah"
-      ],
-      "big": true,
-      "id": "aa5fc6cbfc2695a5"
-    },
-    {
-      "title": "Bank Indonesia Delivers First Rate Hike in Years as Rupiah Flounders, Risks Rise - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbzFPWUxpaXZtcUxMVEpzcXhrOUlvZWJoV0c2M29QTEU0YnA5cXRrQXNkdXZmUG1uNFh2akRXVkxCc3ktcWlDUlFIZWpCTG50c1RDdDZ4WEk2aTVKd1o4Q1JfeVFCTVVUNEw4TUZZcmJTa0ZPd0pkYzNzdHNaVDB2d3RoNmJSTENGRHdlb3A3Y201RzFHb3MzclRGRzlvVXpzUmQzVjJGRlNwcjZ0VzBVcTNOVlFsdHNuME9Idi10cXRjaXoxQk5LcXF1Mng?oc=5",
-      "summary": "Bank Indonesia Delivers First Rate Hike in Years as Rupiah Flounders, Risks Rise&nbsp;&nbsp;WSJ",
-      "published": "2026-05-20T07:00:00+00:00",
+      "title": "Bank Indonesia Surprises With Rate Hike to Stem Rupiah Bleeding - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMWhScEVrYmRRU2FEQUwyRE1HMnpKNFMzbUVobkhLNWs5dTBEOVJ3aGg0UnU0LUJnQTNlYU0yRGJjQXNsaDlPeHc1SExBYWtXQnh4T0V3VENJeklMbUtWQkJGREFyeEY3ck41SnhubFJRSWJocmNkQk5vRmlWMW5zT3J5RTZFb1h1SFM0ekNyWFNGdDUxT0p3TUxxdXBEMjNYZEFBN20yZzdiOHBEQnFIWXpQLU5WWjg?oc=5",
+      "summary": "Bank Indonesia Surprises With Rate Hike to Stem Rupiah Bleeding&nbsp;&nbsp;WSJ",
+      "published": "2026-06-09T07:00:00+00:00",
       "source": "WSJ (via GNews)",
       "groups": [
         "Global Finance",
@@ -2125,12 +2156,57 @@
         "rupiah"
       ],
       "big": true,
-      "id": "261e17cdfc737dc7"
+      "id": "4d5958fa2f49cb49"
     },
     {
-      "title": "Prabowo Tetapkan Defisit APBN Tahun Depan Maksimal 2,4% - detikFinance",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMmU4bTBxanlkak5HOEllajRmOUFLQ1dwVGM0a25VNUFUV3g2OEQzaVVSRjZURDYzUjNOWE9uc2l3Q1lSOXpkOTFTUnJRcWVHM1o3SW1SSlo5amlnck5PRXZVSUFsenJyWENwcW5wR0RmZ0laT0hoTmpLMUhEUVBuNzdDNGNaT0FlMHg1Q3A3OE9OZk44aWprNG82M1J4MXhJREdMdmY1ODh2aEZneFF5cjRB0gG3AUFVX3lxTE5TUU9FaWJ6cGdGTGhFY3owSjZJNGtNclJfWDNUdEZGVUcwd0tRSTFzQ2JLdEVsazhrbXF3LU12bUJuMjk1bU83Rko3c1hNY3FxZHlkc3d5LUxodlg4T0VRSF9aZkhxZXpDbVVYZzJDZVpISEFNQW5WZWFFZkdSc0tYZVVWWDNmRVk2VWxyMGdBZHlZOF9jejRRLW1fYUNVV2JSZkp4elVKRkxKOWx3Z3laa2owbG0wQQ?oc=5",
-      "summary": "Prabowo Tetapkan Defisit APBN Tahun Depan Maksimal 2,4%&nbsp;&nbsp;detikFinance",
+      "title": "Terungkap! Alasan BI Tiba-tiba Naikkan BI Rate - detikFinance",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZkEzZjRhMWh2alpmaFVXaElUMHZnMEJmZWthV216dUtVLUJsSkdtTV9ESHVfUkJuRmwzb2VDTVF0R2x1N2JvSEx2cUk3M0doWjFOWDBUYXZZUW9uaVROTm00M3dtT1RseTlKQ0hNWWlFb2xCeHFDTWliOVY0MExPdkF0bjRac3o2UUpha3NwLTUxbVnSAZgBQVVfeXFMT0RZeVZjNG5HdXBJVUtqRy1hcTV1VmxubmFDWWs1eUFLeXl4RUNxS0lJQkVkZ2RPdmpwdXFza2tiM3oyTjdnbllwTHJGVVZhQWRnWXN4ZWFNWFJOT2hnZEZRNnk2MmR6a0dLQnotR3BSSjlnQjFGdTdJbE1rbk1XRTV1SzBmOUQyYk9ORndPX1hoQ2NCcXJzcms?oc=5",
+      "summary": "Terungkap! Alasan BI Tiba-tiba Naikkan BI Rate&nbsp;&nbsp;detikFinance",
+      "published": "2026-06-09T07:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "BI rate"
+      ],
+      "big": true,
+      "id": "3afd79e6d0d06d64"
+    },
+    {
+      "title": "Stabilisasi rupiah, BI kembali naikkan bunga acuan jadi 5,5 persen - Antara News jatim",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMnJLYUlvQW1PUmRzZm93TGVMcDBvV2xQdjFaZkJXeXlzWC1FbkxrY01YTmthYTF4SEhLd1UxNHpWZV9hLWhpbjVSMHotQ3lFVzJ0LUNlTTNDbXVWb2RJWGtBUktzWkZTLW1UQ1d4eUJrU01VT0hZSld1UG1QbXJXanQ3U0sxeTJfWnZCZkZHbTNoTWlHX2l4dnNKcXJFMU5mYnVVSGhYZFJFcmpt0gGyAUFVX3lxTE1wR1Byc0o0c3lvZVdHMUszT0VoOG9qb3JQTE90SFBmenpKTUZKWFZqRnJlSjA5YUwzRGlsM3JqNGFDR2pmUFdyMkktcmF3b0p3LTZZRXktTHNNVlZaVHUyMjhvZlFadFZGNHMzZXNWRy0zaWhtUnQyQU9lcG9GemhPc3VBQ2RVVHlyeHBGY25ZN25nVkpNN2RUcl9DcXZOdThLNjVPWEJUNi0tQ0NyRWMwUEE?oc=5",
+      "summary": "Stabilisasi rupiah, BI kembali naikkan bunga acuan jadi 5,5 persen&nbsp;&nbsp;Antara News jatim",
+      "published": "2026-06-09T07:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "rupiah"
+      ],
+      "big": true,
+      "id": "9f2fac464b8ce502"
+    },
+    {
+      "title": "Resmi Diumumkan! BI Rate Naik ke 5,25 Persen pada Mei 2026 - Infobanknews",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeS1mb2dscE9Qd04yTWlzdTItQTFRMlZ1d2FHNGNxNVQwTXlRcmh5RDBUZ3J3YmFkTlhKWEtEeEJ0aHFUWl9FUHhTRTJvN1MwLUt0akZVSU9xV252c1h0OFpxSnZHMmR0d1ZYYi12bHdaTWJvNURzMDYtc0pfUDFZblcxc3ZUNFZj?oc=5",
+      "summary": "Resmi Diumumkan! BI Rate Naik ke 5,25 Persen pada Mei 2026&nbsp;&nbsp;Infobanknews",
+      "published": "2026-05-20T07:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "BI rate"
+      ],
+      "big": true,
+      "id": "3e5534312736979f"
+    },
+    {
+      "title": "Prabowo Pasang Target Defisit APBN Ketat 2,4 Persen PDB, Ini Skenarionya di Tahun 2027 - Inilah.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSjgtVHZtWFBLTV9IX3RNRURwQVdRbkpCVXY2bGgzZ2pyaG42UldVVm4zMEQtWjB4Y0JIbU9pemFRSE42MnNncFlyLWc1Q0RRcUhvbVZScmdDY19TUENwYzRRUG9fa1ExUXM2SVkxZkRqc1R5NGhxU0dKLUZXeDhhc2lsS1U1eUtIYWNIR1JyQ3o3NUk1WGlyVDJVXzBMM211ZzdXUTQ5T3Mtb0U?oc=5",
+      "summary": "Prabowo Pasang Target Defisit APBN Ketat 2,4 Persen PDB, Ini Skenarionya di Tahun 2027&nbsp;&nbsp;Inilah.com",
       "published": "2026-05-20T07:00:00+00:00",
       "source": "GNews – Prabowo APBN",
       "groups": [
@@ -2141,120 +2217,29 @@
         "Prabowo"
       ],
       "big": true,
-      "id": "cf0d39442df716f3"
+      "id": "9467120391562a76"
     },
     {
-      "title": "Tariff Ruling Triggers Accounting Judgments on Refunds - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZUJ4Rlp2X1V5ckppODFuNGFCLVdCNkt4S1lUWFNxZkYwQVhfWTczc3FxZnVoSkVhVlNFTGdpN3EzQ0F1RnIzcVdENVpscFBDQzBpSUg2WDB5SURkZ3NqZTJheFFmZXd3eWxtZmxOYUFvQk95clZEV1ZzY1JFWm0tMS1mMGJUQlphZ1MyOE1BcW9IcGhNdkNjd1VmQlNhZ3d2ZDZ1Um5HWFlOSXNIY19WbXhmeXVrN2pHMTI3MFlCRUVKYWY5blE?oc=5",
-      "summary": "Tariff Ruling Triggers Accounting Judgments on Refunds&nbsp;&nbsp;WSJ",
-      "published": "2026-03-05T08:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "tariff"
-      ],
-      "big": false,
-      "id": "9fd6d3d709eb7e06"
-    },
-    {
-      "title": "Bank Indonesia’s Heavy Bond Buying to Continue, Analysts Say - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcTNCODdrTEdmUHdrQXdtOTFOWHlwanpIMlZXYlQ5NGI5Yk9Jc2dmWk54X1JrU2JfTE5aVmpsc2FpN2RwUFVTcGc5UG9IQjVoWTBMM3pndFYydHJtdFk2S2pPZmJRaDBNcm9DYWVlcUgtVXY1UkthVzNzWEtRMFR2RVVfOE5TYjRCOWFLV05hS0lYbU91dXBsSE14UERDeS1MVGdUd1ZLY1ZfNHNwTWp3?oc=5",
-      "summary": "Bank Indonesia’s Heavy Bond Buying to Continue, Analysts Say&nbsp;&nbsp;Bloomberg.com",
-      "published": "2025-10-12T07:00:00+00:00",
-      "source": "Bloomberg (via GNews)",
+      "title": "Bank Indonesia may defend rupiah amid volatile oil, analysts say - The Business Times",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORGVnQzBxaElwNFpuOVhZWm53UWN2NE5nOVhGV0FGN2I2VklNSHpGakVtbFp1NUtkdVg1SWpZTnZSazJQTXJwWlU4R1lzeFNidUVNa3FYMXMtSDBhV0FjMlF5NUdFb2lNTEFRZ2EyS1EyTkhQbkJWaFNOQTZsSjB2OU5HaERLVzhmeElJOTNGWnF2aGtCX1IxTXlIbUM2TVE0Xy1UbkU4RmliVWlNWHRBRFBzMVpscFFLTDlxcHE0Vm1PTmxLR0IwUHBR?oc=5",
+      "summary": "Bank Indonesia may defend rupiah amid volatile oil, analysts say&nbsp;&nbsp;The Business Times",
+      "published": "2026-03-10T07:00:00+00:00",
+      "source": "Reuters – Indonesia",
       "groups": [
         "Macro / Economy"
       ],
       "matched": [
-        "Bank Indonesia"
-      ],
-      "big": false,
-      "id": "56a6e2a9167ced4f"
-    },
-    {
-      "title": "Indonesia’s 10-Year Bond Yield Falls to Lowest in Almost 4 Years - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTjdpWTNLTm1HNWdFOWtHTVNDOGN6SzV0UWtUeXNYWjRFbTUycnA4bndwOWk1Z1VnVUJ2UGNoR2ZuMVlEU3dWN3hiWnRmS2R2SmU1MEpzUTVHV0p1cEVZWG5zbFRPSFd5Tm5MNTZjZDV2ci0xSVE4QTVsOXdUVmVnMEhLeVBZOW9jd1ZlTlJLUnJyZ3lEVGRJSFNnc1dhSVE4UWtIcWhNc202THRYRVB5dG9haEFRUQ?oc=5",
-      "summary": "Indonesia’s 10-Year Bond Yield Falls to Lowest in Almost 4 Years&nbsp;&nbsp;Bloomberg.com",
-      "published": "2025-10-09T07:00:00+00:00",
-      "source": "Bloomberg (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "bond yield"
-      ],
-      "big": false,
-      "id": "edd9a7e2b604002b"
-    },
-    {
-      "title": "Why the Fed Rate Cuts Won't (Necessarily) Lead to Lower Mortgage Rates - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQlVOV1JReDNLQ1ZDdlBrMnVBZzN6X2FPZ19aR2ViUHlheVpmME9yS1dvY1JZNlJmTENjV1Zfa2VvQjNmSlV1dkI3a1Mzcm52bkw2TENuQWJlUlo4UjRsb19nRGhVb3lUc0RTMlI4M3lZRFY5MHRBdlZDcmFTTEJQNkVIclBHNlpGWE1aSkl2eGsxYmJLTVcwc2Ftb1lreFEwQl81al90MWtZdFJoa204SWdGMnZaMGJrTHRRekRzd2p5UEF4THI0M3ZB?oc=5",
-      "summary": "Why the Fed Rate Cuts Won't (Necessarily) Lead to Lower Mortgage Rates&nbsp;&nbsp;WSJ",
-      "published": "2025-09-16T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "Fed rate",
-        "rate cut"
+        "Bank Indonesia",
+        "rupiah"
       ],
       "big": true,
-      "id": "44fd8663e4650d25"
+      "id": "7c746bdaf44a7a6b"
     },
     {
-      "title": "Trump’s ‘Slap in the Face’ Puts Neutral Switzerland in Trade-War Crossfire - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSlhXbHJrTlNPWTByZGZHcW44RG5RNGtHTmw4X1J3dnZnMHdHdlhudFo2T0doSmx1MDRlVTJUdnYtQzZmUkwyU0p2V3dhZW1PNE5EVHYtcV9wdk1YRXo5ZThPbGdXdno1WmdlZ1BiV2NCV21ielpsenhEdTNuR3Aza0pzc1JhYTZrYjAyeVd5M0VXY2hSR21GVmV3dzh0TTRJX2prWTM4ZW1QZjhTMV9pS0ZqNVU?oc=5",
-      "summary": "Trump’s ‘Slap in the Face’ Puts Neutral Switzerland in Trade-War Crossfire&nbsp;&nbsp;WSJ",
-      "published": "2025-08-02T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Geopolitics"
-      ],
-      "matched": [
-        "Trump"
-      ],
-      "big": false,
-      "id": "09ef529821cf899d"
-    },
-    {
-      "title": "A Weak Jobs Report and Revised Tariff Plans Send Markets Reeling - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeHdtSzdrUnprZ3ppTi05bVBXSFVCWFpjd01qOEo4VERfSTJRdGk5QVhIalhRZlhDNG1zMFFJNDdsQzRPZjk3WVBuYTJKaFZlRHAzLTFBY0h5dGFwelVXVlFUdjN1bXJpcmtwSGcybWFLSGRXdlpnN3I4SmpmS3B5WklpaER5NXlFcDhwUWFZOG84UEF6QVkzVkRzMXBwa3hQNHY3anJFYlMwUGVKbXU3UA?oc=5",
-      "summary": "A Weak Jobs Report and Revised Tariff Plans Send Markets Reeling&nbsp;&nbsp;WSJ",
-      "published": "2025-08-01T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "tariff"
-      ],
-      "big": false,
-      "id": "2f3108bb5d55b26a"
-    },
-    {
-      "title": "The Fog of Trade War Is Causing Confusion About Price Increases - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPalRUVDVzbWdGbUpyWW5LVFFDV2ZRVGFmZjVGbl9fRnhHQmlSams2VDhadHRqUlA3c3hrbERlaXJoWTEzTWwtZExPOEk5Sk9SSi1yeFFyamtuc2pZRWpjQXdVVFQyd2xqOTB5V3RBcktJZUhqbFpRcTJhRE5JSmdFdWNBVXJuYXhLazR0TGZkenJadUFoVVRlSWU5Wnloc3J0WkN2T1FR?oc=5",
-      "summary": "The Fog of Trade War Is Causing Confusion About Price Increases&nbsp;&nbsp;WSJ",
-      "published": "2025-06-14T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Geopolitics",
-        "Global Finance"
-      ],
-      "matched": [
-        "trade war"
-      ],
-      "big": true,
-      "id": "6168f2c7cfe6907e"
-    },
-    {
-      "title": "Vietnam Won Big in Donald Trump’s First Trade War. Now, It’s a Target. - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTNE03NE0zYTRIQkI5LW1DWGpWcWVCQTluT2lEVE5zNVQ4ajg4T0tZR2NqUFk0cHlxMTItSG9ENXdxN0ZXUS1CQnlzUjkydnlPYS1SSG9aS1NGYWlIU0FVTHBrN01WOWNNdDE4aWlkSFQyMlZ4d1pPdk9rUEpMdw?oc=5",
-      "summary": "Vietnam Won Big in Donald Trump’s First Trade War. Now, It’s a Target.&nbsp;&nbsp;WSJ",
-      "published": "2024-12-16T04:00:49+00:00",
+      "title": "Beijing Sees Opening in U.S. Trade War After Court Blunts Trump’s Tariff Weapon - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb3F5SFlQNmNoSFh0aGszcVZwY3FWT0phM1pxQkdVSDIyaWpMSWQyMHBFdkxEeHNyUkFONWFDdmxVWGIzeDVla3RNenpibnFpdEhsUjRTcTVJNlhnQzNSaXlMWTBLeHhhbXpITG5JcVlua2VvVklaZUpPRDAyTmVGOTdGXzJiVnRua1BiTVFXbHY5amlra3VRNV8zYlhIM3N5aHdzRUo3ZmhzVzhOTEFNYm1VNEgyMGFnYnc?oc=5",
+      "summary": "Beijing Sees Opening in U.S. Trade War After Court Blunts Trump’s Tariff Weapon&nbsp;&nbsp;WSJ",
+      "published": "2026-02-23T08:00:00+00:00",
       "source": "WSJ (via GNews)",
       "groups": [
         "Geopolitics",
@@ -2262,47 +2247,62 @@
       ],
       "matched": [
         "Trump",
+        "tariff",
         "trade war"
       ],
       "big": true,
-      "id": "785e5eeb385dcfc4"
+      "id": "09944af2b4eaabcd"
     },
     {
-      "title": "Fed Rate Cuts Are Now a Matter of If, Not Just When - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdmlBNzBtRVNmNFdwQ3BkLVMtc2lCZXpVdG1fTTBiUGZCOTZiRHNONE16VE01MXZVbEhBM3RDV21TbUdKR2haVXdxYnFJbzZ5TC0tVklpZm9CcFVSWXFkVUUxNE5NRmxUQnlwX0dHTEw2SmVfWG1yTWtvSlNodmFrTTNWcEJlcXJMWF9fMDZ2OGc3ZDZ1RzR4aVY0aVN5WnRyT1YtYkln?oc=5",
-      "summary": "Fed Rate Cuts Are Now a Matter of If, Not Just When&nbsp;&nbsp;WSJ",
-      "published": "2024-04-11T07:00:00+00:00",
+      "title": "Tariff Uncertainty Weighs on U.S. Stocks and Business Leaders - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNDU2WlZxSmNJQm1HYXBvMWtSRDd5NzhHaTZaWjJvZ3AxRHA4eEhsMlQ2Q0hpeGpKaXBaa0NVNTdQdmNpZXF2bldBSUVQUkhaQlhWQzZSWDN2S0F3aENWVlB3MDV6V2xkUWp6U2M3YUxOeWRXeFVQRTFmZ2w3ZEJybUl1aUR1X1h4Yk84U2lZTndBd0VqMmR1OHIxR3BiYVJ6WUFlaVdPSVRqWTBJc1J5WDJTNzNLdmJZSDlSbnlOWi1KUG4tRWhHU1Vuc1dYR2ptZkE?oc=5",
+      "summary": "Tariff Uncertainty Weighs on U.S. Stocks and Business Leaders&nbsp;&nbsp;WSJ",
+      "published": "2026-02-23T08:00:00+00:00",
       "source": "WSJ (via GNews)",
       "groups": [
         "Global Finance"
       ],
       "matched": [
-        "Fed rate",
-        "rate cut"
+        "tariff"
       ],
-      "big": true,
-      "id": "5ab32f156bc980b5"
+      "big": false,
+      "id": "91d05ff06918bfaf"
     },
     {
-      "title": "Which emerging markets are in most financial peril? - The Economist",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZzF4NGtYVWVIRXM2ZHJQZWZkTmVKcWtCLUEycE1xT001ZmlRY1lSVjViWHJ5RHQ5d0Q2WFN4b056eXBHRjFRUGQ2RXpFUHFGYk5EM2lwSGVtQlJUTEFpYThDcGFkTEpsZ3FFNUxxeURfRTFmZzBEWFRKaTJ3clQzRlpJSEV2c2dybGRLMVM5RU1DTVc5RV9BckhWMVA?oc=5",
-      "summary": "Which emerging markets are in most financial peril?&nbsp;&nbsp;The Economist",
-      "published": "2020-05-02T07:00:00+00:00",
-      "source": "The Economist (via GNews)",
+      "title": "APBN Tanggung Utang Whoosh, Menkeu Sebut Kebijakan Ada di Presiden - Aktual.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaVJjSVJXRnNlZ0Q3QTNGUWRTSFd3MFdwZ3VhV00tREF5ZjJEcFMyeU4ta3cwYWZIcklQUnFiUHE0QkJud05kWXBEeTk1OXhyb1JHbGlSTGFld0twc24yUGpyQTN0S25TdnJ0RzczaFdPYUJjaDlHTGtsTFItcnlWVDdnc0N2SGhhVFl2bWR3?oc=5",
+      "summary": "APBN Tanggung Utang Whoosh, Menkeu Sebut Kebijakan Ada di Presiden&nbsp;&nbsp;Aktual.com",
+      "published": "2025-11-14T08:00:00+00:00",
+      "source": "GNews – Prabowo APBN",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "APBN"
+      ],
+      "big": true,
+      "id": "33a3b8758d29afd1"
+    },
+    {
+      "title": "China Says It Is Aiming to Coordinate Tariff Response With Japan, South Korea - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZU9rRVR6RTFORV9jeklyQXhRcGVMbUR1dFJrdzRfcy1qSmZibWhwcUpfQXNiRDdoeGdpQS15TF9EWUFJd0U4UnVmLVBQUTd1c3VQRlItYllTWm1NNm0xNFgtWFhpT09PN2tDZFphRl9CNnJRb0JKZGdoMC1kTnhhWVlTUmdRZHB5eE5zSDRRYUZFbTFYeTZZNjh4RDA2cGlnTHB6WFBWSjFlSDNHMHMwSUFXNA?oc=5",
+      "summary": "China Says It Is Aiming to Coordinate Tariff Response With Japan, South Korea&nbsp;&nbsp;WSJ",
+      "published": "2025-04-01T07:00:00+00:00",
+      "source": "WSJ (via GNews)",
       "groups": [
         "Global Finance"
       ],
       "matched": [
-        "emerging market"
+        "tariff"
       ],
       "big": false,
-      "id": "461f3a2c158f44cf"
+      "id": "ac194966d71db45e"
     },
     {
-      "title": "Donald Trump Win to Upend Trade Policy - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRWx2U01MbWFxOHEyem1aZzZvT0FIMDRnZmlFTHV2Q1h1RGZZVFNjTjJSY3NRM2F1eWFqem1XVUtsRFJGTTNULURndjNtT1drWll2aUljSkEyXzMtSkdKSFY0YTVMRVprcU52ZUQxenQ3OEp5RnkweEhEdjRDM1hQOHppLWc?oc=5",
-      "summary": "Donald Trump Win to Upend Trade Policy&nbsp;&nbsp;WSJ",
-      "published": "2016-11-09T08:00:00+00:00",
+      "title": "Breaking Down Trump’s Tariffs on China and the World, in Charts - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUHlJTFVoTVdlS09PMTB6Nm95TW9XOUtyaGt0V3FCWjAwd3VsVUtVS1dJdUppblJMc2hxNW5Eb0I4U0dtS29vNHJORTdsRjd0aS1BRW1Yam9JYUNhTUtHU3dmeW5kTk1Nc0pYQVlweHZ4bV9fZTJTUkR5bTZVRFVyODJpMW1qWWdZcnNFVHQ5TQ?oc=5",
+      "summary": "Breaking Down Trump’s Tariffs on China and the World, in Charts&nbsp;&nbsp;WSJ",
+      "published": "2024-12-03T08:00:00+00:00",
       "source": "WSJ (via GNews)",
       "groups": [
         "Geopolitics"
@@ -2311,7 +2311,7 @@
         "Trump"
       ],
       "big": false,
-      "id": "5c62e2eacc3e3a7b"
+      "id": "2c74a9479c00e73c"
     }
   ]
 }

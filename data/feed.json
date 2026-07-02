@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-02T08:31:44.654474+00:00",
+  "updated": "2026-07-02T11:15:58.402786+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Ditutup Naik 0,87%, Saham Grup Bakrie BNBR - VKTR Jadi Buruan Investor",
+      "link": "https://katadata.co.id/finansial/bursa/6a46319d99e78/ihsg-ditutup-naik-0-87-saham-grup-bakrie-bnbr-vktr-jadi-buruan-investor",
+      "summary": "Indeks Harga Saham Gabungan (IHSG) ditutup naik 0, 87% ke Rp 5.744 pada penutupan perdagangan Kamis (2/7). Saham Grup Bakrie VKTR - BNBR diburu investor.",
+      "published": "2026-07-02T09:38:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Bakrie"
+      ],
+      "matched": [
+        "BNBR",
+        "Bakrie",
+        "VKTR"
+      ],
+      "big": false,
+      "id": "88b71ab9650ed966"
+    },
+    {
+      "title": "IHSG Ditutup Menguat ke 5.744, Bank Jumbo BBCA-BMRI Cs Kompak Cuan - Bisnis.com - Market",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaVdqRHZsYnFkSFdKNjctSUtKTkl1R056MmVDUThuV1g1SzBWbjR3QVRzbUJKb0xYclpxT3hjaVcwcndzWm1WSDZsblBzNS0zQ3JyeHhwdzlPUjE2My1oNm9iTU10Y2p4Z3dHT0VjSmY5WGMzb3BrdEZ2NnBtUFFhOHA3Z0F3Sm9aRThyNUVyQnNWLXBBalZWZE5sQ245cWVxTFJlQXVCNHh1WkFyMUtVQjhMbGI?oc=5",
+      "summary": "IHSG Ditutup Menguat ke 5.744, Bank Jumbo BBCA-BMRI Cs Kompak Cuan&nbsp;&nbsp;Bisnis.com - Market",
+      "published": "2026-07-02T09:05:27+00:00",
+      "source": "Bisnis Indonesia (via GNews)",
+      "groups": [
+        "Djarum / Hartono"
+      ],
+      "matched": [
+        "BBCA"
+      ],
+      "big": false,
+      "id": "0252b9c040850ad7"
+    },
     {
       "title": "Jejak Afiliasi Grup Djarum di IPO Bach Multi Global, Bersiap Ambil Alih Kendali",
       "link": "https://katadata.co.id/finansial/bursa/6a46202baf8bb/jejak-afiliasi-grup-djarum-di-ipo-bach-multi-global-bersiap-ambil-alih-kendali",
@@ -3105,36 +3137,6 @@
       ],
       "big": false,
       "id": "1b0f56c4ad5fccff"
-    },
-    {
-      "title": "Cair Tiap 3 Bulan, Hari Ini (15/6) Cum Dividen Interim I Saham Blue Chip Perbankan",
-      "link": "https://investasi.kontan.co.id/news/cair-tiap-3-bulan-hari-ini-156-cum-dividen-interim-i-saham-blue-chip-perbankan",
-      "summary": "BBCA&nbsp;membagikan dividen interim pertama tahun buku 2026 Rp20 per saham. Simak jadwal cum dividen, pembayaran, dan proyeksi yield hingga 6,8%.&#8203;",
-      "published": "2026-06-14T22:25:56+00:00",
-      "source": "Kontan - Investasi",
-      "groups": [
-        "Djarum / Hartono"
-      ],
-      "matched": [
-        "BBCA"
-      ],
-      "big": true,
-      "id": "daef7c5bbfed4e0e"
-    },
-    {
-      "title": "Mesin Pertumbuhan Baru Emiten Menara Saratoga TBIG - Bisnis Indonesia Premium",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNFFVSTVWWUdfSDFCbHJUYWExMDNUZVF1c1V2VHh2YTZYZ3VNdnA1dVFJd1k1M3paYjRDZWFaenI2dGp4RnRqdzZIR3YzbjV3TlpPOUVZdE1YUVpsWmNMUm1tSDQ4LUxLM05LR0RIM0Y2cFBjYUVCYnU0Nno5eXE4UDBCYnlwWVhRWjQyRTE5ZHFSRng1REJ5aVg1emhCUU5VZTdZUlBn?oc=5",
-      "summary": "Mesin Pertumbuhan Baru Emiten Menara Saratoga TBIG&nbsp;&nbsp;Bisnis Indonesia Premium",
-      "published": "2026-06-14T13:45:00+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Djarum / Hartono"
-      ],
-      "matched": [
-        "Saratoga"
-      ],
-      "big": false,
-      "id": "ca5ee8568d20a24d"
     }
   ]
 }

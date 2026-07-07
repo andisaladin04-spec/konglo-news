@@ -1,7 +1,22 @@
 {
-  "updated": "2026-07-07T19:06:51.025025+00:00",
+  "updated": "2026-07-07T20:57:03.517320+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Ditutup Menguat 1,19%, Simak Proyeksi Pergerakannya untuk Rabu (8/7)",
+      "link": "https://investasi.kontan.co.id/news/ihsg-ditutup-menguat-119-simak-proyeksi-pergerakannya-untuk-rabu-87",
+      "summary": "IHSG diperkirakan melanjutkan penguatan pada Rabu (8/7/2026). Analis merekomendasikan BBCA, ELSA, KOTA untuk potensi keuntungan",
+      "published": "2026-07-07T13:11:32+00:00",
+      "source": "Kontan - Investasi",
+      "groups": [
+        "Djarum / Hartono"
+      ],
+      "matched": [
+        "BBCA"
+      ],
+      "big": false,
+      "id": "04bc3e7355fd7510"
+    },
     {
       "title": "Chandra Daya Investasi (CDIA) Akuisisi Saham Anak Usaha CUAN, Simak Rekomendasinya",
       "link": "https://investasi.kontan.co.id/news/chandra-daya-investasi-cdia-akuisisi-saham-anak-usaha-cuan-simak-rekomendasinya",
@@ -3100,24 +3115,6 @@
       ],
       "big": false,
       "id": "9171e6a92c96d4bf"
-    },
-    {
-      "title": "Aksi Senyap Emiten Prajogo TPIA Kuasai Saham Prodia (PRDA) Jelang IPO Anak Usaha",
-      "link": "https://katadata.co.id/finansial/bursa/6a335e2dccda2/aksi-senyap-emiten-prajogo-tpia-kuasai-saham-prodia-prda-jelang-ipo-anak-usaha",
-      "summary": "Grup usaha konglomerat Tanah Air Prajogo Pangestu memperluas portofolio investasinya ke sektor kesehatan. PT Chandra Asri Pacific Tbk (TPIA) tercatat menjadi pemegang saham PT Prodia Widyahusada Tbk",
-      "published": "2026-06-18T02:55:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Prajogo / Barito"
-      ],
-      "matched": [
-        "Chandra Asri",
-        "Pangestu",
-        "Prajogo",
-        "TPIA"
-      ],
-      "big": false,
-      "id": "d69ca488b0bcc13d"
     }
   ]
 }

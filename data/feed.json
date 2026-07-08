@@ -1,7 +1,22 @@
 {
-  "updated": "2026-07-08T22:28:17.328926+00:00",
+  "updated": "2026-07-08T23:39:14.515411+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Diprediksi Kembali Turun, Analis Rekomendasi Saham INCO, INKP hingga PGEO",
+      "link": "https://katadata.co.id/finansial/bursa/6a4edb5537be6/ihsg-diprediksi-kembali-turun-analis-rekomendasi-saham-inco-inkp-hingga-pgeo",
+      "summary": "Indeks Harga Saham Gabungan (IHSG) diramal melemah pada perdagangan hari ini, Kamis (9/7).",
+      "published": "2026-07-08T23:20:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Sinar Mas"
+      ],
+      "matched": [
+        "INKP"
+      ],
+      "big": false,
+      "id": "fe10371485412e86"
+    },
     {
       "title": "Diversifikasi Bisnis Perkokoh Fundamental BUMI",
       "link": "https://investasi.kontan.co.id/news/diversifikasi-bisnis-perkokoh-fundamental-bumi",
@@ -3091,25 +3106,6 @@
       ],
       "big": true,
       "id": "f54a861903c78d77"
-    },
-    {
-      "title": "IHSG Rawan Terkoreksi, Analis Rekomendasikan Saham ASII, MDKA, PANI, BRPT",
-      "link": "https://katadata.co.id/finansial/bursa/6a3484df3780e/ihsg-rawan-terkoreksi-analis-rekomendasikan-saham-asii-mdka-pani-brpt",
-      "summary": "Analis merekomendasikan saham PT Astra International Tbk (ASII), PT Merdeka Copper Gold Tbk (MDKA), dan PT Barito Pacific Tbk (BRPT) di tengah potensi koreksi IHSG hari ini.",
-      "published": "2026-06-18T23:53:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Astra",
-        "Prajogo / Barito"
-      ],
-      "matched": [
-        "ASII",
-        "Astra International",
-        "BRPT",
-        "Barito Pacific"
-      ],
-      "big": false,
-      "id": "cb6275623636cf0e"
     }
   ]
 }

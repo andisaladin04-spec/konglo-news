@@ -1,7 +1,22 @@
 {
-  "updated": "2026-07-12T22:26:51.648852+00:00",
+  "updated": "2026-07-12T23:27:25.287671+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Diramal Terkoreksi, Analis Rekomendasikan Saham ARCI, BRMS, INCO dan BMRI",
+      "link": "https://katadata.co.id/finansial/bursa/6a541bd4399e3/ihsg-diramal-terkoreksi-analis-rekomendasikan-saham-arci-brms-inco-dan-bmri",
+      "summary": "Indeks Harga Saham Gabungan atau IHSG diramal terkoreksi pada perdagangan saham awal pekan ini, Senin (13/7). Selama sepekan 6-10 Juli, IHSG mengalami peningkatan sebesar 0, 83%",
+      "published": "2026-07-12T22:57:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "BRMS"
+      ],
+      "big": false,
+      "id": "e6d6c2617c2a466f"
+    },
     {
       "title": "TOWR Perpanjang Kredit Rp 1,5 Triliun dari Bank Mizuho hingga 2027",
       "link": "https://katadata.co.id/finansial/bursa/6a53457859070/towr-perpanjang-kredit-rp-1-5-triliun-dari-bank-mizuho-hingga-2027",
@@ -3092,23 +3107,6 @@
       ],
       "big": true,
       "id": "696bc99ea691b55d"
-    },
-    {
-      "title": "IHSG Terkoreksi 0,98% ke 6.116, Top Losers LQ45: MBMA, BRPT dan DEWA, Senin (22/6)",
-      "link": "https://investasi.kontan.co.id/news/ihsg-terkoreksi-098-ke-6116-top-losers-lq45-mbma-brpt-dan-dewa-senin-226",
-      "summary": "IHSG anjlok 0,98% di awal pekan. Sektor barang baku paling tertekan hingga 2,49%. Cek daftar saham top losers LQ45 agar tak salah langkah.",
-      "published": "2026-06-22T09:14:32+00:00",
-      "source": "Kontan - Investasi",
-      "groups": [
-        "Bakrie",
-        "Prajogo / Barito"
-      ],
-      "matched": [
-        "BRPT",
-        "DEWA"
-      ],
-      "big": true,
-      "id": "1246a0727b2e8ff8"
     }
   ]
 }

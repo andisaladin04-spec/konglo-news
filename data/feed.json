@@ -1,7 +1,22 @@
 {
-  "updated": "2026-07-14T10:23:34.601700+00:00",
+  "updated": "2026-07-14T11:53:37.498797+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Ditutup Naik Tipis, BEI Catat Crossing Jumbo di Saham BBCA, SINI dan BACH",
+      "link": "https://katadata.co.id/finansial/bursa/6a560d1cf2a9a/ihsg-ditutup-naik-tipis-bei-catat-crossing-jumbo-di-saham-bbca-sini-dan-bach",
+      "summary": "Indeks Harga Saham Gabungan atau IHSG ditutup hanya naik tipis 0, 03% ke level 6.039 pada perdagangan saham hari ini, Selasa (14/7) padahal sudah didorong angin segar dari S&amp;P Global Ratings.",
+      "published": "2026-07-14T10:19:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Djarum / Hartono"
+      ],
+      "matched": [
+        "BBCA"
+      ],
+      "big": false,
+      "id": "d17edd19224d448f"
+    },
     {
       "title": "Konglomerat Prajogo – Boy Tohir Pasang Badan di Rights Issue SINI Rp 3,6 Triliun",
       "link": "https://katadata.co.id/finansial/bursa/6a5605faa4bcb/konglomerat-prajogo-boy-tohir-pasang-badan-di-rights-issue-sini-rp-3-6-triliun",
@@ -3112,21 +3127,6 @@
       ],
       "big": true,
       "id": "62f2b72c53294649"
-    },
-    {
-      "title": "Prospek Saham BUMI Kala Sedekade Lebih Absen Bagi-Bagi Dividen - Bisnis Indonesia Premium",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ2VPSE45eGNieUlSNnlNRVFWSzBxQXVoMERMRkVIUmg3Rlh5MG1HNlpBR1NvY3lCLWRyZUxMVXJjdXkySktfYVdUcW5OQ3otckNnZjd6SzJKT3IyV2VKZ25udXhwblowQW9VNjRkM2QxVmtwQVNPXzZnckVQOENmWGhYcHAzZUlMeWgxRS1jVGZPc1VjUW5LdXI0QXFlVW9kLVYwUDYwSG1EYkZmVXNIR0lUZUIxUQ?oc=5",
-      "summary": "Prospek Saham BUMI Kala Sedekade Lebih Absen Bagi-Bagi Dividen&nbsp;&nbsp;Bisnis Indonesia Premium",
-      "published": "2026-06-24T03:30:00+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Bakrie"
-      ],
-      "matched": [
-        "BUMI"
-      ],
-      "big": true,
-      "id": "faa6df921891c5cc"
     }
   ]
 }

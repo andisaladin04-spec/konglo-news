@@ -1,7 +1,24 @@
 {
-  "updated": "2026-07-15T08:22:33.118212+00:00",
+  "updated": "2026-07-15T10:20:03.438607+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Ditutup Naik Tipis, Saham BBCA, BMRI, TPIA, RANS Ramai Diburu Investor",
+      "link": "https://katadata.co.id/finansial/bursa/6a5756c05f92c/ihsg-ditutup-naik-tipis-saham-bbca-bmri-tpia-rans-ramai-diburu-investor",
+      "summary": "Indeks Harga Saham Gabungan (IHSG) pada perdagangan Selasa (15/7) ditutup naik tipis 0, 04% di level 6.041. Apa saja saham yang diburu investor?",
+      "published": "2026-07-15T09:45:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Djarum / Hartono",
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "BBCA",
+        "TPIA"
+      ],
+      "big": false,
+      "id": "53b85890ec759fe0"
+    },
     {
       "title": "Emiten Prajogo BREN Disebut Bakal Akuisisi Aset Geothermal di Filipiina Rp 90 T",
       "link": "https://katadata.co.id/finansial/bursa/6a572c8c869e0/emiten-prajogo-bren-disebut-bakal-akuisisi-aset-geothermal-di-filipiina-rp-90-t",
@@ -3109,25 +3126,6 @@
       ],
       "big": false,
       "id": "4097b9994d54548a"
-    },
-    {
-      "title": "IHSG Ditutup Naik 1,96%, Saham BBCA, BMRI, TPIA, DSSA dan BUMI Diburu Investor",
-      "link": "https://katadata.co.id/finansial/bursa/6a3cf872a05fe/ihsg-ditutup-naik-1-96-saham-bbca-bmri-tpia-dssa-dan-bumi-diburu-investor",
-      "summary": "Indeks Harga Saham Gabungan (IHSG) pada perdagangan Kamis (25/6) ditutup naik 1, 96%. Sejumlah saham terafiliasi konglomerat ramai diburu.",
-      "published": "2026-06-25T09:44:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Bakrie",
-        "Djarum / Hartono",
-        "Prajogo / Barito"
-      ],
-      "matched": [
-        "BBCA",
-        "BUMI",
-        "TPIA"
-      ],
-      "big": false,
-      "id": "bd371ee930754525"
     }
   ]
 }

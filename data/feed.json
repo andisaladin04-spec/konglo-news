@@ -1,7 +1,22 @@
 {
-  "updated": "2026-07-17T03:41:55.549951+00:00",
+  "updated": "2026-07-17T06:05:34.624824+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Sesi I Naik ke Rp 6.141, Saham Bank Jumbo BBCA, BMRI hingga BBRI Ceria",
+      "link": "https://katadata.co.id/finansial/bursa/6a59bd524f8da/ihsg-sesi-i-naik-ke-rp-6141-saham-bank-jumbo-bbca-bmri-hingga-bbri-ceria",
+      "summary": "Indeks Harga Saham Gabungan (IHSG) ditutup naik tipis 0, 55% ke level 6.141 pada perdagangan sesi I Jumat (17/7).",
+      "published": "2026-07-17T05:27:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Djarum / Hartono"
+      ],
+      "matched": [
+        "BBCA"
+      ],
+      "big": false,
+      "id": "aaee4b0732e4da23"
+    },
     {
       "title": "Indeks Bisnis-27 Dibuka Melemah, Saham MAPI-ICBP Masih Bertenaga - Bisnis.com - Market",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVENocGtTMm9zYW9taWVuQUpZUDJaaEFSN3Zzam9FZzBqLVRmbGpvZHZHeVpXY0NVLV8xMVVTU2gwbWMxQVE1UWR3SjQxMzdUZ0NxNHYxZkxkNW9leUVac0tfSFJ4bjl2VnRlZjdVcFhPLXhHX1EyWEJMTjN1SmtMQWpqMl9EZjZ3dXNuRmtyanhlOEZKSENsMmlXdHAySl9jUkFieUhIMFVnUWVQQ0N4ampGOA?oc=5",
@@ -3104,22 +3119,6 @@
       ],
       "big": false,
       "id": "6e01739c8f1675ea"
-    },
-    {
-      "title": "IHSG Anjlok 1,72% ke 5.876, Top Losers LQ45: CUAN, BRPT, MDKA, Jumat (26/6)",
-      "link": "https://investasi.kontan.co.id/news/ihsg-anjlok-172-ke-5876-top-losers-lq45-cuan-brpt-mdka-jumat-266",
-      "summary": "IHSG anjlok 4,55% sepekan, investor cemas melihat portofolio memerah. Pahami penyebab utama di balik penurunan drastis ini.",
-      "published": "2026-06-26T09:13:51+00:00",
-      "source": "Kontan - Investasi",
-      "groups": [
-        "Prajogo / Barito"
-      ],
-      "matched": [
-        "BRPT",
-        "CUAN"
-      ],
-      "big": true,
-      "id": "a0b1ef1e3efdc6fd"
     }
   ]
 }

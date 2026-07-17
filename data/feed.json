@@ -1,7 +1,22 @@
 {
-  "updated": "2026-07-16T23:14:45.238382+00:00",
+  "updated": "2026-07-17T00:14:57.113060+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Diprediksi Naik, Analis Rekomendasi Saham BBCA, INDY, INCO, SMGR",
+      "link": "https://katadata.co.id/finansial/bursa/6a5966b892573/ihsg-diprediksi-naik-analis-rekomendasi-saham-bbca-indy-inco-smgr",
+      "summary": "Indeks Harga Saham Gabungan atau IHSG diramal naik pada perdagangan saham akhir pekan ini, Jumat (17/7).",
+      "published": "2026-07-16T23:18:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Djarum / Hartono"
+      ],
+      "matched": [
+        "BBCA"
+      ],
+      "big": false,
+      "id": "ee0d728cf832e9bd"
+    },
     {
       "title": "Membedah Mesin Bisnis Baru Prajogo TPIA-CUAN di Sektor Energi Bersih - Bisnis Indonesia Premium",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPckhpUGhldHNkQno5Tm5BU1FXcXQzc3F3Rm1LcDV2OWVRYkhsWmdRTzV0SnQ3TDdUVkRHS1FnYVBkUnBZckRDblhqSHVCSnV4OGhkZTgyVmlrYTgxQXBPMmtQeXV3MmRfWURPSVVHaW9XbUR4ZHpaZTB6Vm5lZm1CNlNpcWI4M1FELTlGNFExcGszTTJiLVlvVmQ5NjhGSk1WRllHQ0N2TnRQS3NnZXExS2F6Q3pYdGttQVRCZkpR?oc=5",
@@ -3105,23 +3120,6 @@
       ],
       "big": false,
       "id": "0cca52533c629f0c"
-    },
-    {
-      "title": "IHSG Anjlok 2,73% ke 5.835 pada Sesi I Jumat (26/6), CUAN, DEWA, HRTA Top Losers LQ45",
-      "link": "https://investasi.kontan.co.id/news/ihsg-anjlok-273-ke-5835-pada-sesi-i-jumat-266-cuan-dewa-hrta-top-losers-lq45",
-      "summary": "Indeks Harga Saham Gabungan (IHSG) ditutup anjlok 163,92 poin atau 2,73% ke 5.835,11 pada akhir perdagangan sesi I hari ini, Jumat (26/6/2026).",
-      "published": "2026-06-26T04:37:32+00:00",
-      "source": "Kontan - Investasi",
-      "groups": [
-        "Bakrie",
-        "Prajogo / Barito"
-      ],
-      "matched": [
-        "CUAN",
-        "DEWA"
-      ],
-      "big": true,
-      "id": "b452794695be5288"
     }
   ]
 }

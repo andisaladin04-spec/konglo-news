@@ -1,7 +1,22 @@
 {
-  "updated": "2026-07-21T04:27:47.098642+00:00",
+  "updated": "2026-07-21T07:11:58.767007+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Sesi I Naik 1,41% hingga Net Buy Rp 220 M, Saham DSSA, BBRI, PTRO Diburu",
+      "link": "https://katadata.co.id/finansial/bursa/6a5f06323512c/ihsg-sesi-i-naik-1-41-hingga-net-buy-rp-220-m-saham-dssa-bbri-ptro-diburu",
+      "summary": "Indeks Harga Saham Gabungan atau IHSG ditutup naik 1, 41% ke level 6.319 pada perdagangan saham sesi pertama hari ini, Selasa (21/7). Sebanyak 387 saham menguat, 224 saham terkoreksi.",
+      "published": "2026-07-21T05:40:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "PTRO"
+      ],
+      "big": false,
+      "id": "a50e48d585177552"
+    },
     {
       "title": "Indeks Bisnis-27 Dibuka Menguat Terdorong Saham AKRA, INCO, hingga DEWA - Bisnis.com - Market",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdURyeGliMi1xRWs1cWRwS3N6aVVBcUU3T0VJVUJpNGFJTGlST2xzTC1yQ3ZtcldScGlheHMxVzdaUGRlOHBZRDVuMDNhZTRQMHZ5YU1vbnNnVlBTYWM3STByaHQ4UURNdXVCUVcybGRucFBJM0tyUzdtbV9mSUlwT2NObnpTWDRUaW1HcV9fTHBSTVY1azktUGEyNGxHekpGNnNZdDhEeUlIb1pvMzdMOTRNX1pFbzZCbGww?oc=5",
@@ -3106,21 +3121,6 @@
       ],
       "big": false,
       "id": "b27fc77d347bb9d5"
-    },
-    {
-      "title": "Adu Kinerja hingga Prospek Emiten Saratoga – Boy Thohir MDKA, MBMA, EMAS",
-      "link": "https://katadata.co.id/finansial/korporasi/6a4313623f719/adu-kinerja-hingga-prospek-emiten-saratoga-boy-thohir-mdka-mbma-emas",
-      "summary": "Tiga emiten terafiliasi Boy Thohir dan Grup Saratoga telah melaporkan kinerja mereka. Siapa paling untung?",
-      "published": "2026-06-30T00:52:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Djarum / Hartono"
-      ],
-      "matched": [
-        "Saratoga"
-      ],
-      "big": false,
-      "id": "ad5c08c1c206510b"
     }
   ]
 }

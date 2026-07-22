@@ -1,7 +1,89 @@
 {
-  "updated": "2026-07-22T22:00:08.355676+00:00",
+  "updated": "2026-07-22T23:13:49.574288+00:00",
   "count": 150,
   "items": [
+    {
+      "title": "Filipina ajukan protes ke China atas insiden di Laut China Selatan",
+      "link": "https://www.antaranews.com/berita/5661699/filipina-ajukan-protes-ke-china-atas-insiden-di-laut-china-selatan",
+      "summary": "Menteri Luar Negeri (Menlu) Filipina Maria Theresa Lazaro mengajukan protes keras kepada Menlu China Wang Yi atas ...",
+      "published": "2026-07-22T22:50:56+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Geopolitics",
+        "Government / Policy"
+      ],
+      "matched": [
+        "Laut China Selatan",
+        "menteri"
+      ],
+      "big": true,
+      "id": "badfdae338d08f6a"
+    },
+    {
+      "title": "Korsel-ASEAN sepakati perluas kemitraan di bidang AI, ekonomi kreatif",
+      "link": "https://www.antaranews.com/berita/5661695/korsel-asean-sepakati-perluas-kemitraan-di-bidang-ai-ekonomi-kreatif",
+      "summary": "Korea Selatan (Korsel) dan negara-negara anggota ASEAN menegaskan komitmen untuk memajukan kemitraan strategis ...",
+      "published": "2026-07-22T22:46:09+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "ASEAN"
+      ],
+      "big": false,
+      "id": "78c6d77d427ae539"
+    },
+    {
+      "title": "Menlu Inggris tegaskan komitmen \"jangka panjang\" London terhadap ASEAN",
+      "link": "https://www.antaranews.com/berita/5661688/menlu-inggris-tegaskan-komitmen-jangka-panjang-london-terhadap-asean",
+      "summary": "Menteri Luar Negeri (Menlu) baru Inggris Ed Miliband menegaskan kembali komitmen &quot;jangka panjang&quot; Inggris ...",
+      "published": "2026-07-22T22:39:25+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Geopolitics",
+        "Government / Policy"
+      ],
+      "matched": [
+        "ASEAN",
+        "menteri"
+      ],
+      "big": false,
+      "id": "5d15ae41073709aa"
+    },
+    {
+      "title": "Menlu serukan penguatan kerja sama ASEAN-AS sebagai jangkar stabilitas",
+      "link": "https://www.antaranews.com/berita/5661684/menlu-serukan-penguatan-kerja-sama-asean-as-sebagai-jangkar-stabilitas",
+      "summary": "Menteri Luar Negeri (Menlu) RI Sugiono menegaskan pentingnya memperkuat kemitraan antara ASEAN dan Amerika Serikat ...",
+      "published": "2026-07-22T22:36:27+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Geopolitics",
+        "Government / Policy"
+      ],
+      "matched": [
+        "ASEAN",
+        "menteri"
+      ],
+      "big": false,
+      "id": "a2db81de860d422b"
+    },
+    {
+      "title": "Rubio says US, China must ‘work through’ big differences at ASEAN meeting",
+      "link": "https://www.aljazeera.com/news/2026/7/22/rubio-says-us-china-must-work-through-big-differences-at-asean-meeting?traffic_source=rss",
+      "summary": "Rubio met his Chinese counterpart to discuss managing tensions ahead of President Xi Jinping&#039;s upcoming US visit.",
+      "published": "2026-07-22T22:11:14+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "ASEAN",
+        "Xi Jinping"
+      ],
+      "big": false,
+      "id": "9d73f69cc1bfceee"
+    },
     {
       "title": "US and Saudi Arabia announce nuclear cooperation deal",
       "link": "https://www.aljazeera.com/news/2026/7/22/us-and-saudi-arabia-announce-nuclear-cooperation-deal?traffic_source=rss",
@@ -2078,6 +2160,21 @@
       "id": "34bb17703cb25f88"
     },
     {
+      "title": "Indonesia’s stock market hit with second downgrade warning - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWHl0YmJmcUI5YmNlTDJJX3d4c0dNdG54WHRMWDRmX0I0QmJkcmZmbG9YMjJmVDlWbmRnTTRVQjBaaHlPNkdqdFVrNS0wY3E5Y0F1M3VubV94c2wwbm9jdkFtXzIwRlI5V19WMGdzT1BLUW1RdkwyeVljSmtVbGQ3X2pMT2Q?oc=5",
+      "summary": "Indonesia’s stock market hit with second downgrade warning&nbsp;&nbsp;Financial Times",
+      "published": "2026-07-07T07:00:00+00:00",
+      "source": "Financial Times (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "downgrade"
+      ],
+      "big": true,
+      "id": "b9bbaa458ba582ec"
+    },
+    {
       "title": "Christine Lagarde leaves door open to early ECB exit, as she mulls French politics",
       "link": "https://www.cnbc.com/2026/07/03/christine-lagarde-ecb-france-election.html",
       "summary": "The European Central Bank's Christine Lagarde has declined to rule out an early end to her term as president, as she mulls a foray into French politics.",
@@ -2121,6 +2218,21 @@
       ],
       "big": false,
       "id": "fc8bbdf09c38c405"
+    },
+    {
+      "title": "Trump pledges rapid U.S. response for Venezuela after historic earthquakes kill hundreds",
+      "link": "https://www.cnbc.com/2026/06/25/venezuela-earthquakes-casualties-trump-pledges-support-aids-oil-.html",
+      "summary": "The swift U.S. offer of assistance reflects a degree of diplomatic realignment between the Trump administration and the Venezuelan interim government.",
+      "published": "2026-06-25T14:41:19+00:00",
+      "source": "CNBC Global Markets",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "34b4e9bc4ea557ce"
     },
     {
       "title": "BI Naikkan Suku Bunga ke 5,50%, Rupiah dan Inflasi Jadi Pertimbangan Utama - MUC Consulting",
@@ -2189,72 +2301,9 @@
       "id": "f4a4e7c78b9834ec"
     },
     {
-      "title": "BI Diproyeksi Tahan Suku Bunga Acuan di RDG Juni, Rupiah Menguat - Bloomberg Technoz",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRG84OGQ3VzNwUlBqanIxSFktVTZRbVoxT2RqTUR4WWdkRkI2YVVWaVc0Znd5a095SEo1cnJfaHNkSEVaYjB4Y01YVC1Pb2ZLNW1sOE9CdHV3TElobmN1OG1uRFVhcWVOcERZa18zREVHTmFuTWFPd3JsV1hsdnNvdllPTEc4NWh5UFpQbzNHdDJ6MEhNZy1nSEhJUGZtQ2pQX1lUWWxHVWxnVWZHdjhfVUp2MG1NZw?oc=5",
-      "summary": "BI Diproyeksi Tahan Suku Bunga Acuan di RDG Juni, Rupiah Menguat&nbsp;&nbsp;Bloomberg Technoz",
-      "published": "2026-06-16T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah",
-        "suku bunga"
-      ],
-      "big": true,
-      "id": "d693c88dffa45fe1"
-    },
-    {
-      "title": "BI Rate Naik Agresif: Rupiah Diselamatkan, Ekonomi Dikorbankan? - CNBC Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcXpuYV9UOXNFOFdZWkJUT2tnMjd1XzlLSTZ2OFRVVHU4akZ0SVNnUUJpVWhqTFNCbFR4R29CU2gwSzg0eWJGRjN5MXRRWGlNWFlZTFhrNUozZU9kYm5CT1pzbkRsNTJFbEdKc2otMWJlV29aWDJaeERXNXNhdm81LVNRN1h4MTJsSUgzdlg3a0Y5S0N6dGJaRTVMZmFHalJ6R1JMTGJ4UWxKaHJhS0NyYlYtZkFwZjBwOVJyMzBpVExVSEk?oc=5",
-      "summary": "BI Rate Naik Agresif: Rupiah Diselamatkan, Ekonomi Dikorbankan?&nbsp;&nbsp;CNBC Indonesia",
-      "published": "2026-06-10T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate",
-        "rupiah"
-      ],
-      "big": true,
-      "id": "0322004b2414fa40"
-    },
-    {
-      "title": "Indonesia central bank, finance minister agree to boost asset yields to aid rupiah - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZE5mbTdUejNmVTZ6VzJQNzV1WTBGa013MmlqcC1Fcmt4QjVjQVgybUFMWVEtZmJBNW5BMnVWd1Z3c1Z6Vk9wbGpMZ1lnY0JIZnNYbmM0bmRzZGg0X3k2NkUtUXRPZ1kxd2VLOG50WUV0amdDT3doQl9haEJmQ2xwSnBsVFk4YkhiUXE4ZHFTNkVUazVsOUFnaGVtTmgwdFdFaVpjdzU1SkV5MWVabVliM2hUZmxrTVViZF9ySlpzM2M1REdvNnZNRlZR?oc=5",
-      "summary": "Indonesia central bank, finance minister agree to boost asset yields to aid rupiah&nbsp;&nbsp;Reuters",
-      "published": "2026-06-07T07:00:00+00:00",
-      "source": "Reuters – Indonesia",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah"
-      ],
-      "big": true,
-      "id": "c7a7e87eabb2248f"
-    },
-    {
-      "title": "Meski BI Sudah Kerek Suku Bunga, Rupiah Masih Terjerembap di Atas Rp 17.700 - Kompas.id",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdlNKb2pmdlRqeS1TOFQwbGcyTmJ0dmdlNExic0JVeVk4bExJSnNUY1Z1R3ZVbm0wS2NabmJhV1lMOE0ybW9xdnllQ2lPdnRpMXRWOTA2alRaWm1GeDlTV2V0SS1wMTVVRFFmX1pJZXlJQTJOSkw5N2NEYjVZM3NlQXE1MjZHVFdFWU9F?oc=5",
-      "summary": "Meski BI Sudah Kerek Suku Bunga, Rupiah Masih Terjerembap di Atas Rp 17.700&nbsp;&nbsp;Kompas.id",
-      "published": "2026-05-25T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah",
-        "suku bunga"
-      ],
-      "big": true,
-      "id": "1c6a9657f3ea4765"
-    },
-    {
-      "title": "Detik-Detik Prabowo Tiba di DPR, Bakal Umumkan Embrio APBN 2027 - CNBC Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcnBTNWtubi1zRUxqczlFaDdCT1pJeU1ZWU1weHVjRjAyaHh4QmY4NW9MTThzbWhfeTYyVFQxU0ljMGUtTWZNZ19kRXhpR1RyQnZzdVd1SjZIYnJ5U1lxc0ZNaXZuRU5jZzJIdVpkLTFwMzJsMTJfLXB4X3RlNS1pY05VakxNUTk0OExLSXA3bGh4TjA0cFM2ZmVNMGM3UDYzdDVfVGl2UHlqWGhFMzBaYURfTGJxTmtuV3NoUlBR0gHDAUFVX3lxTFBta3JaWXpLR3V0U0loMlRnRm5CWGFWU0I1NXBjalQ2YmxWaXhoaGdVNTZQSndvOVF3bVlZZE5rWmpNdnZGTDZKcldqRXZJZnBPeUJnR2ZNRlVGOHY1RXdfY1B4a2dkRU1xTzVUbXgyXzhiMUdhWnFOcVhjdF9QeGZJM1lRaGF2OUgtNi1xQ3RQQjRDcTJnWUFscmhCQVNHMlZRM0JRRVl1OWFxdnRrZjlHRk9VcXRFeWF5enM4RmNNYUtJMA?oc=5",
-      "summary": "Detik-Detik Prabowo Tiba di DPR, Bakal Umumkan Embrio APBN 2027&nbsp;&nbsp;CNBC Indonesia",
+      "title": "Prabowo Blak-blakan Sebut APBN Bukan Sekadar Dokumen Keuangan Tapi Ini - CNBC Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONWZMWHVxc3Q3RDl5VjFES2JvWEtjaUxEN0RtcHladnBJRUxzd3ZNYWpIRk1CVTVObjdFVkNhZ0htT3ZFa0dySlBLNXM2eEVZajhaS1dZMS1NSU05S2xDQi1CRF9lMWJpZnl1YlNTWE9rSzlhTTNpTzR2azA2bVBGdE1rTzJKalQxVTBlT0N1eFFubklOaHhtbEpQVzB5YzRqRl9obVJjY3FzUHJtZmZNQ2Z6cVRUandTZDN4NG1vQWRzUFl6MDlZZ9IBzgFBVV95cUxPTkN4aG9nWEItTU42RnNHb2ljZW5qQjRnXzlTbDBjRk1nQ1Y5MW9Ta0pJX2hiWEJndnVCQ3lsOGthTFhjVmsyR2hvd1gtTUIwdW9kdFJybEVFTFE4a1BCTDNXbHA5NWZCS0NxdnliWTFHa3R3d0NSNFFFMHRoOWhIS1NnSnpQb0RmS2pDbTVXcHE1YkhDTzZuQlBBQUdqS1AyREdyMm40bHdBaTQyWFo0aWVya25fS25SSVl2cE5hMnhQMnFHM01oU0Z1RGQxZw?oc=5",
+      "summary": "Prabowo Blak-blakan Sebut APBN Bukan Sekadar Dokumen Keuangan Tapi Ini&nbsp;&nbsp;CNBC Indonesia",
       "published": "2026-05-20T07:00:00+00:00",
       "source": "GNews – Prabowo APBN",
       "groups": [
@@ -2262,56 +2311,10 @@
       ],
       "matched": [
         "APBN",
-        "DPR",
         "Prabowo"
       ],
       "big": true,
-      "id": "ab1ac1725acd31a0"
-    },
-    {
-      "title": "Prabowo Targetkan Ekonomi Tumbuh hingga 6,5 Persen di 2027 - SINDOnews Ekbis",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQODViTDJNU0t4eUtyRWljZ3VhZHFDdGxwb2xEOVhrcGZ6cVRmMGkzQ1ZyU0xkclpMUzVnUTRWYXJJaDVZejZ4WEE4WnJRelBLRUhiOUZza0xISm1QSlZSQ1R5OW1YZnlzeXdsbVV6U3lGZENpbU9DQ1RzM3RhaldhUXd3em5OLVdzbEx1d2s5Q2RtZU9PaDcxdGZ2bFlNUmhnS3BxTS1xelVVaWZmQ1k4UzhR0gG3AUFVX3lxTE5ER0IxU1ZIQTRTNE1iZC10UzhPakczNzJwYlo5NU9oTzRhUVgwanVZbU11ZWlnckFNLXR6T3JabW84VVZkSERFMDdlT0JsdER6OER2clJxTkdJMnJYeWxxRVcwTTBXX1VVVm01aDlOejV0RVhIUEdHWkFQRjFHRVdEbjVSQ1ZieFFrVDFRRWdZcTBLdjJLbFo1TU5qYjRXeU0yZDd0T0NGdTA1eEFmYkFKZndvaGRMYw?oc=5",
-      "summary": "Prabowo Targetkan Ekonomi Tumbuh hingga 6,5 Persen di 2027&nbsp;&nbsp;SINDOnews Ekbis",
-      "published": "2026-05-20T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "05f27a62de7a4795"
-    },
-    {
-      "title": "Prabowo Sebut 'Orang Desa Tak Pakai Dolar', Purbaya: Untuk Hibur Rakyat Aja - detikNews",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbGlDazZ1VDloQjNobzBKWUlTOC1aUFNiRTF2ZkFZQVNFUkQ3dFZ4NkdOb1dub3RNUjdiM21JUzZGeGZaTUVjUERndTZYaXpqTTNFX0t6MWw3M3FnQm5sT244Nm5xNk5Rd1VLX3dKTk9TaVFOMk8yV2ZfbjFaME9wSXliRHkwbzA2WUhkSDExUlFYd1NTa2lkenpTcHJNTVlkM0htblgzd0RPMTVla292N9IBtgFBVV95cUxONlhDem1OeG9MY19ROUdrSU9uN25HM2hfdlI1V2xidEpMeEVycDlqdy11T0pDa3lsVVNTd0VjeXlGQnY3eXlGVlVfXzRHZUZnRFE4UnFfa0c4aFFEaUJUY1c2TExrYnNZZXNxWXp5YmQzOGdxQnhNQ1FTVm03M2x2TnFYcXhjRDZLVHA4R3B0eS10S1JpelY3Uk9WSEotNlVReUxrSmhJSFZna2lXTUo2YUo1SUZsQQ?oc=5",
-      "summary": "Prabowo Sebut 'Orang Desa Tak Pakai Dolar', Purbaya: Untuk Hibur Rakyat Aja&nbsp;&nbsp;detikNews",
-      "published": "2026-05-18T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "3093a4b0ba66e66e"
-    },
-    {
-      "title": "Emerging markets have coped with the rate shock surprisingly well - The Economist",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdHZLemVBMGZMYWNaWTlsalI3dzVxSmJZYlZlY0p5YnFwY2Z0NUN5djNQZDlSR1pFUDRpQ1RGRUZPQjFCblBTSHJ0MDB2QVg3ZElUVVdpQ01uQlQ4TWkxTW9lekNuQk9JVzYyblVqNXpIWFdmNUkta2NJdW9PRjVLZlFyV19sM21va0d4TGFJVUo4bE9TeER5NFJqWEhFVDNiSk43a3loY3lhdkttbVA4?oc=5",
-      "summary": "Emerging markets have coped with the rate shock surprisingly well&nbsp;&nbsp;The Economist",
-      "published": "2022-10-13T07:00:00+00:00",
-      "source": "The Economist (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "emerging market"
-      ],
-      "big": false,
-      "id": "dacf6dd3f9cc5d5e"
+      "id": "75c1dd0fa784e56c"
     }
   ]
 }

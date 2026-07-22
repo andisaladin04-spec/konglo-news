@@ -1,7 +1,22 @@
 {
-  "updated": "2026-07-21T23:08:57.428060+00:00",
+  "updated": "2026-07-22T00:05:36.370499+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "Adu Kesiapan Emiten Bisnis Hijau, ADRO, TPIA, OASA dan BIPI, Mana Paling Andal?",
+      "link": "https://katadata.co.id/finansial/bursa/6a5f503cb3f34/adu-kesiapan-emiten-bisnis-hijau-adro-tpia-oasa-dan-bipi-mana-paling-andal",
+      "summary": "Persaingan bisnis energi baru terbarukan (EBT) semakin sengit. Pemain di sektor energi hijau tak hanya berhadapan dengan perusahaan yang sejak awal fokus mengembangkan bisnis tapi juga emiten baru.",
+      "published": "2026-07-21T23:20:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "TPIA"
+      ],
+      "big": false,
+      "id": "48b0502ec722d848"
+    },
     {
       "title": "IHSG Berpeluang Lanjutkan Penguatan, Analis Jagokan Saham INDY, BRMS hingga INET",
       "link": "https://katadata.co.id/finansial/bursa/6a5ff91173a9d/ihsg-berpeluang-lanjutkan-penguatan-analis-jagokan-saham-indy-brms-hingga-inet",
@@ -3110,24 +3125,6 @@
       ],
       "big": false,
       "id": "78c6b2d3e7b90b8a"
-    },
-    {
-      "title": "BUMI Alihkan Saham Tambang Emas Palu Mineral ke BRMS, Ini Tujuannya",
-      "link": "https://katadata.co.id/finansial/bursa/6a448ef9be81e/bumi-alihkan-saham-tambang-emas-palu-mineral-ke-brms-ini-tujuannya",
-      "summary": "Emiten kongsi Grup Bakrie-Salim, PT Bumi Resources Tbk (BUMI), memperamping bisnisnya dengan melakukan divestasi terhadap perusahaan tambang emas PT Citra Palu Mineral (CPM).",
-      "published": "2026-07-01T03:52:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Bakrie",
-        "Prajogo / Barito"
-      ],
-      "matched": [
-        "BRMS",
-        "BUMI",
-        "Bakrie"
-      ],
-      "big": true,
-      "id": "4c9deec65bb47d72"
     }
   ]
 }

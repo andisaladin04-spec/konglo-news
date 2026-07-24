@@ -1,7 +1,99 @@
 {
-  "updated": "2026-07-24T20:04:29.529312+00:00",
+  "updated": "2026-07-24T22:34:17.730672+00:00",
   "count": 150,
   "items": [
+    {
+      "title": "Nepal blokir ratusan ribu situs web dan aplikasi terkait judi daring",
+      "link": "https://www.antaranews.com/berita/5665240/nepal-blokir-ratusan-ribu-situs-web-dan-aplikasi-terkait-judi-daring",
+      "summary": "Sekretariat Perdana Menteri Nepal menyatakan bahwa regulator telekomunikasi Nepal telah memblokir lebih dari 200.000 ...",
+      "published": "2026-07-24T22:29:18+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "menteri"
+      ],
+      "big": false,
+      "id": "5521002553e4a593"
+    },
+    {
+      "title": "China, Philippine coastguard vessels clash in South China Sea",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/china-philippine-coastguard-vessels-clash-in-south-china-sea?traffic_source=rss",
+      "summary": "China, Philippine coastguard vessels clash in South China Sea.",
+      "published": "2026-07-24T21:29:10+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "South China Sea"
+      ],
+      "big": false,
+      "id": "15dc1afd15aed019"
+    },
+    {
+      "title": "Wapres Gibran kembali tegaskan urgensi RUU Perampasan Aset",
+      "link": "https://www.antaranews.com/berita/5665217/wapres-gibran-kembali-tegaskan-urgensi-ruu-perampasan-aset",
+      "summary": "Wakil Presiden (Wapres)&nbsp;Gibran Rakabuming Raka kembali mendorong percepatan pengesahan RUU Perampasan Aset guna ...",
+      "published": "2026-07-24T21:15:40+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Gibran",
+        "UU "
+      ],
+      "big": false,
+      "id": "3518ea576a9a5835"
+    },
+    {
+      "title": "US small businesses challenge Trump’s new ‘forced labor’ tariffs",
+      "link": "https://www.aljazeera.com/economy/2026/7/24/us-small-businesses-challenge-trumps-new-forced-labor-tariffs?traffic_source=rss",
+      "summary": "In lawsuit on Friday, two small businesses said latest round of tariffs on 60 countries needs to be legally justified.",
+      "published": "2026-07-24T20:49:17+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "7b2893b971072c23"
+    },
+    {
+      "title": "Venezuela to exit International Criminal Court, accusing it of ‘bias’",
+      "link": "https://www.aljazeera.com/news/2026/7/24/venezuela-to-exit-international-criminal-court-accusing-it-of-bias?traffic_source=rss",
+      "summary": "Announcement comes as Venezuela has hewed close to Trump administration, who has pledged to&#039;disable&#039; international court.",
+      "published": "2026-07-24T20:32:12+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "d7341cef18dc75b9"
+    },
+    {
+      "title": "Canada marks Gordie Howe bridge opening without US after trade war deepens",
+      "link": "https://www.aljazeera.com/economy/2026/7/24/canada-marks-gordie-howe-bridge-opening-without-us-after-trade-war-deepens?traffic_source=rss",
+      "summary": "Canada cancelled planned cross-border ribbon-cutting ceremony and the milestone opening was only among Canadians.",
+      "published": "2026-07-24T20:22:04+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Geopolitics",
+        "Global Finance"
+      ],
+      "matched": [
+        "trade war"
+      ],
+      "big": true,
+      "id": "71079278344c9608"
+    },
     {
       "title": "KPK: Penahanan Febrie di Rutan KPK permintaan Kejaksaan Agung",
       "link": "https://www.antaranews.com/video/5665201/kpk-penahanan-febrie-di-rutan-kpk-permintaan-kejaksaan-agung",
@@ -1932,6 +2024,21 @@
       "id": "55d57eee7d77e88e"
     },
     {
+      "title": "Christine Lagarde leaves door open to early ECB exit, as she mulls French politics",
+      "link": "https://www.cnbc.com/2026/07/03/christine-lagarde-ecb-france-election.html",
+      "summary": "The European Central Bank's Christine Lagarde has declined to rule out an early end to her term as president, as she mulls a foray into French politics.",
+      "published": "2026-07-03T10:34:32+00:00",
+      "source": "CNBC Global Markets",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "ECB"
+      ],
+      "big": false,
+      "id": "af1fa4f76487ba82"
+    },
+    {
       "title": "World Cup could boost the June jobs report by 40,000, Goldman estimates",
       "link": "https://www.cnbc.com/2026/07/01/world-cup-could-boost-the-june-jobs-report-by-40000-goldman-estimates.html",
       "summary": "Nonfarm payrolls are projected to post a gain of 115,000, according to the Dow Jones consensus.",
@@ -2181,116 +2288,6 @@
       ],
       "big": true,
       "id": "5158f0b60e92e388"
-    },
-    {
-      "title": "Before Trump, Indonesia Had Another Trade Headache: China (Published 2025) - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12RGkyR0hvWlRzM3k0eXZiSFl5ZzJwZkUtcnBpUWdWU2lIYzZWRnZKdmtIZXFUemtSUXI5SE83X0xqanB2cXlSYkdPY0UtUTBuRXlJa1RxWTFmbC1KMDV0djZuZzhKeDlDZi1CamVjYUt6ZE1FSU9mR2pB?oc=5",
-      "summary": "Before Trump, Indonesia Had Another Trade Headache: China (Published 2025)&nbsp;&nbsp;The New York Times",
-      "published": "2025-07-18T07:00:00+00:00",
-      "source": "Financial Times (via GNews)",
-      "groups": [
-        "Geopolitics"
-      ],
-      "matched": [
-        "Trump"
-      ],
-      "big": false,
-      "id": "c074d3d5b9577eef"
-    },
-    {
-      "title": "China Says It Is Aiming to Coordinate Tariff Response With Japan, South Korea - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZU9rRVR6RTFORV9jeklyQXhRcGVMbUR1dFJrdzRfcy1qSmZibWhwcUpfQXNiRDdoeGdpQS15TF9EWUFJd0U4UnVmLVBQUTd1c3VQRlItYllTWm1NNm0xNFgtWFhpT09PN2tDZFphRl9CNnJRb0JKZGdoMC1kTnhhWVlTUmdRZHB5eE5zSDRRYUZFbTFYeTZZNjh4RDA2cGlnTHB6WFBWSjFlSDNHMHMwSUFXNA?oc=5",
-      "summary": "China Says It Is Aiming to Coordinate Tariff Response With Japan, South Korea&nbsp;&nbsp;WSJ",
-      "published": "2025-04-01T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "tariff"
-      ],
-      "big": false,
-      "id": "ac194966d71db45e"
-    },
-    {
-      "title": "Prabowo Subianto takes a chainsaw to Indonesia’s budget - The Economist",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObUUtd1BpYzdwMHZCTmdtaWtjelI1aGtIY05VSkJCQVN3RnRGazBCOG8zZTJqWGU2Y2pRcURrelRET2s2QTQyc1VLay1uenlSclExTl9ucjQyblhGcjJKYVUxZVhPdDJfVEpuY3RGSVN4R0U5dURGb2x2cFhrT0l3VUhnb3FVMlVxaE9kNDE4OU9vTkNNV1lXSmJTQmFnbWR5?oc=5",
-      "summary": "Prabowo Subianto takes a chainsaw to Indonesia’s budget&nbsp;&nbsp;The Economist",
-      "published": "2025-02-27T08:00:00+00:00",
-      "source": "The Economist (via GNews)",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "2f5599b9f580818e"
-    },
-    {
-      "title": "Bloomberg Emerging Market USD Sovereign & Sovereign Owned Unh USD - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRbHBfLTZ5RHFTWFhXN19IclRwY3IzRWxPdjZzUUNWSEcwWUQ3cTdNMndjZnhKZVF0WDVSNkhkR09qSUtOblNVVmY3Vjc0SjFTMVFOWUJwTmR1U2ZTLU0zdjdOYXhpX3RObGdLbzFTb25EV3M5WGE5RTFZaktPYU0?oc=5",
-      "summary": "Bloomberg Emerging Market USD Sovereign & Sovereign Owned Unh USD&nbsp;&nbsp;Bloomberg.com",
-      "published": "2024-12-20T23:49:44+00:00",
-      "source": "Bloomberg (via GNews)",
-      "groups": [
-        "Global Finance",
-        "Macro / Economy"
-      ],
-      "matched": [
-        "emerging market",
-        "sovereign"
-      ],
-      "big": false,
-      "id": "63f4e5f9bc7a0645"
-    },
-    {
-      "title": "Will Prabowo Subianto cosy up to Donald Trump or to China? - The Economist",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcjdXakNNZVFJZWxGUDMyMF9qQTJpWmwxVUJkQnhmQzFZTENZTXNzc29tWHIxYlpCMjIwSHpETjEzMkxWeTF6ZjVQMFNvWFQ1bDg2STdWeTh3R2NBNnJVZDBDZi01Q0JCdzVGeWE2c0Z1RG5mNWI4Tk52YUhRZVVoQ2NQaHFwam91cWJKMXhSNGxBQ0pMTGVsbWNmaXptbWM0?oc=5",
-      "summary": "Will Prabowo Subianto cosy up to Donald Trump or to China?&nbsp;&nbsp;The Economist",
-      "published": "2024-11-07T08:00:00+00:00",
-      "source": "The Economist (via GNews)",
-      "groups": [
-        "Geopolitics",
-        "Government / Policy"
-      ],
-      "matched": [
-        "Prabowo",
-        "Trump"
-      ],
-      "big": false,
-      "id": "8e0327d3f78b6fb1"
-    },
-    {
-      "title": "Fed Rate Cuts Are Now a Matter of If, Not Just When - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdmlBNzBtRVNmNFdwQ3BkLVMtc2lCZXpVdG1fTTBiUGZCOTZiRHNONE16VE01MXZVbEhBM3RDV21TbUdKR2haVXdxYnFJbzZ5TC0tVklpZm9CcFVSWXFkVUUxNE5NRmxUQnlwX0dHTEw2SmVfWG1yTWtvSlNodmFrTTNWcEJlcXJMWF9fMDZ2OGc3ZDZ1RzR4aVY0aVN5WnRyT1YtYkln?oc=5",
-      "summary": "Fed Rate Cuts Are Now a Matter of If, Not Just When&nbsp;&nbsp;WSJ",
-      "published": "2024-04-11T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "Fed rate",
-        "rate cut"
-      ],
-      "big": true,
-      "id": "5ab32f156bc980b5"
-    },
-    {
-      "title": "Three threats to growth in emerging markets - The Economist",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTVhQU3RkYVd1Zy1oREdkekRQZkVIZU9TOENXQXhadDZpWEZaSkVfalRLMHJDVjFma1ljZk5HS3RLdFFVcmxBZDVrRE9NOFZkTTgtb0t3X1E3cGZCSFZRQmRxZ0xnWWdCLXM0eV9tSnVBZEZZeW9peW53TEMtQXhBbGY1blhlb0FuSEV5UjVwSzI2Y3ZFWmJseGdmbDZXTzlneXFtTA?oc=5",
-      "summary": "Three threats to growth in emerging markets&nbsp;&nbsp;The Economist",
-      "published": "2021-12-01T08:00:00+00:00",
-      "source": "The Economist (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "emerging market"
-      ],
-      "big": false,
-      "id": "6372a471727536fb"
     }
   ]
 }

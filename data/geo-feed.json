@@ -1,7 +1,22 @@
 {
-  "updated": "2026-07-26T09:08:20.432392+00:00",
+  "updated": "2026-07-26T10:55:19.990514+00:00",
   "count": 150,
   "items": [
+    {
+      "title": "Pemprov Jabar libatkan KPK perkuat integritas keluarga pejabat",
+      "link": "https://www.antaranews.com/berita/5666681/pemprov-jabar-libatkan-kpk-perkuat-integritas-keluarga-pejabat",
+      "summary": "Pemerintah Provinsi Jawa Barat menggandeng Komisi Pemberantasan Korupsi (KPK) untuk memberikan Bimbingan Teknis ...",
+      "published": "2026-07-26T10:09:50+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "KPK"
+      ],
+      "big": false,
+      "id": "53782ee7b239e46f"
+    },
     {
       "title": "Mendagri dorong lulusan IPDN perkuat birokrasi berbasis ilmu",
       "link": "https://www.antaranews.com/berita/5666621/mendagri-dorong-lulusan-ipdn-perkuat-birokrasi-berbasis-ilmu",
@@ -1903,6 +1918,21 @@
       "id": "a0d4cb523ebdd293"
     },
     {
+      "title": "Faisal Islam: The UK's Trump trade deal no longer looks world-beating",
+      "link": "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&at_campaign=rss",
+      "summary": "While the US tariffs imposed on the UK are effectively unchanged, other countries now have a better deal.",
+      "published": "2026-07-24T14:02:26+00:00",
+      "source": "BBC Business",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "28f2db3522913eca"
+    },
+    {
       "title": "BI-Rate Jadi 5,75 Persen, Rupiah Menguat dan Modal Asing Kembali Masuk - BeritaManado.com",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdEtYTXo1NkxTZGNCM2dJamlURm5ZSjljcW5tSVk3dG8ydGRZNzdkaWUzT2JjZGxBbzZ0S0R2cWFTZXdZTjhKbEswcmUwRnFVY2loakthZ3VZY3BFODFRMlFqeVlPOUh5N2F5SGZHaDZPY0syTjE0Rkg3RWNnRmNkWG1CdkZJY05sYmw0dmxOSVJUSFdSa2hodnJR?oc=5",
       "summary": "BI-Rate Jadi 5,75 Persen, Rupiah Menguat dan Modal Asing Kembali Masuk&nbsp;&nbsp;BeritaManado.com",
@@ -2260,37 +2290,6 @@
       ],
       "big": false,
       "id": "63f4e5f9bc7a0645"
-    },
-    {
-      "title": "Indonesia's plunging rupiah twists the policy plot - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVi1uQkx4Z1dKT0k0T05uT0FtbVdjSjQzaDdXaktrR09hdkRYMElJeUN4a18wMVFtNkUwcjFDZmxxS0NWREFCOWRxNkllblJFVDVXWUk4QTRCX0djWTBZbnNQSFJmdi1JVER0SXllWm5mWDg4WDZWaUlSQW9Jc0kyZHBoS3dPaW1oWlZTNXlHVk1YXzgtY3dnVWRR?oc=5",
-      "summary": "Indonesia's plunging rupiah twists the policy plot&nbsp;&nbsp;Reuters",
-      "published": "2024-04-16T07:00:00+00:00",
-      "source": "Reuters – Indonesia",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah"
-      ],
-      "big": true,
-      "id": "97b3dea1c33194fd"
-    },
-    {
-      "title": "Emerging markets launch QE, too - The Economist",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUVgyTzA0OENkUXpNRzVwZWdJSlV6Yjh5TmFBcktLMV83am1nRmxGYXFyNkE3UlpJNG9pWGk4X2g4MUNmUzBXZ0FDNE9tNEFmUjVzMkpCT3gxaGUzTXl3WDJHQVR4OUlPUk9Qb0c5SFNRQkdYTWVUMlprWEhIUWlRc3NURENISEFSRFgwZTVWS2t6dlk?oc=5",
-      "summary": "Emerging markets launch QE, too&nbsp;&nbsp;The Economist",
-      "published": "2020-05-07T07:00:00+00:00",
-      "source": "The Economist (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "QE",
-        "emerging market"
-      ],
-      "big": false,
-      "id": "e5af35946cacf4ef"
     }
   ]
 }

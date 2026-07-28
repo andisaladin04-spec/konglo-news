@@ -1,7 +1,22 @@
 {
-  "updated": "2026-07-28T11:26:48.562437+00:00",
+  "updated": "2026-07-28T13:10:50.637900+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "Masih Anjlok 22,91% Ytd, BCA (BBCA) Bocorkan Jurus Kerek Harga Saham",
+      "link": "https://katadata.co.id/finansial/bursa/6a689d8d68a78/masih-anjlok-22-91-ytd-bca-bbca-bocorkan-jurus-kerek-harga-saham",
+      "summary": "Emiten raksasa perbankan swasta PT Bank Central Asia Tbk (BBCA) atau BCA membocorkan jurus untuk mendongkrak harga sahamnya di semester kedua tahun ini.",
+      "published": "2026-07-28T12:16:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Djarum / Hartono"
+      ],
+      "matched": [
+        "BBCA"
+      ],
+      "big": true,
+      "id": "daf61239eab2f002"
+    },
     {
       "title": "Kredit BCA (BBCA) Tembus Rp 1.036 T, Cetak Laba Rp 29,5 T di Semester I 2026",
       "link": "https://katadata.co.id/finansial/bursa/6a68882c6819c/kredit-bca-bbca-tembus-rp-1036-t-cetak-laba-rp-29-5-t-di-semester-i-2026",
@@ -3141,21 +3156,6 @@
       ],
       "big": true,
       "id": "b68f9adae76cf15e"
-    },
-    {
-      "title": "Emiten Afiliasi Grup Djarum (BACH) Resmi Debut di Bursa, Saham Tembus ARA 24,43%",
-      "link": "https://katadata.co.id/berita/nasional/6a4db33e5055a/emiten-afiliasi-grup-djarum-bach-resmi-debut-di-bursa-saham-tembus-ara-24-43",
-      "summary": "Saham BACH melonjak 24, 43% pada debut perdana di BEI, menembus batas auto rejection atas dan menjadi emiten keempat yang IPO tahun ini.",
-      "published": "2026-07-08T02:17:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Djarum / Hartono"
-      ],
-      "matched": [
-        "Djarum"
-      ],
-      "big": true,
-      "id": "0ba2d7497785f663"
     }
   ]
 }

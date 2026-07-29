@@ -1,7 +1,24 @@
 {
-  "updated": "2026-07-29T04:26:10.883202+00:00",
+  "updated": "2026-07-29T07:19:36.671950+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Turun Lagi ke Level 6.093, Saham Grup Bakrie ELTY, BNBR, VKTR Rontok",
+      "link": "https://katadata.co.id/finansial/bursa/6a69954f1b4e8/ihsg-turun-lagi-ke-level-6093-saham-grup-bakrie-elty-bnbr-vktr-rontok",
+      "summary": "IHSG turun 0, 6% atau 37 poin ke level 6.093 pada perdagangan sesi pertama, Rabu (29/7). Sebanyak 461 saham ditutup turun, 176 saham naik, dan 154 saham lainnya tidak bergerak.",
+      "published": "2026-07-29T05:53:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Bakrie"
+      ],
+      "matched": [
+        "BNBR",
+        "Bakrie",
+        "VKTR"
+      ],
+      "big": true,
+      "id": "3dc91956dc569209"
+    },
     {
       "title": "BCA (BBCA) Tahan Kenaikan Bunga Kredit, Hanya Nasabah Tertentu yang Disesuaikan - Bisnis.com",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOTNadVhzZ1RGQVRidXpaa3NWZWxGdEhBUGhyVXlYcjVGY0htSlFTZ001c0ZLXzd2TVpiblZqS1NaM1ZmMHRMcEVDeWZNb2V1anphUXJGLWl3eF9qaURTSlY1Q2k0dTN0RElYbjY1TElTRHpNQXpkbTJKMTA2Mk53N21mVXhsU0ctZlhWMVFfZk1KZkNmWTRSYVduaUxGLUZ6REVnR05aaUlJVW1IQ1A3WERXenhLdzlfc1NWMlFVaXRGWFViWlExM0d3?oc=5",
@@ -3149,21 +3166,6 @@
       ],
       "big": false,
       "id": "bad02213ab6e65d2"
-    },
-    {
-      "title": "Indeks Bisnis-27 Dibuka Melemah, Saham JPFA, BBRI hingga BBCA Kompak Merah - Bisnis.com - Market",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeTdmM2s5cGFyTEE4clZkNTMySm1mLTFTSkNkWHdxOWdjclh6WXdJUHluOHJSR2Zkam10T0JjMUpCTkdGS3E1RGsyVWl5OVEyb2hmRk1jNkItM2xqdGkxRV9rNEtyNlgxRlNpam1hRlFKZ1VaUWdaS09RTFR0TUhaZk9qdVRtdVNIOGg2bFlJZ19VQlRRc2w1OEZITmdpRlN5NzV4WWFEQUpsaTJkb1d5RFcxTlNQNmVlRlZtcmg3WQ?oc=5",
-      "summary": "Indeks Bisnis-27 Dibuka Melemah, Saham JPFA, BBRI hingga BBCA Kompak Merah&nbsp;&nbsp;Bisnis.com - Market",
-      "published": "2026-07-09T02:31:23+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Djarum / Hartono"
-      ],
-      "matched": [
-        "BBCA"
-      ],
-      "big": false,
-      "id": "81a3c36d62895070"
     }
   ]
 }

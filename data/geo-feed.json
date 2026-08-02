@@ -1,7 +1,37 @@
 {
-  "updated": "2026-08-02T10:48:01.341124+00:00",
+  "updated": "2026-08-02T11:57:48.106428+00:00",
   "count": 150,
   "items": [
+    {
+      "title": "Ekonom perkirakan inflasi bulanan Juli melambat ke 0,03 persen",
+      "link": "https://www.antaranews.com/berita/5676712/ekonom-perkirakan-inflasi-bulanan-juli-melambat-ke-003-persen",
+      "summary": "Kepala Ekonom Bank Mandiri Andry Asmoro memperkirakan Indeks Harga Konsumen (IHK) Indonesia pada Juli 2026 mengalami ...",
+      "published": "2026-08-02T11:36:22+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "inflasi"
+      ],
+      "big": false,
+      "id": "f99fb582661a1732"
+    },
+    {
+      "title": "Legislator minta IPSI Banyuwangi komitmen jaga kondusivitas",
+      "link": "https://www.antaranews.com/berita/5676696/legislator-minta-ipsi-banyuwangi-komitmen-jaga-kondusivitas",
+      "summary": "Anggota Komisi VII DPR RI Bambang Haryo Soekartono yang juga Ketua Umum Pengurus Provinsi IPSI Jawa Timur meminta ...",
+      "published": "2026-08-02T10:55:59+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "DPR"
+      ],
+      "big": false,
+      "id": "e86558d064ab5bdd"
+    },
     {
       "title": "BI dan Pemkot Kendari Perkuat Digitalisasi UMKM",
       "link": "https://www.antaranews.com/video/5676607/bi-dan-pemkot-kendari-perkuat-digitalisasi-umkm",
@@ -1928,6 +1958,21 @@
       "id": "f83fb6df5e946472"
     },
     {
+      "title": "What a divided Fed means for investors",
+      "link": "https://www.cnbc.com/2026/07/29/fed-meeting-interest-rates-warsh-stocks-bonds.html",
+      "summary": "Wall Street has a clear takeaway from this week's Federal Reserve decision: A hike is likely on the horizon.",
+      "published": "2026-07-29T23:36:34+00:00",
+      "source": "CNBC Global Markets",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "Federal Reserve"
+      ],
+      "big": false,
+      "id": "c946aa7dc262525f"
+    },
+    {
       "title": "Yen traders watch BOJ, Fed meetings for clues on rate moves - Nikkei Asia",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRUVFNWd1cmJsenQ5OTF3ci1wd2kxQXlMYThkejB4Ri1yMmtzVzRnN05DWU9aMXNuMzJ2M0pYeVpmMU84bHJaMWtUOTBlY1puTTZXLTlQNGQ0MkpJMnN2NDNadTF5QmlQM0RLTFNTWGt3VzZvNVhnNWhXTVZIWVZTVUlJNTJXX29Rc29rWVhOeGxTWDBZMFRDaUNVNVBpTjhjZ2VCaEZRSFNKYzJNdEY0?oc=5",
       "summary": "Yen traders watch BOJ, Fed meetings for clues on rate moves&nbsp;&nbsp;Nikkei Asia",
@@ -2233,54 +2278,6 @@
       ],
       "big": true,
       "id": "d46070e2dabfdda0"
-    },
-    {
-      "title": "U.S. Tariff Increases to Slow Global Economy, Boost Inflation, OECD Says - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTUh0emdEemVFVWFVaXBIWVpEVFhmNzVsdUtULXoxeGN1MG5DZUV4d0YwYzgyOFVfOUpIbU9OTUMtVFZidjUxUXByUEg4TlcxUzFSaW45bndDU3FwU2ZyZkMtaFFhMHBrMS1MQjNxOUpMRmhEbHVlOHNVMS1xZlJaU0hYZEVzbElCV254cktNa1JPb2gxSkhISEhkTlhWZ0NZMDFaUExlV19oemFUOGNhOHNCQQ?oc=5",
-      "summary": "U.S. Tariff Increases to Slow Global Economy, Boost Inflation, OECD Says&nbsp;&nbsp;WSJ",
-      "published": "2025-03-17T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "tariff"
-      ],
-      "big": false,
-      "id": "f17e556ef9943f5a"
-    },
-    {
-      "title": "Trump’s Tariff Plan to Hit Affordable Cars the Hardest - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNmZ1NTFZbmVtd01RWjJWeHRDRl92cklhdjBrdjhCMXp2UjZlT05La2RpNDZjZldHczhTSFZ2a3NoR1h4Y2tCQ1FIOXdnMHg5SV83R1JLU2ozazI1LWxpdGRtQ3VUbTR4bzA0emFPczBmcXFfWFhtN1EtZ2V5SHFOLW1VNlRnX0xRQVhzSXNOUW4yVXF5N0E?oc=5",
-      "summary": "Trump’s Tariff Plan to Hit Affordable Cars the Hardest&nbsp;&nbsp;WSJ",
-      "published": "2024-12-25T08:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Geopolitics",
-        "Global Finance"
-      ],
-      "matched": [
-        "Trump",
-        "tariff"
-      ],
-      "big": false,
-      "id": "3513d8452a9f5c95"
-    },
-    {
-      "title": "The Fed Rate Cut Is Here. Our Correspondent Explains What's at Stake. - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYnVxTjlSR2Ruc2dWSWhydlRHV0t4MGRod2RUeVhldkwwZ085TzEteWhIT3ZYRlMtT2ZKQjkxSGN0dnJYbnRTUy1EZVhzdjBONG14SnlEVUM5Q3ViY1FfQUZhUnNkMFlDZ3hKYkpUcU1CVVNFUGJFNXZzQnFaSUhvQmxtX1Z3eG1QcWN4cXdhbUNTOU9pemhpNUVla0Fkb2NRVEJfLVV6VGl0dFJnWC1GTjlic0dlUll5RE9XTE1KQVNFT1hmMzRIc0Jub3ZnS2t2MEhHbGlKUzE3MzZtM01ybw?oc=5",
-      "summary": "The Fed Rate Cut Is Here. Our Correspondent Explains What's at Stake.&nbsp;&nbsp;WSJ",
-      "published": "2024-09-18T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "Fed rate",
-        "rate cut"
-      ],
-      "big": true,
-      "id": "68e640d3d6b23670"
     }
   ]
 }

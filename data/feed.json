@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-02T06:15:23.295158+00:00",
+  "updated": "2026-08-02T08:38:56.125410+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "Investor Asing Net Buy Rp 7,1 Triliun, Borong Saham UNTR dan BBCA",
+      "link": "https://katadata.co.id/finansial/bursa/6a6ee2851bb0b/investor-asing-net-buy-rp-7-1-triliun-borong-saham-untr-dan-bbca",
+      "summary": "Investor asing antara lain memborong saham PT United Tractors Tbk (UNTR) dan PT Bank Central Asia Tbk (BBCA) dengan transaksi beli bersih masing-masing mencapai Rp 469, 18 miliar dan Rp 426, 56 miliar.",
+      "published": "2026-08-02T06:24:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Astra",
+        "Djarum / Hartono"
+      ],
+      "matched": [
+        "BBCA",
+        "UNTR"
+      ],
+      "big": false,
+      "id": "f2189dce0485dfbd"
+    },
     {
       "title": "Transformasi Digital Pacu Prospek Grup Djarum BACH - Bisnis.com - Market",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMWxidnpqcFRmOE93NzgyakVlQWkxNHgxT3NiVDdmMTljT05Ca25BaC00RFV3OEFKVmZhMGZaS2VpSEZfanoyZUNuMl9Ud3RFazd6VEV5Uk0wUkRETy1GTzY0MWxvWlVGRWg3SHoxRFFhSEN2SWpwbG1reDdqUm9sQ001ZFY5dER3RXU2dWpGSktpMHdSTE9wUG5yeW5DQTZqU2NrYw?oc=5",
@@ -3136,23 +3153,6 @@
       ],
       "big": true,
       "id": "bd3fcec206aa7c76"
-    },
-    {
-      "title": "Klasemen Market Cap BEI Bergeser, BBCA Kembali Teratas, DCII Menyalip BREN",
-      "link": "https://investasi.kontan.co.id/news/klasemen-market-cap-bei-bergeser-bbca-kembali-teratas-dcii-salip-bren",
-      "summary": "Per Senin (13/7/2026), saham BBCA menduduki posisi puncak dengan market cap Rp 760 triliun, setara dengan 7,23% dari total market cap&nbsp;&#8203;BEI.",
-      "published": "2026-07-13T12:43:00+00:00",
-      "source": "Kontan - Investasi",
-      "groups": [
-        "Djarum / Hartono",
-        "Prajogo / Barito"
-      ],
-      "matched": [
-        "BBCA",
-        "BREN"
-      ],
-      "big": false,
-      "id": "31ccaf9c166d0940"
     }
   ]
 }

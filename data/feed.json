@@ -1,7 +1,70 @@
 {
-  "updated": "2026-08-03T07:37:07.502502+00:00",
+  "updated": "2026-08-03T10:56:55.109143+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Ditutup Merah dan Net Sell Rp 707,6 M, Asing Lego Saham TPIA, AMMN, BMRI",
+      "link": "https://katadata.co.id/finansial/bursa/6a706e7fe0d41/ihsg-ditutup-merah-dan-net-sell-rp-707-6-m-asing-lego-saham-tpia-ammn-bmri",
+      "summary": "IHSG ditutup turun tipis 0, 03% ke 6.234 pada perdagangan hari ini, Senin (3/8). Sebanyak 292 saham menguat, 348 saham terkoreksi, dan 150 saham lainnya stagnan.",
+      "published": "2026-08-03T10:33:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "TPIA"
+      ],
+      "big": false,
+      "id": "41e62d1a3ae8296c"
+    },
+    {
+      "title": "United Tractors (UNTR) Catat Impairment di Bisnis Geotermal Rp 2,76 Triliun",
+      "link": "https://katadata.co.id/finansial/bursa/6a7062a5533ae/united-tractors-untr-catat-impairment-di-bisnis-geotermal-rp-2-76-triliun",
+      "summary": "PT United Tractors Tbk (UNTR) mencatatkan impairment atau kerugian penurunan nilai investasi mencapai Rp 2, 76 triliun di bisnis geotermal di Sumatra. Alhasil, laba perseroan anjlok hingga 88, 2% YoY.",
+      "published": "2026-08-03T09:43:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Astra"
+      ],
+      "matched": [
+        "UNTR"
+      ],
+      "big": true,
+      "id": "e9c3b073a700222c"
+    },
+    {
+      "title": "Adu Kinerja Emiten Grup Salim, INDF, LSIP, BUMI, hingga DCII: Siapa Paling Jago?",
+      "link": "https://katadata.co.id/finansial/bursa/6a7054e09ff05/adu-kinerja-emiten-grup-salim-indf-lsip-bumi-hingga-dcii-siapa-paling-jago",
+      "summary": "Sejumlah emiten yang terafiliasi dengan Grup Salim telah melaporkan kinerja keuangan mereka sepanjang paruh pertama 2026. Bagaimana pendapatan dan laba masing-masing emiten itu?",
+      "published": "2026-08-03T08:44:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Bakrie",
+        "Salim"
+      ],
+      "matched": [
+        "BUMI",
+        "INDF"
+      ],
+      "big": false,
+      "id": "5d13583b5342d986"
+    },
+    {
+      "title": "Melirik Kinerja Tambang SRTG Afiliasi Boy Thohir MDKA, EMAS, MBMA Semester I",
+      "link": "https://katadata.co.id/finansial/bursa/6a704ba304951/melirik-kinerja-tambang-srtg-afiliasi-boy-thohir-mdka-emas-mbma-semester-i",
+      "summary": "Sejumlah emiten pertambangan genggaman Grup Saratoga (SRTG) afiliasi konglomerat Boy Thohir, yakni MDKA, MBMA, dan EMAS, telah mengumumkan kinerja operasionalnya paruh pertama 2026.",
+      "published": "2026-08-03T08:04:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Djarum / Hartono"
+      ],
+      "matched": [
+        "SRTG",
+        "Saratoga"
+      ],
+      "big": true,
+      "id": "7565ac7b65cc59c7"
+    },
     {
       "title": "Profil dan Rekam Jejak Bisnis Robert Budi Hartono, Pengendali Tunggal BCA (BBCA)",
       "link": "https://katadata.co.id/finansial/bursa/6a701f6dd632a/profil-dan-rekam-jejak-bisnis-robert-budi-hartono-pengendali-tunggal-bca-bbca",
@@ -3087,70 +3150,6 @@
       ],
       "big": false,
       "id": "b54f92440170a2ac"
-    },
-    {
-      "title": "IHSG Ditutup Naik Tipis, BEI Catat Crossing Jumbo di Saham BBCA, SINI dan BACH",
-      "link": "https://katadata.co.id/finansial/bursa/6a560d1cf2a9a/ihsg-ditutup-naik-tipis-bei-catat-crossing-jumbo-di-saham-bbca-sini-dan-bach",
-      "summary": "Indeks Harga Saham Gabungan atau IHSG ditutup hanya naik tipis 0, 03% ke level 6.039 pada perdagangan saham hari ini, Selasa (14/7) padahal sudah didorong angin segar dari S&amp;P Global Ratings.",
-      "published": "2026-07-14T10:19:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Djarum / Hartono"
-      ],
-      "matched": [
-        "BBCA"
-      ],
-      "big": false,
-      "id": "d17edd19224d448f"
-    },
-    {
-      "title": "Konglomerat Prajogo – Boy Tohir Pasang Badan di Rights Issue SINI Rp 3,6 Triliun",
-      "link": "https://katadata.co.id/finansial/bursa/6a5605faa4bcb/konglomerat-prajogo-boy-tohir-pasang-badan-di-rights-issue-sini-rp-3-6-triliun",
-      "summary": "Dua konglomerat RI, Prajogo Pangestu dan Boy Thohir pasang badan di right issue atau hak memesan efek terlebih dahulu (HMETD) emiten milik Happy Hapsoro PT Singaraja Putra Tbk (SINI).",
-      "published": "2026-07-14T09:48:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Prajogo / Barito"
-      ],
-      "matched": [
-        "Pangestu",
-        "Prajogo"
-      ],
-      "big": true,
-      "id": "ae5401aba2206a7e"
-    },
-    {
-      "title": "Indeks Bisnis-27 Ditutup Melemah, ADRO & BRMS Cs Tetap Cuan - Bisnis.com - Market",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZzBwLXJ6MEM0MzRlVlFDWEY4VGlEdlR1MzlzeFMwbThzTUFNV1d5T2cxUGxCQkRDSFFMb2JiS3dkdmFBYV90dnhaemY5MkMxdUhxT1lrTnVjUkxLMEt0eWFqTHNMcVZ2OENVTWotMzFvdzI2S3JFbWFmelAzeWNXMmdTUkw5Z0FROEJSbXBzUjF5UkJGenRJLVdZNUtlSU1CWndUdjRrZGNuUQ?oc=5",
-      "summary": "Indeks Bisnis-27 Ditutup Melemah, ADRO & BRMS Cs Tetap Cuan&nbsp;&nbsp;Bisnis.com - Market",
-      "published": "2026-07-14T09:31:39+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Prajogo / Barito"
-      ],
-      "matched": [
-        "BRMS"
-      ],
-      "big": false,
-      "id": "a927ccab9ca64354"
-    },
-    {
-      "title": "Bedah Portofolio Chandra Waste (TPIA) & Bakrie Power (BNBR) di Proyek PSEL Danantara - Bisnis.com - Market",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVmRlT0U2ZGpVakxidFN4LVZyZHE4dW9YRmRMNi14MHFfcjM5THpvUFdhUEFnY3JIbWlwSGVWdW8zNktjTkEtdGdKUHE0b0RvbEZlbFdIV0dFckgzOS1kenR3OUUtVnZDOHFxcVl6aFFKbDBaaTdGQU5IcExxYjdCZ3FzWUtNT29wUVI1UmMzbDRKRndUa2k1aXBJaWpweGZsZkttUjFXaFhZM1hzYTBiQVpaV25uWkdocldLUWlfeXFQM1l0S2FQOVBB?oc=5",
-      "summary": "Bedah Portofolio Chandra Waste (TPIA) & Bakrie Power (BNBR) di Proyek PSEL Danantara&nbsp;&nbsp;Bisnis.com - Market",
-      "published": "2026-07-14T07:25:11+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Bakrie",
-        "Prajogo / Barito"
-      ],
-      "matched": [
-        "BNBR",
-        "Bakrie",
-        "TPIA"
-      ],
-      "big": false,
-      "id": "cc4114fbbc5df6cb"
     }
   ]
 }

@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-02T23:08:07.066865+00:00",
+  "updated": "2026-08-03T00:10:43.001333+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Berpeluang Menguat Hari Ini, Analis Jagokan Saham ADMR, ASII hingga UNVR",
+      "link": "https://katadata.co.id/finansial/bursa/6a6fcf70ceac5/ihsg-berpeluang-menguat-hari-ini-analis-jagokan-saham-admr-asii-hingga-unvr",
+      "summary": "Momentum bullish IHSG masih terjaga. Sejumlah analis menjagokan saham ADMR, ASII, PTRO hingga UNVR untuk perdagangan Senin (3/8).",
+      "published": "2026-08-02T23:14:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Astra",
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "ASII",
+        "PTRO"
+      ],
+      "big": false,
+      "id": "c53e6a82ca0fd0da"
+    },
     {
       "title": "Investor Asing Net Buy Rp 7,1 Triliun, Borong Saham UNTR dan BBCA",
       "link": "https://katadata.co.id/finansial/bursa/6a6ee2851bb0b/investor-asing-net-buy-rp-7-1-triliun-borong-saham-untr-dan-bbca",
@@ -3138,21 +3155,6 @@
       ],
       "big": false,
       "id": "a7d8eff543d5b695"
-    },
-    {
-      "title": "Danantara Tunjuk Mitra Proyek WtE Tahap II di 8 Lokasi, Ada Bakrie dan Pertamina",
-      "link": "https://katadata.co.id/finansial/korporasi/6a54df7c57dd1/danantara-tunjuk-mitra-proyek-wte-tahap-ii-di-8-lokasi-ada-bakrie-dan-pertamina",
-      "summary": "PT Danantara Investment Management (DIM) bersama PT Daya Energi Bersih Nusantara (Denera) menetapkan mitra terpilih untuk pengembangan dan pengelolaan proyek Waste to Energy (WtE) atau PSEL Tahap II.",
-      "published": "2026-07-13T12:52:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Bakrie"
-      ],
-      "matched": [
-        "Bakrie"
-      ],
-      "big": true,
-      "id": "bd3fcec206aa7c76"
     }
   ]
 }

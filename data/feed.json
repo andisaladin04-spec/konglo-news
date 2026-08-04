@@ -1,7 +1,26 @@
 {
-  "updated": "2026-08-04T10:01:14.302491+00:00",
+  "updated": "2026-08-04T12:15:34.971299+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "Adu Laba 5 Emiten Grup Bakrie, BUMI, BRMS, VKTR hingga ELTY",
+      "link": "https://katadata.co.id/finansial/bursa/6a71caa439f25/adu-laba-5-emiten-grup-bakrie-bumi-brms-vktr-hingga-elty",
+      "summary": "Performa laporan keuangan lima emiten Grup Bakrie di semester pertama 2026 terbilang beragam.Ada yang mencetak kenaikan laba yang tinggi, penurunan laba, bahkan rugi yang kian membengkak.",
+      "published": "2026-08-04T11:19:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Bakrie",
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "BRMS",
+        "BUMI",
+        "Bakrie",
+        "VKTR"
+      ],
+      "big": false,
+      "id": "e4335d66c555bea5"
+    },
     {
       "title": "IHSG Ditutup Melesat ke 6.319, Saham BBCA, BBRI, BMRI Ramai Diburu Investor",
       "link": "https://katadata.co.id/finansial/bursa/6a71b6a7298d6/ihsg-ditutup-melesat-ke-6319-saham-bbca-bbri-bmri-ramai-diburu-investor",
@@ -3135,21 +3154,6 @@
       ],
       "big": false,
       "id": "fd8e53ad723b100f"
-    },
-    {
-      "title": "Kode Keras Terbaru untuk Pemegang Saham BBCA - Bisnis Indonesia Premium",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc29lc2dTWEF5Znc1OVp3Z2ZYeFJOcmhQS0U5QURUanlaR2hIeXoteUg3Z2kzNFIwQTFPZmcxbzZQNUNuTi1RdWxmSGxMUFdUOVAxeVpxSDNrVEF1Mk9PTGM2d2M5R1dXV1o0MGc1MXdoV1FvOE9wZkRoLWVHSW5xYTNDZWJkeXR2Rkl1ZHR3TTVwZVlweWZ1M2hLQjlIQQ?oc=5",
-      "summary": "Kode Keras Terbaru untuk Pemegang Saham BBCA&nbsp;&nbsp;Bisnis Indonesia Premium",
-      "published": "2026-07-15T05:22:00+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Djarum / Hartono"
-      ],
-      "matched": [
-        "BBCA"
-      ],
-      "big": false,
-      "id": "8b1057736eaa05f0"
     }
   ]
 }

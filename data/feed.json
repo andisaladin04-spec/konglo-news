@@ -1,7 +1,55 @@
 {
-  "updated": "2026-08-05T07:17:04.085415+00:00",
+  "updated": "2026-08-05T10:00:27.081103+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Naik ke 6.351, Saham BUMI, BBCA, ANTM hingga AMMN Diburu Investor",
+      "link": "https://katadata.co.id/finansial/bursa/6a7309577dc45/ihsg-naik-ke-6351-saham-bumi-bbca-antm-hingga-ammn-diburu-investor",
+      "summary": "IHSG ditutup naik 0, 50% ke 6.351 pada perdagangan saham hari ini, Rabu (5/8). Sebanyak 406 saham menguat, 208 saham terkoreksi, dan 178 saham lainnya tidak bergerak.",
+      "published": "2026-08-05T09:58:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Bakrie",
+        "Djarum / Hartono"
+      ],
+      "matched": [
+        "BBCA",
+        "BUMI"
+      ],
+      "big": false,
+      "id": "591ad3fd33f0a509"
+    },
+    {
+      "title": "BUMI Ungkap Progres Akuisisi Perusahaan Tambang Loyal Metals Australia",
+      "link": "https://katadata.co.id/finansial/bursa/6a72f8aceacd9/bumi-ungkap-progres-akuisisi-perusahaan-tambang-loyal-metals-australia",
+      "summary": "Melalui skema yang tunduk pada persetujuan pengadilan Australia berdasarkan Undang-Undang Korporasi 2001, BUMI akan mengambil alih 100% saham Loyal Metals yang beredar.",
+      "published": "2026-08-05T08:47:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Bakrie"
+      ],
+      "matched": [
+        "BUMI"
+      ],
+      "big": true,
+      "id": "202fe8d587f9baf5"
+    },
+    {
+      "title": "Beda Arah INDF-ICBP dan LSIP-SIMP: Prospek Bisnis Salim Diuji Rupiah - Bisnis Indonesia Premium",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcjNOaGY0cThxSTVJQmY0T213OGE0N3ZNMVpndHBJeml6UWlKbERaU0xaZTM4aVVFTGN6UlRaaEVGTzVNQl9nbUlHNkpXYUFhejZKNVRWWE5wMVB1NHlEOWZ0Tnc4ZzB6bGVvVHBqY1psMnpZWEdPelVubGw1TlhqVGh6d2ZHTXVoUHlZV0tiRHBpaVhhcGhwUmFDZTRrWV84dDRwTnRqODFsQjBqMnprR3dWTURMUGl6d0MxaA?oc=5",
+      "summary": "Beda Arah INDF-ICBP dan LSIP-SIMP: Prospek Bisnis Salim Diuji Rupiah&nbsp;&nbsp;Bisnis Indonesia Premium",
+      "published": "2026-08-05T08:15:00+00:00",
+      "source": "Bisnis Indonesia (via GNews)",
+      "groups": [
+        "Salim"
+      ],
+      "matched": [
+        "ICBP",
+        "INDF"
+      ],
+      "big": false,
+      "id": "9b83e46936162c12"
+    },
     {
       "title": "IHSG Sesi I Naik 0,69%, Saham Grup Djarum BACH ARB 2 Hari Beruntun",
       "link": "https://katadata.co.id/finansial/bursa/6a72cafa95535/ihsg-sesi-i-naik-0-69-saham-grup-djarum-bach-arb-2-hari-beruntun",
@@ -3107,51 +3155,6 @@
       ],
       "big": true,
       "id": "7f4aa97f07165783"
-    },
-    {
-      "title": "IHSG Rawan Terkoreksi, Analis Rekomendasi Saham BUMI, TINS, MAPA, HMSP",
-      "link": "https://katadata.co.id/finansial/bursa/6a5821d87635f/ihsg-rawan-terkoreksi-analis-rekomendasi-saham-bumi-tins-mapa-hmsp",
-      "summary": "Indeks Harga Saham Gabungan atau IHSG masih rawan terkoreksi hingga perdagangan saham hari ini, Kamis (16/7).",
-      "published": "2026-07-16T00:12:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Bakrie"
-      ],
-      "matched": [
-        "BUMI"
-      ],
-      "big": false,
-      "id": "4593d6d8e248bdb7"
-    },
-    {
-      "title": "Simak Rekomendasi Saham TPIA, MBMA, BMRI untuk Kamis (16/7)",
-      "link": "https://investasi.kontan.co.id/news/simak-rekomendasi-saham-tpia-mbma-bmri-untuk-kamis-167",
-      "summary": "Aksi cepat di pasar modal. Ketahui 3 saham pilihan analis yang berpotensi mengubah portofolio Anda besok.",
-      "published": "2026-07-15T14:13:37+00:00",
-      "source": "Kontan - Investasi",
-      "groups": [
-        "Prajogo / Barito"
-      ],
-      "matched": [
-        "TPIA"
-      ],
-      "big": false,
-      "id": "9b15a3c02645af0f"
-    },
-    {
-      "title": "BREN Rancang Akuisisi Jumbo Perusahaan Filipina, First Gen: Belum Ada Kesepakatan - Bisnis.com - Market",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNFBxd0d4dTZDMFhVV3oxaE82UU1sZWxJWEdLREpBZ0xESmZMMlNzdU1UUlRfZHRnVzVjTTZxLTlpRm5kZDhGUDRiNnBmZ2dtUGJWZWhQYVlsaVlsMGx2SWxpLTF1OWtwMmpla1didTR0TGU1QjZhTGRkeS1fcGNXckw2UktUanVuamNaVU00ekFEQUFBbVVna1pjQ240T1A1N2gzaU1RaTZFVHppUkV5WjJlVHBqOUlnMjE5bXVCbkI2ZFRtb2ZoWC13aw?oc=5",
-      "summary": "BREN Rancang Akuisisi Jumbo Perusahaan Filipina, First Gen: Belum Ada Kesepakatan&nbsp;&nbsp;Bisnis.com - Market",
-      "published": "2026-07-15T12:45:23+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Prajogo / Barito"
-      ],
-      "matched": [
-        "BREN"
-      ],
-      "big": true,
-      "id": "7541f06bc7a687ea"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T03:35:37.326663+00:00",
+  "updated": "2026-08-07T05:20:29.683503+00:00",
   "count": 200,
   "items": [
     {
@@ -16,6 +16,24 @@
       ],
       "big": false,
       "id": "c1431e23b5e2c83e"
+    },
+    {
+      "title": "Menilik Kans Emiten Grup Bakrie BNBR, BUMI, VKTR, MDIA Usai Lonjakan Harga Saham",
+      "link": "https://katadata.co.id/finansial/bursa/6a7556a2d527d/menilik-kans-emiten-grup-bakrie-bnbr-bumi-vktr-mdia-usai-lonjakan-harga-saham",
+      "summary": "Sejumlah harga saham emiten Bakrie melonjak hingga ratusan persen.",
+      "published": "2026-08-07T02:16:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Bakrie"
+      ],
+      "matched": [
+        "BNBR",
+        "BUMI",
+        "Bakrie",
+        "VKTR"
+      ],
+      "big": true,
+      "id": "015781715c5843ab"
     },
     {
       "title": "Menilik Kans Emiten Grup Bakrie BNBR, BUMI, VKTR, dan MDIA Usai Kompak Melonjak",
@@ -3137,21 +3155,6 @@
       ],
       "big": false,
       "id": "0d6cf3f488e0ede2"
-    },
-    {
-      "title": "Darma Henwa (DEWA) Dirikan 3 Anak Usaha Baru, Rambah Bisnis Pembangkit Listrik hingga Hotel - Bisnis.com - Market",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUnJwQ015c0Joam41V1hzN2JMS0dNd1laaUtnT1FJRFZZLU5QV0VDSkx1Z0FuNnBHVjFEU1VFQmpHM0ZNOVA3UEgzY0VJNGNBNkFGVXlMcktiNGJEUFhrR2w0NFliTEdXcUdpUC1fMF9nNXo4amhuTk1rSUsyTzEwUzd6RXA5dHpPdGdTam84bF9fajJ2T1p4aDZfb3dEdFlNUlkxcW5XUlBpNW1URHlMLVh1N2RSZlRtdmRsQW1oU0VIam91Szc1SVJiaWJwNmp3bmU0TFhaVQ?oc=5",
-      "summary": "Darma Henwa (DEWA) Dirikan 3 Anak Usaha Baru, Rambah Bisnis Pembangkit Listrik hingga Hotel&nbsp;&nbsp;Bisnis.com - Market",
-      "published": "2026-07-17T12:59:00+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Bakrie"
-      ],
-      "matched": [
-        "DEWA"
-      ],
-      "big": false,
-      "id": "38af1524fa0ea205"
     }
   ]
 }

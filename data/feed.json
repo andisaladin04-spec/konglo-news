@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-07T09:12:41.981093+00:00",
+  "updated": "2026-08-07T10:13:35.519794+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Naik ke 6.409, Ada Crossing Saham Jumbo di MGLV, BNBR, BMRI, SMMA",
+      "link": "https://katadata.co.id/finansial/bursa/6a75ae72915d5/ihsg-naik-ke-6409-ada-crossing-saham-jumbo-di-mglv-bnbr-bmri-smma",
+      "summary": "IHSG ditutup naik 1, 04% ke level 6.409 pada perdagangan saham akhir pekan ini, Jumat (7/8). Sebanyak 355 saham menguat, 235 saham terkoreksi, dan 203 saham lainnya stagnan.",
+      "published": "2026-08-07T10:07:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Bakrie",
+        "Sinar Mas"
+      ],
+      "matched": [
+        "BNBR",
+        "SMMA"
+      ],
+      "big": false,
+      "id": "0eb1752674ae81a9"
+    },
     {
       "title": "Beda Tipis, Prajogo Salip Low Tuck Kwong - Bisnis Indonesia Premium",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdTdqNXJNMG5Wd0E4UkRaN1REeVpFQjhOX0JSNzZPNGtjSnU2OFIyZDhfeGNkaDZKZkR1dUFyN0U2ems4ckVCdVowQ2c5clBTckFXNDZKUjdwYjlhaXdfUUVOb2F1Z3dockY1cjNuX2VYOC1YenZzWEgydWpFRTNNUVl0RTZHVkRJRmo4NHphTmlhczdJNlRF?oc=5",
@@ -3139,22 +3156,6 @@
       ],
       "big": false,
       "id": "d57b767026aa736f"
-    },
-    {
-      "title": "Astra International (ASII) Raih Restu Pemegang Saham Buyback Rp8 Triliun Besok - Bisnis.com - Market",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWDlaOWlGLVJ6N2hhVXJTMjBlQjkzWU1JNTBTZnBZZHRuU3p3eFJRbmYtd2VJZ18zVVI0c1BMazZYdzNPS3IwWUxuSEV0VGRhczFLWEkxX1Y3QTRfYlVDQ0V0T1BDMDJKQkZuMHZsR2xscm1iVS1LYVFEcVc5V19YeS1adElieEgzbUxSUE1Jc3I4c0tCUEhpLURZVWVaWWdpVGdCOEd3aTJBYXo2OVVXRVRHVUxXOGNybTE5MDZzRkpJZFNJ?oc=5",
-      "summary": "Astra International (ASII) Raih Restu Pemegang Saham Buyback Rp8 Triliun Besok&nbsp;&nbsp;Bisnis.com - Market",
-      "published": "2026-07-19T13:15:00+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Astra"
-      ],
-      "matched": [
-        "ASII",
-        "Astra International"
-      ],
-      "big": true,
-      "id": "dcf622b40bb00f35"
     }
   ]
 }

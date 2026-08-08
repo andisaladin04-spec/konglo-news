@@ -1,7 +1,22 @@
 {
-  "updated": "2026-08-08T20:43:59.198940+00:00",
+  "updated": "2026-08-08T21:15:30.105051+00:00",
   "count": 150,
   "items": [
+    {
+      "title": "Trump’s Former Lawyer Is Now Attorney General",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/aje-onl-nf_todd-blanche-ag-080826?traffic_source=rss",
+      "summary": "Todd Blanche, President Trump’s former lawyer, is now US attorney general.",
+      "published": "2026-08-08T21:04:54+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "ec89621eefe682f0"
+    },
     {
       "title": "Komisi VI DPR RI sosialisasikan kemitraan BUMN di Situbondo",
       "link": "https://www.antaranews.com/berita/5686148/komisi-vi-dpr-ri-sosialisasikan-kemitraan-bumn-di-situbondo",
@@ -2276,23 +2291,6 @@
       ],
       "big": true,
       "id": "5984eed856ef24b4"
-    },
-    {
-      "title": "For Mexico, Trump’s Focus on Fentanyl Brings New Tariff Blow - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOEp6WjR3VlY1ZHpMbGI2Z2lCYmRoZElQaFhENnBOU0N1ZHQwNGRGa2c0R0xwNDRDTnU4cV9ZVWVsekMwcEdWLUF5RnhyWUxSNHVjVGh2SUl1d1JfdGhUaE5IVTFFTnBGcW1uMjlucDVBNlZ3YjFPdkc1X1FoT0lHcFBaOFZVWk1kUzBEc3ZvVFAweEE4TXJ1MUFtdUI1OExBS25MTw?oc=5",
-      "summary": "For Mexico, Trump’s Focus on Fentanyl Brings New Tariff Blow&nbsp;&nbsp;WSJ",
-      "published": "2025-07-12T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Geopolitics",
-        "Global Finance"
-      ],
-      "matched": [
-        "Trump",
-        "tariff"
-      ],
-      "big": false,
-      "id": "30aabaf1124273a4"
     }
   ]
 }

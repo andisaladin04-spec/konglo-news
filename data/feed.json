@@ -1,7 +1,37 @@
 {
-  "updated": "2026-08-10T19:12:54.469535+00:00",
+  "updated": "2026-08-10T20:04:18.162657+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "PGEO & BREN Joint Operator - Bisnis Indonesia e-Paper",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZTZtSjRYUGR0TENCcTdlUEdBVHI4NTdZd0JvMGtPY1dYdXA1Y0g0V1dfOGgwY3pfNjBxVFo0QXhPU1N6WFhBSFFqcHF1ako3Mm4wcVZKazNnd2hHM2NOblpGQ2JlRW1DcXpYNUs2ZnM0VVdMWDJUdVRpNFdyVGlTbFRaYl9fZ05wZkoxdTNvYzQxRlFqdE1HMXBqaw?oc=5",
+      "summary": "PGEO & BREN Joint Operator&nbsp;&nbsp;Bisnis Indonesia e-Paper",
+      "published": "2026-08-10T19:00:00+00:00",
+      "source": "Bisnis Indonesia (via GNews)",
+      "groups": [
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "BREN"
+      ],
+      "big": false,
+      "id": "ccae5b0c74b8b335"
+    },
+    {
+      "title": "Balapan ACES vs MAPI Pacu Kinerja - Bisnis Indonesia e-Paper",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWURibV90NG5RRVBkMC1MYktlUTk2eGE0Rm43YW12RWVkcWVUc1pXa3ZlNUVKVzg4LU5uMmxFZFpiTC1uZzNHcENpNVFkR3pzMk8yN3RKNEROY2hiSkhiT0VucFpPR0dlYkhnZ3AybTBMYWxWRnBINHVlM3JpeWlfc1pIUVNQLThYTi14UTI3d0JzWGp3T012SjdaclFjM2xMX240YXc3SQ?oc=5",
+      "summary": "Balapan ACES vs MAPI Pacu Kinerja&nbsp;&nbsp;Bisnis Indonesia e-Paper",
+      "published": "2026-08-10T19:00:00+00:00",
+      "source": "Bisnis Indonesia (via GNews)",
+      "groups": [
+        "Astra"
+      ],
+      "matched": [
+        "ACES"
+      ],
+      "big": false,
+      "id": "36d891ca8be7b462"
+    },
     {
       "title": "IHSG Turun 0,69%, Ada Transaksi Crossing di Saham DSSA, BNBR hingga SMMA",
       "link": "https://katadata.co.id/finansial/bursa/6a799db1c01c7/ihsg-turun-0-69-ada-transaksi-crossing-di-saham-dssa-bnbr-hingga-smma",
@@ -3122,36 +3152,6 @@
       ],
       "big": false,
       "id": "a569d9114f014b36"
-    },
-    {
-      "title": "IHSG Ditutup Naik 0,91% ke 6.231, Saham BNBR, TLKM hingga BBRI Tancap Gas - Bisnis.com - Market",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObjRlRmhqNGktb1AtWGg2c3ptVmdMLVVnR1RVRGVPUzkyaFhCTVBSdnVrSzFvUWpZZDE5NVUtaTdJV0c0UzlNSzJ5Smp3bGZPMG5ObEQyRTM2MEhhVGNVbGNjSWpocXN4QXg5S21RNnhyNzZLSzFMTlJZZG5PVkstQmhWX3JkZ3dRQVVQRkwyZjdkejV1dFNLQ1dIQ0JGWTU4UjlyaHV0MTdGT1VNVmdWT0RuZmUxM1V4WXc?oc=5",
-      "summary": "IHSG Ditutup Naik 0,91% ke 6.231, Saham BNBR, TLKM hingga BBRI Tancap Gas&nbsp;&nbsp;Bisnis.com - Market",
-      "published": "2026-07-20T09:15:48+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Bakrie"
-      ],
-      "matched": [
-        "BNBR"
-      ],
-      "big": false,
-      "id": "26f849f64288de06"
-    },
-    {
-      "title": "Saham ANTM, BBCA hingga TLKM Naik, Sinyal IHSG Bangkit atau Sentimen Sesaat?",
-      "link": "https://katadata.co.id/finansial/bursa/6a5de721762dc/saham-antm-bbca-hingga-tlkm-naik-sinyal-ihsg-bangkit-atau-sentimen-sesaat",
-      "summary": "Indeks Harga Saham Gabungan atau IHSG mulai ada tanda-tanda pulih hingga tercatat naik 1, 65% dalam sebulan terakhir. Apakah sinyal kenaikan jangka panjang atau sentimen sesaat? Bagaimana arahnya?",
-      "published": "2026-07-20T09:15:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Djarum / Hartono"
-      ],
-      "matched": [
-        "BBCA"
-      ],
-      "big": false,
-      "id": "a544330c88523b17"
     }
   ]
 }

@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-10T09:44:12.550394+00:00",
+  "updated": "2026-08-10T10:49:59.704606+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Turun 0,69%, Ada Transaksi Crossing di Saham DSSA, BNBR hingga SMMA",
+      "link": "https://katadata.co.id/finansial/bursa/6a799db1c01c7/ihsg-turun-0-69-ada-transaksi-crossing-di-saham-dssa-bnbr-hingga-smma",
+      "summary": "IHSG melemah 0, 69% atau 44, 28 poin ke level 6.365 pada penutupan perdagangan Senin (10/8). Sebanyak 287 saham ditutup naik, 329 ditutup turun, dan 180 saham lainnya tidak bergerak.",
+      "published": "2026-08-10T09:45:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Bakrie",
+        "Sinar Mas"
+      ],
+      "matched": [
+        "BNBR",
+        "SMMA"
+      ],
+      "big": false,
+      "id": "60979101394c8984"
+    },
     {
       "title": "Indeks Bisnis-27 Ditutup Melemah, Saham BBNI, INKP & PTBA Justru Melaju - Bisnis.com - Market",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOThyR19yd1VmMnJPdHZmTmlVeTAwTlpkd0FsdU5fQjNEdGdiZi13VjhBQjRCM2hVOEEzNEk3X0puZWlFUk4xMlQ2aHdrd0g1VERkNXBtY3dSWGRkV0trME9taUtJcXJTa0I4VFk3ZV9JVEJhX3I1cE1SaXJQYVZYdnFHRDh1ZHc4Q205WktwejVfVll2X09UNXFoelJVS0NBZWJpcDJZZnhKTlpZcTlvUXRjd1VQM0xK?oc=5",
@@ -3135,21 +3152,6 @@
       ],
       "big": false,
       "id": "a544330c88523b17"
-    },
-    {
-      "title": "IHSG Sesi I Naik 0,86% hingga Net Sell Capai Rp 302 M, BMRI–ASII Ramai Dijual",
-      "link": "https://katadata.co.id/finansial/bursa/6a5db73d38588/ihsg-sesi-i-naik-0-86-hingga-net-sell-capai-rp-302-m-bmriasii-ramai-dijual",
-      "summary": "Indeks Harga Saham Gabungan atau IHSG ditutup naik 0, 86% ke level 6.228 pada perdagangan saham sesi pertama awal pekan ini, Senin (20/7).",
-      "published": "2026-07-20T05:50:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Astra"
-      ],
-      "matched": [
-        "ASII"
-      ],
-      "big": false,
-      "id": "d3d692c1bdd53a2e"
     }
   ]
 }

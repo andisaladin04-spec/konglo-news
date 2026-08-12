@@ -1,7 +1,37 @@
 {
-  "updated": "2026-08-12T23:03:37.332330+00:00",
+  "updated": "2026-08-12T23:55:42.593329+00:00",
   "count": 150,
   "items": [
+    {
+      "title": "Trump administration arrests Southern Poverty Law Center expert for fraud",
+      "link": "https://www.aljazeera.com/news/2026/8/12/trump-administration-arrests-southern-poverty-law-center-expert-for-fraud?traffic_source=rss",
+      "summary": "Heidi Beirich, an expert on far-right groups, has been charged over alleged misuse of donor funds to pay informants.",
+      "published": "2026-08-12T23:23:14+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "04fb7e3926b8d3df"
+    },
+    {
+      "title": "Media groups sue Trump over paid access to public social media posts",
+      "link": "https://www.aljazeera.com/economy/2026/8/12/media-groups-sue-trump-over-paid-access-to-public-social-media-posts?traffic_source=rss",
+      "summary": "Lawsuit claims Trump profits unfairly by charging up to $100,000 monthly for exclusive access to presidential posts.",
+      "published": "2026-08-12T23:23:00+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "6c5564eba766d7f2"
+    },
     {
       "title": "Politik, persiapan HUT RI hingga latihan gabungan TNI AL dan China",
       "link": "https://www.antaranews.com/berita/5691924/politik-persiapan-hut-ri-hingga-latihan-gabungan-tni-al-dan-china",
@@ -2168,6 +2198,22 @@
       "id": "a4c1ed282c400767"
     },
     {
+      "title": "Watch Fed Rate Hike Doesn't Make Sense Right Now: BlackRock's Rieder - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMFYxaVk3ck5odEdldUthLW5nUjFjRllkTS1STVYzMzdRUk51OGExWkVUaU1UOFo2OHg5bk5yQ0pVUnJuN2wxaXNFT1hkRkNTcTUzdHgzZ1FDVjBYUTFXbUVxVG5QSjB1bGxiTEFQT09sTkNHQzlzUGp5SmtOMGMwQzlTVWIyTmhPcGk4NUJYdmlIbUZva2V1UkhfTDM0X1ZZTG8tRjE1cURwZw?oc=5",
+      "summary": "Watch Fed Rate Hike Doesn't Make Sense Right Now: BlackRock's Rieder&nbsp;&nbsp;Bloomberg.com",
+      "published": "2026-08-07T00:00:00+00:00",
+      "source": "Bloomberg (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "Fed rate",
+        "rate hike"
+      ],
+      "big": true,
+      "id": "8c969a0f7073c499"
+    },
+    {
       "title": "Emerging Currencies Hold Near Record High as Carry Trades Revive - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVl9TTGp3VnNuX3NJTU13RFhCbUx1dVF5dXVtXzd3TkxOT1Z1WWxPU01KS2ZqZ1FJX0JHMGduQ2dvZzhRdkdpSFdBSmEtRUxzcmNjNUtBSGdya2k0QlBHclk2WktBWm53bDItdS1jU0ktUFd5eFJzWmg5SzNBTnNTNHI3S2dPNm5mN0dpTnZVdjVYSEdWOGgyc3F2cnBFOVFLWC1Bd19KYS1iOERRZzlEVVVlWkI2QQ?oc=5",
       "summary": "Emerging Currencies Hold Near Record High as Carry Trades Revive&nbsp;&nbsp;Bloomberg.com",
@@ -2198,99 +2244,53 @@
       "id": "a8323e94f590be3a"
     },
     {
-      "title": "Watch MNTN CEO on Disney’s Ad Business, Streaming Wars Outlook - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN3o4a09WaV9VUHBWQnc3UFJHU1NEdzNPUWhnclZUUFBuWTR5TGV5dkxIdlI1TnBmeWNIZXZ5d3hDSFZaV0NaZUxOcmtMUlJESXRDN2NoLVp5Q1ZPaU8tMHpFVVQyRFJZX2NkRjgydXpSejF1dFhaQ2JnSGFiT2VlZnBuTF9jdEZtX3Y2QTJ4cHhBdWxkVV9sa0VUcVdZcktCcDRyU0FoaFdOb0JXb3dj?oc=5",
-      "summary": "Watch MNTN CEO on Disney’s Ad Business, Streaming Wars Outlook&nbsp;&nbsp;Bloomberg.com",
-      "published": "2026-08-05T00:00:00+00:00",
-      "source": "Bloomberg (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "outlook"
-      ],
-      "big": false,
-      "id": "2412d896af195c69"
-    },
-    {
-      "title": "Destry Damayanti Tegaskan Fokus Utama Terkini BI: Inflasi dan Rupiah - CNBC Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZjNtV3VoOGNxYnZUMHhPaGZ0VEprNThQNDNhaXRPNGVQa2JLWnFqU2ExTy1oOUNMZTA2WF9BVHA1VWY1WW93MmZyMVhMTVZKTjhKSXlrUmdXbVpjQjcxelFPZEJ5LWVlSVB1WTlRemFzbGxsSm9IanZaMUkydmt0NTBHemZobFdqdEtqcC1EM2NCd0RqTS1ZOWR6OXRoNldfbUpYNFgwTHJuLWwzeWNNUkZYVWRUODJjdnRhSGhGR1B5cFZLcTVmRtIBzgFBVV95cUxNcGhabVQ3NzVkMnJSaUkxX0x3cU1TN0VGVlhudUJ0RWQydVdjQlVLMkVaRHcza1dKWFBhUjlibXd3UXNfRDVSZWtFQk1EX2tVcWJEZVBvY3hadUlSUEVnWnUxb25aRXVycGFubERidGlScEZZUHhTVjhnWXg5V1dEWUIyWWZiZmlIU2JCQjdhbFRwX212NnY2QlU5eE1BZURkaFRwZlZoeWRncS1FNWFielREUEQ0V2hfa1UyYjMwSnlLZnYxbW03ak1ocnppUQ?oc=5",
-      "summary": "Destry Damayanti Tegaskan Fokus Utama Terkini BI: Inflasi dan Rupiah&nbsp;&nbsp;CNBC Indonesia",
-      "published": "2026-07-31T07:00:00+00:00",
+      "title": "BI naikkan BI-Rate jadi 5,75 persen guna jaga stabilitas rupiah - antaranews.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMTNOSmRWMUc5U00wbllsWXUwVUlzT0lZY0E2UkVnZTYwZ0NRQzRTdnBTaEpBUmZ1a29FZ3M0OGtWSXlkY2w1bWYwVFR4UDRZM1hMZnB4MG81V2pWZTdsUDNSaTZnb3FnSDNQVDVlQ3pmWWhMWjFqTS1ldmx0dzdMXzNQSy1CVXA2aGtmLXI5REVYdUtXN3U0bnNrc3hLU2VVeEoyOVh4a9IBqgFBVV95cUxPZG4yTjF5RWk5R2ZUQ2pMUlBtSjBYN0pYbVdidkZrLTdlODI0aEczamtVTGh5blNvdXZ0RVktaHVocl9PQnU4d0NCNHpzMWtLNm1hbDBfQk03OXYzNGd6OTM4Y2xGaXVHeWo0WWIyQU1TSS1GTTB2WnpueFJBa1p5OFBtZFZ2VDVWanNKVXhYRUhNcmpseEZwM1RXNEtxeUdxeFloM0trUnIxZw?oc=5",
+      "summary": "BI naikkan BI-Rate jadi 5,75 persen guna jaga stabilitas rupiah&nbsp;&nbsp;antaranews.com",
+      "published": "2026-06-18T07:00:00+00:00",
       "source": "GNews – BI rate rupiah",
       "groups": [
         "Macro / Economy"
       ],
       "matched": [
-        "inflasi",
         "rupiah"
       ],
       "big": true,
-      "id": "7680289f50015e6d"
+      "id": "99b67c33b39a260f"
     },
     {
-      "title": "Stocks Fall on Mideast Escalation Ahead of Fed Rate Decision - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMm1BUk12RkhmcjF0UWV1MkU1LWlqV0RLNHlqQ0lqOUhHREYtUkRWcjlBRy1zbThnZDh2TWN1eTItaHhkX0o1b3A0QmpmZldSaEVMc2UzRWMyR3Byakc2TXRxYzBsZW5NVTNNRUx0VzBuRVJqa3doWkIwZ1dNV3djczFBRGdVVzQtLXhHeWJRbnFsT25ldmQ5dXEtWHoyMGp1SVlHcWd6dkE?oc=5",
-      "summary": "Stocks Fall on Mideast Escalation Ahead of Fed Rate Decision&nbsp;&nbsp;WSJ",
-      "published": "2026-07-29T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "Fed rate"
-      ],
-      "big": true,
-      "id": "5f05b27796f3f4fe"
-    },
-    {
-      "title": "Presiden Prabowo Sampaikan Arah Kebijakan Ekonomi Nasional 2027 di Sidang DPR RI - Klikfakta.id",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUk4wXzdtVlZMeHQya1pGVEtNODFXaVhpVWxOOHJmNVJhbG1JWEZFY1FpbGcxa05HdjJ3V1AzT3ktUG15YTRtTHdiZmhpZmVHaHMyMWU3WWhudVdwcjlubURFclVlcHdXX2V5bVdBdW9WQ1FRQ3Y4a2tmZTlZR3JzeGxCRUROaW5zR2RHZTNDTFJxVk5vck15SUdGUmN6T1BHTFhCYQ?oc=5",
-      "summary": "Presiden Prabowo Sampaikan Arah Kebijakan Ekonomi Nasional 2027 di Sidang DPR RI&nbsp;&nbsp;Klikfakta.id",
+      "title": "Prabowo Targetkan Pertumbuhan Ekonomi 6,5% dan Defisit 2,4% pada 2027 - kontan.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNUlCaE16ZmhiTzNvLXZfRFBScEdrN3laNzJlc1RVQnhOaU53OHk1V3ltdEhOWi1UOXRlcGp6SUhLYjBldTUxTkE0MmxtenR1Nk5HZEpzZTFpM3RxUW4zdGx0TmZzU3lRakthaTJhdFA4UFpVcEVHRzVCMG5tTXQzSGtzNWU5MW1DdW5zQXV6YnVCWDhqYzFPLS1IbTJ2UDBtVVHSAZsBQVVfeXFMTUJiSFJUcmRJUEZnTTBWSHd6Ym1BWm96cTdjeDB2Z1N2bFpNMmdpbkxjcUNvTUhEenJ4WUJEcndSVEhCWDQza1F1c2hHQ1ItY2I2RWdLZERRaVZ6OEFtLXRpZ0RtV29IZzhyMzdiaUQtMXZvOUZMdXpucnFZVTQ0d3Bhc0xWSlBEanNwcUs4ZUxDcEZfMkQxQXpLUWs?oc=5",
+      "summary": "Prabowo Targetkan Pertumbuhan Ekonomi 6,5% dan Defisit 2,4% pada 2027&nbsp;&nbsp;kontan.co.id",
       "published": "2026-05-20T07:00:00+00:00",
       "source": "GNews – Prabowo APBN",
       "groups": [
-        "Government / Policy"
+        "Government / Policy",
+        "Macro / Economy"
       ],
       "matched": [
-        "DPR",
-        "Prabowo"
+        "Prabowo",
+        "pertumbuhan ekonomi"
       ],
       "big": false,
-      "id": "0fa8a9dd3b3726c2"
+      "id": "4d56b76ec78fbc07"
     },
     {
-      "title": "Beda dengan 2025, Ini 5 Fokus Politik Anggaran Prabowo di APBN 2026 - Bisnis.com - Ekonomi",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTWZVNy1VNFZlbnhoLXMzdlhDUFlVamhHZWxFa0FDM0lLa2tiYkhnMGxSNXJkejExQWI3MVFnLXhXOHQ2R1VMN2x3LXMweUtHOFRIdkdZaGdWb1RpdTVkQ2ZtUmdLdTRHeHZVOXNsMUhhdms1R3kydWxLOU1LZGtEZ2luQmRDWExySjRyM1VYbWxuMG55V24zMTNwVUo2Z2dFbFFZbzljV3lUWVpZMVl0TUprRHpCM2VkUlE?oc=5",
-      "summary": "Beda dengan 2025, Ini 5 Fokus Politik Anggaran Prabowo di APBN 2026&nbsp;&nbsp;Bisnis.com - Ekonomi",
-      "published": "2026-01-12T08:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "APBN",
-        "Prabowo",
-        "anggaran"
-      ],
-      "big": true,
-      "id": "ba61fd0218a07347"
-    },
-    {
-      "title": "India and Indonesia Can Be Big Winners From Global Trade War - Carnegie Endowment for International Peace",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWUVJUWpyMl9EWnlLTndNaE9BODRxTWdsVFFmN2NveVJFM0RHbkNUVlhWNURsUlc2ZjN4a3dpejFzbDBmR2VqSzB1Zk5ESWRjQ0VQalJOU3dieUw4d0lzZWM5Yks5a09zSlIwZFdMUjZMMjJ5bXpFUHZrR0RVbm1icVAzald3Z3VIbGhNWE9GWjdiS0xxM2lSYjRpaWlyN1NrM3lBdzYzaw?oc=5",
-      "summary": "India and Indonesia Can Be Big Winners From Global Trade War&nbsp;&nbsp;Carnegie Endowment for International Peace",
-      "published": "2019-09-25T07:00:00+00:00",
-      "source": "Financial Times (via GNews)",
+      "title": "Trump Transforms Tariff War Into High-Stakes Showdown With China - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOUkhNbmpLV3N4bDl4YmVXdEMzSzFRTGhONkU0eUZFTUFqWGNlb3ZfVC0zTmFiMUxrZTdCbUpUYnhzWHNNNEYwR3Fmc1lSRmtUY21EWG1JaEl1TzdjNmI5bl90NzdSSXNNSFlmZzUtalhmN0k0TWl1dQ?oc=5",
+      "summary": "Trump Transforms Tariff War Into High-Stakes Showdown With China&nbsp;&nbsp;WSJ",
+      "published": "2025-04-09T07:00:00+00:00",
+      "source": "WSJ (via GNews)",
       "groups": [
         "Geopolitics",
         "Global Finance"
       ],
       "matched": [
-        "trade war"
+        "Trump",
+        "tariff"
       ],
-      "big": true,
-      "id": "98058fd31a11ec0d"
+      "big": false,
+      "id": "00ca295290ffbfed"
     }
   ]
 }

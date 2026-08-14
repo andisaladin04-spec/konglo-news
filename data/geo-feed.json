@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T23:01:25.894763+00:00",
+  "updated": "2026-08-14T23:32:18.162083+00:00",
   "count": 150,
   "items": [
     {
@@ -2204,6 +2204,21 @@
       "id": "e1dfd2f776a1161e"
     },
     {
+      "title": "U.S. economy unexpectedly lost 23,000 jobs in July",
+      "link": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
+      "summary": "Nonfarm payrolls were projected to increase by 83,000 in July while the unemployment rate would hold steady at 4.2%, according to the Dow Jones consensus.",
+      "published": "2026-08-07T19:14:22+00:00",
+      "source": "CNBC Global Markets",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "Dow Jones"
+      ],
+      "big": false,
+      "id": "8ff1f6f3e156b866"
+    },
+    {
       "title": "Prabowo Readies Bank Indonesia Picks With Destry Favored - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWlREMTVGSV9PMU9WdjN6eTZmc2VRVzJQOW5xX2JwN1hMWmJjNEl6SEcwZk5UVXk0MndDV3ZzVmk2NWdfX3Q4WEh3dWhHaGxkRTdZZkdsNE1JcTVaWDM2SEpHaXduZnh4cTJQX0dOSEUtdG5TcHFHQXA4RGRPZUkwVWdmRl9Qc0pMSTRRbXpLdE9yaktvN0daRWtqaUlNeGFucmFqZDBqYTRZOTA?oc=5",
       "summary": "Prabowo Readies Bank Indonesia Picks With Destry Favored&nbsp;&nbsp;Bloomberg.com",
@@ -2299,34 +2314,19 @@
       "id": "f8d7a7b0b8699524"
     },
     {
-      "title": "Celebrity-Backed Indonesia Coffee Chain Meets Banks for Potential IPO - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa1prYWl1M2d4ZVYxdDQ1aTZrZk5hLTlfekdUd3NUb2UxeVNkc3dIZnNZX1lDemJYOXJBekFZVTJrM1VRVlY0T1NxRF9xYWlSZl9CcVRaWW5ldnRYaWlUZmhDM0Jlcnp0TTdyWkxVZWt6Yl9MMTRlOXNwcGswR2U2UUlHUlBWM0p4RTVIMXl1cGRpVmNPS0NYNTg0OS1tX3dXNkl4UHB0eFlfNWZ3WTBCZ1lieVQ?oc=5",
-      "summary": "Celebrity-Backed Indonesia Coffee Chain Meets Banks for Potential IPO&nbsp;&nbsp;WSJ",
-      "published": "2026-07-16T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
+      "title": "Indonesia's digital payment platform can help BRICS rival SWIFT - Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNkNTcFQ3ZW1CdExBV2k3U2hwam9YQmx0OFM2ZzdwdV9QdkZCcU80cVNxbFBDVHd1ckFWemx5a1RHQThpU25lTm9KOWcxVV9iNGlNX2ktZlRTT2hkU2wzSUVEYUUyYVhMQ0cxUUNoekduN0VMT0w2aU1ISXVoSlJBLVo5eVZ1enZxYXJ6bnRoV19pYUlqWXhiSFBfVQ?oc=5",
+      "summary": "Indonesia's digital payment platform can help BRICS rival SWIFT&nbsp;&nbsp;Nikkei Asia",
+      "published": "2025-08-21T07:00:00+00:00",
+      "source": "Nikkei Asia (via GNews)",
       "groups": [
-        "Global Finance"
+        "Geopolitics"
       ],
       "matched": [
-        "IPO"
+        "BRICS"
       ],
       "big": false,
-      "id": "03f0739814c7fbd3"
-    },
-    {
-      "title": "Defisit APBN 2027 Ditargetkan Maksimal 2,4 Persen dari Ekonomi Nasional - AFU.id",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQczB3RHNYTm9iV0VYdTFOZWl4QUI3QnVtWTJsdTlmekozR2VtODhtWHVPekxPNThFQnZMN0N2c2M0RU9XRlMwckhQTzZoNTdBa1dadnlyVmJKNjUtdEVJMEdsdVRxc2swbnhPbmk3cEJ3M2RYOV9vdXB0Q1pzNGwzRXlBaG5POFJKYzhhM09JLWRDS2JUdHRhaQ?oc=5",
-      "summary": "Defisit APBN 2027 Ditargetkan Maksimal 2,4 Persen dari Ekonomi Nasional&nbsp;&nbsp;AFU.id",
-      "published": "2026-05-20T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "APBN"
-      ],
-      "big": true,
-      "id": "2b926579666e83df"
+      "id": "876027c01c3f46f4"
     }
   ]
 }

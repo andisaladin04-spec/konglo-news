@@ -1,7 +1,22 @@
 {
-  "updated": "2026-08-16T17:51:57.325304+00:00",
+  "updated": "2026-08-16T18:24:47.368778+00:00",
   "count": 150,
   "items": [
+    {
+      "title": "Hari ke-2 penanganan bencana, tambahan 25 ton bantuan tiba di NTT",
+      "link": "https://www.antaranews.com/berita/5697589/hari-ke-2-penanganan-bencana-tambahan-25-ton-bantuan-tiba-di-ntt",
+      "summary": "Sekretaris Kabinet (Seskab) Teddy Indra Wijaya menyatakan tambahan 25 ton bantuan dari pemerintah tiba di sejumlah ...",
+      "published": "2026-08-16T18:09:47+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "kabinet"
+      ],
+      "big": false,
+      "id": "40c631c783cec3c7"
+    },
     {
       "title": "Prabowo pimpin Ziarah Nasional-Renungan Suci HUT 81 RI di TMP Kalibata",
       "link": "https://www.antaranews.com/berita/5697576/prabowo-pimpin-ziarah-nasional-renungan-suci-hut-81-ri-di-tmp-kalibata",
@@ -2183,6 +2198,21 @@
       "id": "6a0bcef12f203d49"
     },
     {
+      "title": "U.S. economy unexpectedly lost 23,000 jobs in July",
+      "link": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
+      "summary": "Nonfarm payrolls were projected to increase by 83,000 in July while the unemployment rate would hold steady at 4.2%, according to the Dow Jones consensus.",
+      "published": "2026-08-07T19:14:22+00:00",
+      "source": "CNBC Global Markets",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "Dow Jones"
+      ],
+      "big": false,
+      "id": "8ff1f6f3e156b866"
+    },
+    {
       "title": "BI Rate Tetap 5,75% - detikFinance",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aYk55WXpvUTJyeGhoZURtVlMyQ29BRGxoWFpZeTdHMEpmcHdzVEdDazd4U1h4ZHJXSENxOHN6cndOTy1XbUZ5ck5CY0hoTXFBTjJ2QWg3cFVZaGtqLTZkS3BFeG90WWVocDNuYU1iWdIBdEFVX3lxTE5NamgxOFdSWWRFZjJXSmkzS05EVHNucURzME9TYUk4ZERhQ2kwY09USGFZWWpjNHd2ZXpqMjMzRnZ6Tm5qUmgtUXlaUm1aWi05OFpPVlZRWGpDWFNNdDNMU25UanNneGJVRlJ3UC1tQTYzWDFT?oc=5",
       "summary": "BI Rate Tetap 5,75%&nbsp;&nbsp;detikFinance",
@@ -2215,86 +2245,51 @@
       "id": "c89a94c57e630ebc"
     },
     {
-      "title": "Prabowo Serahkan Embrio APBN 2027 ke DPR, Misbakhun: Ini Tradisi Baru - CNBC Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcXo2RUgxMVFMNGVObVI2Q3VMTzVBTXJEUGtGeWdGcUlZZnZwcFlOUE05SlVGUmgzZXI2bzIwTEZSV2lhYkFWQmJjUHRua0V5RFNGREwwNDRaWE8xMmN0S0ZJbmduYkU3bTZpcXI1cjRvYzQ5Z1JQOUZ4ZGlyZExLYmR0OGM5ME5Pd2txOEJMRWdwRUsyTjFYWGJ6a1F0U0xqYUVTdGhnZDJBcVBKQmVUZ2NmWXZlUzFrZDZBNkJFSHBCcUZT0gHKAUFVX3lxTE9ySFpOWkh3Mmg3MkkxY1NiRl8wMGhRd0x6eWV2Vnl2ODI5YkRGSnhyWkFwRG5TcjB4SFlUNUJyVEJmQkM0YWotRnB1UENiMElvZTdULWkxSVNYb0VOY1lxWnFuSVZRWS1wTUFfTTU1T0FFcVpCNVhXdVlCM3hwY0RUeTVsRGR6akxlREEwUE1pWF9PVWhUbDNudDdsNjhWWUF4LU1hSEJaVU5rUDNOUUlPVmhVdWV0cFc4NVNGaDlmaFJCaHpVc3N0NUE?oc=5",
-      "summary": "Prabowo Serahkan Embrio APBN 2027 ke DPR, Misbakhun: Ini Tradisi Baru&nbsp;&nbsp;CNBC Indonesia",
-      "published": "2026-05-20T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
+      "title": "Indonesia central bank, finance minister agree to boost asset yields to aid rupiah - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZE5mbTdUejNmVTZ6VzJQNzV1WTBGa013MmlqcC1Fcmt4QjVjQVgybUFMWVEtZmJBNW5BMnVWd1Z3c1Z6Vk9wbGpMZ1lnY0JIZnNYbmM0bmRzZGg0X3k2NkUtUXRPZ1kxd2VLOG50WUV0amdDT3doQl9haEJmQ2xwSnBsVFk4YkhiUXE4ZHFTNkVUazVsOUFnaGVtTmgwdFdFaVpjdzU1SkV5MWVabVliM2hUZmxrTVViZF9ySlpzM2M1REdvNnZNRlZR?oc=5",
+      "summary": "Indonesia central bank, finance minister agree to boost asset yields to aid rupiah&nbsp;&nbsp;Reuters",
+      "published": "2026-06-07T07:00:00+00:00",
+      "source": "Reuters – Indonesia",
       "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "APBN",
-        "DPR",
-        "Prabowo"
-      ],
-      "big": true,
-      "id": "c98cc3afc2ee5ad5"
-    },
-    {
-      "title": "Oxford Industries Profit Beats Expectations Amid Tariff Mitigation Efforts - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUkZENkFKcnZkNXl1RG5sWVZtNWFQb2dvZ2dsVTUwemJ3MDBZbk5mdExZQ25yWnMzZTdNSDZ2OEFHUTN6UFpLT2ZfcGgtSXo3ZDBCUndYZnZSUDVrMnNjMFlPSjcxdzB0MDd5VDd6c05OSXVQTUdiUkJwejBqdGRvV1NzN25DdVROcVNaMTR0N3MzQVVXV1lZd1dtSlZia0lhOVhzcVJURlZwWGt1cDF0UFBBRUNWMElQRmlkM0NR?oc=5",
-      "summary": "Oxford Industries Profit Beats Expectations Amid Tariff Mitigation Efforts&nbsp;&nbsp;WSJ",
-      "published": "2025-09-10T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "tariff"
-      ],
-      "big": false,
-      "id": "037e084b56ba9310"
-    },
-    {
-      "title": "Indonesia’s Central Bank Holds Amid Rupiah Wobbles, Tariff Concerns - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN3QxZTFIZVdhME9jNExQTGszS05ROTNEZk8zdEJJTE84R0tWSkM4UU1mR25YR0I1OWdqbFJRZjUzblpvOFJJMEVMd0lZQlBscDZuRVBwSnRXenVmVzA4SWdaRU16OU9VV1p2Nmxoclh3YlBWbVY2cjd6el8tV2NqcHlUWENUYWYyZ0N5S182TFdNdlQwMjU5X1NuLXlmUHdKMHhNWGJqMjNFUnZZazBlRlBSdUZiTWgwNGc?oc=5",
-      "summary": "Indonesia’s Central Bank Holds Amid Rupiah Wobbles, Tariff Concerns&nbsp;&nbsp;WSJ",
-      "published": "2025-04-23T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Global Finance",
         "Macro / Economy"
       ],
       "matched": [
-        "rupiah",
-        "tariff"
+        "rupiah"
       ],
       "big": true,
-      "id": "16264142bfcbebb4"
+      "id": "c7a7e87eabb2248f"
     },
     {
-      "title": "Why World Leaders Are Pulling Their Punches in the Trade War - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeHJIajNzT2ZaVkF2NkQyRHAxRFE3OEJEam1oZnZLMl9UaUZBUVU4amR2emVGdUdqd005VF9uXzZoNUp0Z3V6a0xFeHQzTFdUTHlEMUZkQzdCZVl5eEVNQjBhNmRfT0l0Y0FlZVFTZWl3UTZiRXVaMnVrQjhsLWt3akxjU0V4UFZDcjhKZ21Va19KWkp5NWk2VmZRemtULTRBWktqUjlB?oc=5",
-      "summary": "Why World Leaders Are Pulling Their Punches in the Trade War&nbsp;&nbsp;WSJ",
-      "published": "2025-04-18T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
+      "title": "Bank Indonesia says ready to stabilise rupiah, which is near 27-year low - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX3A4LWU3TkgxMUl1NjV3RVZYWVhSeFRUR2xMbVJwdDFSODRHT0htUmZzaEpaRjhLQnkzalgycVhqc19Pbm45QU5lT05WUERpNEFHeG5NOTU5bmgwQTdIY1lOQWxPUnU5Z3B3YXFnQlN2ekZGMkExN2JRaUVrTUR5NUZhVkZJc21vU2RmclBEclJyTm83TGpsSmpNdDZmLWw0U3lzVWNIc1VCM2c3YTdlOVVwbnk0WDhYWlg0b2MySkJaY2dv?oc=5",
+      "summary": "Bank Indonesia says ready to stabilise rupiah, which is near 27-year low&nbsp;&nbsp;Reuters",
+      "published": "2025-03-26T07:00:00+00:00",
+      "source": "Reuters – Indonesia",
       "groups": [
-        "Geopolitics",
+        "Macro / Economy"
+      ],
+      "matched": [
+        "Bank Indonesia",
+        "rupiah"
+      ],
+      "big": true,
+      "id": "4eff6cefcb60704c"
+    },
+    {
+      "title": "Emerging markets are in turmoil. The IMF must step in to help. Here’s how - The Economist",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSEt4ak9TSC0ydGdYUVZTNWNnclJ5czliOWRBYURaUUpQRVJJXzk3eDdfdW41RUd0Q1NxbTFMTGl6SFdUTVhEN21sVzhHeGdTdU43RWtJU2JYdWE4d0diUkQxM0tIdy1WSVZIVTZXU01hWG45VHV4cmRLU290Y2hCYm9sX1laZnJRLXM1d1NGYmlreVFaV1VkM082Rk9vZ0VzT3YwU3c1MTVIcVdYNE45NEhFQ3FsUQ?oc=5",
+      "summary": "Emerging markets are in turmoil. The IMF must step in to help. Here’s how&nbsp;&nbsp;The Economist",
+      "published": "2020-04-11T07:00:00+00:00",
+      "source": "The Economist (via GNews)",
+      "groups": [
         "Global Finance"
       ],
       "matched": [
-        "trade war"
+        "IMF",
+        "emerging market"
       ],
-      "big": true,
-      "id": "d36872d2e3eb17c8"
-    },
-    {
-      "title": "How a Trump Trade War Puts Cheap Oil From Canada at Risk - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeG5nZ3EwMnBxaXB3d1ZlVk9ON3RRQ29rOTdhWU5LZ3JzXzRrVGVIcnc3NFB2VWx3N2RMQ2YxWW1VU3I5M0Q5LWZMbFMyZEdQcE53bDJiWHlpSkd4cktkZ0xRVk5VYlE4dm5vWXFvUmNydjZlbTlpOFN1d2tQY0EtdlIxbC1JcDJBNlNJRnpuSE9ZTXdBVUlFdmlGeXhoclhkemc?oc=5",
-      "summary": "How a Trump Trade War Puts Cheap Oil From Canada at Risk&nbsp;&nbsp;WSJ",
-      "published": "2025-01-22T08:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Geopolitics",
-        "Global Finance"
-      ],
-      "matched": [
-        "Trump",
-        "trade war"
-      ],
-      "big": true,
-      "id": "4fe88d7b2a3a3926"
+      "big": false,
+      "id": "a2205a33bfbb8fc0"
     }
   ]
 }

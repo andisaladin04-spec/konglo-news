@@ -1,7 +1,52 @@
 {
-  "updated": "2026-08-16T10:57:58.358309+00:00",
+  "updated": "2026-08-16T11:30:29.681824+00:00",
   "count": 150,
   "items": [
+    {
+      "title": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
+      "link": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss",
+      "summary": "US president has yet another outlandish threat for Iran, with no end to war in sight.",
+      "published": "2026-08-16T11:14:23+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "26cf7fa8b803c694"
+    },
+    {
+      "title": "Tapak Tilas Proklamasi jadi wadah memupuk nilai perjuangan",
+      "link": "https://www.antaranews.com/berita/5697295/tapak-tilas-proklamasi-jadi-wadah-memupuk-nilai-perjuangan",
+      "summary": "Menteri Kebudayaan Fadli Zon mengatakan rangkaian kegiatan dalam Tapak Tilas Proklamasi 2026 menjadi wadah untuk ...",
+      "published": "2026-08-16T11:04:43+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "menteri"
+      ],
+      "big": false,
+      "id": "0c19d31b90dbe762"
+    },
+    {
+      "title": "Pemprov DKI dan KPK ajak warga perkuat budaya antikorupsi",
+      "link": "https://www.antaranews.com/berita/5697289/pemprov-dki-dan-kpk-ajak-warga-perkuat-budaya-antikorupsi",
+      "summary": "Pemerintah Provinsi DKI Jakarta bersama Komisi Pemberantasan Korupsi (KPK) mengajak masyarakat memperkuat budaya ...",
+      "published": "2026-08-16T10:59:50+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "KPK"
+      ],
+      "big": false,
+      "id": "c4c7392afa95208a"
+    },
     {
       "title": "Parlemen Iran bahas RUU pengawasan Selat Hormuz",
       "link": "https://www.antaranews.com/berita/5697260/parlemen-iran-bahas-ruu-pengawasan-selat-hormuz",
@@ -2184,6 +2229,21 @@
       "id": "6a0bcef12f203d49"
     },
     {
+      "title": "Trump sued over Truth Social's $100,000 early access service",
+      "link": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The suit challenges Truth Social plan selling early access to Trump's market-moving posts.",
+      "published": "2026-08-12T17:48:56+00:00",
+      "source": "BBC Business",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "1a7b3ef665464bb8"
+    },
+    {
       "title": "Analis Ramal BI Rate Naik 25 Bps pada Kuartal III 2026 - Infobanknews",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdVowUzlaLUhqUDN0cWdhR3JaR2VGazRvVnZ5Q0RlTG1qOWlNX29ocTE5MXQ3bXFPeEY2X1hOelJWdFhSclhQdHdKTVpxalQ1bm9jZHRuQ25VaG41UjBOWGZwa0dlcXZEMTJIcGVlbUZoVUhFbkR1ZkxIYU1VU19PQ19la2xsZw?oc=5",
       "summary": "Analis Ramal BI Rate Naik 25 Bps pada Kuartal III 2026&nbsp;&nbsp;Infobanknews",
@@ -2197,6 +2257,38 @@
       ],
       "big": true,
       "id": "64641522694b134f"
+    },
+    {
+      "title": "Indonesia central bank, finance minister agree to boost asset yields to aid rupiah By Reuters - Investing.com Australia",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVkRVOW5zdTdZVEp4dkFTS09SWkI5MW5WX21Wd004eHRZX3E2aFJzanJNN0xoU1NyeHJ5Q05zUUZpT3FPVnNFY005NUVLX1VtZktpdmJlMlh4VGRqaDBqZ3hGX0NLQ3VGWHpXWjljeW1kcmFma2hsVzZKSGVjcVNueUNITnhIdV9abFd6ZUpfMjRuOTlNMUhCdy1FTjA3VHpybmJhUXVwZmZqRnVNc3hSLWZYamZMUVpWcFVYUVV6VEVKZTlkcnkyd0xOSkg?oc=5",
+      "summary": "Indonesia central bank, finance minister agree to boost asset yields to aid rupiah By Reuters&nbsp;&nbsp;Investing.com Australia",
+      "published": "2026-06-08T07:00:00+00:00",
+      "source": "Reuters – Indonesia",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "rupiah"
+      ],
+      "big": true,
+      "id": "bcb31233f710b93e"
+    },
+    {
+      "title": "BI Rate Naik Tinggi, Bank Indonesia Yakin Nilai Tukar Rupiah Membaik - KONTAN",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSlhWR1J5QzZnQ0x2VHRRa3BkTUFDY2VWbEljRnEyOEFlSmllWjR4WUI5QlhFdDVqTTRnOWtsbmRDUDNfOFdCOHA1VUVURWZYakJ0bTVaTm5wdG8xS2FQZ3ZSM2l0Mi1QZXYwMW4xaGx0bEFRUlFUT2xhR1JsaHc5c29wQmdFR3JQRnNFbm42M0NEM090Smc2Z1BZbWJrQnNjY29z?oc=5",
+      "summary": "BI Rate Naik Tinggi, Bank Indonesia Yakin Nilai Tukar Rupiah Membaik&nbsp;&nbsp;KONTAN",
+      "published": "2026-05-20T07:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "BI rate",
+        "Bank Indonesia",
+        "rupiah"
+      ],
+      "big": true,
+      "id": "b763e0916b0aa5b6"
     },
     {
       "title": "Prabowo Tetapkan Defisit APBN Tahun Depan Maksimal 2,4% - finance.detik.com",
@@ -2213,103 +2305,6 @@
       ],
       "big": true,
       "id": "cf0d39442df716f3"
-    },
-    {
-      "title": "Bank Indonesia holds rates steady, focus remains on 'undervalued' rupiah - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTFZ6R2NMeEwxLTl0aHdWNVVIZFFsQW1tTUtQTWVMTGJQQTVsZTFqMzZoNXNrby1CbVpPYUZvOHZXTE1uUGZwel9KVGFXbGxwaXBzNXFwRi1KTDZhYmYzeG5rb3dSM2NxVmdKY1pVT0pvMU5vU1FNUERvQ0ZyZEdQUmQ5YklpRHA0THdHNElCWmlOdGpDQmhYU3JRakZHeWl3N0FKSExWVXdrLXk5WDJaZmQyUEVIZ25ubnFjLUhB?oc=5",
-      "summary": "Bank Indonesia holds rates steady, focus remains on 'undervalued' rupiah&nbsp;&nbsp;Reuters",
-      "published": "2026-02-19T08:00:00+00:00",
-      "source": "Reuters – Indonesia",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "Bank Indonesia",
-        "rupiah"
-      ],
-      "big": true,
-      "id": "1fc976e2b5621ece"
-    },
-    {
-      "title": "Indonesia's stocks tumble as Moody's revises outlook to negative - Nikkei Asia",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVUUyaVB5R0J1TjZSRkQ1UDdOZUppVmM4U1NjZE4zM1Fvc3JURmlkdW5hT2F4aXFtYmJvWTNUclhDdzJ1SkRwUkNudlY3WnFZY01ibmRLRFEtQTRsV3NFRzd4dVVQYVU2dGZ4QzRyNXdpRVZseGQxNVVnMU1VSjNMUjd3V05UR0tzLVpuZVZEeS0tSDVtLVBWMGgtTWc?oc=5",
-      "summary": "Indonesia's stocks tumble as Moody's revises outlook to negative&nbsp;&nbsp;Nikkei Asia",
-      "published": "2026-02-06T08:00:00+00:00",
-      "source": "Nikkei Asia (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "Moody's",
-        "outlook"
-      ],
-      "big": false,
-      "id": "8bb3179d7e807222"
-    },
-    {
-      "title": "Trump’s Big Tariff Task in Asia Is to Close the Deal - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14cTZJUDU4UXRnRjFBQzhCbUdNSmlBZnpoUHp1elltOF9xek4zcUt2YlIteGJtMk51d2Rwc2VkUlREOUtSdnBpenFNYUM3d2RJS0FDbFhzRWNwM2xFZzd2ZGU0LWFXMXZlOHJESGYxS3EtSHRRNGc?oc=5",
-      "summary": "Trump’s Big Tariff Task in Asia Is to Close the Deal&nbsp;&nbsp;WSJ",
-      "published": "2025-10-28T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Geopolitics",
-        "Global Finance"
-      ],
-      "matched": [
-        "Trump",
-        "tariff"
-      ],
-      "big": false,
-      "id": "604c03a285492588"
-    },
-    {
-      "title": "Indonesia's central bank surprises with rate cut, raises GDP outlook - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZkpBQnRGckhlSzl0dE5sVlI4cWFxQ1dhcl9WS1pGTlhSZ0g1MmdyWFhncEpOS0tGT1ZtN3V3Vzl5T0lYR1Y2LWZjVjM1SVN2OUVJY1ZaSnNGTXREVDJwSG9xNENBM2hmSDdtRFJLc1RRVlA0N1BQRlYzSVN1YU03MnhfQldMd0Q5ZzMxZEVPUWlMNmJjd1A4aTlMTWFabDFLbm5QaTNNcUxSQWQ3bTl4YWJHSEZ5NmgyUDhVVXdR?oc=5",
-      "summary": "Indonesia's central bank surprises with rate cut, raises GDP outlook&nbsp;&nbsp;Reuters",
-      "published": "2025-08-20T07:00:00+00:00",
-      "source": "Reuters – Indonesia",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "outlook",
-        "rate cut"
-      ],
-      "big": true,
-      "id": "084feda8e266f287"
-    },
-    {
-      "title": "Wall Street Bets the Worst of Trump’s Trade War Is Behind It - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR1BNUXlBTG04RTM0RU1KelJkRnI4UlRvTDdpUWhjZHRjRmY5ZzJMRW90eEo1Zl9sN0dHSEtaR0N4RXdXaTVNdDJHcUM3bVFZdDRSNFVjQ3Q1bXdjd1Q4VEwzZ0hYYUxFcVpHRDY5Ym8ySkhCckl1ZDJLM09NYmx1RXRBbw?oc=5",
-      "summary": "Wall Street Bets the Worst of Trump’s Trade War Is Behind It&nbsp;&nbsp;WSJ",
-      "published": "2025-05-27T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Geopolitics",
-        "Global Finance"
-      ],
-      "matched": [
-        "Trump",
-        "trade war"
-      ],
-      "big": true,
-      "id": "b4e84661aa605aa4"
-    },
-    {
-      "title": "Indonesia's Prabowo leads as presidential campaign kicks off - Nikkei Asia",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUWpfNWFoWnJCb2cwVTc4YXJRM2NEY01qRHRsdDJfRkh4enZjaml4YmpBbzhweGo3aFBuOU9oRkc2MjN2a001bXFUODNCTGEyQXhKd0ZDVGU4aF9TMC0tU282MnRGWGNXZXVrZU5Za29MN3RHY0piemZZS2pYbFY1d1R1NHFXUTFUd1FWaUtvdDNXQXhnWlRSa05jT2dXalNMYTRocmI5bVFhZGZRVGVack5R?oc=5",
-      "summary": "Indonesia's Prabowo leads as presidential campaign kicks off&nbsp;&nbsp;Nikkei Asia",
-      "published": "2023-11-28T08:00:00+00:00",
-      "source": "Nikkei Asia (via GNews)",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "b36d02fc1ca21828"
     }
   ]
 }

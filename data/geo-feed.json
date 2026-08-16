@@ -1,7 +1,22 @@
 {
-  "updated": "2026-08-16T19:30:17.189442+00:00",
+  "updated": "2026-08-16T19:49:53.177076+00:00",
   "count": 150,
   "items": [
+    {
+      "title": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
+      "link": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
+      "summary": "Trump envoy has pushed for disarmament to end any future Hamas role in running Gaza, diplomatic sources tell AFP.",
+      "published": "2026-08-16T19:23:28+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "6db3731bd057ac31"
+    },
     {
       "title": "PM Modi peringati HUT ke-80 Kemerdekaan India",
       "link": "https://www.antaranews.com/video/5697504/pm-modi-peringati-hut-ke-80-kemerdekaan-india",
@@ -2182,103 +2197,57 @@
       "id": "65316400c2d16e89"
     },
     {
-      "title": "Pemerintah siapkan insentif 1 juta motor listrik produksi dalam negeri",
-      "link": "https://www.antaranews.com/video/5695356/pemerintah-siapkan-insentif-1-juta-motor-listrik-produksi-dalam-negeri",
-      "summary": "ANTARA - Presiden Prabowo Subianto pada Jumat (14/8), mengatakan pemerintah menyiapkan insentif bagi 1 juta motor ...",
-      "published": "2026-08-14T16:16:57+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "de541587259f04da"
-    },
-    {
-      "title": "IAW minta KPK-Polri telusuri keterkaitan dua perkara Dedi Congor",
-      "link": "https://www.antaranews.com/berita/5695393/iaw-minta-kpk-polri-telusuri-keterkaitan-dua-perkara-dedi-congor",
-      "summary": "Indonesian Audit Watch (IAW) meminta KPK dan Polri menelusuri kemungkinan keterkaitan bukti dalam dua perkara berbeda ...",
-      "published": "2026-08-14T16:14:56+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "KPK"
-      ],
-      "big": false,
-      "id": "222b5f7eb39eb174"
-    },
-    {
-      "title": "Prabowo Dorong Sensus Ekonomi 2026 Jadi Dasar APBN Akurat - TIMES Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQTBHRHNLbTUzb3dIcTFRUEYyeF9IV214Q1Ezc3VDU1lyeGNZUTM5dXRoTWFNRmlya1JNNUR1RWM3M21ZR2I3X3lnOE53d2NtT1J2TUZGblgtSzMybk5vdmQ3THBiRWRrWno5dGJVTnFKVGRGckpaeGM1QzlScl85TXJlWUhiVjFnZ3BUZ0xORmEyTmMtN0ZIQnl3cGt5MmFnUDY5ajJB?oc=5",
-      "summary": "Prabowo Dorong Sensus Ekonomi 2026 Jadi Dasar APBN Akurat&nbsp;&nbsp;TIMES Indonesia",
-      "published": "2026-08-14T11:16:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "APBN",
-        "Prabowo"
-      ],
-      "big": true,
-      "id": "6a0bcef12f203d49"
-    },
-    {
-      "title": "U.S. economy unexpectedly lost 23,000 jobs in July",
-      "link": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
-      "summary": "Nonfarm payrolls were projected to increase by 83,000 in July while the unemployment rate would hold steady at 4.2%, according to the Dow Jones consensus.",
-      "published": "2026-08-07T19:14:22+00:00",
-      "source": "CNBC Global Markets",
+      "title": "Watch Fed Rate Hike Bets Ease After US CPI | Daybreak Europe 8/13/2026 - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORzRNakx0a09iZE9IbXZpNkw1V2JNWE9VenFYWks5ekhyM21pUVpDamt5OWlZV2N0SnFPQy10NGs5RXBlQXJqRjlIaHVEMHV5bTAtR04teU1CNHNLWmlpWGh6cHNGMVVVanVWY09DaFliSWxNN2RLdlBBcTNLazRaN1JhcWRrd2M?oc=5",
+      "summary": "Watch Fed Rate Hike Bets Ease After US CPI | Daybreak Europe 8/13/2026&nbsp;&nbsp;Bloomberg.com",
+      "published": "2026-08-13T07:52:01+00:00",
+      "source": "Bloomberg (via GNews)",
       "groups": [
         "Global Finance"
       ],
       "matched": [
-        "Dow Jones"
+        "Fed rate",
+        "rate hike"
       ],
-      "big": false,
-      "id": "8ff1f6f3e156b866"
+      "big": true,
+      "id": "10a95fd2f3184e2f"
     },
     {
-      "title": "BI Rate Tetap 5,75% - detikFinance",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aYk55WXpvUTJyeGhoZURtVlMyQ29BRGxoWFpZeTdHMEpmcHdzVEdDazd4U1h4ZHJXSENxOHN6cndOTy1XbUZ5ck5CY0hoTXFBTjJ2QWg3cFVZaGtqLTZkS3BFeG90WWVocDNuYU1iWdIBdEFVX3lxTE5NamgxOFdSWWRFZjJXSmkzS05EVHNucURzME9TYUk4ZERhQ2kwY09USGFZWWpjNHd2ZXpqMjMzRnZ6Tm5qUmgtUXlaUm1aWi05OFpPVlZRWGpDWFNNdDNMU25UanNneGJVRlJ3UC1tQTYzWDFT?oc=5",
-      "summary": "BI Rate Tetap 5,75%&nbsp;&nbsp;detikFinance",
-      "published": "2026-07-22T07:00:00+00:00",
+      "title": "Perkuat Benteng Stabilisasi Rupiah, Bank Indonesia Katrol BI-Rate Jadi 5,50% - Stabilitas.id",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ0xBaVgtb0J4Uk9GVUJZUWV4NUN0Wl9VMXRGM3dkZmw0Z0Rwa3pYcm5fUjZlTVdPaEFnd2FoQ3FPdHQtWXJiZFZIeXNrTDJibFZ2ckNtd2FIZjAteVFFYUxlTm1yZVVFT3lqWDN6Z0Z2UnNCRlNaSmNyMVNqbkVsVDR3Y242MmRIWTNuMjk0WDVTcXBWYmoyNms5LURLMDFSRFE?oc=5",
+      "summary": "Perkuat Benteng Stabilisasi Rupiah, Bank Indonesia Katrol BI-Rate Jadi 5,50%&nbsp;&nbsp;Stabilitas.id",
+      "published": "2026-06-09T07:00:00+00:00",
       "source": "GNews – BI rate rupiah",
       "groups": [
         "Macro / Economy"
       ],
       "matched": [
-        "BI rate"
-      ],
-      "big": true,
-      "id": "8c97e5d96794d15f"
-    },
-    {
-      "title": "Indonesia unexpectedly raises interest rate to support rupiah - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOekJoaTNud01YOWRCX2w0cDBaTjZYNWdpU2VoT0NZVkhYb0JJN0hrb25nNWRwZ1E1TzFXUVVxclRkMDVJWGdUczVqZURVNmRRNE1XTnVNbFUyVDJCTUZWazZRYVNxWTZvMVNOSldUSVFJLW5aT2JjTjZ0RnpQaGxUMnN6RXc?oc=5",
-      "summary": "Indonesia unexpectedly raises interest rate to support rupiah&nbsp;&nbsp;Financial Times",
-      "published": "2026-06-09T07:00:00+00:00",
-      "source": "Financial Times (via GNews)",
-      "groups": [
-        "Global Finance",
-        "Macro / Economy"
-      ],
-      "matched": [
-        "interest rate",
+        "Bank Indonesia",
         "rupiah"
       ],
       "big": true,
-      "id": "c89a94c57e630ebc"
+      "id": "d6844942aaf48321"
     },
     {
-      "title": "Indonesia central bank, finance minister agree to boost asset yields to aid rupiah - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZE5mbTdUejNmVTZ6VzJQNzV1WTBGa013MmlqcC1Fcmt4QjVjQVgybUFMWVEtZmJBNW5BMnVWd1Z3c1Z6Vk9wbGpMZ1lnY0JIZnNYbmM0bmRzZGg0X3k2NkUtUXRPZ1kxd2VLOG50WUV0amdDT3doQl9haEJmQ2xwSnBsVFk4YkhiUXE4ZHFTNkVUazVsOUFnaGVtTmgwdFdFaVpjdzU1SkV5MWVabVliM2hUZmxrTVViZF9ySlpzM2M1REdvNnZNRlZR?oc=5",
-      "summary": "Indonesia central bank, finance minister agree to boost asset yields to aid rupiah&nbsp;&nbsp;Reuters",
-      "published": "2026-06-07T07:00:00+00:00",
+      "title": "Di Balik Ekonomi 'Prabowo Effect' 2026 - MetroTVNews.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeHdLeXRnNG1tamFWR3NHSkhmejZkN3lTZm0tZGdUUkszUXQzQmhFcWhUaXBKTzh1enNpT0tUYklvVm5mZFh5Q3NVN1NCdDdmR21LUHlzNDU3YzE5RS12MW1kUTEyRWIyZS1ScTUteFJiMjhmWl8xY3dtLUdpVk5fc3JUSE4?oc=5",
+      "summary": "Di Balik Ekonomi 'Prabowo Effect' 2026&nbsp;&nbsp;MetroTVNews.com",
+      "published": "2026-05-12T07:00:00+00:00",
+      "source": "GNews – Prabowo APBN",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "294b743b84b48d04"
+    },
+    {
+      "title": "Indonesia central bank to tighten rules again on dollar-buying to support rupiah - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLVN6MzJOV3AyT3EyaU1Sa0txZ1pjSldEYlc5cm9zUl94d3hfSWNIMFRYUWducWFkSGkwR1FPZUlFd3ZMdzVobXNBc0UtNFJjN0dRTkwtTTRxTmpHa3FOSGVMcmx5TUlxSG1hb1pXRnI2dTRtT2hkZXRzaGMzd0dpWS1BSUlqLWdkanJ3c25HRW9mSGFKY1lORnBFaGRyNEhOTlJBcXpKZzdyVl9aYUtWbjNkTmxrRUVZWDJKZC1YOUxlMVBM?oc=5",
+      "summary": "Indonesia central bank to tighten rules again on dollar-buying to support rupiah&nbsp;&nbsp;Reuters",
+      "published": "2026-05-05T07:00:00+00:00",
       "source": "Reuters – Indonesia",
       "groups": [
         "Macro / Economy"
@@ -2287,7 +2256,39 @@
         "rupiah"
       ],
       "big": true,
-      "id": "c7a7e87eabb2248f"
+      "id": "028d03c11e202372"
+    },
+    {
+      "title": "Trump and Indonesia Sign Trade Deal, Locking In 19% Tariffs - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1yV0pZUUdVWkJUVnJoVk11U0xOdEJIZzZGUnk3aGp3ZmVnbVdHMGRUbkUtVHl3VUF6Rmo0WnBBOUoyNF9ScVJpWGNLNk5qaWVQbFUxUldNc2VBOXlSLVg5b05kcmZqbXhheDlpa1dOb3hiaHlrSHl5a0ZQOWE?oc=5",
+      "summary": "Trump and Indonesia Sign Trade Deal, Locking In 19% Tariffs&nbsp;&nbsp;The New York Times",
+      "published": "2026-02-20T08:00:00+00:00",
+      "source": "Financial Times (via GNews)",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "6e940af638ecafcb"
+    },
+    {
+      "title": "Risks ahead despite Indonesian rupiah recovery - The ASEAN Post",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUm9RUmZGTWVDU1hacEt5R0hQaFI2SUh2UlhtMHZVbnprc2I1SFFhMHhpRkF3dWdob1ZxTk4xMElISlpSbDZGS2NzQW5uMGFxTEJyd3RkYTdXWTBTMFpYcm5UNmZDNk5wdzlvVzI3SXEtdnNfTENhc0RReUU2aHBaNE1qOVJJUdIBiwFBVV95cUxOc2NsNjlnWk1La00tU3VMRVdnbTBEV2hUclliWFk0UWVBemxJV2NSblZDY1duQjlYOTFMNWV0UkpXSGtlVk04OEt0TjBHUWZ4OWRrbGtfT3lOOWZTQWtSZnRNTUVadFNOOG1IOVpqcEgyXzFqS2NrUmQ3dTVCOGlYMTl5dGh4YThXU2hJ?oc=5",
+      "summary": "Risks ahead despite Indonesian rupiah recovery&nbsp;&nbsp;The ASEAN Post",
+      "published": "2018-03-17T07:00:00+00:00",
+      "source": "Reuters – Indonesia",
+      "groups": [
+        "Geopolitics",
+        "Macro / Economy"
+      ],
+      "matched": [
+        "ASEAN",
+        "rupiah"
+      ],
+      "big": true,
+      "id": "1d3f6bb095170ced"
     }
   ]
 }

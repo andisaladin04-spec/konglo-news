@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-18T10:01:30.941243+00:00",
+  "updated": "2026-08-18T10:43:08.960811+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Naik ke 6.449, Ada Transaksi Crossing di Saham SMMA, PACK, hingga BBCA",
+      "link": "https://katadata.co.id/finansial/bursa/6a8430b621da4/ihsg-naik-ke-6449-ada-transaksi-crossing-di-saham-smma-pack-hingga-bbca",
+      "summary": "IHSG ditutup menguat 0, 75% ke level 6.449 pada perdagangan hari ini, Selasa (18/8). Sebanyak 399 saham menguat, 236 saham terkoreksi, dan 159 saham lainnya stagnan.",
+      "published": "2026-08-18T10:15:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Djarum / Hartono",
+        "Sinar Mas"
+      ],
+      "matched": [
+        "BBCA",
+        "SMMA"
+      ],
+      "big": false,
+      "id": "8cc2b156ddc52e4c"
+    },
     {
       "title": "Insentif Motor Listrik Disebut Jadi Angin Segar buat ASII, VKTR, INDY, DRMA",
       "link": "https://katadata.co.id/finansial/bursa/6a84272504007/insentif-motor-listrik-disebut-jadi-angin-segar-buat-asii-vktr-indy-drma",
@@ -3129,21 +3146,6 @@
       ],
       "big": false,
       "id": "a149bccf3a2ee7ca"
-    },
-    {
-      "title": "IHSG Longsor 1,88% di Akhir Pekan, Saham CUAN, ARCI dan TINS Turun Paling Dalam",
-      "link": "https://katadata.co.id/finansial/bursa/6a6331b74b6cb/ihsg-longsor-1-88-di-akhir-pekan-saham-cuan-arci-dan-tins-turun-paling-dalam",
-      "summary": "Indeks Harga Saham Gabungan atau IHSG ditutup anjlok 1, 88% atau 118, 88 poin ke level 6.196 pada penutupan perdagangan Jumat (24/7). Sebanyak 587 perusahaan ditutup turun, 104 perusahaan naik.",
-      "published": "2026-07-24T09:34:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Prajogo / Barito"
-      ],
-      "matched": [
-        "CUAN"
-      ],
-      "big": true,
-      "id": "434f7deca6f6024d"
     }
   ]
 }

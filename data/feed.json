@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-18T05:30:27.726564+00:00",
+  "updated": "2026-08-18T05:58:50.523537+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Sesi I Naik 1,26% dengan Net Buy Rp 2,22 T, BBCA, ANTM, BUMI Diborong Asing",
+      "link": "https://katadata.co.id/finansial/bursa/6a83f09c5c7d3/ihsg-sesi-i-naik-1-26-dengan-net-buy-rp-2-22-t-bbca-antm-bumi-diborong-asing",
+      "summary": "IHSG ditutup naik 1, 26% ke 6.482 pada perdagangan sesi pertama hari ini, Senin (18/8). Sebanyak 397 saham menguat, 218 saham terkoreksi, dan 178 saham lainnya tidak bergerak.",
+      "published": "2026-08-18T05:41:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Bakrie",
+        "Djarum / Hartono"
+      ],
+      "matched": [
+        "BBCA",
+        "BUMI"
+      ],
+      "big": false,
+      "id": "4efa2a77c34fc900"
+    },
     {
       "title": "Aksi Direktur-Komisaris Astra (ASII) Borong 551 Ribu Saham",
       "link": "https://katadata.co.id/finansial/bursa/6a83e4e290100/aksi-direktur-komisaris-astra-asii-borong-551-ribu-saham",
@@ -3123,24 +3140,6 @@
       ],
       "big": false,
       "id": "14c82021a4dd7a40"
-    },
-    {
-      "title": "IHSG Berpotensi Koreksi Hari Ini, Analis Jagokan INKP, BSDE hingga ICBP",
-      "link": "https://katadata.co.id/finansial/bursa/6a62a381931ac/ihsg-berpotensi-koreksi-hari-ini-analis-jagokan-inkp-bsde-hingga-icbp",
-      "summary": "Indeks Harga Saham Gabungan (IHSG) berpotensi turun pada perdagangan Jumat (24/7).",
-      "published": "2026-07-23T23:28:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Salim",
-        "Sinar Mas"
-      ],
-      "matched": [
-        "BSDE",
-        "ICBP",
-        "INKP"
-      ],
-      "big": false,
-      "id": "ed5f588988eab369"
     }
   ]
 }

@@ -1,7 +1,22 @@
 {
-  "updated": "2026-08-18T19:30:32.894374+00:00",
+  "updated": "2026-08-18T19:53:16.375479+00:00",
   "count": 150,
   "items": [
+    {
+      "title": "US judge says government can revoke deportation protections for Ethiopians",
+      "link": "https://www.aljazeera.com/news/2026/8/18/us-judge-says-government-can-revoke-deportation-protections-for-ethiopians?traffic_source=rss",
+      "summary": "Ruling permits Trump administration to nix Ethiopians&#039; protected status despite concern over conditions in the country.",
+      "published": "2026-08-18T19:09:23+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "df7788be06661837"
+    },
     {
       "title": "Menlu Suriah, Utusan AS bahas penuntasan pencabutan sanksi atas Suriah",
       "link": "https://www.antaranews.com/berita/5700673/menlu-suriah-utusan-as-bahas-penuntasan-pencabutan-sanksi-atas-suriah",
@@ -2096,6 +2111,21 @@
       "id": "5182aff4ba959baf"
     },
     {
+      "title": "Ekonom Bank Permata Sebut BI Sebaiknya Tetap Tahan BI Rate di 5,75% di RDG Agustus - kontan.co.id",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeEVENjlhcnRHTmlwdUNrNEdJcEFCc1M0WUhTWnRkQk85c2xOQUlpaVRRU1JoeW1Jbkt2Qlh0cVZFZ1RmY19XN2JQaGFvX2p5ZmplUTdkZFFCd1VRQU1YblpfVFA5SEhrMWRzMXhOZDVadENFUV9VOFExZGp2MktmN0Fwbi1MbG85WHdmclgwUEluRFc5aHFfWE45NnJMeEdyVWtEM0stN00zOU0zZHdPSDlHT1hQd9IBrwFBVV95cUxPb2tIZDg0dTRJeThZamFzd3RXeW5TM1hZX1c5NEhWbzhaN00wU00tMzBQU0pmLVpLRjZWM0sxVjNSWm9wVjc0RnZpMWlUUThWeDFoZXI2NmdtQ29IeXFpbzdqUXhuOTBQVElQbXZVMXFDaGhtblJmcDBkT2FCRXZPaFJGYVJncVpYUTB6M0xFSDJCRG9aNGNkVGItWVFxanFRZk9Wc0EwMXNRMTBCODM0?oc=5",
+      "summary": "Ekonom Bank Permata Sebut BI Sebaiknya Tetap Tahan BI Rate di 5,75% di RDG Agustus&nbsp;&nbsp;kontan.co.id",
+      "published": "2026-08-17T11:29:26+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "BI rate"
+      ],
+      "big": true,
+      "id": "78083b7725606d7f"
+    },
+    {
       "title": "Watch Israel Strikes Lebanon as US Prepares Fresh Iran Sanctions | The Asia Trade 8/17/2026 - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPY1pOTEVQT3NrTE5ObTVaVzdFZXNsRURsQjJpenZvcjV4S1VpMHpMcV9iYlNha0ZVRjBRQ2xiMFZIZTdLQUhUenEtR1Y3aHU2dzJwcDBHUF9fOHhKZVA3WlRTOWNTNklwWjNOa0xmdFdYQ0hXcHUxcHNoS2x5M0RDNzdjQ09SUQ?oc=5",
       "summary": "Watch Israel Strikes Lebanon as US Prepares Fresh Iran Sanctions | The Asia Trade 8/17/2026&nbsp;&nbsp;Bloomberg.com",
@@ -2174,6 +2204,22 @@
       "id": "47471b483d7e0775"
     },
     {
+      "title": "Watch Fed Rate Hike Bets Ease After US CPI | Daybreak Europe 8/13/2026 - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORzRNakx0a09iZE9IbXZpNkw1V2JNWE9VenFYWks5ekhyM21pUVpDamt5OWlZV2N0SnFPQy10NGs5RXBlQXJqRjlIaHVEMHV5bTAtR04teU1CNHNLWmlpWGh6cHNGMVVVanVWY09DaFliSWxNN2RLdlBBcTNLazRaN1JhcWRrd2M?oc=5",
+      "summary": "Watch Fed Rate Hike Bets Ease After US CPI | Daybreak Europe 8/13/2026&nbsp;&nbsp;Bloomberg",
+      "published": "2026-08-13T07:52:01+00:00",
+      "source": "Bloomberg (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "Fed rate",
+        "rate hike"
+      ],
+      "big": true,
+      "id": "10a95fd2f3184e2f"
+    },
+    {
       "title": "Watch Treasuries Rally as Soft Jobs Data Trims Fed Rate-Hike Bets - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeFk4X1dQRi1tbWZ2TTg4M3FhclBFeHJPTGxURTdfbU56SjdzWkZTU19XNU9hRjJnR0dVRVVTZmtLcjM1b3NsLXFCZzNnbkJJT2hvcVM2aDc3WGYwTzdLS1FIT3lwcHZ5Ykoxa1VHS3BhMk9OZVpZNHF1MlZSQlotckF3RVNueUFScnEwRzZtOTlkZVp1RFVteTM1Z3pwZTdkdWIwZnpCMnJpOHdTMVE?oc=5",
       "summary": "Watch Treasuries Rally as Soft Jobs Data Trims Fed Rate-Hike Bets&nbsp;&nbsp;Bloomberg",
@@ -2187,6 +2233,23 @@
       ],
       "big": true,
       "id": "1f59053a424a72c8"
+    },
+    {
+      "title": "BI Rate Diramal Naik 25 Bps Jadi 6%, Terpicu Inflasi & Rupiah - Market - Bloomberg Technoz",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMFVjVXhkWlBNZG4zTW1nak5oN2h5QmFfRTYyQmoyNkJXdGQ0dV85LWxIaTU3MmhDb3VRTTFmVzhUb09iaXBGd2IwNV9aRndPT0gta2xtbEtOSktsSnNrelIxNFBsYnIxYnV4ak9tRm41MkFhSUVjN3c4bk9pRGFyWkYtX015UXBmd1pPUGptN0V4MlhnaGgyeXdnaHlfMnIyRVVxbklYdHd4SUVFMUE?oc=5",
+      "summary": "BI Rate Diramal Naik 25 Bps Jadi 6%, Terpicu Inflasi & Rupiah - Market&nbsp;&nbsp;Bloomberg Technoz",
+      "published": "2026-07-20T07:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "BI rate",
+        "inflasi",
+        "rupiah"
+      ],
+      "big": true,
+      "id": "9ee5e02a721eb790"
     },
     {
       "title": "BI Diproyeksi Tahan Suku Bunga Acuan di RDG Juni, Rupiah Menguat - bloombergtechnoz.com",
@@ -2205,72 +2268,10 @@
       "id": "d693c88dffa45fe1"
     },
     {
-      "title": "Stabilkan Rupiah, BI Rate Bisa Naik Lagi Pekan Depan? - CNBC Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa3Y3VWZra0NCSFhmaGp3Snd1aFZfMTFuUENCMXk4a2pFeGNGaHV0bDIwVTBhaXI1QXF2WWdhVTBGdjVEOFlTMkY1bGNjZzZrcXlHLTUxRWxna1lYRUxWTHJVajF0c3RzbS1qVmtKZ1lialVQMTA4RzRHZ05ZT0NOUW9Bb3dmdkFzdDlMemxPTmMzbC1PaDF0dVFoYkNxamV4OGkxdm9KWEJUY3JYbHBCYnFhONIBuAFBVV95cUxOUXJtYkpQMTgwZFBvR2xmdXotMVN1M2xwVENNSkVOTHJkaXZLZ2lQSTBSaXM2b1ZEVFdEblZEZlBJLVVWaDV6V1pxenRVSHlFVGpiX3dFOVNnMXVnTkxSLXNMeUEwcGFxUDE5Rzg1cEJJelpBMWhpVFRGQkxuNUJ1VDFYZUUyU0NhZ3QzMEkzUk5pdGxMOWdCQXBzUnNWbE41dm9MMXl0dnRVeHhjWm4yaVZDZlJUUHJQ?oc=5",
-      "summary": "Stabilkan Rupiah, BI Rate Bisa Naik Lagi Pekan Depan?&nbsp;&nbsp;CNBC Indonesia",
-      "published": "2026-06-10T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate",
-        "rupiah"
-      ],
-      "big": true,
-      "id": "5034f1f9a1a7c91f"
-    },
-    {
-      "title": "BI Naikkan BI Rate 50 Bps Jadi 5,25%, Tujuan Ini Diungkap - InvestorTrust",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWWk2WDNhVGZSNDVFSGRWREtBU2t1b05JX2RQaGRLWVc0SlhWbzNxODZZTkxhOHhZMm5xRzliV1RFdHREQTNVQWFYWk9ER2I5aTNOWVZsM0VxZ1doOS1FUy1iY2tjOWtsQXZlTVl6NDdHdGJZbThpYTBiZHNHVXZnOGZjZFpZd1dQRl9uT19VV0ZWVUVJUXBicA?oc=5",
-      "summary": "BI Naikkan BI Rate 50 Bps Jadi 5,25%, Tujuan Ini Diungkap&nbsp;&nbsp;InvestorTrust",
-      "published": "2026-05-20T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate"
-      ],
-      "big": true,
-      "id": "9b2521214d2346e0"
-    },
-    {
-      "title": "Simak! Keputusan Lengkap BI Naikkan Suku Bunga Jadi 5,25% Demi Rupiah - CNBC Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLVlDQ0dYSExuOUxQdGJTUnFFSTJnZFl4U0p6RG5QbDBVWVlXRzAwX2FYSy01VVhrQUNIX0ZSSmpmRzl6RFhyWE9OeEpJQnA0bU5TRHRXVmZoTjQ1czVWR0VibTlFSEplNUIzaWJmdGgybHZYTWtnZEd5RWJDc2hJajdRRmZmNENlUEs3bmJfVUZBVDJZY1AtUmZGQzM3OEx0QnNyOEZiR3pfN2VlaFpmUWVxZVV1S25lZER2bVJuTVA1cHfSAcgBQVVfeXFMTTBNdE4zVVlYOUN1aVo5RWdJU01kY09XZFBRbFRVZW1qbDhPY3hZekpIMXQ1Mk9sWHIxNTRlOTMwQTFzQlVqaUl4U25ac3pKcjRJNUdjcmF1ZWkxMjZDdHVMaHZvV21Xd0dIYThiTDlEbEwwUWNFZ0hEQjNZQV9pb184cm5zZk1zUGxWdGxuVlhJWjdxYl9QNnB5X3hWUldEaUF3YTc0UFgwNGc0WW1rUTRQaDVzdlp3UUw0Wnl5N1hiNjBlZzNPTGw?oc=5",
-      "summary": "Simak! Keputusan Lengkap BI Naikkan Suku Bunga Jadi 5,25% Demi Rupiah&nbsp;&nbsp;CNBC Indonesia",
-      "published": "2026-05-20T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah",
-        "suku bunga"
-      ],
-      "big": true,
-      "id": "d6e04ee04aba096a"
-    },
-    {
-      "title": "Indonesia's central bank pauses rate cuts, flags more easing - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPODRTRUNDWjNBTE92MEQtRjZuMjZtVzhNVC11LUNaN0p0WG9OOUZwN1I1MWxOZjJfZmRVTldwYTREVVh0X2xScjh4YzRmak52Vkc0dW5xWDdLX2tSSG5ZLWJZQ0VqOXVMaXpOZUZMY09rZkZycjFoZjdLOHFsNm1PbWFNbHBKdExGY2M1cGFJdFNEZUtFdzVicmx0ZWFjS2RlTnJMMFViVWxPR3dWOUlQdmhvQ2FjZlBDTnNWUA?oc=5",
-      "summary": "Indonesia's central bank pauses rate cuts, flags more easing&nbsp;&nbsp;Reuters",
-      "published": "2025-10-22T07:00:00+00:00",
-      "source": "Reuters – Indonesia",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "rate cut"
-      ],
-      "big": true,
-      "id": "37d38f78569a5232"
-    },
-    {
-      "title": "Trump Slaps Tariffs on Mexico, Canada and China in Opening Salvo of Trade War - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRTdlZnJRWVpMaHYxdGpNdDRodDhzNzZ3X0dINGVMbmVmcG5FR01OS003dVRSZWxKREFxQ1pKaFVuOWFpSjI0UkphVElOYl9sRWduV2NnYUxSOXQ0MGxpR0NxSVNzYTZLWDk2ZXF5bTJmNTUyaWtpSFh1eUhtazQ2OG5qb24zSjRmYlpzRm1NNkx4N0d6aVhELUJiT2RoLUxvMmY4YmVBQVo?oc=5",
-      "summary": "Trump Slaps Tariffs on Mexico, Canada and China in Opening Salvo of Trade War&nbsp;&nbsp;WSJ",
-      "published": "2025-02-02T08:00:00+00:00",
+      "title": "How a Trump Trade War Puts Cheap Oil From Canada at Risk - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeG5nZ3EwMnBxaXB3d1ZlVk9ON3RRQ29rOTdhWU5LZ3JzXzRrVGVIcnc3NFB2VWx3N2RMQ2YxWW1VU3I5M0Q5LWZMbFMyZEdQcE53bDJiWHlpSkd4cktkZ0xRVk5VYlE4dm5vWXFvUmNydjZlbTlpOFN1d2tQY0EtdlIxbC1JcDJBNlNJRnpuSE9ZTXdBVUlFdmlGeXhoclhkemc?oc=5",
+      "summary": "How a Trump Trade War Puts Cheap Oil From Canada at Risk&nbsp;&nbsp;WSJ",
+      "published": "2025-01-22T08:00:00+00:00",
       "source": "WSJ (via GNews)",
       "groups": [
         "Geopolitics",
@@ -2281,7 +2282,7 @@
         "trade war"
       ],
       "big": true,
-      "id": "43a1c9d900d372d9"
+      "id": "4fe88d7b2a3a3926"
     }
   ]
 }

@@ -1,7 +1,22 @@
 {
-  "updated": "2026-08-19T07:25:41.955944+00:00",
+  "updated": "2026-08-19T08:02:47.843022+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "Pertumbuhan Pembiayaan EV BCA (BBCA) Melonjak 2 Kali Lipat, Ini Penopangnya",
+      "link": "https://katadata.co.id/finansial/bursa/6a855d6fd569c/pertumbuhan-pembiayaan-ev-bca-bbca-melonjak-2-kali-lipat-ini-penopangnya",
+      "summary": "PT Bank Central Asia Tbk (BBCA) atau BCA mencatatkan kenaikan porsi pertumbuhan pembiayaan kendaraan listrik hampir dua kali lipat terhadap total portofolio perusahaan secara tahun berjalan.",
+      "published": "2026-08-19T07:38:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Djarum / Hartono"
+      ],
+      "matched": [
+        "BBCA"
+      ],
+      "big": true,
+      "id": "658e431ebe949e83"
+    },
     {
       "title": "Adu Emiten Ritel di Era Omnichannel, AMRT, MIDI hingga MAPI Masuk Radar Analis - Bisnis.com - Market",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObUNwRFlpLU1RNVFGY2p0S1llTmNDRUhqTUtLYlJPTGx5bm1PM1hVM2ZoWGFsanJGSGJ5OU9OeWRGX0VWRktVZnNfUEEwaGhqQzJRSUdLZmlKYmRUWHhDNzlfR0cwZWNnc1F0eEpPWGZILXdZN3RiWExfbzdDWFB0WkxOV3lfRW1HYkx2TVVULUFjZTZYRTFldWthblZraVYwem5MV2M2YUdYQmxFNklKRGtqYTV5cDYxakZXakg4NU42bGRYcVFj?oc=5",
@@ -34,6 +49,24 @@
       ],
       "big": false,
       "id": "6960d5fb01cdec16"
+    },
+    {
+      "title": "Adu Prospek Saham Grup Bakrie Semester II/2026: BUMI, DEWA hingga VKTR - Bisnis.com - Market",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMjNSdnNtd1BLWERWdkkwcm9GQndoT01FNG1MYVlLYlk3aXV1a0JTX1lXS1V0RmpMdmRDdk9SU3lyaTR6WnczRmVSVlEzYnkxZG0tSE5kUS15NmdKcXJ2YWItNDJITG9kMlBOWmhSalNVT3U0aEFOVGc0VGN0RzNUWFp6VXV6THI5VV83TTJQVzRFNUE4MUpqNERXZl9jdDNlb1hIanpHdk9kRElBZ2NEejlUd1hYSEtCYzFR?oc=5",
+      "summary": "Adu Prospek Saham Grup Bakrie Semester II/2026: BUMI, DEWA hingga VKTR&nbsp;&nbsp;Bisnis.com - Market",
+      "published": "2026-08-19T05:15:36+00:00",
+      "source": "Bisnis Indonesia (via GNews)",
+      "groups": [
+        "Bakrie"
+      ],
+      "matched": [
+        "BUMI",
+        "Bakrie",
+        "DEWA",
+        "VKTR"
+      ],
+      "big": false,
+      "id": "a39b169f1cc064b9"
     },
     {
       "title": "Adu Strategi Emiten Ritel ACES, HERO, ERAA & MDIY Kejar Pertumbuhan 2026 - Bisnis.com - Market",
@@ -3113,43 +3146,6 @@
       ],
       "big": false,
       "id": "1eeebd037d06720e"
-    },
-    {
-      "title": "Saham BUMI, BRPT, CUAN hingga BBRI Diburu Asing saat Net Sell Bayangi Laju IHSG",
-      "link": "https://katadata.co.id/finansial/bursa/6a66a0a1c5957/saham-bumi-brpt-cuan-hingga-bbri-diburu-asing-saat-net-sell-bayangi-laju-ihsg",
-      "summary": "Saham-saham perbankan raksasa hingga konglomerat Prajogo Pangestu diburu investor asing selama sepekan. Padahal Indeks Harga Saham Gabungan atau IHSG mencatatkan net foreign sell di se",
-      "published": "2026-07-27T00:04:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Bakrie",
-        "Prajogo / Barito"
-      ],
-      "matched": [
-        "BRPT",
-        "BUMI",
-        "CUAN",
-        "Pangestu",
-        "Prajogo"
-      ],
-      "big": false,
-      "id": "91a3dff089cab8ee"
-    },
-    {
-      "title": "IHSG Rawan Terkoreksi, Analis Rekomendasikan Saham DEWA, BRIS, BBCA hingga AKRA",
-      "link": "https://katadata.co.id/finansial/bursa/6a6696fa57bee/ihsg-rawan-terkoreksi-analis-rekomendasikan-saham-dewa-bris-bbca-hingga-akra",
-      "summary": "Indeks Harga Saham Gabungan atau IHSG diproyeksikan rawan terkoreksi pada perdagangan saham awal pekan ini, Senin (27). Analis MNC Sekuritas mengatakan pergerakan IHSG masih dibayangi tekanan jual.",
-      "published": "2026-07-26T23:18:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Bakrie",
-        "Djarum / Hartono"
-      ],
-      "matched": [
-        "BBCA",
-        "DEWA"
-      ],
-      "big": false,
-      "id": "cff40a863ba3dbc1"
     }
   ]
 }

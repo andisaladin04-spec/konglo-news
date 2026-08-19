@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-19T22:58:28.878948+00:00",
+  "updated": "2026-08-19T23:29:28.909934+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Berpotensi Turun, Analis Rekomendasikan DEWA, ICBP hingga SSIA",
+      "link": "https://katadata.co.id/finansial/bursa/6a8639797713f/ihsg-berpotensi-turun-analis-rekomendasikan-dewa-icbp-hingga-ssia",
+      "summary": "IHSG berpotensi melanjutkan koreksi, namun analis merekomendasikan tiga saham pilihan seperti DEWA, ICBP, dan SSIA untuk diamati investor.",
+      "published": "2026-08-19T23:17:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Bakrie",
+        "Salim"
+      ],
+      "matched": [
+        "DEWA",
+        "ICBP"
+      ],
+      "big": false,
+      "id": "2b2bfd6324e6885e"
+    },
     {
       "title": "BCA (BBCA) Tebar Dividen Interim Rp3,07 Triliun, Cair 16 September 2026 - Bisnis.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNenVFSVBNNUt4NlowSEd1cU1UaW1rMV9hakxyV0FTSkxESVpkcDdRT3g5aFZBd1pXNlhBWEpBbldCVm5UZ2tERlBzcUNXTGFQQXoyRE9NamJsbUtPSDhlNzc2QzBkN01TNGRWajkzS0N3UmdmQWpVSUR1d3ZuOFAwSkZWMnAwTmQydktyb2FCMVBoaWxKWkZ1ODlSamJiOThhUjd1VHhEbTNJUnRucjdlcVhES2hjT0lwVmFYS2VB?oc=5",
@@ -3128,21 +3145,6 @@
       ],
       "big": false,
       "id": "669db1d43ea054a2"
-    },
-    {
-      "title": "Respons BCA (BBCA) soal Mundurnya Gubernur BI Perry Warjiyo",
-      "link": "https://katadata.co.id/finansial/bursa/6a66dd022d576/respons-bca-bbca-soal-mundurnya-gubernur-bi-perry-warjiyo",
-      "summary": "Bank swasta raksasa nasional, PT Bank Central Asia Tbk (BBCA) atau BCA, memberikan tanggapan terkait pengunduran diri Gubernur Bank Indonesia (BI), Perry Warjiyo, pada Senin (27/7).",
-      "published": "2026-07-27T04:22:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Djarum / Hartono"
-      ],
-      "matched": [
-        "BBCA"
-      ],
-      "big": false,
-      "id": "3e085a7063c0d58b"
     }
   ]
 }

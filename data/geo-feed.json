@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T20:52:15.724148+00:00",
+  "updated": "2026-08-19T21:23:15.635714+00:00",
   "count": 150,
   "items": [
     {
@@ -2092,6 +2092,21 @@
       "id": "a63ed0208d84e86a"
     },
     {
+      "title": "Hong Kong bourse posts record first-half earnings on IPO, trading boom - asia.nikkei.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSkw2OXpLODZaVDBvMzNZNkduRVU5T292N2ZLbGZvODloYmFYTk1LQzNRUHNzU19rZWpLRU84QzBQZ2czbmdGVlhyRU5TUlJuMWhudVhPRFRjM0hyRkVwaWtPbk5kZ1RvODRIM0JkdnlLakMyb3VsenJ4Nk43WGdxYk9tZzQ1Z1dYaDMwYUVqbFFySHY0MHJoenYyVTB1VmNCNndRUktpN3RHeVphN3FnTUxB?oc=5",
+      "summary": "Hong Kong bourse posts record first-half earnings on IPO, trading boom&nbsp;&nbsp;asia.nikkei.com",
+      "published": "2026-08-19T07:17:00+00:00",
+      "source": "Nikkei Asia (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "IPO"
+      ],
+      "big": false,
+      "id": "6321d73c36312ab1"
+    },
+    {
       "title": "Ekonom Anggap Target Ekonomi 6 Persen Prabowo Terlalu Optimistis - netralnews.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZXNKTHdqd1FzMG8wUEhKLXdLMXlIeWFFeE9CeXVvczhLQWNibXhzQU5nRlNNeXFjNVpQdGlOUVpsaUxlYzZKUlJhcEdFdm9lS0lmY0dGb2xWY1JfTW44eVB0dGN3Y0Q0LXN5allZdWdzWHB4Y1otR0RsYnNBQkpQTTd5R1BxVjkxaTFWSEl0MXlhQVQxejlwdnRnTW5VQjRGWXhZ?oc=5",
       "summary": "Ekonom Anggap Target Ekonomi 6 Persen Prabowo Terlalu Optimistis&nbsp;&nbsp;netralnews.com",
@@ -2136,6 +2151,36 @@
       ],
       "big": true,
       "id": "d8fba505a7ea0321"
+    },
+    {
+      "title": "A Trader’s Guide to Prabowo’s 2027 Indonesia State Budget Speech - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUVFEaXRFRkZ6dERia1BXcWRKTnEwN3loQW96Vmx2WDZKN2ZSRk5aS0JpM3FWTUllXzR4UGdYM3p3UXEyU090V2FDekNUel8xeDNBd0xqZF9PLXBqb2taLUNLdWJQY1ladVlkU1hzdXhic0t4bXFFMkNsaWJhRWRKMXI3cVdPbnMtYWtKQy1XN2JJeXctemNzbl9wbnBGUU1MMlNSelhORDU5UWlpN2FxNElXSTVtdw?oc=5",
+      "summary": "A Trader’s Guide to Prabowo’s 2027 Indonesia State Budget Speech&nbsp;&nbsp;Bloomberg",
+      "published": "2026-08-13T00:00:00+00:00",
+      "source": "Bloomberg (via GNews)",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "e41249efbc09cdb8"
+    },
+    {
+      "title": "Watch BlackRock's Rieder Urges Hawkish BOJ Tilt to Boost Yen - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeUtXZkt0bjhvX1FEMzRJVEw1eXVDamZSdU9COHBNbF92bV9mSGxyQ3o2and5UDhJT1VCSjdlNmFUTE9rVFd0MFBWaGs3aDR2NjVfYmh4ckZ3Ums5MGlNRWtSN1FIMl9YNHczYWhyMk1rdm1XMHdTLUhjV0ZVeEpucnF2YWUwZHdpR0ZSX3h3emRXRFVtWGdhZ04wQUdTVEFKNDdlU2IteXo?oc=5",
+      "summary": "Watch BlackRock's Rieder Urges Hawkish BOJ Tilt to Boost Yen&nbsp;&nbsp;Bloomberg",
+      "published": "2026-08-13T00:00:00+00:00",
+      "source": "Bloomberg (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "BOJ"
+      ],
+      "big": false,
+      "id": "49d14f9490d9e20b"
     },
     {
       "title": "BI Rate Diramal Naik 25 Bps Jadi 6%, Terpicu Inflasi & Rupiah - Market - Bloomberg Technoz",
@@ -2217,83 +2262,35 @@
       "id": "d6844942aaf48321"
     },
     {
-      "title": "BI Rate Naik Jadi 5,5%, Bank Indonesia Perkuat Stabilisasi Rupiah di Tengah Gejolak Global - Bareksa.com",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU1lVSmlvVUZfSWIwSUYwVWxnNlBYSmt6UmtNSHg1TDAtcTdKWjhqRElPd3ppNDJXSjZkOE9pNVZzeFRZd2M2X1pSRVhjVzZ2OE9wR3JtdUhJM3RfUjlvbjZBUDAyb0p2Wm9kRFZrcWttR0RSSGxBQUViQU1UVXo1WUMzcGhSZ0FwNTRFMEN0ZDBYZHlMLTVCZk81U3ZmeG14UFBZTVdCUlBYa1ktUW1ZV1FYLTBiek1FTU5ZN1B4aUpfd0ZrVW1OT1UtUTRyQTNo?oc=5",
-      "summary": "BI Rate Naik Jadi 5,5%, Bank Indonesia Perkuat Stabilisasi Rupiah di Tengah Gejolak Global&nbsp;&nbsp;Bareksa.com",
-      "published": "2026-06-08T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate",
-        "Bank Indonesia",
-        "rupiah"
-      ],
-      "big": true,
-      "id": "df09cced7f7253a2"
-    },
-    {
-      "title": "Presiden Prabowo Sampaikan Arah Kebijakan Fiskal Tahun 2027, Tekankan APBN sebagai Alat Perjuangan Bangsa - kemenkeu.go.id",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVUZJb01pRWJKMGV1ZXMyUE92WFNwVlhucTRvTDEtUzdaWldLTXQxZVBHdWJzbUtWd0V5VGtiTERvRm5NTUxUVDVNdG5QSzk1NTdRY2g5ei1lWndnS3FCY2VyVldNX0FGa1NZWm1ubVozVE9WZ0pBc0dEUnBIS0hEdDB2RHBpc0hUeGNjNjh3NWJzZktDeUl0eUJtNWU?oc=5",
-      "summary": "Presiden Prabowo Sampaikan Arah Kebijakan Fiskal Tahun 2027, Tekankan APBN sebagai Alat Perjuangan Bangsa&nbsp;&nbsp;kemenkeu.go.id",
+      "title": "APBN 2027 Disiapkan untuk Pacu Ekonomi Tumbuh 6,5 Persen - kompas.id",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd1hCTW8zMFExWnM0RGt5MGs3TmdIXzdZVXBrSWh0VkRfOUtzWENJMlVpcDlCSjRicHdTMW0zQ1QyNXFCTmF1amF0d3E5eTVtOUtJMi1sM21uLXRkaHpUenVsbkJrQVlDUnYzT3FpSFZlXzQ3cmpZS3JNajlvZi1DUnBpRGJpSWNRWE9SbXZR?oc=5",
+      "summary": "APBN 2027 Disiapkan untuk Pacu Ekonomi Tumbuh 6,5 Persen&nbsp;&nbsp;kompas.id",
       "published": "2026-05-20T07:00:00+00:00",
       "source": "GNews – Prabowo APBN",
       "groups": [
         "Government / Policy"
       ],
       "matched": [
-        "APBN",
-        "Kemenkeu",
-        "Prabowo"
+        "APBN"
       ],
       "big": true,
-      "id": "d372102daaa92e7b"
+      "id": "056bf3b47664bc2b"
     },
     {
-      "title": "Pidato Lengkap Prabowo Paparkan Kerangka RAPBN 2027 - detikFinance",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVUVfdklHODlpVmJMclNyY2dRdjV4NzdXMXllQnJETVd4UDJvd3U4aW8zNTRqZ3VmN2FHLXBGRmQ4WWZyM1V1d3ZNVHBKMmtwdkJxWmVzQ3M0cnUwYjlnQW9EUHY0TE45NVphNTV2UkJpNEFVVVJHVG1ldXU0UndLbXZJUEQyWUw3YXF1eVA1ZFAxTXFlYlpVbGhXMnFuNFN0Z2JsMEg0X0ZydEl3TXfSAbMBQVVfeXFMT3FDakpZd01QOGNHUTdqUkp6UzhRWHk2N0pfcWhHZWRfYXFiZUdtVkdnckZiTHNaOERFdTZhSkNQeG9PdGRSM0NTcXZMRTVCQV9NNzB4dmw2SVhuM1lyaFJITVZlVVA3OEluaUUzeG95VU85MkV1dTR0WHcyN2JYT0YxRU1fT3NNVnhKUVB1MzVzZlcxMTRmUmwzbzdTVzJZTHBzRHQ5bENnWXZMcmRoODJYeTQ?oc=5",
-      "summary": "Pidato Lengkap Prabowo Paparkan Kerangka RAPBN 2027&nbsp;&nbsp;detikFinance",
-      "published": "2026-05-20T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "c992d7aaedf3698f"
-    },
-    {
-      "title": "Indonesian finance minister's removal unnerves investors, rupiah sinks - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSEEwVFNGMThCcVF1RW1iSkk0d1RFVzlmVzVnc2V5OXJnZmZkYUN3R2FkTDdrejlFcHhPVk9EOTBOTmh4YWU1NnVWTWlxMW9oM01zRmI0WHI5bHBsWkJncnJSeWVXNGlWWnZRaHZjcnJqRmdLN3JXSGlFa0JkMUNfaGtYemp2UFNCOGVmcEJNc1FYR3FxN1hFM05sVXNpaUZMb29nUDZlYlBkZWg3Sm5aRHpLbUtmSEZRX0VDUFZFbmM?oc=5",
-      "summary": "Indonesian finance minister's removal unnerves investors, rupiah sinks&nbsp;&nbsp;reuters.com",
-      "published": "2025-09-08T07:00:00+00:00",
-      "source": "Reuters – Indonesia",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah"
-      ],
-      "big": true,
-      "id": "9365fdcbcb2b6e63"
-    },
-    {
-      "title": "America Inc. Slashes Spending as Tariff Uncertainty Swirls - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zU3BhY2xiZTlIREx0cmRkaS1NaW9Lc1R5Q1RKbWU5aVVEMXJicDVXLTlwVnk0YURQSVItXzdsNFUwSF8xbkNlVDZCYkJ3WFZxN0wwR3BETUhZdzVVU0N0R1RnV3hYSkdzTXNWSXRPeGdxU1hVaGZIag?oc=5",
-      "summary": "America Inc. Slashes Spending as Tariff Uncertainty Swirls&nbsp;&nbsp;WSJ",
-      "published": "2025-04-27T07:00:00+00:00",
+      "title": "Amazon Is Better Prepared for the Trade War Than Investors Think - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBELWF6Q050aTlVeUczZUUtQW5mblJfamoyaTVKMUlMTVBCY2dnekNBWThxZzRoLWtWWUlOTEZsdVF3aU40RkYtdGhVNzZiQUV1bDlOY21Wc0JtSVlWNkhjT3NDRUhKbGpDWlNBejJSN1ZHbDRK?oc=5",
+      "summary": "Amazon Is Better Prepared for the Trade War Than Investors Think&nbsp;&nbsp;WSJ",
+      "published": "2025-04-18T07:00:00+00:00",
       "source": "WSJ (via GNews)",
       "groups": [
+        "Geopolitics",
         "Global Finance"
       ],
       "matched": [
-        "tariff"
+        "trade war"
       ],
-      "big": false,
-      "id": "321a6d2b6f94c6ef"
+      "big": true,
+      "id": "ba442737ee5c7cac"
     }
   ]
 }

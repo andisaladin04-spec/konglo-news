@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T23:44:21.379456+00:00",
+  "updated": "2026-08-19T00:01:57.983847+00:00",
   "count": 150,
   "items": [
     {
@@ -2174,105 +2174,89 @@
       "id": "3f258a1a53caf0db"
     },
     {
-      "title": "IHSG lanjutkan penguatan di tengah pasar cermati domestik dan global",
-      "link": "https://www.antaranews.com/berita/5699235/ihsg-lanjutkan-penguatan-di-tengah-pasar-cermati-domestik-dan-global",
-      "summary": "Indeks Harga Saham Gabungan (IHSG) Bursa Efek Indonesia (BEI) pada Selasa melanjutkan penguatan di tengah pelaku pasar ...",
-      "published": "2026-08-18T02:36:28+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "IHSG",
-        "bursa efek Indonesia"
-      ],
-      "big": false,
-      "id": "4b8bd782ef3125ae"
-    },
-    {
-      "title": "Komisi III targetkan RUU Perampasan Aset rampung Desember 2026",
-      "link": "https://www.antaranews.com/berita/5699221/komisi-iii-targetkan-ruu-perampasan-aset-rampung-desember-2026",
-      "summary": "Komisi III DPR terus menggodok Rancangan Undang-Undang tentang Perampasan Aset dan menargetkan pengesahannya pada ...",
-      "published": "2026-08-18T02:15:29+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "DPR",
-        "UU "
-      ],
-      "big": false,
-      "id": "c5c14c7a95026da1"
-    },
-    {
-      "title": "The Iran war risks bringing the G7's fastest-growing economy to a halt",
-      "link": "https://www.cnbc.com/2026/08/13/iran-war-g7s-fastest-growing-economy.html",
-      "summary": "The U.K. economy is showing further signs of a long-awaited rebound, but the picture is complicated by the fallout from the Iran war and high energy prices.",
-      "published": "2026-08-13T12:42:10+00:00",
-      "source": "CNBC Global Markets",
-      "groups": [
-        "Geopolitics"
-      ],
-      "matched": [
-        "G7"
-      ],
-      "big": false,
-      "id": "de2cee0b0b839bbc"
-    },
-    {
-      "title": "Indonesia’s rupiah falls to record low against US dollar - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeGh3Mm9OcklGMmFZSlVMMlFmX1dWblc1bjRLRjY2NHRITDdvQ2dncDFZOWtRSWFmcVpmVVA0eGRkeVZwZ0pNSWFVOERMZU9ZcExwSUJNUEJlRGNGY3RUR1Yyb04wY21DWURrU2haMEVmeFlsbzJLOFR6bTh3UHFzNllpS3RjTGd5cXdDcnVJeWZ3QWxfa0lkcGhxRUZSam_SAaQBQVVfeXFMTXRXVkpfRktmb1JHU0twSjBZcWlMUEdnUldDUWs3MTdNbmJUazlLT0xzV3VkemZoQm5yNlhyTDNXX3lfWm12eVN6TUVKLWJ4R2NDN3JfZ2k3Z1FYUGxkMkNDSXRuVS15d3VqNjIxdkRwXzkyRGJ4QzZ5djdkYnVXdng1elY2dXNmemRvNlhqcXc0YUZfTVZyUWdmT3FiT25FZjJ1SWU?oc=5",
-      "summary": "Indonesia’s rupiah falls to record low against US dollar&nbsp;&nbsp;Al Jazeera",
-      "published": "2026-06-04T07:00:00+00:00",
-      "source": "Reuters – Indonesia",
-      "groups": [
-        "Global Finance",
-        "Macro / Economy"
-      ],
-      "matched": [
-        "US dollar",
-        "rupiah"
-      ],
-      "big": true,
-      "id": "d674e92b331bb088"
-    },
-    {
-      "title": "BI Rate Naik ke 5,25 Persen: Harga Kepercayaan Makin Mahal - Kompas.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbTk4dWlucjg3Y2lfZkpTOHN1ejdSTjNzcGk1TDM0ZThNeUtOaUtTalAxMnFlemN6akcwazlka2Rlck1iNm1TU2cyNlZpUXBCVm9udm1LX2VJOEw5ZWUzNWhXQkNLM1RqTVFlR3ZpUFlIUVotdGJVSUJ6VW05SXZ0MG9QX09IVUxIZWlZYURIT1NTa2FwaVNoV2tWOUotcnJNQkNXajRmZ0pBdGlDZVEwR0ZGdXIycllwR0E?oc=5",
-      "summary": "BI Rate Naik ke 5,25 Persen: Harga Kepercayaan Makin Mahal&nbsp;&nbsp;Kompas.com",
-      "published": "2026-05-21T07:00:00+00:00",
+      "title": "Bank Indonesia Diprediksi Masih Tahan BI Rate di Level 5,75% pada RDG Pekan Ini - kontan.co.id",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1RIMU0xOGxQM1NaZWoyZ2t3UEpqOTI2U2NDZ1VfSTRTT0tXSTNoYkdZbEtIVmFLa05iY0N0T1VYXy1wZTNsVk0tSUdjWllVZWRNblRMOUpILVZWcXhLZEhIeURBVlloTDh6V0NUdHNZRFgtcWN5Z0g0NlBQSTg0YlRlRDNkSWJmaVQtOGR1d2IxTFMxUFNXcUt1UDdKZFdGaFpISUhPVXZjOFppX3N5ZEtn0gGrAUFVX3lxTE1rbjB0R1RaUHl3U1YwNmJzTEZTUDdwLXEyaWY3WFduZ25iRThRRHo4ZTl0b0JKYV9wMXZzMXI1ampHZWNSQy1nYmllb0hSSmVINHdZMVN0bWpsNFUyWVZYNGdnMkZXS0o5dEdVTVEzUkh5bE1LQl9UUTl1al90UDBycC1CWkxkSF9Zd1U0dW9vTEdPcGhCTHd1UEk3eHVBYTQzTmhpcjlORlFOUQ?oc=5",
+      "summary": "Bank Indonesia Diprediksi Masih Tahan BI Rate di Level 5,75% pada RDG Pekan Ini&nbsp;&nbsp;kontan.co.id",
+      "published": "2026-08-17T08:47:53+00:00",
       "source": "GNews – BI rate rupiah",
       "groups": [
         "Macro / Economy"
       ],
       "matched": [
-        "BI rate"
+        "BI rate",
+        "Bank Indonesia"
       ],
       "big": true,
-      "id": "d529f89bd179954a"
+      "id": "38c8b4c35fc29d3f"
     },
     {
-      "title": "Prabowo Tegaskan APBN untuk Jaga Ekonomi di Tengah Krisis - Kompas.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOEcyeGtucFhid3MtQ3VMVlZ2N3EtLURIS3c2eTM3UXUwSkhJM0EtQm4ySDNneTEzTHltVVVpRU5pUDRSanl2bTJBU3FsUEZTd2U4ckFZYUZpMHJ4UkZONHZ1TlowX0czWVFWSlBlQjd4bEdSd1U1NXJ5enJGU2tvSGVPVW0wYkdtQ0xILWw1aGwya29fUWlQTUNGSXBLWHBya0lQQW4zenpwT3Br?oc=5",
-      "summary": "Prabowo Tegaskan APBN untuk Jaga Ekonomi di Tengah Krisis&nbsp;&nbsp;Kompas.com",
-      "published": "2026-05-20T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
+      "title": "Rupiah Tembus Rp17.800, Bank Indonesia Diprediksi Tahan BI-Rate 5,75 Persen di RDG Juli 2026 - Suara.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYUl0bHQ2Q0Uzc3RmNHY1S1BmZUdBS2VDeVdCSnJTbk5qbk9ZQjYwZFQtb1c4WWRYbmpGdDhha1BfUnFLeW1DOU83ZGJvY0RNSWR5S1hFQmw4bko2N2RtT050N0Z1SE53Q1VOT25tRHN1S1NqRmg2VjQxcnI4cTlNaERiS0x2dkFMdHJVX0s1cUpXaWZOV05nS1loQ3dXMkhpejdKZmpRa1ltTmdpY2k3cC1oRm1nM0s2ZTRRRzBCQWNFN0dGVm9GdTRfeEdYZ21nMGfSAdIBQVVfeXFMTkZPN1B3dzZzd2dINmRESWxqc1B5Tk8yTmR2YmtEbUlSbzN2QVQ1eDlmVDJselFEdVJ0MVpaQ3J3d2h5WWNCTmE4QkZtY3k5WXlUc0ZNdWFwOWpuZWpqMTV3dkN4WXVtTllaNU5LVkJUZkM2elI1SVloeno4dmlRVVM3SHY1enZxOER0VkFlaEE1U1l5SzdqXzR3S2UyamhPRHBvXzdPbFpIX3BxZ1FvV3V3UFZPa2wxLUdxUlJqMUo0MVNJVEFBejhoQ2JVUHBfdDl3?oc=5",
+      "summary": "Rupiah Tembus Rp17.800, Bank Indonesia Diprediksi Tahan BI-Rate 5,75 Persen di RDG Juli 2026&nbsp;&nbsp;Suara.com",
+      "published": "2026-07-22T07:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
       "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "Bank Indonesia",
+        "rupiah"
+      ],
+      "big": true,
+      "id": "b577178868977b21"
+    },
+    {
+      "title": "Indonesia Seen Hiking Rate in Close Call to Help Fragile Rupiah - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNWJxNzNhbXBkSUJQNndKV2x6UFBSeG5NdnhpRThNbmNQYnhYa20zOGozM0x5aEZuNlpSX29ZcVBuUl9FNHJZSEU3WXQ5QV8tY192X3BmYjB2YVNnbHg4UnNFMTZ4dlN1WWxfbkpvYnhjNmJoWkpIMkRiQUN4cTZYbHBoYll5VVN0OExnNzNNcTdOWG4xWC0yeFFlVXhVMEhSV21vTVZ4OERuQkZYQ3UzR0puTnRrZGNiT201ZVVIckRHQkNrZzkzUVV3?oc=5",
+      "summary": "Indonesia Seen Hiking Rate in Close Call to Help Fragile Rupiah&nbsp;&nbsp;Bloomberg",
+      "published": "2026-07-21T07:00:00+00:00",
+      "source": "Bloomberg (via GNews)",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "rupiah"
+      ],
+      "big": true,
+      "id": "f228b476b6c69ee9"
+    },
+    {
+      "title": "LG Electronics Expects Quarterly Earnings to Surge, Buoyed by Tariff Refund - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOVRXa3JTNkpjWF9vWHc0MkJoeGFjOTFOb1BHSUd0eXc5QWxNU1pYV3g3Y2ZOR2xVYlF4SDROTDdGZDd3eFNoSWJLVm1hTUExd0l4S2FTeEpYQkkzUko1ZTE0V0dOSEppaEF0blJTUHRkQzEwWHJNUFNWWUczeVc1a0R5MTUzaC1BdHBpSUpVSEdycURCM2hTT2pMNEJmcF9GUFkyT3BvY2JIazc4?oc=5",
+      "summary": "LG Electronics Expects Quarterly Earnings to Surge, Buoyed by Tariff Refund&nbsp;&nbsp;WSJ",
+      "published": "2026-07-07T07:00:00+00:00",
+      "source": "WSJ (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "tariff"
+      ],
+      "big": false,
+      "id": "d17b75ed0d1dc86a"
+    },
+    {
+      "title": "Indonesia, faced with Prabowo policies, 'stock frying,' left behind in rush to emerging markets - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUHFLMW1IUmNtUWIwQmRxczlZQmRPXzR1c09NV3ItN0RObWtTekZiTEh6bGdNd2t6ZlBUc0lZRnpKMnhCcUczWTl5S29NRGM2ckVFUnNteDhnbFYtdEh3VWpBMXp5QmItTkhoY3Y3Z3MySXV5UzNaTEgtZ0RWMS1pWUxSb21tWlAzQVZJLXhualNpN05xQV8tampOUUZ2bmp5ZHEtOXpWbDhOVnJadVlJeWJUeUFkNEhYUE5tUmFXZjRhV2RVUEIwRQ?oc=5",
+      "summary": "Indonesia, faced with Prabowo policies, 'stock frying,' left behind in rush to emerging markets&nbsp;&nbsp;Reuters",
+      "published": "2026-02-02T08:00:00+00:00",
+      "source": "Reuters – Indonesia",
+      "groups": [
+        "Global Finance",
         "Government / Policy"
       ],
       "matched": [
-        "APBN",
-        "Prabowo"
+        "Prabowo",
+        "emerging market"
       ],
-      "big": true,
-      "id": "9f1a11a5cd76e630"
+      "big": false,
+      "id": "5a7b85e368c0c3a8"
     },
     {
-      "title": "Wall Street Bets the Worst of Trump’s Trade War Is Behind It - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR1BNUXlBTG04RTM0RU1KelJkRnI4UlRvTDdpUWhjZHRjRmY5ZzJMRW90eEo1Zl9sN0dHSEtaR0N4RXdXaTVNdDJHcUM3bVFZdDRSNFVjQ3Q1bXdjd1Q4VEwzZ0hYYUxFcVpHRDY5Ym8ySkhCckl1ZDJLM09NYmx1RXRBbw?oc=5",
-      "summary": "Wall Street Bets the Worst of Trump’s Trade War Is Behind It&nbsp;&nbsp;WSJ",
-      "published": "2025-05-27T07:00:00+00:00",
+      "title": "Airbus Backs Guidance After Trump, EU Reach Tariff Deal - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY05CSVZVM3JTTlNyTlFUdV8ybE1oRlNNNEJVV1ktanBmbXBYclZxa0lKY01ZV0Y4bEgtbHhoWjRrZ0txRnpEMVFaQk5EbUZOVlpuUU9uakVLTFlrSVVLSDJ6Y3NNX2RDcUlBcEtLTkpTdkFZdEMzREUtNk0wNHhmQy12WkpxaXRNNkNVblNOc1U3eFpDVHZZ?oc=5",
+      "summary": "Airbus Backs Guidance After Trump, EU Reach Tariff Deal&nbsp;&nbsp;WSJ",
+      "published": "2025-07-30T07:00:00+00:00",
       "source": "WSJ (via GNews)",
       "groups": [
         "Geopolitics",
@@ -2280,10 +2264,25 @@
       ],
       "matched": [
         "Trump",
-        "trade war"
+        "tariff"
+      ],
+      "big": false,
+      "id": "ca54586725e289fd"
+    },
+    {
+      "title": "Indonesia intervenes to stem rupiah's slide after currency hits 4-year low - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTldDa3Ryb1Q3dDE2Q0pNY0dPY2lNMHBEWE45T0RIWHdMUm1tMFEtVk1wdDc4X3V6R0VXLXYxdThVcGZ3Q192LURJb1FJLURwcjIwZloxcHhCcnFTN1BXRmdUVFl3RUJacm8tQ2g0TnlSUmsxdEZlV2tycnNHR3dqSVJabDk4U2plWVI2bHNVMjc5SC1GRGdrMjItak12eDFpYjBrUU42bXNkSVF4NnRkMElBT2s1ZjRGdmhEcjlmZUY1V1k?oc=5",
+      "summary": "Indonesia intervenes to stem rupiah's slide after currency hits 4-year low&nbsp;&nbsp;Reuters",
+      "published": "2024-04-16T07:00:00+00:00",
+      "source": "Reuters – Indonesia",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "rupiah"
       ],
       "big": true,
-      "id": "b4e84661aa605aa4"
+      "id": "8669162f5e9c7e17"
     }
   ]
 }

@@ -1,7 +1,54 @@
 {
-  "updated": "2026-08-19T23:44:52.053076+00:00",
+  "updated": "2026-08-20T00:23:43.180807+00:00",
   "count": 150,
   "items": [
+    {
+      "title": "Pelatih tetap apresiasi tim Putri Nusantara dalam Srikandi Merdeka",
+      "link": "https://www.antaranews.com/berita/5702708/pelatih-tetap-apresiasi-tim-putri-nusantara-dalam-srikandi-merdeka",
+      "summary": "Pelatih Kepala Tim Nasional U-16 Putri Indonesia Takumi Taniguchi mengapresiasi kerja keras timnas U-16 Indonesia ...",
+      "published": "2026-08-20T00:16:43+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "apresiasi"
+      ],
+      "big": false,
+      "id": "cf449b9876c9d427"
+    },
+    {
+      "title": "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
+      "summary": "Trump says Washington may resume talks with Tehran &#039;at some point&#039;.",
+      "published": "2026-08-20T00:00:00+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Geopolitics",
+        "Global Finance"
+      ],
+      "matched": [
+        "Trump",
+        "sanctions"
+      ],
+      "big": false,
+      "id": "e68fe4f445db12ab"
+    },
+    {
+      "title": "US national debt passes record $40 trillion",
+      "link": "https://www.aljazeera.com/economy/2026/8/19/us-national-debt-passes-record-40-trillion?traffic_source=rss",
+      "summary": "The amount has doubled in the last decade, from Trump&#039;s first term through the Biden administration.",
+      "published": "2026-08-19T23:59:16+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "3457088edd350d4d"
+    },
     {
       "title": "Pertamina perkuat komitmen jaga ekosistem laut di perairan Sulawesi",
       "link": "https://www.antaranews.com/berita/5702692/pertamina-perkuat-komitmen-jaga-ekosistem-laut-di-perairan-sulawesi",
@@ -2227,68 +2274,19 @@
       "id": "930af9aa5e13718f"
     },
     {
-      "title": "Rupiah Melemah Menjadi Rp 17.862, Pasar Menanti Keputusan BI Rate - kontan.co.id",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTUlQWjNMdjJhekwwY3pIaVhpN0MwMVExWVRqekMtRUNNZjE0UzB2Zlo1VTktMHJWbl9CR29lMHNxNHBGbHVOWGlDdEoxNVpKN1BjNl81TFh6dXNKb1p5VGZ0Ymd3UHk1b1B3RFU2SUxYdnpoR19kdG5uNVVmd1kyTXEwNHFiMEtENm1NblBpRVZjbUZHc1RFQUNMVVBQMjRj0gGYAUFVX3lxTFBSMkMtTE9ySS1xSlRGc1llZXZ2Um5UUG1rT1p3a09RaHk0VHhSTjhkWWEtMjJwZEhpeW9pVFZtTDV3MFQ2alVUT1NCbFo4YmRXZFpIczVtdGJtTGVJbE50aUhBVGZCQ1g0bHFrdlNnQVA5VVB2N3ZaZEx2ZE5heDJRWnVJOVRoU0xQazVTY0RkTzgzV0hfSFc3?oc=5",
-      "summary": "Rupiah Melemah Menjadi Rp 17.862, Pasar Menanti Keputusan BI Rate&nbsp;&nbsp;kontan.co.id",
-      "published": "2026-08-18T12:38:04+00:00",
+      "title": "BI Pertahankan Suku Bunga 5,75 Persen, Apa Dampaknya? - Universitas Muhammadiyah Surakarta",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTDZZVE84U0lGX1VHcVM4WExna0NnNGZsZGx1SzA5RFBmWTluMWNOSllRV2MzVC1Ra0JWT2hlZ3B0RzhINjRfSnBmV2pWZzhKTklfdkxIUzloTXV2UG9GTDI0Uk1ES2d0ZDJFSVF1RkZhSXFId0tIdWdaSnI2c1F3NHp3Nl95eTVEUzY0YTF6SEl3VVVhS2lzQzFLVQ?oc=5",
+      "summary": "BI Pertahankan Suku Bunga 5,75 Persen, Apa Dampaknya?&nbsp;&nbsp;Universitas Muhammadiyah Surakarta",
+      "published": "2026-07-24T08:17:56+00:00",
       "source": "GNews – BI rate rupiah",
       "groups": [
         "Macro / Economy"
       ],
       "matched": [
-        "BI rate",
-        "rupiah"
+        "suku bunga"
       ],
       "big": true,
-      "id": "dfc9a31e07f40b88"
-    },
-    {
-      "title": "Prabowo Plans Indonesian Commodity Exchange to Control Prices - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON2FoWkloVm1sMDlpLU5wSGQ1c3A2clF0LWhmRmh6Wk83V0FoRXpFLVNrNzd5THVodWVwZU5IdWk2WGluOS1YNC1WdG54UUUzdGxsdE44UkhtaW03c1I5YTZINlJPcGhOdGhCWGd1UmhLVElwblJXU25iZk5sR0FPWGlzRXQyY2RZZVVqZlFPaEt2R2hTVk8wNFJkS2xZcC1LcDJBVmV0UlBVWmVZN1ExSHdB?oc=5",
-      "summary": "Prabowo Plans Indonesian Commodity Exchange to Control Prices&nbsp;&nbsp;Bloomberg.com",
-      "published": "2026-08-14T09:16:54+00:00",
-      "source": "Bloomberg (via GNews)",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "ea0ec4602bc149da"
-    },
-    {
-      "title": "BI Rate Naik Jadi 5,75%, Pemerintah Anggap Mujarab Buat Rupiah-IHSG - CNBC Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUnFHT3hGb1BDU3pMSW1UTFl2bVRjaHRuSndBWXV1dTJ0S3FwWWlHdTZDSTJUOHdwZnRyY29BNm5sQi1lcWFRa1RBVURXSGt1Rzl4Rl83YTNlbjQ1ZkpDYThhSF9NNlluZGNpQnM1b3pHUDI0Wmt6bG96SEM1SS1PaG1KbmMyMENZYS1IN05aNG1CQ1FBQ0RfTng0R0stM09OQXMxX3Q0eHZEXzN0YUkzMWx2VVJ0QlhXNVlDM0VyUC3SAcYBQVVfeXFMTnhtcEJqQmtRYThncW9hcUV0VnVnTDAydE5MaExYZVpoRndHcC03S21xRHl4SjdqSGFGOWs0emJrSTRUYk1uQjhKeEphdTdnRWpRTXhGcURBT0FJODNBN0YxVDJscDZxdDRWSlNjVmpmLUVhNElydG9RbFVxMUNjMG9iQUI1RDVsNGNPOTRMZk43VWx3NUROcFllYlJOeGhybWhQVWEwVko5ekVIbE4yc0xReHlOamlNR2l4aktHbDhiRVFyNWdn?oc=5",
-      "summary": "BI Rate Naik Jadi 5,75%, Pemerintah Anggap Mujarab Buat Rupiah-IHSG&nbsp;&nbsp;CNBC Indonesia",
-      "published": "2026-06-19T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate",
-        "IHSG",
-        "rupiah"
-      ],
-      "big": true,
-      "id": "9853b69d018137f3"
-    },
-    {
-      "title": "Lengkap! Poin Penting Pidato Prabowo di DPR: Target Ekonomi - Tambang - CNBC Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQk5rd0o2Sm9NekJmNHBuMDktWDdYQ1poTlVaVG53MWY5SEdtWU9WaVhqLTZCUVlHNng2WXhwUk5ILVVnUEhHRzh0RjhCb0lLQlRVbDhOVXpHRHE0QldBQ3RDLUVfNmRIS05qMG1DSUtCSTJJNEJwc0FpWVQ5bkp3RXZzQ1g0bmJsQ25oYmMtN0c5Zzg5RlhZcEdhdWM5M0JYam1BSTU0cGdydHE5eWdwRG1Kck1JRDZhTDl4X0dJTTFFMUVWNE9SOWpUSQ?oc=5",
-      "summary": "Lengkap! Poin Penting Pidato Prabowo di DPR: Target Ekonomi - Tambang&nbsp;&nbsp;CNBC Indonesia",
-      "published": "2026-05-20T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "DPR",
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "2698b41c6d2d8a5a"
+      "id": "848547b53ff9ccb9"
     }
   ]
 }

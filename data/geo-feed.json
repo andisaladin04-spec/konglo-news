@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T22:16:26.627717+00:00",
+  "updated": "2026-08-21T22:48:22.787177+00:00",
   "count": 150,
   "items": [
     {
@@ -1851,6 +1851,21 @@
       "id": "4d35f73fe93f63fc"
     },
     {
+      "title": "Trump plans to meet with North Korea's Kim Jong Un - Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRlYxNmNIQS10R0FyMnRXMVZDeEEweXNscjhlQkVvdTctc0JVMUljY1RTMEFBaFhrdzVpM01QZkIwbnEtOVRGLVFkUlh6NHNoMFJ5NWptVGdrVXZCeENGUFBOSXM1RjVLS1VMc2c0M2hsWXRlUzJITU5hOWtrbHNuSUlRX0R1dGNBdGNLQ1NlTGFJVmdDYnVwMkZ5Y2JQY0FUUVVXLVpfSVA?oc=5",
+      "summary": "Trump plans to meet with North Korea's Kim Jong Un&nbsp;&nbsp;Nikkei Asia",
+      "published": "2026-08-19T16:53:00+00:00",
+      "source": "Nikkei Asia (via GNews)",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "310ccb2780b80673"
+    },
+    {
       "title": "BI Tahan BI Rate 5,75 Persen Demi Jaga Rupiah hingga Inflasi - MetroTVNews.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd2dYaEhFZ1RFaXlYbHA0V1pkRXZuQWhMNVZHa09lbFQwcER4UkhFNzdDNUZseHRiVEg4dVUwY0QxVkNvUGVjTks2SGhDMzdFV3NCcnNtQ3J1RF9Eckk4c2ZiOTBDNVd4bzRzQ2pDNHk5N2xZM2ZTTWdYeVZ6S21nX1BZNEh3RGFPejk2bzlzcFFlNGtYVWFSR1ZHVXYwbGptWndEaQ?oc=5",
       "summary": "BI Tahan BI Rate 5,75 Persen Demi Jaga Rupiah hingga Inflasi&nbsp;&nbsp;MetroTVNews.com",
@@ -1959,6 +1974,37 @@
       ],
       "big": true,
       "id": "d1f77d1f593c300c"
+    },
+    {
+      "title": "Indonesia's Prabowo targets 6% growth, lower budget deficit in 2027 - Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUHRfZUphblR4OXVvdjlpZlhRMTV3aEppX0hkWXpJNTlKNjdETXNxT1c2NmtfRXA5c2czOWZidFZDZTFlVXlWXzY4WFl4Mm9ycXZ2bjZseksycGlPT0N3Y1NRelVhRm1CVGpBT2l4MlJyTFVHV2hqdXZ4UElhSDc0R0ZLQ0pWTndOOE9qSklnN0ZXc3E3dnpmRFM0TmVzQQ?oc=5",
+      "summary": "Indonesia's Prabowo targets 6% growth, lower budget deficit in 2027&nbsp;&nbsp;Nikkei Asia",
+      "published": "2026-08-14T12:06:00+00:00",
+      "source": "Nikkei Asia (via GNews)",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "2ffea83ba88bd1ed"
+    },
+    {
+      "title": "Prabowo Dorong Sensus Ekonomi 2026 Jadi Dasar APBN Akurat - TIMES Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkd3dV83WmNhZU1RNDhPTVQySEgwejBLWlAzNUFjajhjam5NZFhIZG9YMFRteDZfTHpDd1lrcV84UVIwb1NyVUJrYkQ4aTZHZi1MZlJIWHBOdkxnRi1mMlI2RVJhOVZGdzZfckNDejdadGg2eDF6Y2RRODZDMnl0eFFtOFprMUcwc1VzcmV4bzJsQXR1b3ZMWXlKdVdaRkQ2eUdudVdQZWlDbTM4YVlYMnl3?oc=5",
+      "summary": "Prabowo Dorong Sensus Ekonomi 2026 Jadi Dasar APBN Akurat&nbsp;&nbsp;TIMES Indonesia",
+      "published": "2026-08-14T11:16:00+00:00",
+      "source": "GNews – Prabowo APBN",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "APBN",
+        "Prabowo"
+      ],
+      "big": true,
+      "id": "00d0dea55efb4006"
     },
     {
       "title": "Trump Trade War Puts Indonesia’s Batam on Global Factory Map - Bloomberg.com",
@@ -2197,98 +2243,51 @@
       "id": "30e526d04edb0f33"
     },
     {
-      "title": "Defisit APBN Membesar, Saatnya Prabowo Menata Ulang Program Prioritas - Kompas.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZjRueXFYSkJocnd1ay1USFJ3SkVrLVlMY2FUZUZLNk9qdGpOZVExWHAxTVdsSVhSeDRjUmk1RUlXY1J5LVRLTUttSkg0UkUtWk9ieWJ4X0Jtc2d1N082Vi1XTFFtdTQ2N0l5M1FhQ296WDZ5SWNZOGJjUjVvUGdjQUVRYmxMeHpyVmRmSWphVzhGSzlwSzJSWV9JOWY2cVFMMWxENjk2T1JJZEFEaXRFTTJZSFIwWmlZLWh5bzZsN2FpLXRQbE5TMWh3?oc=5",
-      "summary": "Defisit APBN Membesar, Saatnya Prabowo Menata Ulang Program Prioritas&nbsp;&nbsp;Kompas.com",
-      "published": "2026-04-11T07:00:00+00:00",
+      "title": "Prabowo Dijadwalkan Sampaikan Langsung Kebijakan Ekonomi dan Fiskal di DPR Besok - NU Online",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNm9pRjZRZjN4bGxDV1B1YVJEUjJUOUhmN0dMZ21wQ3F1SE9nQ08yMElkREhLSXVHTGFGNVZyOXRSbGw0Q2E3Rmw1NUo4SVZPaHp6SFppODVPZ2VCQ1JFVTUtai1RM0pxOTlKb2pPaHFQY3FoVUpQQ3V0QkdkcDdNd0JnZnk3OUpOR000dWdxd2RsaVB0Q2NiR1JITmZidkZ5bDcxZ1E4YXlWM1R6TE50bVJR0gG3AUFVX3lxTE9QTmJiNDlESlcwbDg2c3Z2VkhLLUlKNkRZbGJKUU1qcGY5czR4Tmw1WG44cXlJdVlPbHY1WUFfdjlZTlZib0hodFBiN1VCaHo5bWV2LXpwckFnc2Jqa1ZpVlZ0Wll6VXN2Skd4YzNHc2pQYW42RTYzdGRkQ2lVdmdXUGgwT09oS0hGTVQ1eE96SDYtQ2hqWjFsT1pwbVEzbHk4Y3VJSXllT1RRR0tiTGV6M1MzeG5RMA?oc=5",
+      "summary": "Prabowo Dijadwalkan Sampaikan Langsung Kebijakan Ekonomi dan Fiskal di DPR Besok&nbsp;&nbsp;NU Online",
+      "published": "2026-05-19T07:00:00+00:00",
       "source": "GNews – Prabowo APBN",
       "groups": [
         "Government / Policy"
       ],
       "matched": [
-        "APBN",
+        "DPR",
         "Prabowo"
       ],
-      "big": true,
-      "id": "096675ee6bbe54b8"
+      "big": false,
+      "id": "7446c303467ef24a"
     },
     {
-      "title": "Why Fed Rate-Cut Prospects Have Dimmed, With or Without a Cease-Fire - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX25tMUJPNlgzVWlKQ01UdGFlVVFXRlBsYklKNVd0R2YxdTMtQnJ6YmJKT01mVjF5aFZJUG9nTk5uS0d0NTVwNjk0OWpsVkFOdGJEWlM4cS1QTlZoaHVxbFJLMzNicnJoakNtQ1E3bTJWTzBlN0d1eWtPYTcxb3BFcjdPSHlySklQeWk5N3Aya0E0LVE?oc=5",
-      "summary": "Why Fed Rate-Cut Prospects Have Dimmed, With or Without a Cease-Fire&nbsp;&nbsp;WSJ",
-      "published": "2026-04-08T07:00:00+00:00",
+      "title": "Opinion | The Tariff Battles Are Far From Over - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4MXB5VHBEeG9uejlNU1BneEVNdFFqR09EemlXcnNuT3NydzJkQVFUc2ItS0g5OVJtcE1BdHB5dkhZei00Mkhhb3YxemVUREgyQ00xSFpIaUJvY2RkV3ZDVXBfak15anNFRzJ3cjNnN0xYb0VYbkVKNGhVbEU4dw?oc=5",
+      "summary": "Opinion | The Tariff Battles Are Far From Over&nbsp;&nbsp;WSJ",
+      "published": "2026-02-23T08:00:00+00:00",
       "source": "WSJ (via GNews)",
       "groups": [
         "Global Finance"
       ],
       "matched": [
-        "Fed rate"
+        "tariff"
       ],
-      "big": true,
-      "id": "e3fdd4c05607de21"
+      "big": false,
+      "id": "d4a7b51cd89e1845"
     },
     {
-      "title": "Trump Targets Industrial Subsidies and Forced Labor in Tariff Probes - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Fc3VMaVl5emw5VUdybjVlZXVMSl9UTklMQ0dZRzRnNzExS3dOYlJhaVJlY2NhYTJudkJ2dGJ1U3YyakJ3V3kweXpTTHl4bi1EcnFoMzU0X3gweGRRQ3ZKYzBhZmNLbkJ3dHo5NkRJRFQtQWtnVUlGaDJfcHFQZw?oc=5",
-      "summary": "Trump Targets Industrial Subsidies and Forced Labor in Tariff Probes&nbsp;&nbsp;WSJ",
-      "published": "2026-03-11T07:00:00+00:00",
+      "title": "China’s Strategy in Trade War: Threaten U.S. Tech Companies - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsNWlwNWN2WjUzU0VLcjRFeV9zbHJHdUdEVTZiV3dYT3BBSUxwajViRXRqdmZ0cDNnTVpwOElPRFJyd0o4MjRkV3dEQ3d1SF85UUVsWFAtR1VNZUJVTktTVU1XNjJTNFlW?oc=5",
+      "summary": "China’s Strategy in Trade War: Threaten U.S. Tech Companies&nbsp;&nbsp;WSJ",
+      "published": "2025-02-09T08:00:00+00:00",
       "source": "WSJ (via GNews)",
       "groups": [
         "Geopolitics",
         "Global Finance"
       ],
       "matched": [
-        "Trump",
-        "tariff"
+        "trade war"
       ],
-      "big": false,
-      "id": "5e4a415afd8793b2"
-    },
-    {
-      "title": "Tariff Ruling Triggers Accounting Judgments on Refunds - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZUJ4Rlp2X1V5ckppODFuNGFCLVdCNkt4S1lUWFNxZkYwQVhfWTczc3FxZnVoSkVhVlNFTGdpN3EzQ0F1RnIzcVdENVpscFBDQzBpSUg2WDB5SURkZ3NqZTJheFFmZXd3eWxtZmxOYUFvQk95clZEV1ZzY1JFWm0tMS1mMGJUQlphZ1MyOE1BcW9IcGhNdkNjd1VmQlNhZ3d2ZDZ1Um5HWFlOSXNIY19WbXhmeXVrN2pHMTI3MFlCRUVKYWY5blE?oc=5",
-      "summary": "Tariff Ruling Triggers Accounting Judgments on Refunds&nbsp;&nbsp;WSJ",
-      "published": "2026-03-05T08:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "tariff"
-      ],
-      "big": false,
-      "id": "9fd6d3d709eb7e06"
-    },
-    {
-      "title": "Hedge funds rethink emerging market bets after US-Israel strikes on Iran - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQjM2QXZWU1pxZEtfck51RThoOHlSOVUtYUlKZHFFaTdWMDJwZEg2UzNxOEprUWZuX2FjVjFHV0llSEFBaEFFbUdMVmhrV1pYcS1GYTQxcGc3NlU4dGlFWWJvd0FUZVhKeW15QnMxaUdMUnRjN2dKWmlOaVY3cFhvQWtycm8?oc=5",
-      "summary": "Hedge funds rethink emerging market bets after US-Israel strikes on Iran&nbsp;&nbsp;Financial Times",
-      "published": "2026-03-02T08:00:00+00:00",
-      "source": "Financial Times (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "emerging market",
-        "hedge fund"
-      ],
-      "big": false,
-      "id": "fbe57582237f03a2"
-    },
-    {
-      "title": "Wall Street Traders Are Pouncing on the Tariff Refund Chaos - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdVlZOXhQeWV6b25DWW9qNVlwc3NrMjZFbFNYTERtbmc5ZF9USXNRQ25YREVWSVdYT2t0SmhJUFZUa2gzWU1lOHZuUXdZVTVOeHVDZWl3VE84TUs1OFNWVjdfaFdYX0c3WjMwYlJyaW1WbGJtbTlwaWxPZ2VDc0w2Y0JOWWRnbDFJbXpITWpkaC03cmtabGFud19CUnY?oc=5",
-      "summary": "Wall Street Traders Are Pouncing on the Tariff Refund Chaos&nbsp;&nbsp;WSJ",
-      "published": "2026-02-25T08:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "tariff"
-      ],
-      "big": false,
-      "id": "adf3ddc5af42ff81"
+      "big": true,
+      "id": "488fcbc4fc9cc5ed"
     }
   ]
 }

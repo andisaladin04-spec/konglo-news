@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-21T08:00:18.829107+00:00",
+  "updated": "2026-08-21T08:54:03.745849+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "Lampu Hijau Akuisisi Grup Bakrie, BUMI Selangkah Lagi Caplok Loyal Metals",
+      "link": "https://katadata.co.id/finansial/bursa/6a88054a80fbd/lampu-hijau-akuisisi-grup-bakrie-bumi-selangkah-lagi-caplok-loyal-metals",
+      "summary": "Rencana Grup Bakrie PT Bumi Resources Tbk (BUMI) mengakuisisi perusahaan tambang asal Australia, Loyal Metals Limited, mulai menemui titik terang.",
+      "published": "2026-08-21T07:59:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Bakrie"
+      ],
+      "matched": [
+        "BUMI",
+        "Bakrie"
+      ],
+      "big": true,
+      "id": "21f15d2ee0480a4b"
+    },
     {
       "title": "Asing Net Buy Rp 362,6 M Akhir Pekan, Saham BBRI, BBCA, TPIA Diburu Investor",
       "link": "https://katadata.co.id/finansial/bursa/6a87feb9dae78/asing-net-buy-rp-362-6-m-akhir-pekan-saham-bbri-bbca-tpia-diburu-investor",
@@ -116,6 +132,21 @@
       ],
       "big": false,
       "id": "24167c862c7f46e1"
+    },
+    {
+      "title": "INKP Rilis Obligasi Jumbo - Bisnis Indonesia e-Paper",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU1N3Q18xcFI5OGxxSnM5YnlUUVVrUDBBSVZWWnhnQUUySW1kRWw0SjhvOTFmVWZGVDRHcVBFY0x3NDhzS3BzZ0RnalZtYWUxUVBQaVB3eFQ5R3ZBYUtURFFlTm5UcXJOYTBSekFRdlV0SThCTzFFdkJwd28zc3BBdGhTLUlLcExYVEV6OTcxUQ?oc=5",
+      "summary": "INKP Rilis Obligasi Jumbo&nbsp;&nbsp;Bisnis Indonesia e-Paper",
+      "published": "2026-08-20T19:00:00+00:00",
+      "source": "Bisnis Indonesia (via GNews)",
+      "groups": [
+        "Sinar Mas"
+      ],
+      "matched": [
+        "INKP"
+      ],
+      "big": true,
+      "id": "3818621ed987b66d"
     },
     {
       "title": "IHSG Ditutup Menanjak ke 6.501, Saham Tambang AMMN, BUMI, BRMS Melesat - Bisnis.com - Market",
@@ -3123,39 +3154,6 @@
       ],
       "big": true,
       "id": "69f0bc787db44a67"
-    },
-    {
-      "title": "BEI Ubah Konstituen LQ45, IDX30 & IDX80, Saham DEWA, BFIN hingga NCKL Menghijau - Bisnis.com - Market",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaVozTzlmeDhJcEVJV0J6LWpnN1V2SDByN01CakNRWUJZMW1pNHJmU1lsczZabGctX3ZhakNDMVdGaFNyYnBmMDgzMi1HU0p6eDJUZlVBN1k2UmxmSUVUU0dyR1pRZWlfakpTNHJ6UFl0SlQ4TDFiQ0dtSDBtXzJhUkJWQ1R6aVl3TVFWZUR1Q0xxNHVUdTluakx4VjgtbmRsZVZLZVpnZGdTQmtVeUxGb3VSMklqVjd1Z1cyMUZCV29xQQ?oc=5",
-      "summary": "BEI Ubah Konstituen LQ45, IDX30 & IDX80, Saham DEWA, BFIN hingga NCKL Menghijau&nbsp;&nbsp;Bisnis.com - Market",
-      "published": "2026-07-28T02:51:16+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Bakrie"
-      ],
-      "matched": [
-        "DEWA"
-      ],
-      "big": false,
-      "id": "ec978a7aa6e7af68"
-    },
-    {
-      "title": "Indeks Bisnis-27 Dibuka Menguat, Saham INKP, DEWA, hingga BUMI Naik ke Zona Hijau - Bisnis.com - Market",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVDlGWnpnRXhSWmR6d2N3dl85T2Zub01kbk42cURpbXZxMTdVZ3ZuZEV4bTJvS3EwNzlCTW1ESElHckNoR2FDRk1KMWdVVk1PZWZlYUJXbm00VFNVcHM2Q3VidUJManBONl9LTTFXSzI1aDhZLXFQWnY0RXhZVDREeVNSZnVna2l5cEUyVE9fV0FYU0pLMzlrNF9uUnpXaWhZV0VsSWZ2UGF6dXY5S2t1SVN5S082UkU2d3VRblBnaTBhZXBVWEY4?oc=5",
-      "summary": "Indeks Bisnis-27 Dibuka Menguat, Saham INKP, DEWA, hingga BUMI Naik ke Zona Hijau&nbsp;&nbsp;Bisnis.com - Market",
-      "published": "2026-07-28T02:24:11+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Bakrie",
-        "Sinar Mas"
-      ],
-      "matched": [
-        "BUMI",
-        "DEWA",
-        "INKP"
-      ],
-      "big": false,
-      "id": "b5faee3c284e5cd1"
     }
   ]
 }

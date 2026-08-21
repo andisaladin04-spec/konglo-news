@@ -1,7 +1,26 @@
 {
-  "updated": "2026-08-21T10:04:06.902301+00:00",
+  "updated": "2026-08-21T10:43:42.320048+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Ditutup di 6.525 Akhir Pekan, Saham BUMI, TPIA, BBCA, DSSA Diburu Investor",
+      "link": "https://katadata.co.id/finansial/bursa/6a8825e79fb87/ihsg-ditutup-di-6525-akhir-pekan-saham-bumi-tpia-bbca-dssa-diburu-investor",
+      "summary": "Indeks Harga Saham Gabungan (IHSG) ditutup naik 0, 37% pada penutupan perdagangan Jumat (21/8).",
+      "published": "2026-08-21T10:18:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Bakrie",
+        "Djarum / Hartono",
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "BBCA",
+        "BUMI",
+        "TPIA"
+      ],
+      "big": false,
+      "id": "67bc1001ca0f290d"
+    },
     {
       "title": "Indeks Bisnis-27 Ditutup Naik: Saham AMRT, BUMI hingga BBRI Tancap Gas - Bisnis.com - Market",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWFpsSGdaSk95aFFJbFdBalptNkRXVXJWSmR3YkdCaHR6WTgwWnZZbXNLd05TTFRka2EweDRSWHN0NDd2VXJaVVE2VGhsU0hMSm01VTJhcDdnOTBZelV0UEluX0ZJVGYzOExYcUQ1THIyYzhkOXh0d0steDBOT1JNRHZzdzlLano3MmE3aW5nZjU1aDdBTDhEOWNIUy1jTERZam9zUzMtaUZBNjhNTC1TSF9Sa253SHkwcWc?oc=5",
@@ -3141,21 +3160,6 @@
       ],
       "big": true,
       "id": "2b56d2deac298cf1"
-    },
-    {
-      "title": "Porsi dan Bobot TPIA di Indeks ESG Meningkat, Harga Saham Terangkat - Bisnis.com - Market",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdXJRT3dtejRUS1ppdG1IbFBmenJxejF4SG1xUEZTWGdHM05rR0VkMVVYRUd0R0l0TTlNWmozYUlIbE1maG1ldGIzV1dLVjQzaFNLOThYV2hORm82YkY2ZzFNenpLaXgyUGduWmRlZWI2QjRPYk5HTUZnNWcwZHNuelpYa0RkU2cwNnJ0R1Q4dG1KdjBrZUR0VG9LSGJHWDBTcWt5VTctV2NpQVdiYWdXSTNYTVdSZm8?oc=5",
-      "summary": "Porsi dan Bobot TPIA di Indeks ESG Meningkat, Harga Saham Terangkat&nbsp;&nbsp;Bisnis.com - Market",
-      "published": "2026-07-28T03:36:39+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Prajogo / Barito"
-      ],
-      "matched": [
-        "TPIA"
-      ],
-      "big": false,
-      "id": "41fc22740b08c1f2"
     }
   ]
 }

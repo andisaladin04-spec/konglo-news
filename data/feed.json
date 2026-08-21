@@ -1,7 +1,22 @@
 {
-  "updated": "2026-08-21T11:11:02.594228+00:00",
+  "updated": "2026-08-21T11:45:30.938719+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "Hasil Rebalancing FTSE: 29 Saham Terdepak dari Indeks, BSDE Turun Dua Tangga",
+      "link": "https://katadata.co.id/finansial/bursa/6a8836f4667a6/hasil-rebalancing-ftse-29-saham-terdepak-dari-indeks-bsde-turun-dua-tangga",
+      "summary": "Lembaga pemeringkat FTSE Russel mengumumkan daftar saham Indonesia yang masuk dalam indeks global.",
+      "published": "2026-08-21T11:31:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Sinar Mas"
+      ],
+      "matched": [
+        "BSDE"
+      ],
+      "big": false,
+      "id": "d27000ca65650953"
+    },
     {
       "title": "IHSG Ditutup di 6.525 Akhir Pekan, Saham BUMI, TPIA, BBCA, DSSA Diburu Investor",
       "link": "https://katadata.co.id/finansial/bursa/6a8825e79fb87/ihsg-ditutup-di-6525-akhir-pekan-saham-bumi-tpia-bbca-dssa-diburu-investor",
@@ -3145,21 +3160,6 @@
       ],
       "big": false,
       "id": "1379520425b0416b"
-    },
-    {
-      "title": "IHSG Sesi I Turun 0,04%, Saham ENRG dan DSSA Rontok Saat ransaksi BEI Rp 5,22 T",
-      "link": "https://katadata.co.id/finansial/bursa/6a683f6300d24/ihsg-sesi-i-turun-0-04-saham-enrg-dan-dssa-rontok-saat-ransaksi-bei-rp-5-22-t",
-      "summary": "Indeks Harga Saham Gabungan atau IHSG turun tipis 0, 04% atau 2, 63 poin ke level 6.183 pada perdagangan sesi pertama, Selasa (28/7). Sebanyak 255 saham ditutup turun, 332 saham naik",
-      "published": "2026-07-28T05:34:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Bakrie"
-      ],
-      "matched": [
-        "ENRG"
-      ],
-      "big": true,
-      "id": "2b56d2deac298cf1"
     }
   ]
 }

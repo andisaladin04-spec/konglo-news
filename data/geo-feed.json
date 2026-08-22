@@ -1,7 +1,22 @@
 {
-  "updated": "2026-08-22T20:58:11.643149+00:00",
+  "updated": "2026-08-22T21:31:40.787988+00:00",
   "count": 150,
   "items": [
+    {
+      "title": "US Postal Service shares mail-in ballot restrictions despite court ruling",
+      "link": "https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss",
+      "summary": "US President Donald Trump has called for restrictions on mail-in voting as part of bid to exert control over elections.",
+      "published": "2026-08-22T20:49:17+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "c7f99506e874434a"
+    },
     {
       "title": "Prabowo perintahkan pelaku pembakaran hutan dan lahan ditindak",
       "link": "https://www.antaranews.com/video/5707176/prabowo-perintahkan-pelaku-pembakaran-hutan-dan-lahan-ditindak",
@@ -2255,35 +2270,20 @@
       "id": "6f7c07694a7a5513"
     },
     {
-      "title": "GREAT Institute Nilai RAPBN 2027 Perjelas Arah Kebijakan Ekonomi Prabowo - RM.ID",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQWZGdGRGMFhxTENXYjUyRkhyVzFXcXRwWTh5RzZDYVNtcVdpcjFwYlp4cFl0YWt4VkFlYkthRHplWkFrdGtFVVlxUGY4WnA2S3NyaXpwQVNXOEhMUTIwOWdkOGhjaXcxR19icjN3cjRCcnFiMTNmRzBiS2N3YWJrR1RYNmFPRFV4MG00ZElrU1dyZ2VabXFYdXE5eUh6dTl0QnVNUFJYMDBCWXVTRW5SNEVWWm4?oc=5",
-      "summary": "GREAT Institute Nilai RAPBN 2027 Perjelas Arah Kebijakan Ekonomi Prabowo&nbsp;&nbsp;RM.ID",
-      "published": "2026-08-15T05:05:00+00:00",
-      "source": "GNews – Prabowo APBN",
+      "title": "The Canada-U.S. Trade War Is Pushing Carney Closer to Xi - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUEpES2FtdkdEeXk4dVNQbDMyZ2c4WG1wMkFLM1hIZTV5a1VuSVFNV05RM19PMTBqbGxaWEdVMS1OX1BfZGxpRnhmR090bzFlam50S0R2TS16MVMtUlQ2Yi1pZzhxeWRTQVA1ei1MdDF2eldJaS05MFA5Z3V3SEpQNXN0Z0xXaGFUckI4?oc=5",
+      "summary": "The Canada-U.S. Trade War Is Pushing Carney Closer to Xi&nbsp;&nbsp;WSJ",
+      "published": "2025-10-30T07:00:00+00:00",
+      "source": "WSJ (via GNews)",
       "groups": [
-        "Government / Policy"
+        "Geopolitics",
+        "Global Finance"
       ],
       "matched": [
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "0c84899a910a6114"
-    },
-    {
-      "title": "Rocky Gerung: Kebijakan Prabowo Bikin APBN Bolong, Tapi Kalau Jokowi itu Merampok APBN - Warta Ekonomi",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQemdaTlp0MlJLZlRycVRiNXJacjZ2cFVaNWwzb3BVMkZKSklPdG9GT1cxWnJvdnFUdFNOTjFJU2U0ZjY0SEdTcE9qSHpnLXFmQjlscEswejF5VU13V2dRWlFZcDk0aVhpdy1XcEFMY0VFeTN1aVNEN3p6b2JfaU5IVEdPcld2VEg0NUt0cTNfcnh2cFF4RzY0eDV4eG5NWFI3b2owUGxiT2NrdjVKSXg4LTROY1owVjFJVWdVNElnc9IBxAFBVV95cUxNOFVLRzA5dXpoTm1JQXAzU1ZzZVFyTUpzSTN4X1pQTjA3VmNSM3VqcmhIa0dBd3A1amlJZURsZzRsNmEtWlNlbXozTzNlZlpDNkRDVWJtWkdIQWF0RHVfdWdiWU8tZmN5UWp0VktmUUp6bkd4blo2VFhqRlVnVTRyRmgwRWs1Sm1OVlVMSjFsR2I1eWhHZmRkaHBfdEtUVjJNemM3SWFkOWNOTXFScUJrcmFOVFBsclVvS1B5WlRnSk5zUThu?oc=5",
-      "summary": "Rocky Gerung: Kebijakan Prabowo Bikin APBN Bolong, Tapi Kalau Jokowi itu Merampok APBN&nbsp;&nbsp;Warta Ekonomi",
-      "published": "2026-07-31T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "APBN",
-        "Prabowo"
+        "trade war"
       ],
       "big": true,
-      "id": "5149efdad2098fdb"
+      "id": "c2000f656a5a7b0e"
     }
   ]
 }

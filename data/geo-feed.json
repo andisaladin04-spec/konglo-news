@@ -1,7 +1,22 @@
 {
-  "updated": "2026-08-22T22:50:50.464915+00:00",
+  "updated": "2026-08-22T23:14:58.311415+00:00",
   "count": 150,
   "items": [
+    {
+      "title": "Motor listrik nasional karya anak negeri",
+      "link": "https://otomotif.antaranews.com/infografik/5706856/motor-listrik-nasional-karya-anak-negeri",
+      "summary": "Presiden Prabowo Subianto meluncurkan motor listrik nasional (Molinas) Cakra NX1 buatan dalam negeri, Kamis (13/8). ...",
+      "published": "2026-08-22T23:00:00+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "e9e39a953eaeab97"
+    },
     {
       "title": "Menteri LH: 85.000 hektare wilayah konsesi terbakar di Indonesia",
       "link": "https://www.antaranews.com/video/5707235/menteri-lh-85000-hektare-wilayah-konsesi-terbakar-di-indonesia",
@@ -2241,49 +2256,35 @@
       "id": "61c52ea5c1508f5d"
     },
     {
-      "title": "US retail giant receives $1bn boost from tariff refunds",
-      "link": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US chain said it received a $994 million pre-tax reimbursement, which resulted in its second quarter operating income rising to $2.6bn.",
-      "published": "2026-08-19T17:07:49+00:00",
-      "source": "BBC Business",
+      "title": "Watch Fed Rate Hike in December Is Possible, Macquarie's Thierry Wizman Says - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVThQd19lakozNjFsaVpQbzJJMHF6bnlIYnJnUHU3cnRkUWtGTk1qS0QtUnJ4cUc0ejNLajQ0OTNhcWNSVGRWRWJHQ0huVUdnLUxSMzRnWWJtN3dWaVhHRkdzZ25HZXBaQlNqaEdiUjByT1hmaW9JZExtTDM5UlFjQ24xRWVyR3h5eXRQMVU4ZWZFV1Rwcm9UQldsX1hQZjFYV1pqN0d4UGdlMVE?oc=5",
+      "summary": "Watch Fed Rate Hike in December Is Possible, Macquarie's Thierry Wizman Says&nbsp;&nbsp;Bloomberg.com",
+      "published": "2026-08-10T07:00:00+00:00",
+      "source": "Bloomberg (via GNews)",
       "groups": [
         "Global Finance"
       ],
       "matched": [
-        "tariff"
+        "Fed rate",
+        "rate hike"
+      ],
+      "big": true,
+      "id": "cc5d4fccbd6ec04f"
+    },
+    {
+      "title": "What a divided Fed means for investors",
+      "link": "https://www.cnbc.com/2026/07/29/fed-meeting-interest-rates-warsh-stocks-bonds.html",
+      "summary": "Wall Street has a clear takeaway from this week's Federal Reserve decision: A hike is likely on the horizon.",
+      "published": "2026-07-29T23:36:34+00:00",
+      "source": "CNBC Global Markets",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "Federal Reserve"
       ],
       "big": false,
-      "id": "1f8b7b39623f1f9d"
-    },
-    {
-      "title": "Indonesia Holds Key Rate as Exodus of Foreign Funds Sinks Rupiah - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdGNrcU5sdzk2dF9kaktxcGZDTVl5ZUVNZVkxb3duSUk5ZDByaEIzZUdLWlREZGFkTnNsR1BhQk9HSXQzRGlaZUpBZG92MVlwMkp5aUxDMGEwMnhxWHd5ZFpEdEhfZVd3c0tLWmgtNFpROGFEZlRYQTZLNGN0bzhld0tuRFlhMUhyT3pHR0tvLXdfTXZCbUo4cVBSbGFXcTBOU19EaWRKV19DTGVyaFRrY0kyeklIZw?oc=5",
-      "summary": "Indonesia Holds Key Rate as Exodus of Foreign Funds Sinks Rupiah&nbsp;&nbsp;Bloomberg.com",
-      "published": "2025-12-17T08:00:00+00:00",
-      "source": "Bloomberg (via GNews)",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah"
-      ],
-      "big": true,
-      "id": "5158f0b60e92e388"
-    },
-    {
-      "title": "Indonesia's plunging rupiah twists the policy plot - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVi1uQkx4Z1dKT0k0T05uT0FtbVdjSjQzaDdXaktrR09hdkRYMElJeUN4a18wMVFtNkUwcjFDZmxxS0NWREFCOWRxNkllblJFVDVXWUk4QTRCX0djWTBZbnNQSFJmdi1JVER0SXllWm5mWDg4WDZWaUlSQW9Jc0kyZHBoS3dPaW1oWlZTNXlHVk1YXzgtY3dnVWRR?oc=5",
-      "summary": "Indonesia's plunging rupiah twists the policy plot&nbsp;&nbsp;Reuters",
-      "published": "2024-04-16T07:00:00+00:00",
-      "source": "Reuters – Indonesia",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah"
-      ],
-      "big": true,
-      "id": "97b3dea1c33194fd"
+      "id": "c946aa7dc262525f"
     }
   ]
 }

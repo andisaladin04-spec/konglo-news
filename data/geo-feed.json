@@ -1,7 +1,68 @@
 {
-  "updated": "2026-08-22T03:59:57.975704+00:00",
+  "updated": "2026-08-22T04:43:53.930538+00:00",
   "count": 150,
   "items": [
+    {
+      "title": "Anggota DPR ingatkan perlindungan warga harus prioritas saat tangani karhutla",
+      "link": "https://www.antaranews.com/berita/5706329/anggota-dpr-ingatkan-perlindungan-warga-harus-prioritas-saat-tangani-karhutla",
+      "summary": "Anggota Komisi VIII DPR RI Hetifah Sjaifudian mengingatkan pemerintah agar perlindungan terhadap masyarakat terdampak ...",
+      "published": "2026-08-22T04:22:16+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "DPR"
+      ],
+      "big": false,
+      "id": "446561933f1e8759"
+    },
+    {
+      "title": "Prabowo bertolak ke Kalimantan pimpin penanganan karhutla",
+      "link": "https://www.antaranews.com/berita/5706317/prabowo-bertolak-ke-kalimantan-pimpin-penanganan-karhutla",
+      "summary": "Sekretaris Kabinet Teddy Indra Wijaya menyampaikan Presiden Prabowo Subianto bertolak menuju Kalimantan untuk meninjau ...",
+      "published": "2026-08-22T04:06:51+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Prabowo",
+        "kabinet"
+      ],
+      "big": false,
+      "id": "3ef318ea8311fa53"
+    },
+    {
+      "title": "Pidato Presiden Prabowo di Senayan: dari riuh kritik ke politik hasil",
+      "link": "https://www.antaranews.com/berita/5706313/pidato-presiden-prabowo-di-senayan-dari-riuh-kritik-ke-politik-hasil",
+      "summary": "Ada yang berbeda dari dua pidato Presiden Prabowo Subianto di kompleks parlemen, Senayan, 14 Agustus 2026. Presiden ...",
+      "published": "2026-08-22T04:03:18+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "ea23d45dd349dbf7"
+    },
+    {
+      "title": "Menekraf: Industri modifikasi otomotif ciptakan nilai tambah ekonomi",
+      "link": "https://www.antaranews.com/berita/5706312/menekraf-industri-modifikasi-otomotif-ciptakan-nilai-tambah-ekonomi",
+      "summary": "Menteri Ekonomi Kreatif (Menekraf) Teuku Riefky Harsya menyebut industri modifikasi otomotif di Indonesia tidak lagi ...",
+      "published": "2026-08-22T04:01:44+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "menteri"
+      ],
+      "big": false,
+      "id": "eead60667896d237"
+    },
     {
       "title": "Trump kembali klaim Selat Hormuz sebagai wilayah AS",
       "link": "https://www.antaranews.com/berita/5706307/trump-kembali-klaim-selat-hormuz-sebagai-wilayah-as",
@@ -2050,6 +2111,36 @@
       "id": "61c52ea5c1508f5d"
     },
     {
+      "title": "US retail giant receives $1bn boost from tariff refunds",
+      "link": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US chain said it received a $994 million pre-tax reimbursement, which resulted in its second quarter operating income rising to $2.6bn.",
+      "published": "2026-08-19T17:07:49+00:00",
+      "source": "BBC Business",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "tariff"
+      ],
+      "big": false,
+      "id": "1f8b7b39623f1f9d"
+    },
+    {
+      "title": "Hong Kong bourse posts record first-half earnings on IPO, trading boom - Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSkw2OXpLODZaVDBvMzNZNkduRVU5T292N2ZLbGZvODloYmFYTk1LQzNRUHNzU19rZWpLRU84QzBQZ2czbmdGVlhyRU5TUlJuMWhudVhPRFRjM0hyRkVwaWtPbk5kZ1RvODRIM0JkdnlLakMyb3VsenJ4Nk43WGdxYk9tZzQ1Z1dYaDMwYUVqbFFySHY0MHJoenYyVTB1VmNCNndRUktpN3RHeVphN3FnTUxB?oc=5",
+      "summary": "Hong Kong bourse posts record first-half earnings on IPO, trading boom&nbsp;&nbsp;Nikkei Asia",
+      "published": "2026-08-19T07:17:00+00:00",
+      "source": "Nikkei Asia (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "IPO"
+      ],
+      "big": false,
+      "id": "6321d73c36312ab1"
+    },
+    {
       "title": "Ekonom Anggap Target Ekonomi 6 Persen Prabowo Terlalu Optimistis - NNC Netralnews",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZXNKTHdqd1FzMG8wUEhKLXdLMXlIeWFFeE9CeXVvczhLQWNibXhzQU5nRlNNeXFjNVpQdGlOUVpsaUxlYzZKUlJhcEdFdm9lS0lmY0dGb2xWY1JfTW44eVB0dGN3Y0Q0LXN5allZdWdzWHB4Y1otR0RsYnNBQkpQTTd5R1BxVjkxaTFWSEl0MXlhQVQxejlwdnRnTW5VQjRGWXhZ?oc=5",
       "summary": "Ekonom Anggap Target Ekonomi 6 Persen Prabowo Terlalu Optimistis&nbsp;&nbsp;NNC Netralnews",
@@ -2082,133 +2173,89 @@
       "id": "3d2824806dc2a774"
     },
     {
-      "title": "Watch Kavita Gupta Comments On Bitcoin Whales' Buying Spree - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTngwd1FWVVR6RENKWkJEY29qTXpPN3FXNDJWTDdlSEJQUEJpRHkzLTBfMVprVllaZEF6Y0lULU50ZkpZcUttakpwdkduRzdIcnVFZzM4WkdlNkhXdHVxZ2thTkk0d3gtNmd4TEozMFpNM0wxOHE0dmFUMmd1SXFnUWFRY2hmR0hoZjBjdUFLWEtGTXNmS0c0QlR3YWpycFpyZ0xENDA1VVU4T2c?oc=5",
-      "summary": "Watch Kavita Gupta Comments On Bitcoin Whales' Buying Spree&nbsp;&nbsp;Bloomberg.com",
-      "published": "2026-08-18T00:00:00+00:00",
-      "source": "Bloomberg (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "Bitcoin"
-      ],
-      "big": false,
-      "id": "4a0228fe126ae49f"
-    },
-    {
-      "title": "Watch Shooting To Be IPO Ready By 2027: FalconX CEO - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNWlhMXNkSjhqR3BPTC1QNFhHQVRITkR3QnZEaXZBUF9EVF94VWRaWUl3MFZmUVB3MEktbXpIZ00tdVEyeDRqN0JxMzYwUnZaMFpWVmtVeTIxTzR3V3RNVnhveV95b1R0TXAxNXMxZTBwajRTd09HSll4N3JfMkVfNmI4c0h4ZzEyTU1TRkhvTVNNeWtvS2tjR29sOWZISUhK?oc=5",
-      "summary": "Watch Shooting To Be IPO Ready By 2027: FalconX CEO&nbsp;&nbsp;Bloomberg.com",
-      "published": "2026-08-18T00:00:00+00:00",
-      "source": "Bloomberg (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "IPO"
-      ],
-      "big": false,
-      "id": "804a3198630c1f1d"
-    },
-    {
-      "title": "Watch Trump Threatens Oman, Rejects Iran Truce Extension | Daybreak Europe 8/18/2026 - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ0tfTUV6VG5vZVgyOE9rakVQRENGUDdaVGhCX3Rnb2VNSUdLR3pVYUZZQUlhTU0wRFRGR2lvLWw0eUJTRHdaSThXR2I0cUtwdG1HblBEVEhDT0ZBUWtyamRIOFJCeG1YdWd3NG5sVlVOR3BjdFpPSFcwd0pfaTFNZzJWVmN2djg?oc=5",
-      "summary": "Watch Trump Threatens Oman, Rejects Iran Truce Extension | Daybreak Europe 8/18/2026&nbsp;&nbsp;Bloomberg.com",
-      "published": "2026-08-18T00:00:00+00:00",
-      "source": "Bloomberg (via GNews)",
-      "groups": [
-        "Geopolitics"
-      ],
-      "matched": [
-        "Trump"
-      ],
-      "big": false,
-      "id": "83ab5033aa743bd4"
-    },
-    {
-      "title": "Watch China Trying to 'Run Out the Clock' on Trump Presidency, Says Shehzad Qazi - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVHV6RHBJSnlodnFUZUxGN19mUHlWZDFtZGdPRXYweWd2eW9oYTROWDZUbXpMVEV5OVg3akNqVURnTlprZHZuOFhXZnpOTDdfTE5ZYjNCbFFjODJqYVdJd2NWbjdzcEFhbkx4c1pmeFMzTThFd213UXU4SUNQT2hwaVdnQXhRRE9OazBvU3V5c08wU1dTV3FwQmVGOFhZWkV4d3RrUUJZeGt2ZUk?oc=5",
-      "summary": "Watch China Trying to 'Run Out the Clock' on Trump Presidency, Says Shehzad Qazi&nbsp;&nbsp;Bloomberg",
-      "published": "2026-08-18T00:00:00+00:00",
-      "source": "Bloomberg (via GNews)",
-      "groups": [
-        "Geopolitics"
-      ],
-      "matched": [
-        "Trump"
-      ],
-      "big": false,
-      "id": "e0c6209085d742d1"
-    },
-    {
-      "title": "Presiden Prabowo: RAPBN 2027 Fokus pada Delapan Program Kerja Prioritas Nasional - Sekretariat Kabinet Republik Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ0JDa0FQSkhiNW5rRnN5VTE4T05XRm1jQXNVWnozMHhVYXYxaEc5LS1qNFZhcFNobW45OS1iRDhVX0lwZVFHazRBRVpJYS0xam5qTDJmVm9aT2tmLTJ0ZThsUVBORlkydGxDdXlKanYwQU9NYjlRSThTZDNEOTRTOGFPTElMZUdzY1Z6MjRYbHV3WUV0LTBTVzlrV1ZmOURlMk1N?oc=5",
-      "summary": "Presiden Prabowo: RAPBN 2027 Fokus pada Delapan Program Kerja Prioritas Nasional&nbsp;&nbsp;Sekretariat Kabinet Republik Indonesia",
-      "published": "2026-08-14T10:16:25+00:00",
+      "title": "Pidato Prabowo Sebut Pertumbuhan Ekonomi 2026 Bakal 6%, Ini Perbandingannya dengan Target APBN - Bisnis.com - Ekonomi",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTV9Rdjg5cWttdlNYY2hYNG9rLUVCeXpGak9ULVpfeklYaUN2V00yVjBHdkVic1V2aHJuckdXTC10NGFfQzR4VHFlRDctT29EU0F4RDlFclJIQXBqNWZWU0g5RmlIMGNVX0lHcnc2UXNGWEZUWGtTRXk1WnRIdXVRT25rRlc2a0wzc3JsRndBZXBZcklWbF9MMlV3NkVCZl9SWGc0QkhPUzBYQmJfUWZlMEdiWXVPenNkdktCUVUxeWhybzdtc3ZMZURqd3M1Nm5fZTRQYkhKcmtCcVE?oc=5",
+      "summary": "Pidato Prabowo Sebut Pertumbuhan Ekonomi 2026 Bakal 6%, Ini Perbandingannya dengan Target APBN&nbsp;&nbsp;Bisnis.com - Ekonomi",
+      "published": "2026-08-14T04:15:20+00:00",
       "source": "GNews – Prabowo APBN",
       "groups": [
-        "Government / Policy"
+        "Government / Policy",
+        "Macro / Economy"
       ],
       "matched": [
+        "APBN",
         "Prabowo",
-        "kabinet"
+        "pertumbuhan ekonomi"
       ],
-      "big": false,
-      "id": "e580d0e201ca8fd2"
+      "big": true,
+      "id": "4324bff5a7054485"
     },
     {
-      "title": "Prabowo Sampaikan RUU APBN 2027, Belanja Negara Rp4.097,2 Triliun - Tagar.co",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTHI0c3FhRDBCM29PYWx3SFoyR19naFUxa1ljNGZEUUhlTzg3eFR3UTVObDZNZEhIVW5NZ0JHZG02TjBZYXlEa2NydjFsaWtXZFFfemtra2lCZnk3emhEQVBlc3E0SVFSelFERFN2YVhJWVE5dUdpZEZaWnJncjAzSndLT1h4MzFu?oc=5",
-      "summary": "Prabowo Sampaikan RUU APBN 2027, Belanja Negara Rp4.097,2 Triliun&nbsp;&nbsp;Tagar.co",
-      "published": "2026-08-14T08:42:38+00:00",
+      "title": "Aktivis 98 Komitmen Dukung Prabowo Berantas Korupsi hingga Efisiensi APBN - Rmol.id",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYUxYejVEZmRGbXQ1aUFoS0VUQ3VsblozRXFnQUxDUGJOS0RTaGRack1ITHBydFhjeWV0MTJzcjhZTHU1TWNubUlfLVB5bkE2a0k3amY1ZFEybF96azlkNk5YVV9rNTI1bUdmY1JVd3dkeF9ZWElFUjVVRDJLbFp2ZHdLLW5TWlpfWWZSaVdqS3p1NDJaQTdwekhxLVcxd1dPWW44Qk80bFRfUjkzSHZYbnlpbUJhME0yMVA4Rw?oc=5",
+      "summary": "Aktivis 98 Komitmen Dukung Prabowo Berantas Korupsi hingga Efisiensi APBN&nbsp;&nbsp;Rmol.id",
+      "published": "2026-07-01T07:00:00+00:00",
       "source": "GNews – Prabowo APBN",
       "groups": [
         "Government / Policy"
       ],
       "matched": [
         "APBN",
-        "Prabowo",
-        "UU "
+        "Prabowo"
       ],
       "big": true,
-      "id": "e9af1c34ff342588"
+      "id": "2530cf47eadb03b0"
     },
     {
-      "title": "Europe is blowing up riverbeds as an extreme drought wreaks havoc on its economy",
-      "link": "https://www.cnbc.com/2026/08/05/drought-rhine-danube-water-levels-economy.html",
-      "summary": "Severe drought is disrupting energy and freight across Europe as low Rhine and Danube levels raise risks for supply chains and economic growth.",
-      "published": "2026-08-05T07:15:17+00:00",
-      "source": "CNBC Global Markets",
+      "title": "Prabowo's populist policies propel a 'doom-loop' in Indonesian markets - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSW56ZHNjVnktdXYzcUNCalV1MDNVVHY0cDhNRG9ZTGVLRWlYb2lOMm1BWWgtMzdIX1ltTHd6T3ZvaUpXNHo1RTBKYkdLN1BLbU1sT1BaSW9OQU52cjR4S0x5MFFuTXNyU0luQzFpcmtLWVhNNWV0ZGtHNzZzNHlqblBpLV9GZUQwLVJqUjgxSkl4TXd2UDFqdmtUdGRoRTBpeURnWHVIbGJURk9VTTREXy0yTi1ScDIx?oc=5",
+      "summary": "Prabowo's populist policies propel a 'doom-loop' in Indonesian markets&nbsp;&nbsp;Reuters",
+      "published": "2026-06-08T07:00:00+00:00",
+      "source": "Reuters – Indonesia",
       "groups": [
-        "Global Finance"
+        "Government / Policy"
       ],
       "matched": [
-        "supply chain"
+        "Prabowo"
       ],
       "big": false,
-      "id": "a8323e94f590be3a"
+      "id": "f319d225e6d88de3"
     },
     {
-      "title": "BI Pertahankan Suku Bunga 5,75 Persen, Apa Dampaknya? - Universitas Muhammadiyah Surakarta",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTDZZVE84U0lGX1VHcVM4WExna0NnNGZsZGx1SzA5RFBmWTluMWNOSllRV2MzVC1Ra0JWT2hlZ3B0RzhINjRfSnBmV2pWZzhKTklfdkxIUzloTXV2UG9GTDI0Uk1ES2d0ZDJFSVF1RkZhSXFId0tIdWdaSnI2c1F3NHp3Nl95eTVEUzY0YTF6SEl3VVVhS2lzQzFLVQ?oc=5",
-      "summary": "BI Pertahankan Suku Bunga 5,75 Persen, Apa Dampaknya?&nbsp;&nbsp;Universitas Muhammadiyah Surakarta",
-      "published": "2026-07-24T08:17:56+00:00",
-      "source": "GNews – BI rate rupiah",
+      "title": "Prabowo Ungkap Alasan Sampaikan Langsung RAPBN 2027 - detikFinance",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUUVMcTdVR0ZGNHNwQUlnUFBiOV85QWxwUzc4S3UyMGd5eHZqYlFZV1RxMUx5Qi0xNGdjMURSZ0VkU0ZYOVJ4c2dSeUNQVHoxS0hZZGhNVmEwM00wYVkwMzJqWEViUTVlSWNaYUdpeHU5TjUyNXVhaWt2akJGZG5QazhoN0RJQ2k4dzZ6MmVldnlCbmtrYk83VEhUOTliRmJWc0hJUUhuSUxBbHBJd3fSAbMBQVVfeXFMT3Q5a25VZ1kxNkk0VzljLVhpNkozVmRHOHl4aTFfczRzWEhUZ2RGVEFjZ0JEMG1iQlVHNDF1MGZrb2FtN2ctWVVjTUh2N1dYcFd3SjQ2TWlRcHRjZkMtYm9SYTRPX3lJdXQxQzlTU1hCOVRLcXlUOF90M3E1S0UySFFiaEpFNnBRVXkxNzVmMGZHTG1fSlIyeThRRVRXRkFqVFZUQjIzYzkwa083V0VnbFJIWE0?oc=5",
+      "summary": "Prabowo Ungkap Alasan Sampaikan Langsung RAPBN 2027&nbsp;&nbsp;detikFinance",
+      "published": "2026-05-20T07:00:00+00:00",
+      "source": "GNews – Prabowo APBN",
       "groups": [
-        "Macro / Economy"
+        "Government / Policy"
       ],
       "matched": [
-        "suku bunga"
+        "Prabowo"
       ],
-      "big": true,
-      "id": "848547b53ff9ccb9"
+      "big": false,
+      "id": "cbeb08a6d7ae3730"
     },
     {
-      "title": "Sandoz to Engage With U.S. Policymakers After Trump’s Tariff Plan - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWEx1UVNLc0F0OTc2c2JGR1hXejJENUFnbEN0UURKbFo2MmFqenhOQWZBT0JDd3JLTUhBTTZHSUVXYlFKU3I5aW50dktNZEYxRnhKdFJrdXJEVkVSeVlNM0JqbS12NVU4a203T2dSMF9DdVgzTmx4TjJZUWt1bUlXSEtQUDVCa2N1U0lhcTlOenBOQQ?oc=5",
-      "summary": "Sandoz to Engage With U.S. Policymakers After Trump’s Tariff Plan&nbsp;&nbsp;WSJ",
-      "published": "2026-07-22T07:00:00+00:00",
+      "title": "Respons Purbaya soal MBG dan Kopdes Disebut Membebani APBN - Tempo.co",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYkhlMDJwT3ZuQ19kazZ4azlBS0c3Zy05cTBkZ1JscERnbG5tVUZzU1BVeW5jNU1GcEd3VmxlOGdBSV81Q1hjREowRktrTzhIT2p2Tk5kUVF3U01qb0F2amNvUDU4RkJDTjNraGZGQ05FdjFtU2R4THozeFVrSWdISDFHd2JxMkx2QnB4MkVzRk5FU2JHRE9kckZ3Zw?oc=5",
+      "summary": "Respons Purbaya soal MBG dan Kopdes Disebut Membebani APBN&nbsp;&nbsp;Tempo.co",
+      "published": "2026-05-18T07:00:00+00:00",
+      "source": "GNews – Prabowo APBN",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "APBN"
+      ],
+      "big": true,
+      "id": "0ebe90ac0f32d30d"
+    },
+    {
+      "title": "China Coped With Trump’s First Trade War. A Second One Will Be Tougher. - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY0Zzd2dmSHlEZ2RlYWRjRzA1Q0pPOWJiV3luMXdua3pKQ3g4M2lqUURFTS1mTTRVU0F4OW9jbTBRLTNPSVNPRDRFeTJuU1paZDZUeFlUd2VmdXFJNHpMZkZFYVY1elYwZlhqeWljTEx4SDBTc2ZnUFNCQUlUeTRJRi01Wk1sQ1drSmk1dHhwdDNYbXJZLVZZT2lWeGRZenkxZUg3RzVIR2cxQ0c4MmVCeA?oc=5",
+      "summary": "China Coped With Trump’s First Trade War. A Second One Will Be Tougher.&nbsp;&nbsp;WSJ",
+      "published": "2024-11-15T08:00:00+00:00",
       "source": "WSJ (via GNews)",
       "groups": [
         "Geopolitics",
@@ -2216,33 +2263,16 @@
       ],
       "matched": [
         "Trump",
-        "tariff"
-      ],
-      "big": false,
-      "id": "3daf50089b6efbc2"
-    },
-    {
-      "title": "Indef Kehadiran Presiden Prabowo di Paripurna DPR Tunjukkan Komitmen Jaga Kredibilitas APBN - Media Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYUJUXzl6dVdXTWNGbFNpbkttTU5GaDRKRUVFcWRUTlpOWlRoU1UzS0NSNW44TGw2RmpOMEZVekJjLXFlcjdEV1YxX1BEdHRZV0pxZVROSlpvYm1Xd0xXOVNQQVh6Nkktd1Y2WFpWSDRPdXVZQ19SVS1oWWNRRlg4clhrSnhId1kyeS1CNnBickZPMWJmZHFQRnh0M3U5TFI2eHdwdGhXMFhPa1JQbTlKN3Vrd1pjUXB5YVJ3cVMtUlZ2QnlGVHNGQzZyQU1WeFJrWXd1QUNUdEtGSnM?oc=5",
-      "summary": "Indef Kehadiran Presiden Prabowo di Paripurna DPR Tunjukkan Komitmen Jaga Kredibilitas APBN&nbsp;&nbsp;Media Indonesia",
-      "published": "2026-05-19T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "APBN",
-        "DPR",
-        "Prabowo"
+        "trade war"
       ],
       "big": true,
-      "id": "11d794739548f7ea"
+      "id": "2adcbb6b9bf654f3"
     },
     {
-      "title": "Indonesia's central bank intervenes in FX market after the rupiah hits a record low - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUUFDMzBmdUNadzJVM1k0MUx1Tm9UaGpLRTgtU3lPOTF2LUdWZzB6eTR2dDZKSXd0bk80SE9MOUs0OHRpZ3NSMWpxN1M3ZnNDRVNKZkdqdjRuMU9SZENjbVF0ZVE3aThtWXFBWjJETW1LUHlTMjZSdGpqN19oNk5tekJhb3c5dTlzU1Q5SXNRamo3S04xYXpvY3pndDF3U2NZb1BuTWY3ZksxenhqVTFnWTRCWF9ETGs3THZ4cGl6S2pCUEk3N1hJaFhjd0VUN0l4?oc=5",
-      "summary": "Indonesia's central bank intervenes in FX market after the rupiah hits a record low&nbsp;&nbsp;Reuters",
-      "published": "2026-04-06T07:00:00+00:00",
+      "title": "Indonesia Pledges Package on Rupiah, Economy - Khmer Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUGJmX1lKM1hZcS1Cb1JsdEUyMVNiam9nRDdfY0NTWVNid3R2RUpDNmRTbEV4NHdScTZFTV9OeHlFYlVvVjFSdWtOQmstTV95QUczY3hFZ1ljMjk0bDBDVEEyQk8wRVFFNXd0djBhell2a3hFOWZGeDZCZGhZOFIwTVI3WHU?oc=5",
+      "summary": "Indonesia Pledges Package on Rupiah, Economy&nbsp;&nbsp;Khmer Times",
+      "published": "2015-08-27T07:00:00+00:00",
       "source": "Reuters – Indonesia",
       "groups": [
         "Macro / Economy"
@@ -2251,38 +2281,7 @@
         "rupiah"
       ],
       "big": true,
-      "id": "6d67eae4fa3078fb"
-    },
-    {
-      "title": "Philips Cuts Earnings Margin Target On China-U.S. Trade War - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRG40V0pFNk4teUh0c2ktODJRVFJ0cF8zbHFRd09kZngyNWtKX24xdnBiRE5MRndxLTBpLXhuVDRMbU4tTDF6dHNxQ2ZCX2lrMkVodU9KclVPSUUxSFd2T3IwRlhyOGZjT3dfTlNYazFCdXpsUzNUSFBzOEF3Z3pPa011eFNZa0NXTVlVLWt1OXJibkp6N1JOSE9rYXBkYktvcVdWbnhQd0E?oc=5",
-      "summary": "Philips Cuts Earnings Margin Target On China-U.S. Trade War&nbsp;&nbsp;WSJ",
-      "published": "2025-05-06T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Geopolitics",
-        "Global Finance"
-      ],
-      "matched": [
-        "trade war"
-      ],
-      "big": true,
-      "id": "f6aa1ee00e69db17"
-    },
-    {
-      "title": "Prabowo’s economic policies need less poetry and more prose - East Asia Forum",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaHpuXy1GTkM4a1M4Q3B5Z3dVNlVHbUl5UG1KNWtmZFlQYjEyNUF4UnNXbkNvdHdBRHFjX21rMVhxS1J3SW5GSlhQcXNoQXVySThVamdGVXNVR3ZWemI0V1hVSHR6bnZtdG5Wb3dYbkhiLVBxTUlqZzdneWl4eFd4ZTdtWWlENTBzazZhdUwtSU1vR0FvbFJwdHlNTUo?oc=5",
-      "summary": "Prabowo’s economic policies need less poetry and more prose&nbsp;&nbsp;East Asia Forum",
-      "published": "2024-08-17T07:00:00+00:00",
-      "source": "Financial Times (via GNews)",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "974723198a4f839e"
+      "id": "dfcc81290084c18e"
     }
   ]
 }

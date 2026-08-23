@@ -1,7 +1,22 @@
 {
-  "updated": "2026-08-23T19:51:15.167822+00:00",
+  "updated": "2026-08-23T20:17:05.524975+00:00",
   "count": 150,
   "items": [
+    {
+      "title": "Photos: IndyCars speed past Washington landmarks as part of Freedom 250",
+      "link": "https://www.aljazeera.com/gallery/2026/8/23/photos-indycars-speed-past-washington-landmarks-ahead-of-freedom-250?traffic_source=rss",
+      "summary": "Race cars take over central Washington, DC, as the Trump-created Freedom 250 Grand Prix debuts.",
+      "published": "2026-08-23T19:52:12+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "678ce317dfa5d035"
+    },
     {
       "title": "Opinion | The Dumbest Trade War Revisited - WSJ",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KQ01Tc245aHdDN1NhbDNoNUZTdUNvWWJvQXBhRHVTU1B0ZkZhME9Dc01jT0dxUkdNQ0ZyRXd4UVgxMFE4c3c4QmhqbzJJRUgtSjE5cUJ2THY0LUstRVBBV09IQ3pndGhjWlRTSWlNc1JDS2lqS1VN?oc=5",
@@ -1849,6 +1864,22 @@
       "id": "eb4969413e3bb4a2"
     },
     {
+      "title": "BI-Rate Tetap 5,75% Demi Perkuat Stabilitas Rupiah dan Jaga Sasaran Inflasi - Media Asuransi News",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTDBRQU9MX2g1THZhTWJfYXBBbVVGSEsxNWtHZG5EcFJFbUVwa2Y4bFVtX2ptcDhWSlQ3RFBlZnNiaXhuMHZvcUtCNGRKOXhGRGlQbkxBMUxQMzVRZVhxOHpMUXVJS3FtY3UyZ3dCUFdyaWdwNlRHUmdlZUNYeTVqYUp0VWY1ZmdaUFRza0tUeGhJZGpBLWdhTTZJelVHdDhuVWNTMV90bmk3Um9LRW02ZE8temFIN2JJU2F2NXBnZ1l0S2JHZlU3dlE5LW0xMzg?oc=5",
+      "summary": "BI-Rate Tetap 5,75% Demi Perkuat Stabilitas Rupiah dan Jaga Sasaran Inflasi&nbsp;&nbsp;Media Asuransi News",
+      "published": "2026-08-19T07:47:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "inflasi",
+        "rupiah"
+      ],
+      "big": true,
+      "id": "8a3168f4ac500dd7"
+    },
+    {
       "title": "Destry Pimpin RDG, Bank Sentral Tahan BI Rate Tetap 5,75% - Bloomberg Technoz",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb3RaWmtIOFZUTFV0MG82ZlFfM1dEU0RNQkNTcVpwaWJtZ1ZfYldZZEZyNTFoSVZxa1hObE8xNzVBRUNhR3ZGcnFEQkFaVHN4TmJ3NkR4dUVuTUpCSk13SFVBZGluYzU4NkYzQU5TdmVXZy15Z2tiRFVIekV3NHcxQ2ZoZVFubkdwYmFpNDdKdDcteVVEa1pYaVhRS28wazcxYXNzVEd5dDJ6X0k?oc=5",
       "summary": "Destry Pimpin RDG, Bank Sentral Tahan BI Rate Tetap 5,75%&nbsp;&nbsp;Bloomberg Technoz",
@@ -1956,6 +1987,21 @@
       ],
       "big": true,
       "id": "aac787d2365d0984"
+    },
+    {
+      "title": "Gold Wavers as Fed Rate Decision Looms and Mideast Tensions Rise - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT0dMa2JDVkVueDlKX3NCUzVaWjlmekZPWTVwUU53Y1lKWjItZUNRUEZsM0lYd0tyUjlYZm5FYmxIVUJKck5JQm82Q2VsYUVnWmQ4M3p1Q2M3NWt5b29VTFNNaGpLRkRDX25uakxnbDhTWDRHQ2VhdWkyUlFGZkgwTWYxZDc0Uk5zZXdaZ0NaMmhlRl8xbTJKVTBWMXk1bjRQZldiMG8wdllBay1iYzFIZE96WQ?oc=5",
+      "summary": "Gold Wavers as Fed Rate Decision Looms and Mideast Tensions Rise&nbsp;&nbsp;Bloomberg.com",
+      "published": "2026-07-29T07:00:00+00:00",
+      "source": "Bloomberg (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "Fed rate"
+      ],
+      "big": true,
+      "id": "34c436ee440268aa"
     },
     {
       "title": "U.S. to Impose 25% Tariff on Certain Goods From Brazil - WSJ",
@@ -2219,41 +2265,10 @@
       "id": "b5b0740c6527acb6"
     },
     {
-      "title": "Future Fed Rate Cuts ‘Far’ From Certain After Divided Meeting - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYmVyQXlzbkI5dWhhcmN4NDlueERuWldHY3JXQTZLRndJUEtzSG9VQXRQNXpMTDVVYWx5VFI5S29lYmFQM2lDenJDZ29CUEE1Qi12dllvN2ZCbGEtdUpWNnprYU82eDREQVpfSzhzRUV3VWJLSFMxMzNxSG5LaXVvTlZ4NG9KSVRkTWRJeFZwekdDWDl0alcyQkRhVTJXLWJqbW1lcFYtR1lyMHJzQ2NPVy1mSWNaRUdoUHFlRWxFY3htNk9MVnBrRHlmNEFraEJIRF9nN005TkdBWi1WWDRUeEU0b1N2U2dhUjVacE9VMU4?oc=5",
-      "summary": "Future Fed Rate Cuts ‘Far’ From Certain After Divided Meeting&nbsp;&nbsp;WSJ",
-      "published": "2025-10-29T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "Fed rate",
-        "rate cut"
-      ],
-      "big": true,
-      "id": "3c2eae2084252d44"
-    },
-    {
-      "title": "Indonesia central bank makes another surprise rate cut, independence concerns grow - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeE5sY2tETXJnU0txTnFBS0JmdlByVTl2WEJUeC02bk1ObWhBVFNEd2RxYlZ2dVRQVm1NZWV4SzhiMUNaRFg3b3RIY0hZV21jN2VsWmV1SnNsakNTVC1MRURjengyVVA1VjJOWWsyaGJHNUN3d3Nfam9FbjBqVHBtY1V0MHUwVDBVYUQtVG9jWW03bEw5SUFJeHBqSF9YU2ttZkRyM3I1RzQzMFB3QW9tMnBHaTMzdTVCNkZNcE12cG9XdkFFY1o1bWE0cw?oc=5",
-      "summary": "Indonesia central bank makes another surprise rate cut, independence concerns grow&nbsp;&nbsp;Reuters",
-      "published": "2025-09-17T07:00:00+00:00",
-      "source": "Reuters – Indonesia",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "rate cut"
-      ],
-      "big": true,
-      "id": "5984eed856ef24b4"
-    },
-    {
-      "title": "Trump’s New Trade Standard Takes Shape With 15% Tariff Deal - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUEdtZFd6SDJBSk5pbG55N3VIZmV5MThfRnR4SHRUOUJPYVl2ZGRWQ0JUbkNRZ2EyMEl6Y2VreVRqcjZHMF96OVNtMjFMV21IQy1Za0VJWGdrT051NFBoRXZPb3lUX2lXZ1FNRkswaHo1TTk5X2VBMVh3dzY3Snc2VThWSEI?oc=5",
-      "summary": "Trump’s New Trade Standard Takes Shape With 15% Tariff Deal&nbsp;&nbsp;WSJ",
-      "published": "2025-07-23T07:00:00+00:00",
+      "title": "How a Trump Trade War Puts Cheap Oil From Canada at Risk - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeG5nZ3EwMnBxaXB3d1ZlVk9ON3RRQ29rOTdhWU5LZ3JzXzRrVGVIcnc3NFB2VWx3N2RMQ2YxWW1VU3I5M0Q5LWZMbFMyZEdQcE53bDJiWHlpSkd4cktkZ0xRVk5VYlE4dm5vWXFvUmNydjZlbTlpOFN1d2tQY0EtdlIxbC1JcDJBNlNJRnpuSE9ZTXdBVUlFdmlGeXhoclhkemc?oc=5",
+      "summary": "How a Trump Trade War Puts Cheap Oil From Canada at Risk&nbsp;&nbsp;WSJ",
+      "published": "2025-01-22T08:00:00+00:00",
       "source": "WSJ (via GNews)",
       "groups": [
         "Geopolitics",
@@ -2261,41 +2276,25 @@
       ],
       "matched": [
         "Trump",
-        "tariff"
-      ],
-      "big": false,
-      "id": "b10a2c93742348f9"
-    },
-    {
-      "title": "Watch Krugman: No Case for Fed Rate Cuts - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTGlPcy1Kb1lFQ3hCM1ZkYlFrV2cwblJ1YWE1OEktTHhZbFFhbzZjUU02SndCeW12M1J2R2V1OE1OcERtV2pRN0UzYjJIWFRZZ2VRZXNkY3FJUHlNVFZEZjFoUmJJV0dEM1RlbldDbm1XbmZBRHVITkYyMm5SaXU0c3BFRkdNbjhjeFRsNHVmdUFxckZvWl9CZDR4cGhRQ1JCX21OU3pKbw?oc=5",
-      "summary": "Watch Krugman: No Case for Fed Rate Cuts&nbsp;&nbsp;Bloomberg.com",
-      "published": "2025-07-17T07:00:00+00:00",
-      "source": "Bloomberg (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "Fed rate",
-        "rate cut"
+        "trade war"
       ],
       "big": true,
-      "id": "1c648ae507018b0c"
+      "id": "4fe88d7b2a3a3926"
     },
     {
-      "title": "Asian Factory Activity Stays Subdued as Tariff Deadline Looms - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX0ttbVVoa0owLS1Kb1ZfZkdtbjAySHdkRzBKNmZ2QmQ1a2dCaHJvbXlvd2d5WjUycWlYbllyU0NGTDMzaE43aXpkdGsyaE9sMzUtZDVvaUxvWUZGXzNBckFVNHNKSjY5YWtROUtyc0dMS0tZT2xCenlyV3M3SHJLOFNWakEwYl9IaVpsbVU1V0lhV2h2dUoxTFBlVjBqZVk?oc=5",
-      "summary": "Asian Factory Activity Stays Subdued as Tariff Deadline Looms&nbsp;&nbsp;WSJ",
-      "published": "2025-07-03T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
+      "title": "Which emerging markets are in most financial peril? - The Economist",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZzF4NGtYVWVIRXM2ZHJQZWZkTmVKcWtCLUEycE1xT001ZmlRY1lSVjViWHJ5RHQ5d0Q2WFN4b056eXBHRjFRUGQ2RXpFUHFGYk5EM2lwSGVtQlJUTEFpYThDcGFkTEpsZ3FFNUxxeURfRTFmZzBEWFRKaTJ3clQzRlpJSEV2c2dybGRLMVM5RU1DTVc5RV9BckhWMVA?oc=5",
+      "summary": "Which emerging markets are in most financial peril?&nbsp;&nbsp;The Economist",
+      "published": "2020-05-02T07:00:00+00:00",
+      "source": "The Economist (via GNews)",
       "groups": [
         "Global Finance"
       ],
       "matched": [
-        "tariff"
+        "emerging market"
       ],
       "big": false,
-      "id": "ce3d53cad4a77e74"
+      "id": "461f3a2c158f44cf"
     }
   ]
 }

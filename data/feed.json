@@ -1,7 +1,22 @@
 {
-  "updated": "2026-08-23T23:02:22.624651+00:00",
+  "updated": "2026-08-23T23:32:47.103466+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Rawan Terkoreksi, Analis Rekomendasikan Saham INCO, TLKM, BBTN, PTRO",
+      "link": "https://katadata.co.id/finansial/bursa/6a8b7fb46eda8/ihsg-rawan-terkoreksi-analis-rekomendasikan-saham-inco-tlkm-bbtn-ptro",
+      "summary": "IHSG diprediksi rawan koreksi pada hari ini. Namun analis merekomendasikan sejumlah saham seperti INCO, TLKM, PTRO, dan BBTN untuk dipertimbangkan investor.",
+      "published": "2026-08-23T23:18:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "PTRO"
+      ],
+      "big": false,
+      "id": "05eab504b37b7007"
+    },
     {
       "title": "RODA BISNIS BARU PRAJOGO - Bisnis Indonesia e-Paper",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX1kyYWgwa3hkNVNZSXNNUHJTT3JKVjJBTWVJOVRZNVpsMjZTQlBFOEtIRXI2UFpVazNUaVJ4MGphTzBfWC1iYWNIZUlWM0ljTWh4S0liZGhObHBGSGZXN3lkWEJZUXU4OFM2OWJkQ2ZqNmFSU3BZaU95TG1QUXlFU3VMenZVYU9PWjZReTlR?oc=5",
@@ -3139,24 +3154,6 @@
       ],
       "big": false,
       "id": "ffd70f97162136ba"
-    },
-    {
-      "title": "Prajogo Pangestu Panen Dividen Barito Pacific (BRPT) 2026 - Bisnis Indonesia Premium",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZnZEU1VseHNyclRXcGw5VG1COFozVVB0SHkyTFo1R3l2cjV3NExPbVhRMHF6VDRNTTh5MW9mZXllU3lWM3gyTnNXYnF0SUVXZkxpN1V3OXBMenFiZG8tWGFTdWtIRmVlREc4R1JuQkxnSkVmTW5GZ05EeG44dnlTeUI0S3lxdXJ2LVJwWFdDMDhYMnQxQW9UUC1zaFU3cl9zV0dRdTVLaGJQMDBk?oc=5",
-      "summary": "Prajogo Pangestu Panen Dividen Barito Pacific (BRPT) 2026&nbsp;&nbsp;Bisnis Indonesia Premium",
-      "published": "2026-07-28T14:20:55+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Prajogo / Barito"
-      ],
-      "matched": [
-        "BRPT",
-        "Barito Pacific",
-        "Pangestu",
-        "Prajogo"
-      ],
-      "big": true,
-      "id": "dbe082b6f5766eaa"
     }
   ]
 }

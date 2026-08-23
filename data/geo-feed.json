@@ -1,7 +1,22 @@
 {
-  "updated": "2026-08-23T10:16:29.709249+00:00",
+  "updated": "2026-08-23T10:48:12.385229+00:00",
   "count": 150,
   "items": [
+    {
+      "title": "Menhut ingatkan fluktuasi titik panas perlu terus dipantau",
+      "link": "https://www.antaranews.com/berita/5707804/menhut-ingatkan-fluktuasi-titik-panas-perlu-terus-dipantau",
+      "summary": "Menteri Kehutanan Raja Juli Antoni mengingatkan fluktuasi&nbsp;titik panas (hotspot) perlu terus dipantau sehingga ...",
+      "published": "2026-08-23T10:26:54+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "menteri"
+      ],
+      "big": false,
+      "id": "0267fd3ea1152a17"
+    },
     {
       "title": "Pemerintah jalin komunikasi dengan negara tetangga soal asap karhutla",
       "link": "https://www.antaranews.com/berita/5707783/pemerintah-jalin-komunikasi-dengan-negara-tetangga-soal-asap-karhutla",
@@ -2153,25 +2168,40 @@
       "id": "90c08ba0cdf10b07"
     },
     {
-      "title": "UMKM Agrominafiber tembus pasar AS lewat pembinaan Pertamina",
-      "link": "https://www.antaranews.com/berita/5706232/umkm-agrominafiber-tembus-pasar-as-lewat-pembinaan-pertamina",
-      "summary": "Usaha Mikro Kecil dan Menengah (UMKM) Agrominafiber berhasil menembus pasar Amerika Serikat (AS) setelah memperkuat ...",
-      "published": "2026-08-22T02:15:15+00:00",
-      "source": "Antara News",
+      "title": "US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting - Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTl9VS2VzRmdzb1pkdGZZcXlOQkh2YzhkNU40RFJhSERDNFZURW0yWEdvUGJ3VGxHaWZKLUg2WUJZS2hIcWZfU0ZJMlFUSXF1TE9CdDVUd0I2dGJINmZQZkZ3eDBDbEZsQjFEMUdSdlVWQjc2OXBCc2gwX2NLNlFvLUcyWXN0bGIxU2s5ZWFHcWtrVHZwM0xhSzQ3VkVVaGdTdlo0Z1hCZDBEb3VJQUF0aE16MlZIaXRBaWhpM2RwZ21CdGd2cmxsR05BZHhsQ0VTYXRubE5Od2V2Q3pP?oc=5",
+      "summary": "US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting&nbsp;&nbsp;Nikkei Asia",
+      "published": "2026-08-22T01:27:00+00:00",
+      "source": "Nikkei Asia (via GNews)",
       "groups": [
-        "Commodity / Energy Policy"
+        "Geopolitics"
       ],
       "matched": [
-        "Pertamina"
+        "Trump"
       ],
       "big": false,
-      "id": "30be9c78d44911b7"
+      "id": "590436202a2c6c2d"
     },
     {
-      "title": "Military drills for store managers: deaths mar Prabowo Subianto’s latest project - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaXB3RmRzZ0U1dzdLTng0eWtuOXJYaEFHLUdSU2JvdHJNVzNmUFF0MERrWnFBa3pLa1paT29qbHlka3lwcUt3NENtVEpuMHdhSFRJS1FnTTZsQ0tsRFp4cmc2bEVYZHp0UkxUa1FBcHFzWnRiX0RBNmFWSGJBN1MzbWg1aVM?oc=5",
-      "summary": "Military drills for store managers: deaths mar Prabowo Subianto’s latest project&nbsp;&nbsp;Financial Times",
-      "published": "2026-07-03T07:00:00+00:00",
+      "title": "Prabowo's populist policies propel a 'doom-loop' in Indonesian markets - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSW56ZHNjVnktdXYzcUNCalV1MDNVVHY0cDhNRG9ZTGVLRWlYb2lOMm1BWWgtMzdIX1ltTHd6T3ZvaUpXNHo1RTBKYkdLN1BLbU1sT1BaSW9OQU52cjR4S0x5MFFuTXNyU0luQzFpcmtLWVhNNWV0ZGtHNzZzNHlqblBpLV9GZUQwLVJqUjgxSkl4TXd2UDFqdmtUdGRoRTBpeURnWHVIbGJURk9VTTREXy0yTi1ScDIx?oc=5",
+      "summary": "Prabowo's populist policies propel a 'doom-loop' in Indonesian markets&nbsp;&nbsp;Reuters",
+      "published": "2026-06-08T07:00:00+00:00",
+      "source": "Reuters – Indonesia",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "f319d225e6d88de3"
+    },
+    {
+      "title": "‘Sell Indonesia’ sweeps trading desks as Prabowo tightens grip - The Straits Times",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQjNvaTFGZm9wYVlQdmplUXBkalJjeExlM1F6bDBZdEVIem91TE5MVnI2T3ROTjZwalhodkpMNm9HOFdSQ29uRU43ZS1rbWJQNnhzNllfNUd5TFZkVk9iMWhoSW5FM25LSE10eE1JQ1VzRkx1VFB2RW0wNWs4ZndjUUNrU25vX2U1SkRqVG1icVdEVDd5OUVkSVJ2c1pCX3Vyb3ZFYnBxNkhzSlI1VlcwQk1adlVFajA?oc=5",
+      "summary": "‘Sell Indonesia’ sweeps trading desks as Prabowo tightens grip&nbsp;&nbsp;The Straits Times",
+      "published": "2026-06-05T07:00:00+00:00",
       "source": "Financial Times (via GNews)",
       "groups": [
         "Government / Policy"
@@ -2180,60 +2210,46 @@
         "Prabowo"
       ],
       "big": false,
-      "id": "ec6d44170d2925b6"
+      "id": "1c7f6ca0c0fa3b85"
     },
     {
-      "title": "World Bank says Indonesia's GDP to slow to 5% in 2026 as fiscal pressures rise - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZkdIMmFsLTE1TXNyZVc5MmtqYnROdFY5dHlQUXRhY0twbjhyNEgyZTlGd1M5VGRfanZVOTN6aE1ETkxYYWJrU3A2ekVvc3JLZ0pESlZ6T204N1Q5UUllcU05cHVpTUpxT1FhNG5kUjZUM3dRcmxjdThnWkhwZmVNNFhvVWJqZ05FaTVuRWozZTRUb2pXcm1wX3RfYlQ2MjZBOG85Y0RndVgzRlFQVFo4bXZXNmFzT2cyQVVZ?oc=5",
-      "summary": "World Bank says Indonesia's GDP to slow to 5% in 2026 as fiscal pressures rise&nbsp;&nbsp;Reuters",
-      "published": "2026-06-11T07:00:00+00:00",
-      "source": "Reuters – Indonesia",
+      "title": "Proyeksi Rupiah Rp17.500 di APBN 2027, Ekonom CELIOS: Sensitif dan Perlu Perhatian Ekstra - VOI.ID",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNajEySlVocnowYTIwVHdFZnpPa19IbzdMTGxhTUhvaUR3ZzBKWVMyN0dqTXYtekxvVk5mbmFfYTdSemt6eVEtNG0xSVdWOWxVMXNyQUdjOGVFcW5HdXNLRTFUWWY4NTBJbjNleURVelV0cG4xcVl6aVpEZHBLVjE2V1ZDeWU5X1g5Zm5rek1WMHA2N3d4czV3eGdNcDJ6QUVoenExQVg2b3V6dGxSdnlQTFNfcnNFc3oz0gGzAUFVX3lxTE9WMHM4TmJFX2RIUUg5RzFaYXE4WkxvQkFPME1weDV3UWEtV2x1Vlk3YU1UaHdKUXZxWlJ6OEJrc0ZUTTRqUmhYNWM5U1paNTFobDlrR0tVakRXY0xUQzdCZ3AxT243d19qSUx1YXplZGxqUnNxeW1iN3JzTzJSLVJ1WlhtMTAwOXZZWTByVkVCU1FXNmlUX21ZaEoxNE5EQmh5VTJfZlJydXo4c21iSlh0ZE1v?oc=5",
+      "summary": "Proyeksi Rupiah Rp17.500 di APBN 2027, Ekonom CELIOS: Sensitif dan Perlu Perhatian Ekstra&nbsp;&nbsp;VOI.ID",
+      "published": "2026-05-21T07:00:00+00:00",
+      "source": "GNews – Prabowo APBN",
       "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "World Bank"
-      ],
-      "big": false,
-      "id": "5a892c87d58e22ef"
-    },
-    {
-      "title": "BI Rate Naik Jadi 5,5%, Bank Indonesia Perkuat Stabilisasi Rupiah di Tengah Gejolak Global - Bareksa.com",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU1lVSmlvVUZfSWIwSUYwVWxnNlBYSmt6UmtNSHg1TDAtcTdKWjhqRElPd3ppNDJXSjZkOE9pNVZzeFRZd2M2X1pSRVhjVzZ2OE9wR3JtdUhJM3RfUjlvbjZBUDAyb0p2Wm9kRFZrcWttR0RSSGxBQUViQU1UVXo1WUMzcGhSZ0FwNTRFMEN0ZDBYZHlMLTVCZk81U3ZmeG14UFBZTVdCUlBYa1ktUW1ZV1FYLTBiek1FTU5ZN1B4aUpfd0ZrVW1OT1UtUTRyQTNo?oc=5",
-      "summary": "BI Rate Naik Jadi 5,5%, Bank Indonesia Perkuat Stabilisasi Rupiah di Tengah Gejolak Global&nbsp;&nbsp;Bareksa.com",
-      "published": "2026-06-08T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
+        "Government / Policy",
         "Macro / Economy"
       ],
       "matched": [
-        "BI rate",
-        "Bank Indonesia",
+        "APBN",
         "rupiah"
       ],
       "big": true,
-      "id": "df09cced7f7253a2"
+      "id": "9c0bd51c97621214"
     },
     {
-      "title": "Presiden Prabowo Optimistis Ekonomi RI Tumbuh 5,8 hingga 6,5 Persen - Kompas.id",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSE9Td2VkX1I0ZXlteU5LSWZOTHpZOXRiSVhoUG5jWlllOFZfT0hlajBDZ04xdmJ4NnNCTWtlTEYzZ1E1bXdtN29sYlItb1pWOE12c0VmWjk4VmJVUXA2cGhHLU84R1dKSDVMZmpjLWJINjczVWZMT3RDalN2YnA4NDIwOGxiaHZQNnhqeDlnTUJiTE04bkZ0M3ItRGxGN2psNS1Pek5VOFZGYlpHcVE?oc=5",
-      "summary": "Presiden Prabowo Optimistis Ekonomi RI Tumbuh 5,8 hingga 6,5 Persen&nbsp;&nbsp;Kompas.id",
+      "title": "Daftar Lengkap Kerangka APBN 2027 yang Diumumkan Prabowo - detikFinance",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaFFXWW1OX0M0cnJYZWpCSzlGRzBCU0kwWEVJSzdLT2hNeUVJNHlBck9FTmRuRXUzYXhWcTZZWU9ncV9DUEZkb3U3ZENqdlZlWnFzMGc3TTBhQjBPbUNOY3JYVzZHbzh4azNkeWRDQmZJOXRld1lpNXl4OU54d3oxbk0wOUx5SEpkWmhoQ2NIWlNXbXBKcE95SXZFMjNPZVZaNEpkdl9zWEVnY0c4eE1VM3VIVHHSAboBQVVfeXFMT1hGMm9UMllPZElsRy1NMzFTYWtFMnRBS296eU90MmdJN0hPYlEyamo5ZVBpTElWQTFaOHlIanZoazg1bHRGYmx5eTdSLVhrUkNyaUhlU2pybGpwUy1URFZkTm15ZzZQeWQ2TUwyeU5oWU1Zdml2Q1dySGs1dXBEY0tTVVN6cWRBN1hrOWRGRHhFREs4QUxDWkFQcFdVZkdyOEhRc2NMeWlWT3VJRjNlY3hfVlA4Y3J6UWd3?oc=5",
+      "summary": "Daftar Lengkap Kerangka APBN 2027 yang Diumumkan Prabowo&nbsp;&nbsp;detikFinance",
       "published": "2026-05-20T07:00:00+00:00",
       "source": "GNews – Prabowo APBN",
       "groups": [
         "Government / Policy"
       ],
       "matched": [
+        "APBN",
         "Prabowo"
       ],
-      "big": false,
-      "id": "30e526d04edb0f33"
+      "big": true,
+      "id": "87342ac89422d9c8"
     },
     {
-      "title": "Lengkap! Prabowo Paparkan Cetak Biru RAPBN 2027 - Bisnis.com - Ekonomi",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOXNjMEV3bllhQ1puQ19BNk54R0syX2lPN3lvRk8xSDVnQjFyWndXSDd3cENSM0ZtdzVNeEpIMGFVbmdBd0IwTnlVVGlvTVM3R0FzRl91RFZha0JpTm9Nbkp2VHVhcmxtSmYwM1RVeGRmVVpOUE5vUm1vMkU2cHB0ZlJrdHJkOWZiaE81aFNJTEFwbVp2MWhsR2FyVS1vUQ?oc=5",
-      "summary": "Lengkap! Prabowo Paparkan Cetak Biru RAPBN 2027&nbsp;&nbsp;Bisnis.com - Ekonomi",
-      "published": "2026-05-20T07:00:00+00:00",
+      "title": "Prabowo Besok Pidato Kerangka Ekonomi Makro, Purbaya: Ini Sejarah! - detikFinance",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR3lfVHg3VUc4NE9LdzRZdnM2Z2dJTWpJQWhKNlFjd1BSOWJPTTRvWTVXaC1zUzFQcHF6WEpneXE5NjdNdHcyRlpRX0xJT2VERDB3SnBFcG0yUWpxaVpRX1NaX2dBaHlJekVJMmQ3N0UwenZIc2lWcDlZblhHUVhZdEVwaFBJN2RBTlVwajZnZGpLTUlMM1JhRXZBSXZQNnB3a0NRaTVHQ3R3SVJtWjRSMGs3MDlNR1ltVkFVai1B0gHDAUFVX3lxTE9aanRZVGp6ZlNiMnBsQzVMTkMtMGRQTmhncWxyWmRoRXZBZHhweUw2WjlucmVRWlY1Mmxfb21iT1hWeW5TXzlLQXRSMUZUTVd3U1drX1liYjN6NS1pSktLYThFTFZvVjlTS1Bmd05hMTBjZmdVUzZra1h1d3RrNUljT3FoRWc0cmVObTVZN2lDRmhrVllVMVlSUGgtQ3FkanRnbGxlcXNnYV9mNXZFUVRWY2I5bkozcTVPZkJib25CMEZZbw?oc=5",
+      "summary": "Prabowo Besok Pidato Kerangka Ekonomi Makro, Purbaya: Ini Sejarah!&nbsp;&nbsp;detikFinance",
+      "published": "2026-05-19T07:00:00+00:00",
       "source": "GNews – Prabowo APBN",
       "groups": [
         "Government / Policy"
@@ -2242,13 +2258,13 @@
         "Prabowo"
       ],
       "big": false,
-      "id": "c29d3e3d2c8b0d77"
+      "id": "8b631e46ae7518bd"
     },
     {
-      "title": "FOTO: Ekonom : Narasi Pemakzulan Presiden Prabowo karena Kondisi Ekonomi Tak Berbasis Data - SINDOnews.com",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGFucTJKQW9Tal9WV0kxNVZHRHJ1bGFIMVN5NHdXUnoxcGttSmFIUXJIWHNnZUJvdHA0LWZQd0Z6anlJZFBOODZZWmt2b3ZTdTJOMTNOc1A0bUUwWjJsWXliZVZlNEd2Q1p2WHJBYnFzeFBReW4wVTNJNkdkRXloRDZIcjBMNEVRY3lyQmJrbko2RVlDU2VKNDVzTTdqcGR3UktZYUNSN1Z4Rkx4UTdSLUgySmN4VmlKd18wa1RGTWlCRzMyb3pB0gHLAUFVX3lxTE1hZTZELXQ4Qk5uMFpqQmdjMGF0dUlKQlJURWVaX28wSWdsdVpELThYdEluazludUd0Q19CY0c4TjFnQk5VNkdKYmdpTk5lVXZqSDFhMENCNmRQQy1LT2xiRHlqQjZLbU5JQk9UMVV1bmhYODU1b2pzYUhiSGZCNDhPR2otTWpkZlFXVnoyTGF6bjhJYWRzTDdHNHoxMlFaU2xwZnNyWHV6dDVHdEs2Z2JabWlvZUo3UEhfQU02dG5abTRLMHhZcGI3RUNj?oc=5",
-      "summary": "FOTO: Ekonom : Narasi Pemakzulan Presiden Prabowo karena Kondisi Ekonomi Tak Berbasis Data&nbsp;&nbsp;SINDOnews.com",
-      "published": "2026-04-12T07:00:00+00:00",
+      "title": "Di Balik Ekonomi 'Prabowo Effect' 2026 - MetroTVNews.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeHdLeXRnNG1tamFWR3NHSkhmejZkN3lTZm0tZGdUUkszUXQzQmhFcWhUaXBKTzh1enNpT0tUYklvVm5mZFh5Q3NVN1NCdDdmR21LUHlzNDU3YzE5RS12MW1kUTEyRWIyZS1ScTUteFJiMjhmWl8xY3dtLUdpVk5fc3JUSE4?oc=5",
+      "summary": "Di Balik Ekonomi 'Prabowo Effect' 2026&nbsp;&nbsp;MetroTVNews.com",
+      "published": "2026-05-12T07:00:00+00:00",
       "source": "GNews – Prabowo APBN",
       "groups": [
         "Government / Policy"
@@ -2257,39 +2273,23 @@
         "Prabowo"
       ],
       "big": false,
-      "id": "8ec28ef520985984"
+      "id": "294b743b84b48d04"
     },
     {
-      "title": "Indonesia’s Prabowo Sees No Rationality to US-Israel War in Iran - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTGY5ZlAzQy1QdkVvREVVeTBYZ3JrZ0dKUEhqVmNHX09NQmh6MkJubXFyMTZNQ1hucHpobDByRl92aFk1NDBiTnVFRF93YnRMOVpNbUx3STNBR1VvdTZlUExvU0JMWDVwbmxFM3dqdjFFTjlmN1JPSFlwZG0zQ1lsNDEtMmlOeUVfSHZXZ19kazk2R2ZPUFJkelA4Sl90UlAyUGhBaDJhWTVGQmpGTHFOM3V3bWJVZw?oc=5",
-      "summary": "Indonesia’s Prabowo Sees No Rationality to US-Israel War in Iran&nbsp;&nbsp;Bloomberg.com",
-      "published": "2026-03-14T07:00:00+00:00",
-      "source": "Bloomberg (via GNews)",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "ad6bb88d5954129b"
-    },
-    {
-      "title": "Airbus Backs Guidance After Trump, EU Reach Tariff Deal - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY05CSVZVM3JTTlNyTlFUdV8ybE1oRlNNNEJVV1ktanBmbXBYclZxa0lKY01ZV0Y4bEgtbHhoWjRrZ0txRnpEMVFaQk5EbUZOVlpuUU9uakVLTFlrSVVLSDJ6Y3NNX2RDcUlBcEtLTkpTdkFZdEMzREUtNk0wNHhmQy12WkpxaXRNNkNVblNOc1U3eFpDVHZZ?oc=5",
-      "summary": "Airbus Backs Guidance After Trump, EU Reach Tariff Deal&nbsp;&nbsp;WSJ",
-      "published": "2025-07-30T07:00:00+00:00",
+      "title": "Philips Cuts Earnings Margin Target On China-U.S. Trade War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRG40V0pFNk4teUh0c2ktODJRVFJ0cF8zbHFRd09kZngyNWtKX24xdnBiRE5MRndxLTBpLXhuVDRMbU4tTDF6dHNxQ2ZCX2lrMkVodU9KclVPSUUxSFd2T3IwRlhyOGZjT3dfTlNYazFCdXpsUzNUSFBzOEF3Z3pPa011eFNZa0NXTVlVLWt1OXJibkp6N1JOSE9rYXBkYktvcVdWbnhQd0E?oc=5",
+      "summary": "Philips Cuts Earnings Margin Target On China-U.S. Trade War&nbsp;&nbsp;WSJ",
+      "published": "2025-05-06T07:00:00+00:00",
       "source": "WSJ (via GNews)",
       "groups": [
         "Geopolitics",
         "Global Finance"
       ],
       "matched": [
-        "Trump",
-        "tariff"
+        "trade war"
       ],
-      "big": false,
-      "id": "ca54586725e289fd"
+      "big": true,
+      "id": "f6aa1ee00e69db17"
     }
   ]
 }

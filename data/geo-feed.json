@@ -1,7 +1,86 @@
 {
-  "updated": "2026-08-24T22:02:51.694799+00:00",
+  "updated": "2026-08-24T23:03:35.051312+00:00",
   "count": 150,
   "items": [
+    {
+      "title": "How US sanctions on Iran ripple through global markets and consumers",
+      "link": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss",
+      "summary": "New sanctions hit Iran&#039;s aviation, tech, and shipping sectors, amplifying pressure on global markets and energy prices.",
+      "published": "2026-08-24T22:46:02+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "sanctions"
+      ],
+      "big": false,
+      "id": "0a7aed49f5c727f2"
+    },
+    {
+      "title": "US Supreme Court sides with Trump administration on mail voting",
+      "link": "https://www.aljazeera.com/news/2026/8/24/us-supreme-court-sides-with-trump-administration-on-mail-voting?traffic_source=rss",
+      "summary": "Mail balloting has long been a favourite target of US President Donald Trump.",
+      "published": "2026-08-24T22:40:04+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "79c4b2dfe4154880"
+    },
+    {
+      "title": "Politik kemarin, Penanganan karhutla hingga RUU perampasan aset",
+      "link": "https://www.antaranews.com/berita/5709919/politik-kemarin-penanganan-karhutla-hingga-ruu-perampasan-aset",
+      "summary": "Beragam peristiwa politik telah terjadi pada Senin (24/8), mulai Presiden Prabowo&nbsp;Subianto tinjau penanganan ...",
+      "published": "2026-08-24T22:18:23+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Prabowo",
+        "UU "
+      ],
+      "big": false,
+      "id": "b88c9564adebc34b"
+    },
+    {
+      "title": "Hukum kemarin, Rektorat Unsoed digeledah hingga praperadilan eks BGN",
+      "link": "https://www.antaranews.com/berita/5709913/hukum-kemarin-rektorat-unsoed-digeledah-hingga-praperadilan-eks-bgn",
+      "summary": "Beragam peristiwa hukum telah terjadi pada Senin (24/8), mulai dari delapan rumah dan rektorat Unsoed digeledah KPK ...",
+      "published": "2026-08-24T22:04:13+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "KPK"
+      ],
+      "big": false,
+      "id": "addf3b679dfab4da"
+    },
+    {
+      "title": "Trump Escalates His Trade War With Canada and His Sanctions War with Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRVp3bXlZZ2ZpYmJtMUFUZ3I5S3JYOE5ud1Ata1BNSWxmMEF3RmdQR0RleXROZGptVEQ5ZlJXb2ZnQ0g0SGRFSTRuZzE4OWhRU3pJcGVwU2gyRHhOY292bzRPZzRjQVU0TDR1Rm1nbWc4dVZpaDVUTF8xRldnSzZXQUVJMkhvNlNES1VScEMzYWJ6UEhLNExRTVdvMUs0M0ZBdElwNFc0YlVxXzhib1JCRWpXcGtUZFJ2bFBlUHZjY3RIaFRPbGhESnI1dWZkZDA4d2d1a1V3Tkt2eGlnLW1FNTBWYlVIMlNfRnlaTTNvZ0NDVWc?oc=5",
+      "summary": "Trump Escalates His Trade War With Canada and His Sanctions War with Iran&nbsp;&nbsp;WSJ",
+      "published": "2026-08-24T21:38:00+00:00",
+      "source": "WSJ (via GNews)",
+      "groups": [
+        "Geopolitics",
+        "Global Finance"
+      ],
+      "matched": [
+        "Trump",
+        "sanctions",
+        "trade war"
+      ],
+      "big": true,
+      "id": "7d0809866f667c2a"
+    },
     {
       "title": "Trump Escalates His Trade War With Canada and His Sanctions War with Iran - WSJ",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONm5NSTJ5YU1fVXJWVGdmbEFJaEV2S2REWjdOSlpHbEEtT1hncDlnTmoxTmt5T05oUzA3TExRYlNacmhYQjdGME80WV8ydUVFUmNEVjFiR2RQVzBnRThPdkRhdU1pWkptUnd4bDFxT1dGd2xWc2oyd3BaTUh5RE9NaFFnazVFWC1LVzdyS01rdHY2TTk3UUxCWEZRcmxKT1QxYUdiUFdneFFwNThHUkswWFRneF9JTWN4V0YwYjYxM0NWNmxYdmtQOTdpSk4wYXh5Mk1RMmRaYVNjUEF3bHpLQy15emVBVkN4bXBlZDdxSzN3TEE?oc=5",
@@ -67,6 +146,24 @@
       ],
       "big": false,
       "id": "e35031cb2f737419"
+    },
+    {
+      "title": "WSJ Opinion: Trump Escalates His Trade War With Canada and His Sanctions War with Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQM3lKMUQ0LVBwREJKZzhOV3U2ejY5Vjl1QkFvem54b19WWkZsYkFJSU1MZ3VWMzdUdU5MWHpQN19EdFNiTEdDbkZLeDE4UE9CN1g3SFFfTkx2c1RZMnFaU19YemF1dzBDNGN0WEhVWThUZVJXNWQxUUpoRXhBcjdCZFprUENmSjhjY0hJSlB4a1FiUUhZNXgzRUt4MHp0TFJ0RlR4LTIwTjR6VHlFLTdLYmtEV1BDV293eGZSUW93WUswTm9ISGkwNGdXeFl5bzdwai1vTXRVaXNncFBSbjNYVTE1QnVKSWlIVU9mX084dmV3YkU1UDVvNE9FT2tHejJCVjFVSTZUWHJwdw?oc=5",
+      "summary": "WSJ Opinion: Trump Escalates His Trade War With Canada and His Sanctions War with Iran&nbsp;&nbsp;WSJ",
+      "published": "2026-08-24T19:36:10+00:00",
+      "source": "WSJ (via GNews)",
+      "groups": [
+        "Geopolitics",
+        "Global Finance"
+      ],
+      "matched": [
+        "Trump",
+        "sanctions",
+        "trade war"
+      ],
+      "big": true,
+      "id": "f4875ae2a5a72b43"
     },
     {
       "title": "Trump administration seeks to formalise H-1B fee of more than $100,000",
@@ -189,6 +286,23 @@
       ],
       "big": false,
       "id": "c5cc0c7ea77118a8"
+    },
+    {
+      "title": "Trump Escalates Trade War With Canada, Threatens New 50% Tariffs - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMy1uOGJVQTMtdDI1YVZkLVBaVXAxdllOX1NVWmYxQjhsNmFsQ1pLd2wtTU5SS0VwRkx2OC1kNmV0UG5ieV9TbTBXUmI0T0NhTWhXSlVVU1NVRUhJWWZoV2lZdjVlcERkNXBDLWMyTWFMWXRYVzBtZldXVldnRFg5Wl9QZ0ZhWnQ0NDNQcmhHdS04SDVjVnY1bjltOW95eEdWbTVLYnNXd013RVIwd1hSUW9qeFM1R1IwMGNwLWVnc3MwalBaZFdieEtwQzM0Q2pDUlRMRVhkTDhVaUht?oc=5",
+      "summary": "Trump Escalates Trade War With Canada, Threatens New 50% Tariffs&nbsp;&nbsp;WSJ",
+      "published": "2026-08-24T16:07:00+00:00",
+      "source": "WSJ (via GNews)",
+      "groups": [
+        "Geopolitics",
+        "Global Finance"
+      ],
+      "matched": [
+        "Trump",
+        "trade war"
+      ],
+      "big": true,
+      "id": "e527580ab96f997f"
     },
     {
       "title": "Pertamina Drilling perluas kolaborasi energi dengan Weatherford",
@@ -1209,6 +1323,22 @@
       "id": "a1f25cbe2c0049d4"
     },
     {
+      "title": "U.S., Canada Are Spiraling Toward a Trade War - Minute Briefing - WSJ Podcasts - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdFpqenptUVUtdlNhVl9fbTd5T0ptSi1KSm9ZZjhvM3MwanNuR2dDOTJFbl9uUTZfdk84OUZDLWFkcU9kY3Y0Z3N6Rk5YaHJjcnNUY1BDLUNaUExPb0RJM3o2SlRoQVhKLTRDQkZhY3NoZThIUkUwLW05OF9xVWVBUTZvNmROOGIwbDJGaTVLVEtCc1BfQUh4TUxKOWJkSUN4UzZCX2kyaEdjMFdFR1ZWSWJwUnRUOTJQd0FpUENmS2hDdw?oc=5",
+      "summary": "U.S., Canada Are Spiraling Toward a Trade War - Minute Briefing - WSJ Podcasts&nbsp;&nbsp;WSJ",
+      "published": "2026-08-24T09:57:00+00:00",
+      "source": "WSJ (via GNews)",
+      "groups": [
+        "Geopolitics",
+        "Global Finance"
+      ],
+      "matched": [
+        "trade war"
+      ],
+      "big": true,
+      "id": "30619035e7afa966"
+    },
+    {
       "title": "Malaysia catat lonjakan kasus asma dan ISPA di tengah kabut asap",
       "link": "https://www.antaranews.com/berita/5709171/malaysia-catat-lonjakan-kasus-asma-dan-ispa-di-tengah-kabut-asap",
       "summary": "Menteri Kesehatan Dzulkefly Ahmad mengatakan pada hari Minggu bahwa lonjakan tajam dalam kasus asma dan infeksi saluran ...",
@@ -2141,159 +2271,34 @@
       "id": "6959430a095d2c4a"
     },
     {
-      "title": "Trump plans to meet with North Korea's Kim Jong Un - Nikkei Asia",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRlYxNmNIQS10R0FyMnRXMVZDeEEweXNscjhlQkVvdTctc0JVMUljY1RTMEFBaFhrdzVpM01QZkIwbnEtOVRGLVFkUlh6NHNoMFJ5NWptVGdrVXZCeENGUFBOSXM1RjVLS1VMc2c0M2hsWXRlUzJITU5hOWtrbHNuSUlRX0R1dGNBdGNLQ1NlTGFJVmdDYnVwMkZ5Y2JQY0FUUVVXLVpfSVA?oc=5",
-      "summary": "Trump plans to meet with North Korea's Kim Jong Un&nbsp;&nbsp;Nikkei Asia",
-      "published": "2026-08-19T18:03:00+00:00",
-      "source": "Nikkei Asia (via GNews)",
-      "groups": [
-        "Geopolitics"
-      ],
-      "matched": [
-        "Trump"
-      ],
-      "big": false,
-      "id": "310ccb2780b80673"
-    },
-    {
-      "title": "BI Rate Tetap 5,75% pada Agustus 2026, Simak Dampaknya ke IHSG - Ajaib",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSlJsTmpXTjdzOGRCWXUwNU9RUE43bFhlR2N2ZktKMk11c29jS3BtcU5DWW13ekdmY1ZOWjdpZXhYX2xSNUtHOERvZDBnVjBCTW9MX290dkhlYmFZbEZodE85cUppX21XVUltMmVpcTd2cVVfN2Z6MjAzWDZ6TVFPZlVFb05TY0VtWmQ4VXZvWUdFWHRldjhhY2Rn?oc=5",
-      "summary": "BI Rate Tetap 5,75% pada Agustus 2026, Simak Dampaknya ke IHSG&nbsp;&nbsp;Ajaib",
-      "published": "2026-08-19T12:30:20+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate",
-        "IHSG"
-      ],
-      "big": true,
-      "id": "52f57e240ac41d62"
-    },
-    {
-      "title": "Kadin Pahami Alasan BI-Rate Ditahan, Penurunan Suku Bunga Tetap Diharapkan - Media Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeG9KRWl4d0lGYlBjRjhWTFZ6SnQ0RXFvZ3A1Tk9ENW1QRW5FeGJWaVVtSlMtcXhGbEdFWVRuTnBLNC14cTlwWkthV2hKNUQ1SWk2bnZYS3lwTzdOUHdwOXFFTURDS2VZdTNzZjI4TzNOUkY3bUtHSWZaQnJqbktYVC1MbTNEb3YyWkFfV2plaGE5d0cwRGgtLUxETjRFUmtZeVdVeDR0eExyRVIzSWtyaUFiWDhFQQ?oc=5",
-      "summary": "Kadin Pahami Alasan BI-Rate Ditahan, Penurunan Suku Bunga Tetap Diharapkan&nbsp;&nbsp;Media Indonesia",
-      "published": "2026-08-19T09:00:56+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "suku bunga"
-      ],
-      "big": true,
-      "id": "7aa520e30b27510b"
-    },
-    {
-      "title": "Alasan BI Tahan Lagi Suku Bunga 5,75%: Jaga Rupiah-Dorong Ekonomi - CNBC Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUnNERnRGVjhxQUMtSkpUVkxHNVJlTTVOUEVwcXZjMmY4Wkc5VWtmNDlsMjBfTVFybU5seHlteFhjc3EwWHFKd1FmZG5QWW4tUG9PY3VrM2FwODhmMk1UOFdOMHNjRE5wODdWOW1UTVMzMVR2TWVXcm1EY0s5cDFrTlM1WmFrR1lpOW8wcWZKbVhnNTJkZ2tQaGhSMEZtMnRqbUZrdlNkNEN3Q3hub2hkU1NPX0RKcFpqV3g3YWRMMDR0QdIBxwFBVV95cUxQZml2M1BHNVVYVnhrWmYtZHRJWHMtc280Snh6elR3d0FsdlgzVkREMm05X0stSE92NDB5TlVQN29Udk9vNkNONU9QTXVNbWw4enZ6Snpka3FqM2oxZ281RkttTnJCRktTQkNTdjM3XzB3bURRLUU4YUJsLXNUQ2xlazc0WVJuRlVmWHo2eVdPZ0IzR3k4RGJEekVRTXdIcUtxTmVWbXdUdXNHSGkxSlZxRTBiSzRUdW5XbkZ1VExGS1RyXzJiT3Y4?oc=5",
-      "summary": "Alasan BI Tahan Lagi Suku Bunga 5,75%: Jaga Rupiah-Dorong Ekonomi&nbsp;&nbsp;CNBC Indonesia",
-      "published": "2026-08-19T07:29:23+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah",
-        "suku bunga"
-      ],
-      "big": true,
-      "id": "a9e53f2e9de8301a"
-    },
-    {
-      "title": "Watch Trump Delays Canada Tariffs, Takes Hard Line on Iran | Daybreak Europe 8/19/2026 - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMDdmWmtWajN0TjFkTDJVb0tOTFZCS0xwNUZPdkx0eThmZFdjYVNXR2hiUGhFYkQ0NGpyVU4yMmlZVmVSRVJOTXp6UGMxV3FscnREazd4RnJScUVhd3R2Q25TNVhieThHVUFSODNOUFRLc1ZPR2Q2clZyV2xOQmhWWUlyci0zQkk?oc=5",
-      "summary": "Watch Trump Delays Canada Tariffs, Takes Hard Line on Iran | Daybreak Europe 8/19/2026&nbsp;&nbsp;Bloomberg",
-      "published": "2026-08-19T00:00:00+00:00",
-      "source": "Bloomberg (via GNews)",
-      "groups": [
-        "Geopolitics"
-      ],
-      "matched": [
-        "Trump"
-      ],
-      "big": false,
-      "id": "03222c1f9a9b8fee"
-    },
-    {
-      "title": "Rupiah Berpeluang Melemah pada Rabu (19/8), Dipengaruhi Sentimen RDG Bank Indonesia - kontan.co.id",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSDR1MWYtZVpQYlZjd0tyT0Y3UHJJZUh4MWdJSkMzRzNqdWtiNFhzY3dlT3NvREZ6OXAzWFR4cjE4X2psd19QS3E0MTdVNzdTWTBRMGc0QW5oa0RTYml2dElZQzlTV01RZFBaQ3YydGhYeE5TYzJjT1pKN0pVdkdmMEZnLV9Uc0tNNGl5X2dHUVM0VlNUVWZ1TmN6UjhkbU9IX1ZtdVFaZm1TNDVOb3NBSHNid3Y0Z9IBrgFBVV95cUxOR01rY3ZIcE1CVGlqcHJ1QnRPOEw3OWxpamNRWmJlTlZRVnR1eERFdUJEZ2dUN3hzX1lUSEhsYjJrb1NFNzZ6eVZnWnlGYThSSEt2SEVzSnVrczd1RWlQbi1KMng5U3lWYThBYVZFanpiYkluWDFUUG5JZzM5Yl9RVk00Z1VBbUpXWW84R2UtN21ZQkF2LVJlbTcwR0QwQlZENy15aVdwQTcxRTJrMHc?oc=5",
-      "summary": "Rupiah Berpeluang Melemah pada Rabu (19/8), Dipengaruhi Sentimen RDG Bank Indonesia&nbsp;&nbsp;kontan.co.id",
-      "published": "2026-08-18T23:30:33+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "Bank Indonesia",
-        "rupiah"
-      ],
-      "big": true,
-      "id": "6ded8c0b28ea2ecc"
-    },
-    {
-      "title": "Rupiah Melemah Menjadi Rp 17.862, Pasar Menanti Keputusan BI Rate - kontan.co.id",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTUlQWjNMdjJhekwwY3pIaVhpN0MwMVExWVRqekMtRUNNZjE0UzB2Zlo1VTktMHJWbl9CR29lMHNxNHBGbHVOWGlDdEoxNVpKN1BjNl81TFh6dXNKb1p5VGZ0Ymd3UHk1b1B3RFU2SUxYdnpoR19kdG5uNVVmd1kyTXEwNHFiMEtENm1NblBpRVZjbUZHc1RFQUNMVVBQMjRj0gGYAUFVX3lxTFBSMkMtTE9ySS1xSlRGc1llZXZ2Um5UUG1rT1p3a09RaHk0VHhSTjhkWWEtMjJwZEhpeW9pVFZtTDV3MFQ2alVUT1NCbFo4YmRXZFpIczVtdGJtTGVJbE50aUhBVGZCQ1g0bHFrdlNnQVA5VVB2N3ZaZEx2ZE5heDJRWnVJOVRoU0xQazVTY0RkTzgzV0hfSFc3?oc=5",
-      "summary": "Rupiah Melemah Menjadi Rp 17.862, Pasar Menanti Keputusan BI Rate&nbsp;&nbsp;kontan.co.id",
-      "published": "2026-08-18T12:38:04+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate",
-        "rupiah"
-      ],
-      "big": true,
-      "id": "dfc9a31e07f40b88"
-    },
-    {
-      "title": "Rupiah Aman, BI Rate Diramal Gak ke Mana-Mana - CNBC Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVpmSlNVLXEwYlBMcnRFQTNDbzBmbGdhU01rbkFIXzRmUVFwYWZwMjZsYWVBaklPcEM0ZElOU1IwVkUyNnZybHA2U3hmRzFiZl9najR4MGY3ZHNOeUNnWDFZazJpeVpDaUUzVUJ6cFhaR2cwbVFPZU5KMTRzd2JNeHZIR3NpOGlNMnZYcmNIUEpqcU1PV0ZXSGhKUjUzTUZhejBSNHZ0RWxFVUN6Mnc?oc=5",
-      "summary": "Rupiah Aman, BI Rate Diramal Gak ke Mana-Mana&nbsp;&nbsp;CNBC Indonesia",
-      "published": "2026-08-18T08:50:15+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate",
-        "rupiah"
-      ],
-      "big": true,
-      "id": "e6b983dbe4e96fbd"
-    },
-    {
-      "title": "BI: Kenaikan Suku Bunga Berhasil Tarik Modal Asing USD9 Miliar - Infobanknews",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeV9BSnBpcXo2NnhNVUtRQ2JqbHcwWFVHbzBJWFVDYU5TNWFlbE1LVDJWa2xDWi00YWpJX2dRWmhrem1KRXlSU3ZzUW9ESkhtUkI3ZmY5NnBtNHJmc0RaSzducVFoNGtjdU1oaXJmYXVNbFpUZlQ2WFVDSy1iOVlEUFF1QmQ0QnY0UXlHbWJ5dw?oc=5",
-      "summary": "BI: Kenaikan Suku Bunga Berhasil Tarik Modal Asing USD9 Miliar&nbsp;&nbsp;Infobanknews",
-      "published": "2026-08-04T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "suku bunga"
-      ],
-      "big": true,
-      "id": "9e9ed053d61abc6f"
-    },
-    {
-      "title": "Indonesia central bank makes another surprise rate cut, independence concerns grow - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeE5sY2tETXJnU0txTnFBS0JmdlByVTl2WEJUeC02bk1ObWhBVFNEd2RxYlZ2dVRQVm1NZWV4SzhiMUNaRFg3b3RIY0hZV21jN2VsWmV1SnNsakNTVC1MRURjengyVVA1VjJOWWsyaGJHNUN3d3Nfam9FbjBqVHBtY1V0MHUwVDBVYUQtVG9jWW03bEw5SUFJeHBqSF9YU2ttZkRyM3I1RzQzMFB3QW9tMnBHaTMzdTVCNkZNcE12cG9XdkFFY1o1bWE0cw?oc=5",
-      "summary": "Indonesia central bank makes another surprise rate cut, independence concerns grow&nbsp;&nbsp;Reuters",
-      "published": "2025-09-17T07:00:00+00:00",
+      "title": "Indonesian central bank governor Perry Warjiyo quits suddenly, rupiah softens - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZmRYdXF5Ti13MVMxdDBDLU41eUtfcGs5cTRLbzVYVkFjdGRBSGxIWEVOZS1EaDNMRV9VVEM1QW5TMEZXdEFPYkJkeWRGZ2xhZXFnSm92amF0cjdnSVVNc0dzX1o4MS1Uc2Y1QU9MbU1fQWo5R3BzVjZpT3hVdVJXUG14Y2lfRllHR1NJcHkxa3RzUDFod09YbjhWdUc3OGJqc2RHRXE2Y1BWSi1rTlM0ZzUwcEEzM3NlVlBv?oc=5",
+      "summary": "Indonesian central bank governor Perry Warjiyo quits suddenly, rupiah softens&nbsp;&nbsp;Reuters",
+      "published": "2026-07-27T07:00:00+00:00",
       "source": "Reuters – Indonesia",
       "groups": [
-        "Global Finance"
+        "Macro / Economy"
       ],
       "matched": [
-        "rate cut"
+        "rupiah"
       ],
       "big": true,
-      "id": "5984eed856ef24b4"
+      "id": "a5fab7fbd6ed250c"
+    },
+    {
+      "title": "BI Rate Naik 100 Basis Poin dalam Sebulan, Bakal Naik Lagi? - CNBC Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObHlZbnJPaWxUYW9rN1ZjZkc2OVE3T01jQ0Y2TGE4NXBzV00ybWpSOHFCV1BuMUVwTU1UQWZXX0xNYUJOR0VHSzVmRUpFQ25rdVhGbHk1TmtLSlpSM2dUMGZsVUJiSXhVZG9iam1kMFhnR3RtcTBFRDFfVktPdmVrYmFpVFE4R2xYX0pWWk9aVkpGQUlWb2JVcDcxQldxRkNNbGJuaDRmNEg1WjVqamdhWnJqSUpWN2ZmbV9R0gHAAUFVX3lxTE9GRWhUOUI3a3BOSG5TQWtBeWNvWUtkODl3SXlZYTZvaDd1TmR4TWNlYVVMVlcwRGhLbzNycW54NU1adDlmaXE3YUxJSEJiQVFJaUtTTTV2VnNZOFdodjdyNGF2bEswSXRNY2I0QXZmUU9LZHlxamo2V0FkMkJiR04tZncyTHAzenJVLXB5X3Bna19FdGs3RGVjSEZMaGVzWHNFRVFSeUZhLXNWcDdCYmY5bUVyZ3hJWWlleUNLUl9SNw?oc=5",
+      "summary": "BI Rate Naik 100 Basis Poin dalam Sebulan, Bakal Naik Lagi?&nbsp;&nbsp;CNBC Indonesia",
+      "published": "2026-06-19T07:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "BI rate"
+      ],
+      "big": true,
+      "id": "bdad953be89a2a64"
     }
   ]
 }

@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-24T21:02:17.849942+00:00",
+  "updated": "2026-08-24T21:40:32.707101+00:00",
   "count": 150,
   "items": [
+    {
+      "title": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
+      "link": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
+      "summary": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the \"right attitude\".",
+      "published": "2026-08-24T21:20:48+00:00",
+      "source": "BBC Business",
+      "groups": [
+        "Geopolitics",
+        "Global Finance"
+      ],
+      "matched": [
+        "Trump",
+        "tariff",
+        "trade war"
+      ],
+      "big": true,
+      "id": "d6ef1bbc956cdb4a"
+    },
     {
       "title": "Video: Iran reacts to US ‘economic D-Day’ sanctions",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-iran-reacts-to-us-economic-d-day-sanctions?traffic_source=rss",
@@ -2231,26 +2249,11 @@
       "id": "c14f3d111915ccba"
     },
     {
-      "title": "Jangan Takut Jawab Petugas Sensus, Prabowo Kasih Jaminan Ini - CNBC Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY0ZKRUh6ZnhjOUwyVTgtZ01HN0hJWklFcGZnYWE2bDBjQjdnS3F1OXBsamRUR2NYWFFMSUljVXhXLXFfYV92dmpGQWcwM3oxdlZCbVFBSnhZM1NndUdTZzZxVEZyRTBqREtkRTB1blN3RUFfS1ctYjNFNDBqSElkN1g4amd6UTNpQmlXUnFtR2YtYmlrbDE2cGdacnhyMXRFUXYwUndmR0lGaVRfR2J0c2tmTTRkWGxSOVHSAb8BQVVfeXFMTTI1QzRhQVNtbWdZRVc3alVNc0piZy1PUkl3VjBCS0RLU1l5dWU3M1FVcVlIX0RFSGlvUEJsYjcxdGF0MHpGaWFDYmdfV0syQjdOM1BWU3RndzZGOWJ5TW5LZktZVldkODlRelg5UTRVeGgwWXpOdXRkYzg4Y1VEaXRaTDRZNU8tRlRoa25XS20xOUNBeTlNTkJMR2Z3Mmc5V0VPaXlibUZ6Mnl2dXpFOGJGWnY4SE9vNjlRUFo1SVk?oc=5",
-      "summary": "Jangan Takut Jawab Petugas Sensus, Prabowo Kasih Jaminan Ini&nbsp;&nbsp;CNBC Indonesia",
-      "published": "2026-08-14T08:55:12+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "15eea193e40b168a"
-    },
-    {
-      "title": "Indonesia Seen Hiking Rate in Close Call to Help Fragile Rupiah - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNWJxNzNhbXBkSUJQNndKV2x6UFBSeG5NdnhpRThNbmNQYnhYa20zOGozM0x5aEZuNlpSX29ZcVBuUl9FNHJZSEU3WXQ5QV8tY192X3BmYjB2YVNnbHg4UnNFMTZ4dlN1WWxfbkpvYnhjNmJoWkpIMkRiQUN4cTZYbHBoYll5VVN0OExnNzNNcTdOWG4xWC0yeFFlVXhVMEhSV21vTVZ4OERuQkZYQ3UzR0puTnRrZGNiT201ZVVIckRHQkNrZzkzUVV3?oc=5",
-      "summary": "Indonesia Seen Hiking Rate in Close Call to Help Fragile Rupiah&nbsp;&nbsp;Bloomberg.com",
-      "published": "2026-07-21T07:00:00+00:00",
-      "source": "Bloomberg (via GNews)",
+      "title": "Indonesia rupiah hits new record low; president downplays day-to-day impact of currency weakness - The Business Times",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRHZHRkk3WFNwci1sTUhBQXRBbkExbDJPQnV6ZW1VTkNUQTFfaE1oZnJHZ1BianQzMExhdjFIM2JGSlNPRFNHLUpfZDY2TkY4QXpJNXR4X0NTeE50ZV9BQ05fcFBwaGNhaE1ya1pRU21GREZuWEdUOHBWMzRSWUE1UldtOEN0Q1NNZXhJUU9iMGRsMUN0ZlFZaFZGN1lzYmtlM3FqeTVVWVJzMTMyLXNvOFI1d0V4cjZ2NzI0dThuUzlTUGRmVjJTLTdQY1NUV044M0tQS05KUE03UQ?oc=5",
+      "summary": "Indonesia rupiah hits new record low; president downplays day-to-day impact of currency weakness&nbsp;&nbsp;The Business Times",
+      "published": "2026-05-18T07:00:00+00:00",
+      "source": "Reuters – Indonesia",
       "groups": [
         "Macro / Economy"
       ],
@@ -2258,39 +2261,38 @@
         "rupiah"
       ],
       "big": true,
-      "id": "f228b476b6c69ee9"
+      "id": "d7905ad3dd979a53"
     },
     {
-      "title": "Prabowo Serahkan Embrio APBN 2027 ke DPR, Misbakhun: Ini Tradisi Baru - CNBC Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcXo2RUgxMVFMNGVObVI2Q3VMTzVBTXJEUGtGeWdGcUlZZnZwcFlOUE05SlVGUmgzZXI2bzIwTEZSV2lhYkFWQmJjUHRua0V5RFNGREwwNDRaWE8xMmN0S0ZJbmduYkU3bTZpcXI1cjRvYzQ5Z1JQOUZ4ZGlyZExLYmR0OGM5ME5Pd2txOEJMRWdwRUsyTjFYWGJ6a1F0U0xqYUVTdGhnZDJBcVBKQmVUZ2NmWXZlUzFrZDZBNkJFSHBCcUZT0gHKAUFVX3lxTE9ySFpOWkh3Mmg3MkkxY1NiRl8wMGhRd0x6eWV2Vnl2ODI5YkRGSnhyWkFwRG5TcjB4SFlUNUJyVEJmQkM0YWotRnB1UENiMElvZTdULWkxSVNYb0VOY1lxWnFuSVZRWS1wTUFfTTU1T0FFcVpCNVhXdVlCM3hwY0RUeTVsRGR6akxlREEwUE1pWF9PVWhUbDNudDdsNjhWWUF4LU1hSEJaVU5rUDNOUUlPVmhVdWV0cFc4NVNGaDlmaFJCaHpVc3N0NUE?oc=5",
-      "summary": "Prabowo Serahkan Embrio APBN 2027 ke DPR, Misbakhun: Ini Tradisi Baru&nbsp;&nbsp;CNBC Indonesia",
-      "published": "2026-05-20T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
+      "title": "Watch Fed Rate Cut Would Hurt Credibility, Thomas Hoenig Says - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUERVbHAybkl1MDRGbVBZSlZtQUU4WTJrdVY1WC00Rlp5Y2JDbUZQMTk0MG1SYkozWkVmNzhQRnNza3VWREtBUVhHNDdGSnpjVHRvRjltRmlwZmR1R1hYekl1SVROb016WVdOckx6ZEpJaWphbHR3Rm1icTJkNnZlVWM5b2VTYXBPX1E5N1ZjSUs2a1NEb0tNTC02eHdGRzJSbzFJcVpreTluSkdUNUE?oc=5",
+      "summary": "Watch Fed Rate Cut Would Hurt Credibility, Thomas Hoenig Says&nbsp;&nbsp;Bloomberg.com",
+      "published": "2026-01-28T08:00:00+00:00",
+      "source": "Bloomberg (via GNews)",
       "groups": [
-        "Government / Policy"
+        "Global Finance"
       ],
       "matched": [
-        "APBN",
-        "DPR",
-        "Prabowo"
+        "Fed rate",
+        "rate cut"
       ],
       "big": true,
-      "id": "c98cc3afc2ee5ad5"
+      "id": "546e604f050927a8"
     },
     {
-      "title": "Strategi Fiskal Presiden Prabowo: Utang Dijaga di Bawah 40%, Defisit Tetap 3% - MetroTVNews.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZDZORW5pT1ZwektRT1R0M2U0Qi1ZbmZhTVo4UElBc0s2ZUVMcExmX1h1cVBEWTB1c0ZyMGhMdlpGNXM2WGQtdW80MkFXcEMyT1QwaUdaSXprdUIyamV3bDFyV3A5dU1nMnhfdHpVaGFFUmtucnE2M2dzeUlPdWllRmZNYmdydVRsMWNQbkU0MU81ZzRZVWFVMU5WZVdBblROSmVXSjZ6bXhMOU16OGtTbzgyMkU2Zw?oc=5",
-      "summary": "Strategi Fiskal Presiden Prabowo: Utang Dijaga di Bawah 40%, Defisit Tetap 3%&nbsp;&nbsp;MetroTVNews.com",
-      "published": "2026-04-08T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
+      "title": "Emerging markets roar back with biggest stock rally in 15 years - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcktwNEFteDdqVzdKMkFJdGR0ejg2TklzaVNhQlBWMDVnaVhfRjJVRG84R1FmcW0tNUlEb0daMjMxT29wekNZRTBMbm96Wko1cFJpSVI2TFJqb1FDSjBaYklCcmxGWW5HdlA1Q1hNOVFNZEFLVzNsT05kM3JKUUx2NUQ3WWY?oc=5",
+      "summary": "Emerging markets roar back with biggest stock rally in 15 years&nbsp;&nbsp;Financial Times",
+      "published": "2025-10-06T07:00:00+00:00",
+      "source": "Financial Times (via GNews)",
       "groups": [
-        "Government / Policy"
+        "Global Finance"
       ],
       "matched": [
-        "Prabowo"
+        "emerging market"
       ],
       "big": false,
-      "id": "e88e527e921f56b9"
+      "id": "7d38962f91b984f5"
     }
   ]
 }

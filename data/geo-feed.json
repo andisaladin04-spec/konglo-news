@@ -1,7 +1,83 @@
 {
-  "updated": "2026-08-24T02:46:10.601411+00:00",
+  "updated": "2026-08-24T03:48:27.814310+00:00",
   "count": 150,
   "items": [
+    {
+      "title": "PLN Lampung bangun jaringan listrik operasikan pompa air pertanian",
+      "link": "https://www.antaranews.com/berita/5708449/pln-lampung-bangun-jaringan-listrik-operasikan-pompa-air-pertanian",
+      "summary": "PT PLN (Persero) Unit Induk Distribusi (UID) Lampung membangun jaringan listrik sepanjang satu kilometer untuk ...",
+      "published": "2026-08-24T03:34:27+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Commodity / Energy Policy"
+      ],
+      "matched": [
+        "PLN"
+      ],
+      "big": false,
+      "id": "6b5d6c245e265b8e"
+    },
+    {
+      "title": "Kemerdekaan ekonomi melalui hilirisasi mineral",
+      "link": "https://www.antaranews.com/berita/5708444/kemerdekaan-ekonomi-melalui-hilirisasi-mineral",
+      "summary": "Ketika menelaah kembali konsep kemerdekaan ala Tan Malaka, yakni &ldquo;Merdeka 100 Persen&rdquo;, bangsa Indonesia ...",
+      "published": "2026-08-24T03:30:37+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Commodity / Energy Policy"
+      ],
+      "matched": [
+        "hilirisasi"
+      ],
+      "big": false,
+      "id": "871fe78c490e2ca3"
+    },
+    {
+      "title": "UIN Jakarta telaah jejak kakek Prabowo untuk usulan pahlawan nasional",
+      "link": "https://www.antaranews.com/berita/5708440/uin-jakarta-telaah-jejak-kakek-prabowo-untuk-usulan-pahlawan-nasional",
+      "summary": "Fakultas Ekonomi dan Bisnis, Universitas Islam Negeri (FEB UIN) Jakarta menelusuri rekam jejak Raden Mas (RM) Margono ...",
+      "published": "2026-08-24T03:28:21+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "f10e76ae1b405923"
+    },
+    {
+      "title": "Seskab Teddy: Intruksi Presiden sangat jelas, Logistik harus benar-benar sampai ke masyarakat",
+      "link": "https://www.antaranews.com/berita/5708405/seskab-teddy-intruksi-presiden-sangat-jelas-logistik-harus-benar-benar-sampai-ke-masyarakat",
+      "summary": "Sekretaris Kabinet (Seskab) Teddy Indra Wijaya mengatakan Presiden Prabowo Subianto menginstruksikan agar penanganan ...",
+      "published": "2026-08-24T02:59:41+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Prabowo",
+        "kabinet"
+      ],
+      "big": false,
+      "id": "ea12df3b74d844b8"
+    },
+    {
+      "title": "Rupiah menguat dipengaruhi harga minyak global yang menjinak",
+      "link": "https://www.antaranews.com/berita/5708400/rupiah-menguat-dipengaruhi-harga-minyak-global-yang-menjinak",
+      "summary": "Nilai tukar rupiah terhadap dolar AS pada pembukaan perdagangan Senin, bergerak menguat 4 poin atau 0,02 persen menjadi ...",
+      "published": "2026-08-24T02:51:09+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "rupiah"
+      ],
+      "big": true,
+      "id": "0fe6af8ed84f2015"
+    },
     {
       "title": "Prabowo akan tinjau penanganan karhutla Sumatera, dimulai dari Riau",
       "link": "https://www.antaranews.com/berita/5708387/prabowo-akan-tinjau-penanganan-karhutla-sumatera-dimulai-dari-riau",
@@ -2037,6 +2113,21 @@
       "id": "d654d99ecc3509d2"
     },
     {
+      "title": "YMTC parent seeks $4.9bn Shanghai IPO on AI memory boom - Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ2pBcG1PajdoWE9SX3FKTEluM3M4ZkRRcnRfRWFwaThkcmdybmp0NmFIanVPdHRadXA5MDV6VkgwUWNGVDBtX3dmUTNPNFA0OFFvVUdVbWNvUWxHUG9hdDA0ZWVTNUh6TlN2MHYxSzRfb2w0TUppUVJvaWJudGdOei1EcFFNZ0dJdjJEMDNScFdNRVl1VVliRXpaZUR1Y0NQ?oc=5",
+      "summary": "YMTC parent seeks $4.9bn Shanghai IPO on AI memory boom&nbsp;&nbsp;Nikkei Asia",
+      "published": "2026-08-21T17:17:00+00:00",
+      "source": "Nikkei Asia (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "IPO"
+      ],
+      "big": false,
+      "id": "4069a61985b3416c"
+    },
+    {
       "title": "Atasi Ketidakpastian Global, Bank Indonesia Pertahankan BI-Rate 5,75 Persen - d-onenews.com",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYTFZYTd2RnFEX3BjMXliRjZ6NlFrQ3BmdlE3RXlabkJMaHhWdHdXM0lqS0RmeFNFcGV0RVpPQkR0NjNycmgyOTRtck5vdUNTemVMMG16NjdTNk9XZHJRSUtqdVhkR29zbjR2TXFCdzNwY2YyZmEzY3Nud25PMlpwQmxJd2hPWjVvS3ZKZXBPQkY3cm9vcElRcUdEZGs?oc=5",
       "summary": "Atasi Ketidakpastian Global, Bank Indonesia Pertahankan BI-Rate 5,75 Persen&nbsp;&nbsp;d-onenews.com",
@@ -2052,87 +2143,26 @@
       "id": "af81e101bf0699ed"
     },
     {
-      "title": "Jaga Inflasi dan Ekonomi, BI Pertahankan BI-Rate di Level 5,75 Persen - Tribunjateng.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMDZRZE9nbV8xRW9aM1pPYl85eGhyRXNUd1U3TEdYQWZqajJQTUFtNmtoY3dJOUNfbzR1aWNTNG9kMjBKNWxuZjhhTElTRXVNbU93T1F3S0VfZ2Myak1BcmxCQjN5SkpwczFTbGpsRkJJUnRpQnd0RkhKNDd2UjgzT3RSM3p1UTdUaDdyNFlwblEwSlZyRVFJVGV3ZmdPdTZGV0hkVmdpeGR4b2ViNXUyWTJn?oc=5",
-      "summary": "Jaga Inflasi dan Ekonomi, BI Pertahankan BI-Rate di Level 5,75 Persen&nbsp;&nbsp;Tribunjateng.com",
-      "published": "2026-08-19T14:59:08+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "inflasi"
-      ],
-      "big": false,
-      "id": "e7179576bba0e5be"
-    },
-    {
-      "title": "BI Rate Tetap 5,75% pada Agustus 2026, Simak Dampaknya ke IHSG - Ajaib",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSlJsTmpXTjdzOGRCWXUwNU9RUE43bFhlR2N2ZktKMk11c29jS3BtcU5DWW13ekdmY1ZOWjdpZXhYX2xSNUtHOERvZDBnVjBCTW9MX290dkhlYmFZbEZodE85cUppX21XVUltMmVpcTd2cVVfN2Z6MjAzWDZ6TVFPZlVFb05TY0VtWmQ4VXZvWUdFWHRldjhhY2Rn?oc=5",
-      "summary": "BI Rate Tetap 5,75% pada Agustus 2026, Simak Dampaknya ke IHSG&nbsp;&nbsp;Ajaib",
-      "published": "2026-08-19T12:30:20+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate",
-        "IHSG"
-      ],
-      "big": true,
-      "id": "52f57e240ac41d62"
-    },
-    {
-      "title": "Indonesia Holds Rate as New Chief Forecasts Further Rupiah Gains - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSG5BbV9jejZ2aFcxZ2FWUml3N0hOWnJKRzl4NC1hQVdleThpSmVrN0o1UnBPaFFfam9hOWlfTml4TEVOQXBPTXhIVkZjMlVXeGhZcWF1WmlULUZfTTVabklzamthVmhRNm00LWpvRU11d1JjUkdXSVZGaDVaT0ZyMHVwVk9ielQwT216dm5PNElvWXRoWGJ5SUljdmY2MUFzZlA3bmxxbVdnbExsRTBhZmRuUmVEdw?oc=5",
-      "summary": "Indonesia Holds Rate as New Chief Forecasts Further Rupiah Gains&nbsp;&nbsp;Bloomberg.com",
-      "published": "2026-08-19T09:14:29+00:00",
+      "title": "Bank Indonesia Says It’s Boosting Efforts to Support Rupiah - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM0lUWGZyUElwQzFZSmFEamZpM1lseWdUR2w0X01xQ2l0QU9NWW11c1QzdlJFT0Z1UmxaNWFTVm1aRTlZdkxhMDFKWjBURDZpZFhVd1J2aHM2VWZpaEVGRWFUUnpkLU5qTE9NVVBUeVdpRkpNbG43MXpRNGtsczVQMktNbXVNeGtTV3ZGMlltbnd0VXExMzVQWGgwVzI3cjhzTEtGRTVId1lTSHROR0xoME9n?oc=5",
+      "summary": "Bank Indonesia Says It’s Boosting Efforts to Support Rupiah&nbsp;&nbsp;Bloomberg.com",
+      "published": "2026-07-28T07:00:00+00:00",
       "source": "Bloomberg (via GNews)",
       "groups": [
         "Macro / Economy"
       ],
       "matched": [
+        "Bank Indonesia",
         "rupiah"
       ],
       "big": true,
-      "id": "b30b6047251e80ac"
+      "id": "595b4b00e5cb37ea"
     },
     {
-      "title": "Pegang Teguh Stability over Growth, BI Fokus Amankan Target Inflasi dan Stabilitas Moneter - Stabilitas.id",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNlVxbEl4b2FiMUVJMWpxRXhZaEJRVE1IWHYwMTRESWJ0cFotM2tlZlBTeTBTcDZaYUNxMFN3dGxFRmpwQ2I1RTBqUm9uTlBsR3l1aTVpSnpfMzhfRXJSWkxSdUVxSjlWT21Ud1A5NmQ4ZDlwV3lwdzdhSDVLcmYzVUw1QVVNWTcwSXMxSExreG54NU5vaTl4alBDbnhwYkVKRWJaanMwM2htVVZ4SXJPU094OW96TW8?oc=5",
-      "summary": "Pegang Teguh Stability over Growth, BI Fokus Amankan Target Inflasi dan Stabilitas Moneter&nbsp;&nbsp;Stabilitas.id",
-      "published": "2026-08-19T08:52:03+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "inflasi"
-      ],
-      "big": false,
-      "id": "eb4969413e3bb4a2"
-    },
-    {
-      "title": "BI Tahan Suku Bunga Acuan BI-Rate 5,75% per Agustus 2026, Rupiah dan Kredit Jadi Perhatian - The Econopost",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSTFBQjJjT3NpSklxYjFlSkxZWGYyZmgySnp4YWxFbnhxYWxXT0lqZ25zdkh6R0R2eEFhSkJRem1GMDdJc1UyazFLOE1fNXVOd3Z5ZzdPbGtyS2Z6VEpQZUZPWWJ5LVlnN2lqc1ozb2poX242dmtCaC1vZm9oYWxxb1BWWG1uZWlwNFY5ZGx5VFZxQUp5YWY1TG0tZ0Y2MGFjb00yX3p4TWpJZktTQkJwSHBaLXl0QnBk?oc=5",
-      "summary": "BI Tahan Suku Bunga Acuan BI-Rate 5,75% per Agustus 2026, Rupiah dan Kredit Jadi Perhatian&nbsp;&nbsp;The Econopost",
-      "published": "2026-08-19T08:34:11+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah",
-        "suku bunga"
-      ],
-      "big": true,
-      "id": "96ef92be10c4777f"
-    },
-    {
-      "title": "Inflasi 2,28 Persen Belum Mengubah Sikap BI, Rupiah Tetap Jadi Perhatian - Qoo Media",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80WWhRLWxLejc1V3JUQ05BZ3BNQ3RLR25RN0hQUkFHN0pEUHJhSWlwQWFyamFGUmZxOEpiWFJIV2QxMFdtWnAtY29iVTExX296b3h0T2hwd3lmZ01EVnJBMlJHRE4teUNwZ2ZfOEpxTDRiQnI2WFFv?oc=5",
-      "summary": "Inflasi 2,28 Persen Belum Mengubah Sikap BI, Rupiah Tetap Jadi Perhatian&nbsp;&nbsp;Qoo Media",
-      "published": "2026-08-19T08:05:18+00:00",
+      "title": "BI Naikkan Rate Jadi 5,75%: Hadapi Gejolak Global, Jaga Rupiah & Inflasi - 20detik",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVEc5VFJuS1Q5N3RtcmwtOWtQb2d6czR1VzlqdlVaMVM3Z3lUTXItd2FZZjA1RmJwaG96dXhtSU5fak9Cd1VfUi13WVMySUZwYkdpMVFFcnZzWDNFaVcxOWJQeWJabnducml3SHB0SGFDbGVHWGVqLXlnU0JTZ1FNQUZMZG9PMmk3dVBIYkdFZ0VMYzB5bnRZa3FlYl9kVnZaVHdHbmtlUXREZjFNamF4Y2UtVGxjV2NTUjdidDdiS190dw?oc=5",
+      "summary": "BI Naikkan Rate Jadi 5,75%: Hadapi Gejolak Global, Jaga Rupiah & Inflasi&nbsp;&nbsp;20detik",
+      "published": "2026-06-25T07:00:00+00:00",
       "source": "GNews – BI rate rupiah",
       "groups": [
         "Macro / Economy"
@@ -2142,106 +2172,12 @@
         "rupiah"
       ],
       "big": true,
-      "id": "cfe463c08c013380"
+      "id": "1e7743eeff9ce8cc"
     },
     {
-      "title": "BI-Rate Tetap 5,75% Demi Perkuat Stabilitas Rupiah dan Jaga Sasaran Inflasi - Media Asuransi News",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTDBRQU9MX2g1THZhTWJfYXBBbVVGSEsxNWtHZG5EcFJFbUVwa2Y4bFVtX2ptcDhWSlQ3RFBlZnNiaXhuMHZvcUtCNGRKOXhGRGlQbkxBMUxQMzVRZVhxOHpMUXVJS3FtY3UyZ3dCUFdyaWdwNlRHUmdlZUNYeTVqYUp0VWY1ZmdaUFRza0tUeGhJZGpBLWdhTTZJelVHdDhuVWNTMV90bmk3Um9LRW02ZE8temFIN2JJU2F2NXBnZ1l0S2JHZlU3dlE5LW0xMzg?oc=5",
-      "summary": "BI-Rate Tetap 5,75% Demi Perkuat Stabilitas Rupiah dan Jaga Sasaran Inflasi&nbsp;&nbsp;Media Asuransi News",
-      "published": "2026-08-19T07:47:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "inflasi",
-        "rupiah"
-      ],
-      "big": true,
-      "id": "8a3168f4ac500dd7"
-    },
-    {
-      "title": "Destry Pimpin RDG, Bank Sentral Tahan BI Rate Tetap 5,75% - Bloomberg Technoz",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb3RaWmtIOFZUTFV0MG82ZlFfM1dEU0RNQkNTcVpwaWJtZ1ZfYldZZEZyNTFoSVZxa1hObE8xNzVBRUNhR3ZGcnFEQkFaVHN4TmJ3NkR4dUVuTUpCSk13SFVBZGluYzU4NkYzQU5TdmVXZy15Z2tiRFVIekV3NHcxQ2ZoZVFubkdwYmFpNDdKdDcteVVEa1pYaVhRS28wazcxYXNzVEd5dDJ6X0k?oc=5",
-      "summary": "Destry Pimpin RDG, Bank Sentral Tahan BI Rate Tetap 5,75%&nbsp;&nbsp;Bloomberg Technoz",
-      "published": "2026-08-19T07:22:56+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate"
-      ],
-      "big": true,
-      "id": "714f47a4ba0ad86c"
-    },
-    {
-      "title": "Indonesia’s Prabowo Aims for Boring to Soothe Worried Investors - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVHk5aENndmFseTRHdFM0UXNFMGZlM2RweHpSRENfREg3UEdyQTVubHhkOGt1UUwtektBQTdXVzdIUXpseVUyWTFmVG5EUVVDc2h5U0NKVjJmcHM1Qm1DeUs1MmFBMGRFSTRHRXBvZFcwdk03LWI0Q0xlS01vRlEwdi1LUkZGR0tBWTE2Nm9NWXZrbGhLczNBV2NibkZBU0prRGpKdjBkMVpNN3NNNmctemZJU0FVSmQw?oc=5",
-      "summary": "Indonesia’s Prabowo Aims for Boring to Soothe Worried Investors&nbsp;&nbsp;Bloomberg",
-      "published": "2026-08-18T09:59:07+00:00",
-      "source": "Bloomberg (via GNews)",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "1cb7e29c3694abbd"
-    },
-    {
-      "title": "Ekonom Bank Permata Sebut BI Sebaiknya Tetap Tahan BI Rate di 5,75% di RDG Agustus - kontan.co.id",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeEVENjlhcnRHTmlwdUNrNEdJcEFCc1M0WUhTWnRkQk85c2xOQUlpaVRRU1JoeW1Jbkt2Qlh0cVZFZ1RmY19XN2JQaGFvX2p5ZmplUTdkZFFCd1VRQU1YblpfVFA5SEhrMWRzMXhOZDVadENFUV9VOFExZGp2MktmN0Fwbi1MbG85WHdmclgwUEluRFc5aHFfWE45NnJMeEdyVWtEM0stN00zOU0zZHdPSDlHT1hQd9IBrwFBVV95cUxPb2tIZDg0dTRJeThZamFzd3RXeW5TM1hZX1c5NEhWbzhaN00wU00tMzBQU0pmLVpLRjZWM0sxVjNSWm9wVjc0RnZpMWlUUThWeDFoZXI2NmdtQ29IeXFpbzdqUXhuOTBQVElQbXZVMXFDaGhtblJmcDBkT2FCRXZPaFJGYVJncVpYUTB6M0xFSDJCRG9aNGNkVGItWVFxanFRZk9Wc0EwMXNRMTBCODM0?oc=5",
-      "summary": "Ekonom Bank Permata Sebut BI Sebaiknya Tetap Tahan BI Rate di 5,75% di RDG Agustus&nbsp;&nbsp;kontan.co.id",
-      "published": "2026-08-17T11:29:26+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate"
-      ],
-      "big": true,
-      "id": "78083b7725606d7f"
-    },
-    {
-      "title": "Sandoz to Engage With U.S. Policymakers After Trump’s Tariff Plan - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWEx1UVNLc0F0OTc2c2JGR1hXejJENUFnbEN0UURKbFo2MmFqenhOQWZBT0JDd3JLTUhBTTZHSUVXYlFKU3I5aW50dktNZEYxRnhKdFJrdXJEVkVSeVlNM0JqbS12NVU4a203T2dSMF9DdVgzTmx4TjJZUWt1bUlXSEtQUDVCa2N1U0lhcTlOenBOQQ?oc=5",
-      "summary": "Sandoz to Engage With U.S. Policymakers After Trump’s Tariff Plan&nbsp;&nbsp;WSJ",
-      "published": "2026-07-22T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Geopolitics",
-        "Global Finance"
-      ],
-      "matched": [
-        "Trump",
-        "tariff"
-      ],
-      "big": false,
-      "id": "3daf50089b6efbc2"
-    },
-    {
-      "title": "BI Naikkan Suku Bunga Jadi 5,50%, Siapkan Paket Insentif demi Jaga Rupiah dan Tarik Modal Asing - Ikatan Konsultan Pajak Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa2tHN0RfSEo3REJ0MHExUlYwUHczOG40NXdZYkdvQmVaNGxjbGFJS1BzZHh2OFB3OExyLUR3cGZWYlY0MHY3aFpZT0hsbmZXeVh1SGlYRWpydTBCX0Z2T1FEbEFrSWhMUllpQ1FvVTk1b1BwMGMyOW5JMHhfaDVMMXpDZFRVWU1pdmtydkV0WUVBZW1PajMxQ1JxWGhidS1CbWk1TUpsdUx2TEtEc2phNVh3?oc=5",
-      "summary": "BI Naikkan Suku Bunga Jadi 5,50%, Siapkan Paket Insentif demi Jaga Rupiah dan Tarik Modal Asing&nbsp;&nbsp;Ikatan Konsultan Pajak Indonesia",
-      "published": "2026-06-09T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah",
-        "suku bunga"
-      ],
-      "big": true,
-      "id": "3630c0d039907ac9"
-    },
-    {
-      "title": "Prabowo tekankan pentingnya APBN di tengah gejolak dunia - ANTARA News Sultra",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZW1qengxV3dTMnNpb21qWFFmRkhGUl9YUGtuNmRLcmhMbWxnd18zdVNOZzlQc0wtUHJGUzFUZ19aVHJBSUptM2FENHFmMFp1Y1hwUEhMTmxzNl9WQkJLd1BKMlpENDV6eFdmVml3UTdKT193amFHX01MSUN1VVlFblRUeFJuYkg5SEVMMGg2TF9oWFJfMmRneWxWTnZfR25wT3c?oc=5",
-      "summary": "Prabowo tekankan pentingnya APBN di tengah gejolak dunia&nbsp;&nbsp;ANTARA News Sultra",
+      "title": "Prabowo: APBN Bukan Sekadar Dokumen Keuangan Negara - Liputan6.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc1hoT0FubWhKeTFXNWhkX2xycVlzRlR4aUtkMmczaVM5bURzRldaMTNINEwwalBzZ09ORC1YcXRZd0t0TWY2VDdfc3VGUzA4ODVORlBJZ1NGM1dhd1hDVl9YZ2h4bU03eHNfei1ZQnBpd3hsdEdKYklNeGdQZmNoVmhBYlk0X2NqWXQ3aE5kMG5TYWw4eUxueks0SdIBkAFBVV95cUxNaE55WXpzYTEtckVCQ09ORWhhNWIxMG9rdmdYc0VKRFhSUGFYN3dkTkc5TVJKeGJCYkZCZW4zbU1ZSjFHd1hyQ1NBYzhPQmVEUUE3M2UxWF95bnBsWk1XT2gwbzI3THI3N1ptVHFWOEY1alROZzZMeHFzT2FlajZObmdOVW9iQWdBNldXTFUwQVQ?oc=5",
+      "summary": "Prabowo: APBN Bukan Sekadar Dokumen Keuangan Negara&nbsp;&nbsp;Liputan6.com",
       "published": "2026-05-20T07:00:00+00:00",
       "source": "GNews – Prabowo APBN",
       "groups": [
@@ -2252,28 +2188,45 @@
         "Prabowo"
       ],
       "big": true,
-      "id": "3ff7a115d3805ae7"
+      "id": "c93996df39f62fff"
     },
     {
-      "title": "Indonesia's rate cuts aren't working as banks hold line, firms baulk - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZDRuSjhNbGpMYS1LOHJ1YVg4d24wMXMyd3U2eXRXR1VleVphbUxxN1l0RnQyWHFtdzdCOHVlQnlmc1FrQVR6SXBkcnY1dlpPbGVTeVJ5NE02U1NYbDFuWGpPYmZIc215X0g0OTdwMXNOQnJFeE5XZVVRTWhXU1NraWtlVTI3V0RxQjNmRjZTUTQ1ZXBxV2x1c0U5UXp4ejFEU3ZSY2hkNTFFNWdFX25hbS02d29hdXlR?oc=5",
-      "summary": "Indonesia's rate cuts aren't working as banks hold line, firms baulk&nbsp;&nbsp;Reuters",
-      "published": "2025-10-24T07:00:00+00:00",
-      "source": "Reuters – Indonesia",
+      "title": "Pemerintah Jaga Defisit APBN di Bawah 3 Persen, Siapkan Strategi Antisipasi Kenaikan Harga Energi - Sekretariat Kabinet Republik Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSc3EzTVBQbzJJSndGeTM1RzFORDJ0VmR1LWppQzUtSmZtTXRjLWwyRFdrQUw3Nm9NbWdCMWthNThXMG14R1Y4WHFPQ0E4bUFWd1pUOWt5OGhnVXBvQlU4WEwtMFFjU1g2MWRZ?oc=5",
+      "summary": "Pemerintah Jaga Defisit APBN di Bawah 3 Persen, Siapkan Strategi Antisipasi Kenaikan Harga Energi&nbsp;&nbsp;Sekretariat Kabinet Republik Indonesia",
+      "published": "2026-03-19T07:00:00+00:00",
+      "source": "GNews – Prabowo APBN",
       "groups": [
-        "Global Finance"
+        "Government / Policy"
       ],
       "matched": [
-        "rate cut"
+        "APBN",
+        "kabinet"
       ],
       "big": true,
-      "id": "f4412463f90137df"
+      "id": "8c1816d2a4f4b687"
     },
     {
-      "title": "Bank Indonesia says will act boldly to maintain rupiah stability - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPazZXX0M0YUh5dDdRQ29JOV9OSjViS3B4dVpEX1dyaG1XTkJZY3R6WjR6c1ZJOUJUb05CLUZjLTU2OFotRm92a0tIUWptR3hfR2MySEtXOWRmVzlfNGVBX1RNU20yVWNOcjJaQVF2c3dOOXZLWmpVY3pDdTlZVTJuUF9EV0xZeUxWTmN6V0lSZUxHdVlHUEdfb05Bc3lyb0hqdjBWM3pSbXp4aVZlNm9r?oc=5",
-      "summary": "Bank Indonesia says will act boldly to maintain rupiah stability&nbsp;&nbsp;Reuters",
-      "published": "2025-04-09T07:00:00+00:00",
+      "title": "Tahun 2026, Pertaruhan Awal APBN Prabowo - Kompas.id",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45Z2MtQTEyOU90MVNRRGE1a1IyUXE5TVZKVE5vTV9GNzRza3J3bVZVZ0doSVVSMWhtU25TalJtNUY3UVQ3a0NEMjBpUXZEaUYxVldmWThqZTFkbGdLX2tnb3B2a0VmXzJ4d3c?oc=5",
+      "summary": "Tahun 2026, Pertaruhan Awal APBN Prabowo&nbsp;&nbsp;Kompas.id",
+      "published": "2026-01-22T08:00:00+00:00",
+      "source": "GNews – Prabowo APBN",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "APBN",
+        "Prabowo"
+      ],
+      "big": true,
+      "id": "969f21a6e4f9a71e"
+    },
+    {
+      "title": "Bank Indonesia will bring rupiah to trade at 16,500 per dollar next year, governor says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeWdXT0p4WGFBcXZ5UDNWeElEbmJWT1B2Tnh6RU5tTENpTUJrVzFJUldaaWFNU3UweUh1YVlSMVNBMlVpalViNFBzdjBvNnFVbVNDZjZJSmxaR3pWUEhIY3c4OEdSd0lhUjZTY3BwVVZaYjJhWTBZOWN1TEl2X0Zacll6WFJjTTYxLVNvOEI4RXd1MFZpVHVyaTk3U3FBb2lmMUNmN2RrVUYyb1U1eThPenJDMzQxRFVCbVF2WFFvS21HZm5kci1ydG82bnVLcU0?oc=5",
+      "summary": "Bank Indonesia will bring rupiah to trade at 16,500 per dollar next year, governor says&nbsp;&nbsp;Reuters",
+      "published": "2025-12-01T08:00:00+00:00",
       "source": "Reuters – Indonesia",
       "groups": [
         "Macro / Economy"
@@ -2283,24 +2236,72 @@
         "rupiah"
       ],
       "big": true,
-      "id": "25ac78698c91104a"
+      "id": "e22a73c2b570ab20"
     },
     {
-      "title": "China Wanted to Negotiate With Trump. Now It’s Arming for Another Trade War. - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ERkVDX2RSc1hmM1ZSUHhYdnU4TTVVNGlCWHhoYmNyNjJZMGdpU1I5ckc0VTBhS1VfLTl6UE1GRFJ6UXU3NzdJV005dk1kWEpzNXRoTWV4eG1sUzBwbkJKd3YtXzR0dnpjWmlOa2MzS29zMjM2dGNEcXJSdlVoX1k?oc=5",
-      "summary": "China Wanted to Negotiate With Trump. Now It’s Arming for Another Trade War.&nbsp;&nbsp;WSJ",
-      "published": "2025-04-05T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
+      "title": "Presiden Prabowo Paparkan Arsitektur APBN 2026: Perkuat Pangan, Energi, Ekonomi, dan Pertahanan - Kantor Staf Presiden",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX3lBd25sN09qLVhiNWJfZkZobnQ0N2xRRWxqdURHajZWYkxPZWM4VUlGdVFmUHR0TXEyVjJySDRMT3hxVl9JdXpYN2gzSGVadjV3clRIQ3EteFdxQ0JISEZaOTF4Y1oxeURlSS1ySG5reGFBdHpIckpwU2J4NmJfTmx2M1E1MzZHTGc1MW9lYWpUR3FlaGxkWEdYem1Bb3JmQ1RHWHBOdWdwbjNsRmNWZDZxQUhvWmhuR1E?oc=5",
+      "summary": "Presiden Prabowo Paparkan Arsitektur APBN 2026: Perkuat Pangan, Energi, Ekonomi, dan Pertahanan&nbsp;&nbsp;Kantor Staf Presiden",
+      "published": "2025-08-15T07:00:00+00:00",
+      "source": "GNews – Prabowo APBN",
       "groups": [
-        "Geopolitics",
-        "Global Finance"
+        "Government / Policy"
       ],
       "matched": [
-        "Trump",
-        "trade war"
+        "APBN",
+        "Prabowo"
       ],
       "big": true,
-      "id": "e3f199ae12671897"
+      "id": "7fa7735a29091dd4"
+    },
+    {
+      "title": "Perdana Susun APBN, Prabowo Targetkan Defisit Anggaran 2,48% di 2026 - DDTCNews",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVEZDdi1SeEV2QVdsYVRPQU9OaDFCTzBZaDNWNXNBQ1pCc0ZYMVlYVTVnMWlIRFVPM2hUN2ktVzBNN18yTkdOWkRubW9rTk9icTdyMGhIcEswTlVxOHFibmg5clFTcGJCQnl3TEFLSkdKakJZZlE0aUJHU2taRUd0bERUMTZncF90by0ta05UNU1OMEdkQ2Q3ZzR2cFpQdWI5SUlyczVPWHZkWXpJSWt6Zy15VQ?oc=5",
+      "summary": "Perdana Susun APBN, Prabowo Targetkan Defisit Anggaran 2,48% di 2026&nbsp;&nbsp;DDTCNews",
+      "published": "2025-08-15T07:00:00+00:00",
+      "source": "GNews – Prabowo APBN",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "APBN",
+        "Prabowo",
+        "anggaran"
+      ],
+      "big": true,
+      "id": "42aaf53adfff986f"
+    },
+    {
+      "title": "Daftar 11 Program Prioritas Prabowo, Telan Anggaran Rp 446 Triliun - Tempo.co",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcFlYZUo2dUxMOVRtU2dUZUZOLVpaWGh1VEZ5bDFkUmQ5TlAwTzJMMHI0X1VfU0xYZmgwNVliN0lxOHUxYXRpOWkzSWQ5TzNJR0RpdHNNb05xNEd4TDc3OENzSUl4TzZTd3R6MEFxTzZiYkg4cm1DaENrVHRQRjdnUS1kYzJWbENNbnRTR0tIUzRybF9jOWQyaWtQZE5ERVA1M2RNNg?oc=5",
+      "summary": "Daftar 11 Program Prioritas Prabowo, Telan Anggaran Rp 446 Triliun&nbsp;&nbsp;Tempo.co",
+      "published": "2025-06-05T07:00:00+00:00",
+      "source": "GNews – Prabowo APBN",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Prabowo",
+        "anggaran"
+      ],
+      "big": false,
+      "id": "cd440cad9ea1b8a2"
+    },
+    {
+      "title": "Prabowo Pangkas APBN 2025 Hingga Rp306,6 Triliun untuk Biayai Program-program Prioritas - Voice of America Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYl9yU04tUU1BUHdFNEFHaFZQMFRNb3V5c1FWME1ZeFlwTEdhMU1XVUZmN0xxYjFsWHZldmZXNGlzQjR5SEpyTzNWejRlNGFPVTYyZGItcHFkVnU1NVpJU1VnNWFqYktoVnlKeGdvc0hTTzFaMlg4Y1lPbXVrNm85NFZFTTYydkJndE02N2M1YmluMXRFR01tREdRYnVqOTB4ZG1TZzJmdjRxUS03XzVsLWVzX2dkbXdSdVdXcjN6dC1ieEZDY2dCTUJoRdIBzgFBVV95cUxOVDIwQlE3RlpBUEhyTldLWHhyRHdRbzJoS21VcldfVjEzVW96cXk2LVZDejJEMjktZjNjU2gyZ0ZjRW1jTk14cFdKYmh6aTBMNjl5cXVYTURiak1rTkNlbHFwbldhWk5GbUpHdTdVbDhQNGcwU0tGd1NWRkVWQkVwZFlvSE5RMWtRRXdQM29fUzkzY2ttSExaYU9OUmRGMGNSTzlFQUw0b2lSU2ZZVWpXWFJCMTFrbG5fM0FoeGNYb3Q5STdzblhkQzI5LVN0UQ?oc=5",
+      "summary": "Prabowo Pangkas APBN 2025 Hingga Rp306,6 Triliun untuk Biayai Program-program Prioritas&nbsp;&nbsp;Voice of America Indonesia",
+      "published": "2025-01-29T08:00:00+00:00",
+      "source": "GNews – Prabowo APBN",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "APBN",
+        "Prabowo"
+      ],
+      "big": true,
+      "id": "0cdd29eb13cf54b6"
     }
   ]
 }

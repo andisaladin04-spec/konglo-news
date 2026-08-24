@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-24T11:46:36.826800+00:00",
+  "updated": "2026-08-24T12:16:46.616086+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "Cengkeraman Grup Djarum di Saham Bakrie Telecom (BTEL)",
+      "link": "https://katadata.co.id/finansial/bursa/6a8c358663445/cengkeraman-grup-djarum-di-saham-bakrie-telecom-btel",
+      "summary": "Perusahaan-perusahaan ekosistem bisnis Grup Djarum kini menguasai saham Grup Bakrie, PT Bakrie Telecom Tbk (BTEL).",
+      "published": "2026-08-24T11:15:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Bakrie",
+        "Djarum / Hartono"
+      ],
+      "matched": [
+        "Bakrie",
+        "Djarum"
+      ],
+      "big": false,
+      "id": "d221be1eb468a8af"
+    },
     {
       "title": "Cengkeraman Grup Djarum di Bakrie Telecom (BTEL) Menguat saat Ancaman Delisting",
       "link": "https://katadata.co.id/finansial/bursa/6a8c27c0dbf5b/cengkeraman-grup-djarum-di-bakrie-telecom-btel-menguat-saat-ancaman-delisting",
@@ -3138,21 +3155,6 @@
       ],
       "big": false,
       "id": "59dfacdcb1cfc2bf"
-    },
-    {
-      "title": "Indeks Bisnis-27 Ditutup Merah Tertekan Pelemahan Saham BUMI, MEDC & MIKA - Bisnis.com - Market",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQay1wZ3NNRWJUTEZNOVUzRzZTMXpJbjVWZkU4ODFabmM0dmc1ZzNEZzh6VTExX3pQQmtXdU9QLUZoTG55OWZYb05PVXNEY0RhbXFNRlVScHpFeGNibTduLUdnVnJneFRmck9sWUQyRVgwbzlkeUJ2bEdPSTFQWEdNTENTX0pjb003YmpIWl9peTdhcFV0TGVPd0hSWjFzdHZjaEVpTEVGMGNzOVJwS0V3RVd0cnA2V05NMmpHbw?oc=5",
-      "summary": "Indeks Bisnis-27 Ditutup Merah Tertekan Pelemahan Saham BUMI, MEDC & MIKA&nbsp;&nbsp;Bisnis.com - Market",
-      "published": "2026-07-29T09:46:00+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Bakrie"
-      ],
-      "matched": [
-        "BUMI"
-      ],
-      "big": false,
-      "id": "a3a0caf009a9313d"
     }
   ]
 }

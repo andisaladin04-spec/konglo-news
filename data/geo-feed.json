@@ -1,7 +1,22 @@
 {
-  "updated": "2026-08-24T20:28:26.268102+00:00",
+  "updated": "2026-08-24T21:02:17.849942+00:00",
   "count": 150,
   "items": [
+    {
+      "title": "Video: Iran reacts to US ‘economic D-Day’ sanctions",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-iran-reacts-to-us-economic-d-day-sanctions?traffic_source=rss",
+      "summary": "Iran’s Minister of Economy Ali Madani-Zadeh has responded to the US announcement of a new economic pressure campaign.",
+      "published": "2026-08-24T20:48:21+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "sanctions"
+      ],
+      "big": false,
+      "id": "e35031cb2f737419"
+    },
     {
       "title": "Trump administration seeks to formalise H-1B fee of more than $100,000",
       "link": "https://www.aljazeera.com/economy/2026/8/24/trump-administration-seeks-to-formalise-h-1b-fee-of-more-than-100000?traffic_source=rss",
@@ -2246,52 +2261,36 @@
       "id": "f228b476b6c69ee9"
     },
     {
-      "title": "Opinion | The Tariff Danger in Graham’s Russia Sanctions Bill - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdDN0d0pEQ2YzT2RVU2NTWFliZ1pfZWtXYUY3YUp4eGhrNjA1eXNaY05BU096a004dUdKNktfYUtmcjFiM09jWTJONnVSczQyeUVod09pU0FRdWYyMDlFTlBJeGR3WmxGWUhhako0NkF0TlkwS0l2elRNMThnd216NkwtWDRocUxNV25SNEJPdmk?oc=5",
-      "summary": "Opinion | The Tariff Danger in Graham’s Russia Sanctions Bill&nbsp;&nbsp;WSJ",
-      "published": "2026-07-19T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
+      "title": "Prabowo Serahkan Embrio APBN 2027 ke DPR, Misbakhun: Ini Tradisi Baru - CNBC Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcXo2RUgxMVFMNGVObVI2Q3VMTzVBTXJEUGtGeWdGcUlZZnZwcFlOUE05SlVGUmgzZXI2bzIwTEZSV2lhYkFWQmJjUHRua0V5RFNGREwwNDRaWE8xMmN0S0ZJbmduYkU3bTZpcXI1cjRvYzQ5Z1JQOUZ4ZGlyZExLYmR0OGM5ME5Pd2txOEJMRWdwRUsyTjFYWGJ6a1F0U0xqYUVTdGhnZDJBcVBKQmVUZ2NmWXZlUzFrZDZBNkJFSHBCcUZT0gHKAUFVX3lxTE9ySFpOWkh3Mmg3MkkxY1NiRl8wMGhRd0x6eWV2Vnl2ODI5YkRGSnhyWkFwRG5TcjB4SFlUNUJyVEJmQkM0YWotRnB1UENiMElvZTdULWkxSVNYb0VOY1lxWnFuSVZRWS1wTUFfTTU1T0FFcVpCNVhXdVlCM3hwY0RUeTVsRGR6akxlREEwUE1pWF9PVWhUbDNudDdsNjhWWUF4LU1hSEJaVU5rUDNOUUlPVmhVdWV0cFc4NVNGaDlmaFJCaHpVc3N0NUE?oc=5",
+      "summary": "Prabowo Serahkan Embrio APBN 2027 ke DPR, Misbakhun: Ini Tradisi Baru&nbsp;&nbsp;CNBC Indonesia",
+      "published": "2026-05-20T07:00:00+00:00",
+      "source": "GNews – Prabowo APBN",
       "groups": [
-        "Global Finance"
+        "Government / Policy"
       ],
       "matched": [
-        "sanctions",
-        "tariff"
+        "APBN",
+        "DPR",
+        "Prabowo"
+      ],
+      "big": true,
+      "id": "c98cc3afc2ee5ad5"
+    },
+    {
+      "title": "Strategi Fiskal Presiden Prabowo: Utang Dijaga di Bawah 40%, Defisit Tetap 3% - MetroTVNews.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZDZORW5pT1ZwektRT1R0M2U0Qi1ZbmZhTVo4UElBc0s2ZUVMcExmX1h1cVBEWTB1c0ZyMGhMdlpGNXM2WGQtdW80MkFXcEMyT1QwaUdaSXprdUIyamV3bDFyV3A5dU1nMnhfdHpVaGFFUmtucnE2M2dzeUlPdWllRmZNYmdydVRsMWNQbkU0MU81ZzRZVWFVMU5WZVdBblROSmVXSjZ6bXhMOU16OGtTbzgyMkU2Zw?oc=5",
+      "summary": "Strategi Fiskal Presiden Prabowo: Utang Dijaga di Bawah 40%, Defisit Tetap 3%&nbsp;&nbsp;MetroTVNews.com",
+      "published": "2026-04-08T07:00:00+00:00",
+      "source": "GNews – Prabowo APBN",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Prabowo"
       ],
       "big": false,
-      "id": "02708c6575dcae66"
-    },
-    {
-      "title": "BI Rate Naik Jadi 5,75 Persen, Pemerintah Hitung Dampaknya ke Inflasi dan Rupiah - Kompas.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTUd2TldHN0stNGVHaW93SWM1eXNIa0NDY2ctSkFEU0dCallBeGhjT0dfZ2lQaGYyM21zSk1VUjFTR0FEVVJjOXhpei1NakJTamtqbFVxck5kSFl2V0FSVklGUElaUE04LWI3UG9lTkRtb25CbEp5WTNJcVNVU2w4LUktZ0pydkxnZzlEV1A4QkdpVWNkRFQ0QXp1dUx6WnJrei10WjZvTXpMaWEyTEh2SWhQX3dpOVJjMHkySW9NV09ITHIyOGdHaA?oc=5",
-      "summary": "BI Rate Naik Jadi 5,75 Persen, Pemerintah Hitung Dampaknya ke Inflasi dan Rupiah&nbsp;&nbsp;Kompas.com",
-      "published": "2026-06-18T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate",
-        "inflasi",
-        "rupiah"
-      ],
-      "big": true,
-      "id": "5d457607d117bd5c"
-    },
-    {
-      "title": "BI Rate Naik, Ekonom Wanti-wanti Bunga Kredit & Tekanan Daya Beli - Bloomberg Technoz",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOclhqenF3TjhWbHY3X05YQmM1dkRIanhGdkdmclI5ekpReC1uYTVNc2ZrWHBDQVFHTElRM1RxTmJGMmN6LXlHR3Zyb2RJaTRwZk1GZzYxbDdzM3JUMk1LbnRTUGNrOVBGOWtkdjRFS2E4WktHV3JhdTkyMTBHcGVfbjhYZmlzeFZ4am1ZVGlFZHlXX2sxMUtUQVRjbm1sUjlpblNPc2JGLW1pd2VzY1dNVzFtMHU?oc=5",
-      "summary": "BI Rate Naik, Ekonom Wanti-wanti Bunga Kredit & Tekanan Daya Beli&nbsp;&nbsp;Bloomberg Technoz",
-      "published": "2026-06-14T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate"
-      ],
-      "big": true,
-      "id": "2caa22ea67d934e0"
+      "id": "e88e527e921f56b9"
     }
   ]
 }

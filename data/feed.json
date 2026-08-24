@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-24T11:13:08.244078+00:00",
+  "updated": "2026-08-24T11:46:36.826800+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "Cengkeraman Grup Djarum di Bakrie Telecom (BTEL) Menguat saat Ancaman Delisting",
+      "link": "https://katadata.co.id/finansial/bursa/6a8c27c0dbf5b/cengkeraman-grup-djarum-di-bakrie-telecom-btel-menguat-saat-ancaman-delisting",
+      "summary": "Perusahaan-perusahaan ekosistem bisnis Grup Djarum kini menguasai saham Grup Bakrie, PT Bakrie Telecom Tbk (BTEL).",
+      "published": "2026-08-24T11:15:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Bakrie",
+        "Djarum / Hartono"
+      ],
+      "matched": [
+        "Bakrie",
+        "Djarum"
+      ],
+      "big": true,
+      "id": "ec29bfa211cc0137"
+    },
     {
       "title": "IHSG Ditutup Turun ke 6.501, Saham BYAN, TPIA hingga BMRI Tergelincir - Bisnis.com - Market",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaXdPQk9WNzhSRVNDcWVZa0d6SGJnTm5VTWZOMnRHR3RoV0c0UkZIU0JrUnJfQzJncE56d2RXVG1wUHU3aUpsYjZHTXFobVpxWWw5YlBLUUxZWWdxNV84QXZwQ0pVOTZlOWJvOGZ2YXBtNzJpR3NyNThZdFk4LVJyRjVZZmR4MlZmYVd4c3lxTmVzYjZwRVVqZXZrXzVONTRRdGh5dlYzbURodU1xLUJ1dzB6azAxaVE?oc=5",
@@ -3136,22 +3153,6 @@
       ],
       "big": false,
       "id": "a3a0caf009a9313d"
-    },
-    {
-      "title": "Sembcorp Utilities Beri Sinyal Akuisisi 20% Saham Entitas Prajogo (TPIA)",
-      "link": "https://katadata.co.id/finansial/bursa/6a69ab6021ede/sembcorp-utilities-beri-sinyal-akuisisi-20-saham-entitas-prajogo-tpia",
-      "summary": "Sembcorp Utilities Pte Ltd, berencana mengakuisisi 20% kepemilikan di Aster Power Pte Ltd, entitas milik Aster Chemicals and Energy yang merupakan perusahaan patungan TPIA dan Glencore.",
-      "published": "2026-07-29T07:27:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Prajogo / Barito"
-      ],
-      "matched": [
-        "Prajogo",
-        "TPIA"
-      ],
-      "big": true,
-      "id": "661bcaab073b335b"
     }
   ]
 }

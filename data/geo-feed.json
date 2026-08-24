@@ -1,7 +1,38 @@
 {
-  "updated": "2026-08-24T08:23:18.250352+00:00",
+  "updated": "2026-08-24T09:24:23.803836+00:00",
   "count": 150,
   "items": [
+    {
+      "title": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war",
+      "link": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html",
+      "summary": "\"As a smaller, more open economy, Canada has more to lose from this,\" ING strategists said Monday.",
+      "published": "2026-08-24T09:11:23+00:00",
+      "source": "CNBC Global Markets",
+      "groups": [
+        "Geopolitics",
+        "Global Finance"
+      ],
+      "matched": [
+        "trade war"
+      ],
+      "big": true,
+      "id": "5210d80cc69230c1"
+    },
+    {
+      "title": "US threat of ‘economic D-Day’ for Iran tests Trump’s China detente",
+      "link": "https://www.aljazeera.com/economy/2026/8/24/us-threat-of-economic-d-day-for-iran-tests-trumps-china-detente?traffic_source=rss",
+      "summary": "Exerting maximum economic pressure on Tehran would risk blowback from Beijing.",
+      "published": "2026-08-24T09:10:12+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "d02361daf1a5c467"
+    },
     {
       "title": "Ketua Badan Sosialisasi MPR ajak peserta LCC peduli bencana NTT",
       "link": "https://www.antaranews.com/berita/5708913/ketua-badan-sosialisasi-mpr-ajak-peserta-lcc-peduli-bencana-ntt",
@@ -2273,38 +2304,6 @@
       ],
       "big": false,
       "id": "c91e3d8e20e45968"
-    },
-    {
-      "title": "Tariff Wars Are Often Short. Their Legacies Aren’t. - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRTNhakUtUkRqVWliQVpuLWJtWEVLZDJZcGRDMWRuOXpWa1VNLTNVaXlaQVljOWUyY3NKWVhYazFxc1Nic0QzT3laT0s3Y21DTU9nUFNySnc0UmsxeXA5aGxTVWZfNmZCaEtNcVNSaGsya3YzdElLci1CWTRGaUdOb1FxZXNPRjNaRmlyZA?oc=5",
-      "summary": "Tariff Wars Are Often Short. Their Legacies Aren’t.&nbsp;&nbsp;WSJ",
-      "published": "2025-03-09T08:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "tariff"
-      ],
-      "big": false,
-      "id": "ef0a6ea8f6f8ac39"
-    },
-    {
-      "title": "Bank Indonesia delivers surprise rate cut to support growth - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVE9YeUl5SE1JdG5ZQ0Fud3hjVVF2Mkl5UG1YZE05SU1xYnF2dzNFR1REOGFNY2FiSVdSM1pVM0cwcG1YWVFPM2FGT2tPTnVkdl9DdnBxeVl3eHFkVGdBYXQ2RGdmMkQ1OWlVbVNZbXUxT19nbnNFUHdIVGx2VDFuTFhXc2dPVjFSZDYtLUxOeGptd3BiSkhPUlhjTEpSQ3k0ZnkxaGJtSVQ?oc=5",
-      "summary": "Bank Indonesia delivers surprise rate cut to support growth&nbsp;&nbsp;Reuters",
-      "published": "2025-01-15T08:00:00+00:00",
-      "source": "Reuters – Indonesia",
-      "groups": [
-        "Global Finance",
-        "Macro / Economy"
-      ],
-      "matched": [
-        "Bank Indonesia",
-        "rate cut"
-      ],
-      "big": true,
-      "id": "38706bf22190bf2f"
     }
   ]
 }

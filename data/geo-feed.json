@@ -1,7 +1,38 @@
 {
-  "updated": "2026-08-25T22:54:57.518019+00:00",
+  "updated": "2026-08-25T23:29:21.167450+00:00",
   "count": 150,
   "items": [
+    {
+      "title": "Politik kemarin, Presiden soal karhutla hingga RUU Perampasan Aset",
+      "link": "https://www.antaranews.com/berita/5710988/politik-kemarin-presiden-soal-karhutla-hingga-ruu-perampasan-aset",
+      "summary": "Sejumlah peristiwa politik telah diwartakan oleh pewarta Kantor Berita ANTARA pada Selasa (25/8). Berikut ini beberapa ...",
+      "published": "2026-08-25T23:15:01+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "UU "
+      ],
+      "big": false,
+      "id": "0eaca2181e1dda29"
+    },
+    {
+      "title": "AI gold rush draws crypto firms away from Bitcoin",
+      "link": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The price of Bitcoin has risen in August but is still far below its peak almost a year ago - and companies are refitting their mines.",
+      "published": "2026-08-25T23:11:02+00:00",
+      "source": "BBC Business",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "Bitcoin",
+        "crypto"
+      ],
+      "big": false,
+      "id": "34222f5aa221af38"
+    },
     {
       "title": "DKI kemarin, Kebakaran di Duren Sawit hingga Extended Concourse",
       "link": "https://www.antaranews.com/berita/5710961/dki-kemarin-kebakaran-di-duren-sawit-hingga-extended-concourse",
@@ -2244,69 +2275,34 @@
       "id": "7aa520e30b27510b"
     },
     {
-      "title": "Pemerintah Gandeng BI Jaga Rupiah, Inflasi, dan Pertumbuhan Ekonomi - Infobanknews",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcXJSVUxNRmV2NzJOb18tWXA1bVNURUEwS0FOVjJ5ZXBETTR6cDAwWEc0QVZ3OHVoMmhwaWFfV2FNc1pPc3hkelBTM1kyLUJkRUFScV8wYjNhQmhLVHpVMl91d1dnTnprX0k0OERjUVZyZjFIX2x1WjZSX21ZeGRuSjdmdU1GLWpYNmtIR1lwaEF4aWFZ?oc=5",
-      "summary": "Pemerintah Gandeng BI Jaga Rupiah, Inflasi, dan Pertumbuhan Ekonomi&nbsp;&nbsp;Infobanknews",
-      "published": "2026-08-05T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "inflasi",
-        "pertumbuhan ekonomi",
-        "rupiah"
-      ],
-      "big": true,
-      "id": "8ea0312cdb93c089"
-    },
-    {
-      "title": "BI Rate Naik Jadi 5,5%, Bank Indonesia Perkuat Stabilisasi Rupiah di Tengah Gejolak Global - Bareksa.com",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU1lVSmlvVUZfSWIwSUYwVWxnNlBYSmt6UmtNSHg1TDAtcTdKWjhqRElPd3ppNDJXSjZkOE9pNVZzeFRZd2M2X1pSRVhjVzZ2OE9wR3JtdUhJM3RfUjlvbjZBUDAyb0p2Wm9kRFZrcWttR0RSSGxBQUViQU1UVXo1WUMzcGhSZ0FwNTRFMEN0ZDBYZHlMLTVCZk81U3ZmeG14UFBZTVdCUlBYa1ktUW1ZV1FYLTBiek1FTU5ZN1B4aUpfd0ZrVW1OT1UtUTRyQTNo?oc=5",
-      "summary": "BI Rate Naik Jadi 5,5%, Bank Indonesia Perkuat Stabilisasi Rupiah di Tengah Gejolak Global&nbsp;&nbsp;Bareksa.com",
-      "published": "2026-06-08T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate",
-        "Bank Indonesia",
-        "rupiah"
-      ],
-      "big": true,
-      "id": "df09cced7f7253a2"
-    },
-    {
-      "title": "Presiden Prabowo Tegaskan APBN Jadi Alat Melindungi Rakyat - MetroTVNews.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTmxic0owODEtb3ZJVk90OWVxcXpjVU9kT3hjdjhIM0ZBWURKbEpRczNQNW5jQXBHa21xOEpwSHZqSTZQRXNHbzdwY01NRHVQTjBrU0RGSjJMX0lPS24yeWZ0YVozOVNIbWZtUlh5VFA0ODR3cW1SeDNRQlFJVnNRUUxWaTNRS2hmcmljTzI0MkUwaDJFSGk0cFBxZ3J1R0x4dlE?oc=5",
-      "summary": "Presiden Prabowo Tegaskan APBN Jadi Alat Melindungi Rakyat&nbsp;&nbsp;MetroTVNews.com",
-      "published": "2026-05-20T07:00:00+00:00",
+      "title": "Wamen Christina: Kementerian P2MI Dukung Visi Ekonomi Presiden Prabowo - JPNN.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdU9IRUFPNVF0M3Z4aXpqbzZneU1EMmUxU1NVd2NuREpwZWxyOEthUEYtSF9GRlNJT2xBQ1FJVG5CX3BwSllZaTlIckx1WGczaFJGYjc0b2t3emE1V2ltSEl1Nk5WQlJ0bUFuOVN0Z2xUeWhpV3lxaWdWSDRyRm1NallZc1dwV1RBNHFONHJNZXNYWlY5alRxdW5DZ9IBngFBVV95cUxOdVVOMTRSZWxKbXMtRFc5TWM2c1BleU10LUNSV2FfTVlkWXNKZXBibjRfeFB0Mk5WQ01nV2ozM0E1dWI1OFh6ZnBnaENfRll1VWRoMWZpY0xCVmVvbzZKa3lJQTdOQXhGczZSLTB5VC1OXzVjMTR5dE1RX3FtcHljMFVFNW5oTmpHVk1iTTdOeXgzbEFUNy1MSzI4RnhuQQ?oc=5",
+      "summary": "Wamen Christina: Kementerian P2MI Dukung Visi Ekonomi Presiden Prabowo&nbsp;&nbsp;JPNN.com",
+      "published": "2026-05-21T07:00:00+00:00",
       "source": "GNews – Prabowo APBN",
       "groups": [
         "Government / Policy"
       ],
       "matched": [
-        "APBN",
         "Prabowo"
       ],
-      "big": true,
-      "id": "054291da1ed25edc"
+      "big": false,
+      "id": "736e9507028f16c8"
     },
     {
-      "title": "Indonesian Rupiah Falls to Record Low on Oil as Markets Reopen - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMHFtQ0FLZTJrSUQ0aFpFcGhFbGNGalo3MkdnUWdiSlg4QXNCNFltclFldU9JUktfWk4xbU90LVZhRDZTTTJ2OU9UMjVRLVFzS09fRHRUZDJDWWxOLUZNWnpobW5rSU9MUFZIeGM2N21Eby1wSGJIRW5pWVRNTzV6aDEzTk5MUlI2bk1yY1gwWTVEMWdqaVZpRVpDU1FRZW5odi1MX0lzZnZ5aHNxU3ZTLU1iNA?oc=5",
-      "summary": "Indonesian Rupiah Falls to Record Low on Oil as Markets Reopen&nbsp;&nbsp;Bloomberg",
-      "published": "2026-05-18T07:00:00+00:00",
-      "source": "Bloomberg (via GNews)",
+      "title": "Trump’s Next Round of Tariffs—25% on Steel and Aluminum—Won’t Be So Easily Averted - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1USGhQMTdaSnZ3eHhFWS1TV1kzbXJjaDFWNUdiM2plZ3FjQzlEek1yYW9lN0xBRVdpQVRLTkx0enRUQkVYdW53RDRWeXdjQm9TcjRYekJzdDcyLWF0YVpjYkxLVENFV180NWF3RWp6VXFUblc4VDFIOEFsNnpMZw?oc=5",
+      "summary": "Trump’s Next Round of Tariffs—25% on Steel and Aluminum—Won’t Be So Easily Averted&nbsp;&nbsp;WSJ",
+      "published": "2025-02-09T08:00:00+00:00",
+      "source": "WSJ (via GNews)",
       "groups": [
-        "Macro / Economy"
+        "Geopolitics"
       ],
       "matched": [
-        "rupiah"
+        "Trump"
       ],
-      "big": true,
-      "id": "a5adc9fe7eaafe09"
+      "big": false,
+      "id": "21533a9a59c43bfe"
     }
   ]
 }

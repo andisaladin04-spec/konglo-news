@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-25T23:41:52.819708+00:00",
+  "updated": "2026-08-26T00:01:57.238537+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Rawan Terkoreksi, Analis Rekomendasikan Saham ANTM, TINS, UNTR, ACES",
+      "link": "https://katadata.co.id/finansial/bursa/6a8e21a7d1ef4/ihsg-rawan-terkoreksi-analis-rekomendasikan-saham-antm-tins-untr-aces",
+      "summary": "Indeks Harga Saham Gabungan atau IHSG rawan terkoreksi pada perdagangan saham hari ini, Rabu (26/8).",
+      "published": "2026-08-25T23:13:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Astra"
+      ],
+      "matched": [
+        "ACES",
+        "UNTR"
+      ],
+      "big": false,
+      "id": "6a4b3d335e5e937b"
+    },
     {
       "title": "BCA (BBCA) Raup Laba Rp35,25 Triliun pada Juli 2026 - Bisnis.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNektZck04NUZidjNhWHlTVjJ1bmloeW5kbFRoVG8yV3hEdENRdHVqWk5PTFRyVVExdVRGcW1RajNNa3h1Q09jZGo5MUNkcF90TkJ6ZkFxZjdmLXNiMDJFOHBQb09vR21PekNBX0ZQdzZVaGM2SDFDTDBHaWVZVmMzT3lwbXFDX3A3MFo4ZWNxWHRrbmctZnFsdGg3MW95UHZLTzlDYQ?oc=5",
@@ -3139,22 +3155,6 @@
       ],
       "big": false,
       "id": "5cf05ea1a9f5d7dc"
-    },
-    {
-      "title": "Laba Grup Chandra Asri TPIA-CDIA Merosot Tajam di Semester I",
-      "link": "https://katadata.co.id/finansial/bursa/6a6a19e6ebf4a/laba-grup-chandra-asri-tpia-cdia-merosot-tajam-di-semester-i",
-      "summary": "Kinerja keuangan dua emiten Grup Chandra Asri, PT Chandra Asri Pacific Tbk (TPIA) dan anak usahanya PT Chandra Daya Investasi Tbk (CDIA), merosot tajam pada semester pertama 2026.",
-      "published": "2026-07-29T15:21:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Prajogo / Barito"
-      ],
-      "matched": [
-        "Chandra Asri",
-        "TPIA"
-      ],
-      "big": false,
-      "id": "4c5514adc21f9f94"
     }
   ]
 }

@@ -1,7 +1,57 @@
 {
-  "updated": "2026-08-26T09:11:10.739669+00:00",
+  "updated": "2026-08-26T10:00:03.915103+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Melemah 1,48%, Saham Dekapan Prajogo CUAN, TPIA, BRPT Kompak Merosot",
+      "link": "https://katadata.co.id/finansial/bursa/6a8eb2a0845c6/ihsg-melemah-1-48-saham-dekapan-prajogo-cuan-tpia-brpt-kompak-merosot",
+      "summary": "IHSG berakhir merosot 1, 48% atau 95, 98 poin ke level 6.405 pada penutupan perdagangan Rabu (26/8). Saham-saham milik konglomerat Prajogo Pangestu kompak rontok pada hari ini.",
+      "published": "2026-08-26T09:32:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "BRPT",
+        "CUAN",
+        "Pangestu",
+        "Prajogo",
+        "TPIA"
+      ],
+      "big": true,
+      "id": "8e9058cbe6950b16"
+    },
+    {
+      "title": "Indeks Bisnis-27 Parkir di Zona Merah, TAPG, MIKA dan ICBP Tetap Cuan - Bisnis.com - Market",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd21VenlxSUcwTm9wcU1nTkpOak1VMm5UaWFWc3d2YVpXZW9DZUN0WjVTeFMxazgzTjR6MUVISTNtQ3IwOE41dURVTkZOQWU0Rms2QWVMRGpfMEJ4V0pIWU9VMHBwRUt1M0Q4S25DOWQ1VU4zUkRpMF9NRTZLa2R0TWpubVJsckFXb2gyYUR3MTRwYkMxWjJOZC1IZ0N3eC1jQ3gtSDJHQTRnVjR2NlVIV0EzWVhFaWZp?oc=5",
+      "summary": "Indeks Bisnis-27 Parkir di Zona Merah, TAPG, MIKA dan ICBP Tetap Cuan&nbsp;&nbsp;Bisnis.com - Market",
+      "published": "2026-08-26T09:26:58+00:00",
+      "source": "Bisnis Indonesia (via GNews)",
+      "groups": [
+        "Salim"
+      ],
+      "matched": [
+        "ICBP"
+      ],
+      "big": false,
+      "id": "792f3a02160c5e5a"
+    },
+    {
+      "title": "Ramalan Nasib CTRA, PWON, SMRA, dan BSDE di Fase Baru Sektor Properti - Bisnis Indonesia Premium",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTnJuY2RaT0NwQm8zS0RMWk5qTDZ3MTh6X2hVc0pGaUNsMDZNTjc1SlBNdW05ME5vSkp2SE1XYVluc3Z1OEpSU0N5Y3Y5VlYta0hEVlQ2ay1naGYzemtwenhzZmJfczA0enpsS3F4aUctTHVaamJZZmdIQWY4OXNKUW9hRnlSUmpRWlltdjJ0T0swcVlIMy0zaWxJQ3JvSFhlenNkd2syZDZsMmlYemZjUkRETm1SdHdvZ3M4?oc=5",
+      "summary": "Ramalan Nasib CTRA, PWON, SMRA, dan BSDE di Fase Baru Sektor Properti&nbsp;&nbsp;Bisnis Indonesia Premium",
+      "published": "2026-08-26T09:17:00+00:00",
+      "source": "Bisnis Indonesia (via GNews)",
+      "groups": [
+        "Sinar Mas"
+      ],
+      "matched": [
+        "BSDE",
+        "SMRA"
+      ],
+      "big": false,
+      "id": "6c9c46ab1a8c8127"
+    },
     {
       "title": "Saham BMRI, BBCA hingga MDKA Diborong Asing kala IHSG Turun Tipis ke 6.496",
       "link": "https://katadata.co.id/finansial/bursa/6a8e8860288d5/saham-bmri-bbca-hingga-mdka-diborong-asing-kala-ihsg-turun-tipis-ke-6496",
@@ -3110,53 +3160,6 @@
       ],
       "big": false,
       "id": "c3aa0f4ff0a42195"
-    },
-    {
-      "title": "IHSG Naik 1,56%, Saham Industri Sawit AALI, LSIP dan SIMP Melesat",
-      "link": "https://katadata.co.id/finansial/bursa/6a6b19f30faf1/ihsg-naik-1-56-saham-industri-sawit-aali-lsip-dan-simp-melesat",
-      "summary": "IHSG ditutup turun 1, 56% atau 94, 98 poin ke level 6.186 pada penutupan perdagangan Kamis (30/7). Pada saat bersamaan, harga saham industri perkebunan sawit juga melonjak.",
-      "published": "2026-07-30T09:31:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Astra"
-      ],
-      "matched": [
-        "AALI"
-      ],
-      "big": true,
-      "id": "7c1e23dfc3fcc186"
-    },
-    {
-      "title": "Adu Kinerja 4 Anak Usaha Astra, Bagaimana Proyeksi Performa Entitas Induk ASII?",
-      "link": "https://katadata.co.id/finansial/bursa/6a6b189ed025c/adu-kinerja-4-anak-usaha-astra-bagaimana-proyeksi-performa-entitas-induk-asii",
-      "summary": "Empat emiten anak usaha PT Astra International Tbk (ASII) merilis laporan keuangan semester pertama 2026. Tiga di antaranya mencatatkan kenaikan laba, sedangkan satu lainnya mengalami penurunan tajam.",
-      "published": "2026-07-30T08:34:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Astra"
-      ],
-      "matched": [
-        "ASII",
-        "Astra International"
-      ],
-      "big": false,
-      "id": "1dd1ea17c55be5ac"
-    },
-    {
-      "title": "Adu Kinerja 4 Anak Usaha Astra, Bagaimana Proyeksi Kinerja Entitas Induk ASII?",
-      "link": "https://katadata.co.id/finansial/bursa/6a6b0c9934f3e/adu-kinerja-4-anak-usaha-astra-bagaimana-proyeksi-kinerja-entitas-induk-asii",
-      "summary": "Empat emiten anak usaha PT Astra International Tbk (ASII) merilis laporan keuangan semester pertama 2026. Tiga di antaranya mencatatkan kenaikan laba, sedangkan satu lainnya mengalami penurunan tajam.",
-      "published": "2026-07-30T08:34:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Astra"
-      ],
-      "matched": [
-        "ASII",
-        "Astra International"
-      ],
-      "big": false,
-      "id": "c687ee53418f6228"
     }
   ]
 }

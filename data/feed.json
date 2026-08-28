@@ -1,7 +1,90 @@
 {
-  "updated": "2026-08-27T22:49:28.600797+00:00",
+  "updated": "2026-08-28T06:23:18.028025+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Naik ke Level 6.548, Saham DSSA, BBCA, TPIA Ramai Diburu Investor",
+      "link": "https://katadata.co.id/finansial/bursa/6a911a2459d4f/ihsg-naik-ke-level-6548-saham-dssa-bbca-tpia-ramai-diburu-investor",
+      "summary": "IHSG naik 0, 42% atau 27, 11 poin ke level 6.548 pada perdagangan sesi pertama, Jumat (28/8). Saham Grup Sinar Mas, Grup Djarum, dan Grup Prajogo Pangestu ramai diburu investor.",
+      "published": "2026-08-28T05:18:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Djarum / Hartono",
+        "Prajogo / Barito",
+        "Sinar Mas"
+      ],
+      "matched": [
+        "BBCA",
+        "Djarum",
+        "Pangestu",
+        "Prajogo",
+        "Sinar Mas",
+        "TPIA"
+      ],
+      "big": false,
+      "id": "712901226a85fcf1"
+    },
+    {
+      "title": "TPIA-Glencore Caplok Saham CAFHI, Bidik Bisnis Avtur Bandara Changi - Bisnis.com - Market",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa0lYWTB3elJ0cy14RmxwdkMtMU5nUnZkaTdXSk5sU2QyXy0yS2NDakhzY1pVX1BKbUk2b3FtSEY4U2ZzQmg1UGxvSjRyRWVpeHFlLW1aWjlkdkNIQzU5MndBT0xFMG9jdWlpWTkxZTM0UG4yOC1ZMGJEUGJIcVZTNUtjQ2wzS2l5b1Z3NEc0NWJjZ2NHMHBGV2dJd0JzbDZsa1Zfd09fc2piLU01dFhtZHdDZUtYaE03Smc?oc=5",
+      "summary": "TPIA-Glencore Caplok Saham CAFHI, Bidik Bisnis Avtur Bandara Changi&nbsp;&nbsp;Bisnis.com - Market",
+      "published": "2026-08-28T03:53:59+00:00",
+      "source": "Bisnis Indonesia (via GNews)",
+      "groups": [
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "TPIA"
+      ],
+      "big": false,
+      "id": "5fdc18cd45b200ca"
+    },
+    {
+      "title": "Indeks Bisnis-27 Dibuka Menguat Ditopang Laju BBCA dan ADRO Cs - Bisnis.com - Market",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT3ZtX1pEZFJVbHdSSUJ3M0szUXVzSGpWTGw1Z1BHeERmUnN2QjFWWFF0ZGNXd3dvU1NfeFhSR05lSUw5dEFpZlZqSDhmYUhDdld3aDBEQ09SbUtxX2w2S0lPN2FyZURhXy1BMjJiVXFjaVdKZ3AxSlFZdWhBTTlqNkVFaEJrOHk1eVZ4MFVodU9KeEk1S00wZjdHb05UbEIyYXpaRG9RUThqbTEzOGJsYVN3?oc=5",
+      "summary": "Indeks Bisnis-27 Dibuka Menguat Ditopang Laju BBCA dan ADRO Cs&nbsp;&nbsp;Bisnis.com - Market",
+      "published": "2026-08-28T02:18:02+00:00",
+      "source": "Bisnis Indonesia (via GNews)",
+      "groups": [
+        "Djarum / Hartono"
+      ],
+      "matched": [
+        "BBCA"
+      ],
+      "big": false,
+      "id": "acf3488915e58317"
+    },
+    {
+      "title": "Harga Gandum Meroket dan Ramalan Nasib ICBP, MYOR, INDF - Bisnis Indonesia Premium",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOODhTR28wOVlzTkJoOWRFUHFxaFZQU0h6VFRDaTZwamYyVHRodElDYU40cXNQYzBBN3FCUEVIajE2eTg4ZHlTekdWRDhuZXFUTFV6SEJwOTZKWXBkZlIzUGRObzZHdGZCRW1pN3RVOHgtVl9kVzZaeG5SOWVZeUJ2Z0JCdThYOFJoNXhqVEdMZHJJdkcwajdMdnlNS09oQjdVTkZsQXlsQW5iZw?oc=5",
+      "summary": "Harga Gandum Meroket dan Ramalan Nasib ICBP, MYOR, INDF&nbsp;&nbsp;Bisnis Indonesia Premium",
+      "published": "2026-08-27T23:45:00+00:00",
+      "source": "Bisnis Indonesia (via GNews)",
+      "groups": [
+        "Salim"
+      ],
+      "matched": [
+        "ICBP",
+        "INDF"
+      ],
+      "big": true,
+      "id": "67abbe180d09feaa"
+    },
+    {
+      "title": "Kisi-Kisi Kinerja Emiten Batu Bara PTBA, INDY & BUMI Semester II/2026 - Bisnis.com - Market",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcTVRVlMza25PVGl2ZWpZLS0xcXJWZ25fNWV4NWtRTW9OeWRNRU5Cc2tJSnpxZk1qT3dJdXRMUFByUUR1UDN2a0p2VmVjNmNYRjJ1Zm5wZW9aU2xiWHJNT2liX3loa3pCeERldVpfSG5HRlU3aW52cV9ZcGFMRU5LRjdIQV9ITXRKX3lWcV8ydzhjbXN1U01MUVlReGVsdUoteTVnaXBUaXZCSHdCQm1XUnRQOVZUTUJX?oc=5",
+      "summary": "Kisi-Kisi Kinerja Emiten Batu Bara PTBA, INDY & BUMI Semester II/2026&nbsp;&nbsp;Bisnis.com - Market",
+      "published": "2026-08-27T23:00:00+00:00",
+      "source": "Bisnis Indonesia (via GNews)",
+      "groups": [
+        "Bakrie"
+      ],
+      "matched": [
+        "BUMI"
+      ],
+      "big": false,
+      "id": "ebc8746c4686ac3c"
+    },
     {
       "title": "Getol Diversifikasi, Performa Chandra Asri (TPIA) Didorong Mesin Pertumbuhan Baru - Bisnis Indonesia Premium",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNi01MmF1YnhKRXpXZ3hoNVc5QjIzSl9Oc2lHdTZ6b19GRDVkQTZPNEYtTEVFWXNQVVVGZi10dzlMMFMxa1hUSzhEUzNQV2l5YUl3T1NoQVlSUGhjYVVfSWU0RW5BMVdkcU5kdjRrVVlHazIyTXJtVGhsTUdZNi0xd1pMYThzS3NYQkVxTEk5NTRDdUFEc3A2eDlpU012YlRYUVlFeklZTERNWFJ3MFF2WnJ2d3ZSNFlsOUprU3N3X1VvY3U0dE9KTURWVQ?oc=5",
@@ -3085,84 +3168,6 @@
       ],
       "big": false,
       "id": "a0c6e92f3d680a3d"
-    },
-    {
-      "title": "Laba Grup Saratoga MPMX Naik 23% Semester I/2026 - Bisnis.com - Market",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbjNaSzA4ZjB4MXUyUHFhRHNpZktEcW5YbWVZRmdoN0tTZ296TTRRajg5Q25xRXFKbmRJZkxZNzg3cFNEUFJBdjQzZGdXd21IeWdSbVJNcU9tQmVCSUtWanBKNUdfTzJESGxpTmozd3lXMUVnWWNhV2JPZ0NqME9SRl81ZkJ4MVd4eDdLOVpkQnhSY1pzWWJwelpvTXFZRjA?oc=5",
-      "summary": "Laba Grup Saratoga MPMX Naik 23% Semester I/2026&nbsp;&nbsp;Bisnis.com - Market",
-      "published": "2026-08-01T00:20:13+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Djarum / Hartono"
-      ],
-      "matched": [
-        "Saratoga"
-      ],
-      "big": false,
-      "id": "3b4b6f1698484e41"
-    },
-    {
-      "title": "Emiten Prajogo Pangestu Barito Pacific (BRPT) Cetak Pendapatan Rp101 Triliun Semester I/2026 - Bisnis.com - Market",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWWtBSnFGLXZLSVFCM0draGNHUWE2cXEwNjJScGFWYzNRcmVaV1RzakxIY2Y3aXlKcWx6STdwMGVGbjQyY0xlZGpWbC1reDJydC1hRDZfeGZwVG5KaTRCeU5OTHpackVqNGJiRnBHS05IYnBvN0Q0YmxNd1V6QzRsVW5HVWMtWE1iQ1A5STdlaXd5LVlOdEp4NU9iY0hYU3NSbWhSMV9rQXlLSU1pN2QwNE04Q0xwaGhNTjRPdDNVdXZqelA0NDBDVTdwWm00Y1pFNnNkVDZFSHc?oc=5",
-      "summary": "Emiten Prajogo Pangestu Barito Pacific (BRPT) Cetak Pendapatan Rp101 Triliun Semester I/2026&nbsp;&nbsp;Bisnis.com - Market",
-      "published": "2026-07-31T11:17:30+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Prajogo / Barito"
-      ],
-      "matched": [
-        "BRPT",
-        "Barito Pacific",
-        "Pangestu",
-        "Prajogo"
-      ],
-      "big": false,
-      "id": "a627d31e5ed73efb"
-    },
-    {
-      "title": "Mengintip Kunci BBCA Cetak Laba Nyaris Samai BMRI meski Aset Lebih Kecil",
-      "link": "https://katadata.co.id/finansial/bursa/6a6c846381f4c/mengintip-kunci-bbca-cetak-laba-nyaris-samai-bmri-meski-aset-lebih-kecil",
-      "summary": "Pada semester I 2026, bank pelat merah PT Bank Mandiri Tbk (BMRI) dan raksasa bank swasta PT Bank Central Asia Tbk (BBCA) mengantongi laba bersih dengan nilai yang nyaris sama, yakni Rp 29-30 triliun.",
-      "published": "2026-07-31T10:01:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Djarum / Hartono"
-      ],
-      "matched": [
-        "BBCA"
-      ],
-      "big": false,
-      "id": "3b6f39d098e86b9c"
-    },
-    {
-      "title": "Mengintip Kunci BBCA Cetak Laba Lebih Besar dari BMRI meski Aset Lebih Kecil",
-      "link": "https://katadata.co.id/finansial/bursa/6a6c7269ea1ef/mengintip-kunci-bbca-cetak-laba-lebih-besar-dari-bmri-meski-aset-lebih-kecil",
-      "summary": "Pada semester I 2026, bank pelat merah PT Bank Mandiri Tbk (BMRI) dan raksasa bank swasta PT Bank Central Asia Tbk (BBCA) mengantongi laba bersih dengan nilai yang nyaris sama, yakni Rp 28-29 triliun.",
-      "published": "2026-07-31T10:01:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Djarum / Hartono"
-      ],
-      "matched": [
-        "BBCA"
-      ],
-      "big": false,
-      "id": "f8be93a09d656125"
-    },
-    {
-      "title": "Anindya Bakrie Ungkap Syarat RI Keluar dari Middle Income Trap - Bisnis.com - Ekonomi",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeEk2REw0ekZOd1hIRFU4QTdFOHhtUm56VEozaVRfX2hqbmQyc0lMOU5PN1ZYSEpGT0ZZZGNWdHpTUndYdkZMVHdXbUZJaGM3R0pPcmhpb1lfeDliOFdHMUVaWWh4SEhKZ0loSU5zRm9iRWdrT1BJS0tQMFNFeFp1elNUVjNMbHZ4T1RYZkRGdjhncGw4LVIzMlhVYnZuU0JHREZBaEUtTzlXMnlyd2N4Q1lxOA?oc=5",
-      "summary": "Anindya Bakrie Ungkap Syarat RI Keluar dari Middle Income Trap&nbsp;&nbsp;Bisnis.com - Ekonomi",
-      "published": "2026-07-31T09:45:22+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Bakrie"
-      ],
-      "matched": [
-        "Bakrie"
-      ],
-      "big": false,
-      "id": "7d009bf1a85e3164"
     }
   ]
 }

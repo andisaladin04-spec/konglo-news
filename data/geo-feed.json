@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-29T23:23:31.627433+00:00",
+  "updated": "2026-08-30T01:29:52.716832+00:00",
   "count": 150,
   "items": [
+    {
+      "title": "Politik sepekan: DPR bahas RUU perampasan aset hingga karhutla",
+      "link": "https://www.antaranews.com/berita/5717327/politik-sepekan-dpr-bahas-ruu-perampasan-aset-hingga-karhutla",
+      "summary": "Beragam berita politik telah diwartakan Kantor Berita Antara. Berikut kami rangkum lima berita politik terpopuler dalam ...",
+      "published": "2026-08-30T01:16:26+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "DPR",
+        "UU "
+      ],
+      "big": false,
+      "id": "a78c94e4ec59cf83"
+    },
     {
       "title": "Ontario’s Doug Ford prods Trump with sign rejecting ‘Lake America’ name",
       "link": "https://www.aljazeera.com/news/2026/8/29/ontarios-doug-ford-prods-trump-with-sign-rejecting-lake-america-name?traffic_source=rss",
@@ -1792,6 +1808,21 @@
       "id": "5210d80cc69230c1"
     },
     {
+      "title": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said",
+      "link": "https://www.cnbc.com/2026/08/24/bessent-1-trillion-treasury-general-account-bond-buybacks.html",
+      "summary": "Using the TGA would provide the Treasury with considerable firepower to influence long-term bond yields.",
+      "published": "2026-08-24T13:17:35+00:00",
+      "source": "CNBC Global Markets",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "bond yield"
+      ],
+      "big": false,
+      "id": "eb61b6da9e37a6ea"
+    },
+    {
       "title": "U.S. Considers Tariff Cuts on Metals, Autos in Canada Deal - WSJ",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVVhvam5JcEdXYjdIeS0xWU1GWTlWRkxneU5sWVJKUkVxa2dFUkgwYVVJdDZQbWZuZW45TGZUOFpNSXRvUXVpOEw2MkZ2VjFiMWxYbE9hZkl4SnpnOG82V1dxS2JiY3VCYTdmMjRsbEN6RE9fRG01b3JYbHpBTWI0TnNEMWd5VnkwcG94czRlVGJFQlV0bVRyNzZCYUtXR0pGeXJlZg?oc=5",
       "summary": "U.S. Considers Tariff Cuts on Metals, Autos in Canada Deal&nbsp;&nbsp;WSJ",
@@ -2032,6 +2063,53 @@
       "id": "eac3760a08f269e1"
     },
     {
+      "title": "BI Rate Diramal Naik 25 Bps Jadi 6%, Terpicu Inflasi & Rupiah - Market - Bloomberg Technoz",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMFVjVXhkWlBNZG4zTW1nak5oN2h5QmFfRTYyQmoyNkJXdGQ0dV85LWxIaTU3MmhDb3VRTTFmVzhUb09iaXBGd2IwNV9aRndPT0gta2xtbEtOSktsSnNrelIxNFBsYnIxYnV4ak9tRm41MkFhSUVjN3c4bk9pRGFyWkYtX015UXBmd1pPUGptN0V4MlhnaGgyeXdnaHlfMnIyRVVxbklYdHd4SUVFMUE?oc=5",
+      "summary": "BI Rate Diramal Naik 25 Bps Jadi 6%, Terpicu Inflasi & Rupiah - Market&nbsp;&nbsp;Bloomberg Technoz",
+      "published": "2026-07-20T07:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "BI rate",
+        "inflasi",
+        "rupiah"
+      ],
+      "big": true,
+      "id": "9ee5e02a721eb790"
+    },
+    {
+      "title": "U.S. to Impose 25% Tariff on Certain Goods From Brazil - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ1ZOZXdDRTZvWURJalNYUmdzTXk5X0tsRVpveXllNEhmWVlLY1BLcDJEcE94N3oyRlJWcEhNcE5NS01BMEQ5Zlk4Vmo2cExiUXhLbWF5M2t6VzZYYWJQYXVwVWhOUjhabjh3SVNPY0JPM1N5UjBtOTl2bU55RklxM2MxMUk0ZDdpcnctbjhXclNQTEdiVG5ORTZYNA?oc=5",
+      "summary": "U.S. to Impose 25% Tariff on Certain Goods From Brazil&nbsp;&nbsp;WSJ",
+      "published": "2026-07-16T07:00:00+00:00",
+      "source": "WSJ (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "tariff"
+      ],
+      "big": false,
+      "id": "7d5b2baaefb87790"
+    },
+    {
+      "title": "BI Diramal Naikkan Suku Bunga di Waktu Dekat, Ekonom Jabarkan Akar Masalah & Imbasnya - KONTAN",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUUVlQ0ZMMlNxRHUxeDFPaW1kV21UWlQ2MTFXZmJRYjJWTW9VeGRIMTZ4UEx3Mlh5MFczT3lpaGZ4MG5BZDFxaXJ0OXZGUi03X1JoTEk5TW44OVhfNllaTWx0bnVad2t4eko2Uk15SHNjcG9ZZFRsSWNKdGR5NXVCRFZqcFgtczU1ZWtxNG14WVJNNnI5bUVjcnhYUm9GY3hxUUQ5ZWFVa3dOT2JlVklfc2R2QTk4Ums?oc=5",
+      "summary": "BI Diramal Naikkan Suku Bunga di Waktu Dekat, Ekonom Jabarkan Akar Masalah & Imbasnya&nbsp;&nbsp;KONTAN",
+      "published": "2026-07-06T07:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "suku bunga"
+      ],
+      "big": true,
+      "id": "121774f247e99be8"
+    },
+    {
       "title": "BI Rate Naik, Ekonom Wanti-wanti Bunga Kredit & Tekanan Daya Beli - Market - Bloomberg Technoz",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQnZwWU9qdkNkQkYwRjlDTDd1QTVKcmZfbmdqbFFETno3a0NtNzI0U0haVjVXM2JZWDNtVTRYem5Sc0ZZeW1TZUJNZ1VBTGw5aVpZM21sNnlPMEdwemVLYXFZbXk5U0pMVUpmTmJhdHNFdlRzekpkT3NBM3F0c2pqMU1fQnJBSDFFNld2Q2ZvMHlhLThUdElId2ZxOVk4Z2lfeHJrYjQxcTM5N3k4U1VENWJKUWlrcDA?oc=5",
       "summary": "BI Rate Naik, Ekonom Wanti-wanti Bunga Kredit & Tekanan Daya Beli - Market&nbsp;&nbsp;Bloomberg Technoz",
@@ -2047,6 +2125,23 @@
       "id": "a9c2ff15d52d6132"
     },
     {
+      "title": "Bank Indonesia’s new mandate faces first market test after rate hike - The Business Times",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb0dvbzZSQ3N1cmRjbnZ5c3BvSDNOYkVTdUN5NU5JUENhQm9SVVp0ZW9SNnN5NXpNYm1yaTY0RGV4Q29oX2J2ZXJOSmhuZEtIQ1BCS21XOW40b1VtQ0FYengtazhINEhaOHd1Ylh3TUtEeWhXak9sd2R6MzBEbG9scjhFWGkyeldYRGNrMHd5NlBLaUY5RW8zRVRUc2F0ajJxZ0xFbDIyRkV6M0VDb3lzWDBpUHNQZ29vWDgxMA?oc=5",
+      "summary": "Bank Indonesia’s new mandate faces first market test after rate hike&nbsp;&nbsp;The Business Times",
+      "published": "2026-06-12T07:00:00+00:00",
+      "source": "Reuters – Indonesia",
+      "groups": [
+        "Global Finance",
+        "Macro / Economy"
+      ],
+      "matched": [
+        "Bank Indonesia",
+        "rate hike"
+      ],
+      "big": true,
+      "id": "d10f7d5ea35ee5c2"
+    },
+    {
       "title": "Media Asing Sorot Kenaikan Tiba-Tiba BI Rate, Laporkan Ini - CNBC Indonesia",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZmE1Z2tpRnhyNHh4VlNFSnhOdXJLMENodGxibGowQlNMOFNVZlZsRjVsTGR4Q241MHI1QktzckZ5YUxJOU55ZHo5QTZNZUVJdmRDWFRjRW5SVVBnM0plZ0I0SVhXa1dNOExKOGNGaVZpTy1vYUNjUVdMMjJnNC1zMWxyZG5fSDh2bko0UnZFR2FsVFJhMDd3OEFqNE53Y0hwR1hQZkZKRGlxNTEtRVJVM0dFc0V1Q1nSAbwBQVVfeXFMUGNUcHRiTjl0SmdXbkxPd1d1V0FiX0pKV0o0YVBsS1NCdWh1Um55UDFjZDFNeU9RcnNxaHplRlhIM2NzeWZLaUdORzktWllORE9ldF9MX2dieHZ0LTYzS1lLYkZEbVNqSGJjWUNSR1RYMXplSlpxeWstRkRoc3dJWXBGUkdTb3NvbHZrZG9tV2FKWFBOMGNuNUd3Y0dseVd5dTFTV3daNWx4V0s4V1k0a1c0SDRoZF9lZkxVQ1U?oc=5",
       "summary": "Media Asing Sorot Kenaikan Tiba-Tiba BI Rate, Laporkan Ini&nbsp;&nbsp;CNBC Indonesia",
@@ -2060,6 +2155,22 @@
       ],
       "big": true,
       "id": "b80b20ad2873121d"
+    },
+    {
+      "title": "Perkuat Benteng Stabilisasi Rupiah, Bank Indonesia Katrol BI-Rate Jadi 5,50% - Stabilitas.id",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ0xBaVgtb0J4Uk9GVUJZUWV4NUN0Wl9VMXRGM3dkZmw0Z0Rwa3pYcm5fUjZlTVdPaEFnd2FoQ3FPdHQtWXJiZFZIeXNrTDJibFZ2ckNtd2FIZjAteVFFYUxlTm1yZVVFT3lqWDN6Z0Z2UnNCRlNaSmNyMVNqbkVsVDR3Y242MmRIWTNuMjk0WDVTcXBWYmoyNms5LURLMDFSRFE?oc=5",
+      "summary": "Perkuat Benteng Stabilisasi Rupiah, Bank Indonesia Katrol BI-Rate Jadi 5,50%&nbsp;&nbsp;Stabilitas.id",
+      "published": "2026-06-09T07:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "Bank Indonesia",
+        "rupiah"
+      ],
+      "big": true,
+      "id": "d6844942aaf48321"
     },
     {
       "title": "Rupiah Terus Melemah, Siap-siap BI Rate Bakal Naik Lagi - Bloomberg Technoz",
@@ -2125,40 +2236,25 @@
       "id": "85ededf114b3b428"
     },
     {
-      "title": "Indonesia’s Central Bank Holds as Middle East Risks Dim Outlook - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS0ZFTzhMVkJUYVA2UmZUMGNndXg1azRTanZZNERRdHdBaksyanVRcTh0SGJweV8yZzVINThMS3UtNUFzWDIwT0s5cmFiaTRmNzNVdGx2cW16dTNscTVKX0FJR29BRDVSNDBsODdaTWFYRHROMHI2REpBUXYxX2p4V09HSTlXTlFITTBvZGRxY1NDOVltZ0I1MEdIQ1hkSUZOZ3pTV2x5QnVDc2g2eWJlWTFhTnVNUQ?oc=5",
-      "summary": "Indonesia’s Central Bank Holds as Middle East Risks Dim Outlook&nbsp;&nbsp;WSJ",
-      "published": "2026-04-22T07:51:29+00:00",
-      "source": "WSJ (via GNews)",
+      "title": "Indonesia's Upstart Sovereign Fund Stumbles Through Turbulent Year - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR3BPMUt4eE8wcEJyX25VS1ZjblFLblhLb3VxbnJ4TjlNRnNOOE5rbzBHRHNnNk1GSi15Z1JYc0dOZTNNWEVoRWpxcUlpWm9Wal9kOXZub3pHOGFDNUg3dlFBQXp5V093TVBrUFI2cmc2RUlJU0Jzam5sS1pxamgtQm0zYjdKWDA2dDlTYWY5X3hKLXNJZW1YbEdqV3dWaTNfZU5QdGJWY01QU1dNbVppT3lveUhTRFhOR0M5M1VVUQ?oc=5",
+      "summary": "Indonesia's Upstart Sovereign Fund Stumbles Through Turbulent Year&nbsp;&nbsp;Bloomberg.com",
+      "published": "2026-03-16T07:00:00+00:00",
+      "source": "Bloomberg (via GNews)",
       "groups": [
-        "Global Finance"
+        "Macro / Economy"
       ],
       "matched": [
-        "outlook"
+        "sovereign"
       ],
       "big": false,
-      "id": "11a421c92855f445"
+      "id": "c1108a68eeff79fb"
     },
     {
-      "title": "Strategi Fiskal Presiden Prabowo: Utang Dijaga di Bawah 40%, Defisit Tetap 3% - MetroTVNews.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZDZORW5pT1ZwektRT1R0M2U0Qi1ZbmZhTVo4UElBc0s2ZUVMcExmX1h1cVBEWTB1c0ZyMGhMdlpGNXM2WGQtdW80MkFXcEMyT1QwaUdaSXprdUIyamV3bDFyV3A5dU1nMnhfdHpVaGFFUmtucnE2M2dzeUlPdWllRmZNYmdydVRsMWNQbkU0MU81ZzRZVWFVMU5WZVdBblROSmVXSjZ6bXhMOU16OGtTbzgyMkU2Zw?oc=5",
-      "summary": "Strategi Fiskal Presiden Prabowo: Utang Dijaga di Bawah 40%, Defisit Tetap 3%&nbsp;&nbsp;MetroTVNews.com",
-      "published": "2026-04-08T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "e88e527e921f56b9"
-    },
-    {
-      "title": "U.S. Copper Prices Set First Record Since Summer Tariff Surge - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMHlrYWVRRHJlSWh1NXZfMUxSckpPdDlMcUZadjV4WDhLS1JsSzZqWFNYZVlpblVPd25aVDFfMUMybWJBdXhyaDd4S19hWkRGN1VRN0w1c1MwZHFhTHFhV25iS2hyWEw5d0lwWjhaNjNBbVBQV0pBMTFvRnNJQ3hYSFZtQTlyNmY5NlRhYjVNcW9idHpscnh2N2l3bU4yTXdORjBubDRaTkExenhjYXA3ZHB5ZUR4VFdw?oc=5",
-      "summary": "U.S. Copper Prices Set First Record Since Summer Tariff Surge&nbsp;&nbsp;WSJ",
-      "published": "2026-01-05T08:00:00+00:00",
+      "title": "‘Tariff Man’ Strikes Again—at Canada - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNkVtRkwwcEFPOFhzQnItOUdrV3VxZTdSZkhjOXpBSHQ2TTllQ0RWTFNoc2JVNWdRWlZQWGw5UFVEUUJ3R0Q1bmlVaHJKcUJpZGZmT1NsUzlJcFpwNDVzMnJreUU0SXFXTmJ4Vl9uTXVDZ0tBUk81RnQwamcxUXpKYVNBRF9KRno3N0xmVHpaOHVtQQ?oc=5",
+      "summary": "‘Tariff Man’ Strikes Again—at Canada&nbsp;&nbsp;WSJ",
+      "published": "2025-07-11T07:00:00+00:00",
       "source": "WSJ (via GNews)",
       "groups": [
         "Global Finance"
@@ -2167,110 +2263,13 @@
         "tariff"
       ],
       "big": false,
-      "id": "b1343e0ffdc8ef42"
+      "id": "d9e1f38163536634"
     },
     {
-      "title": "Trump Set on Tariff Demands as Canada Negotiations Head Toward Deadline, Canadian Ambassador Says - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONlNTZEZnY0pCRFU0b3NQR2hDa2hGRC1PQ1NidlMyUEZYdEd1bFhKY3lONHBDZnFXa1NacTVJekVxQnZyYWFSdmZVb3JLWlVuMUd5QzhfRTlKd25ISkNqZ2VGQWV3aWhoUUZrWE51RzloWHZtaXBOdE5LQnFlbkd5Vlp2d05jY2RSczhVeXFPanhYaHJVU1BmbVhwYkl1OHU0UHV1MHdGRTc4VUdMRm1sUjBWazFiMmlOMm5WY2F6WlJiNmt5R2pReV9NdW16Y1cwYWZSZDI0LWg?oc=5",
-      "summary": "Trump Set on Tariff Demands as Canada Negotiations Head Toward Deadline, Canadian Ambassador Says&nbsp;&nbsp;WSJ",
-      "published": "2025-06-24T22:42:52+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Geopolitics",
-        "Global Finance"
-      ],
-      "matched": [
-        "Trump",
-        "tariff"
-      ],
-      "big": false,
-      "id": "f3c53606c259c16f"
-    },
-    {
-      "title": "ASML Warns on Tariff Uncertainty, Logs Weak Orders - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVll0TnpYOGYzQ1lyU1RmX2FFMUU1VDdtamFoVHZaOWRnSHVRN1lUZUVfNDRKczVTVkFpR3BiSTljVWpFck1DN1Z1Y29TRFp3eThMRVBYUE1KTUJTc0tTbHdzcDBwR0dBaVNHMXNINUFfQnFkV2tic3psVzVrNWI2d2pYVk9yZWdjYWYzNEdlMUdJV1otaEJUVmNLcnVGQ1NwZFJPR3lhQmt3UQ?oc=5",
-      "summary": "ASML Warns on Tariff Uncertainty, Logs Weak Orders&nbsp;&nbsp;WSJ",
-      "published": "2025-04-16T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "tariff"
-      ],
-      "big": false,
-      "id": "35e70bf009c14de0"
-    },
-    {
-      "title": "China Coped With Trump’s First Trade War. A Second One Will Be Tougher. - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY0Zzd2dmSHlEZ2RlYWRjRzA1Q0pPOWJiV3luMXdua3pKQ3g4M2lqUURFTS1mTTRVU0F4OW9jbTBRLTNPSVNPRDRFeTJuU1paZDZUeFlUd2VmdXFJNHpMZkZFYVY1elYwZlhqeWljTEx4SDBTc2ZnUFNCQUlUeTRJRi01Wk1sQ1drSmk1dHhwdDNYbXJZLVZZT2lWeGRZenkxZUg3RzVIR2cxQ0c4MmVCeA?oc=5",
-      "summary": "China Coped With Trump’s First Trade War. A Second One Will Be Tougher.&nbsp;&nbsp;WSJ",
-      "published": "2024-11-15T08:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Geopolitics",
-        "Global Finance"
-      ],
-      "matched": [
-        "Trump",
-        "trade war"
-      ],
-      "big": true,
-      "id": "2adcbb6b9bf654f3"
-    },
-    {
-      "title": "The Fed Rate Cut Is Here. Our Correspondent Explains What's at Stake. - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYnVxTjlSR2Ruc2dWSWhydlRHV0t4MGRod2RUeVhldkwwZ085TzEteWhIT3ZYRlMtT2ZKQjkxSGN0dnJYbnRTUy1EZVhzdjBONG14SnlEVUM5Q3ViY1FfQUZhUnNkMFlDZ3hKYkpUcU1CVVNFUGJFNXZzQnFaSUhvQmxtX1Z3eG1QcWN4cXdhbUNTOU9pemhpNUVla0Fkb2NRVEJfLVV6VGl0dFJnWC1GTjlic0dlUll5RE9XTE1KQVNFT1hmMzRIc0Jub3ZnS2t2MEhHbGlKUzE3MzZtM01ybw?oc=5",
-      "summary": "The Fed Rate Cut Is Here. Our Correspondent Explains What's at Stake.&nbsp;&nbsp;WSJ",
-      "published": "2024-09-18T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "Fed rate",
-        "rate cut"
-      ],
-      "big": true,
-      "id": "68e640d3d6b23670"
-    },
-    {
-      "title": "Fed Rate Cuts Are Now a Matter of If, Not Just When - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdmlBNzBtRVNmNFdwQ3BkLVMtc2lCZXpVdG1fTTBiUGZCOTZiRHNONE16VE01MXZVbEhBM3RDV21TbUdKR2haVXdxYnFJbzZ5TC0tVklpZm9CcFVSWXFkVUUxNE5NRmxUQnlwX0dHTEw2SmVfWG1yTWtvSlNodmFrTTNWcEJlcXJMWF9fMDZ2OGc3ZDZ1RzR4aVY0aVN5WnRyT1YtYkln?oc=5",
-      "summary": "Fed Rate Cuts Are Now a Matter of If, Not Just When&nbsp;&nbsp;WSJ",
-      "published": "2024-04-11T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "Fed rate",
-        "rate cut"
-      ],
-      "big": true,
-      "id": "5ab32f156bc980b5"
-    },
-    {
-      "title": "Emerging markets are in turmoil. The IMF must step in to help. Here’s how - The Economist",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSEt4ak9TSC0ydGdYUVZTNWNnclJ5czliOWRBYURaUUpQRVJJXzk3eDdfdW41RUd0Q1NxbTFMTGl6SFdUTVhEN21sVzhHeGdTdU43RWtJU2JYdWE4d0diUkQxM0tIdy1WSVZIVTZXU01hWG45VHV4cmRLU290Y2hCYm9sX1laZnJRLXM1d1NGYmlreVFaV1VkM082Rk9vZ0VzT3YwU3c1MTVIcVdYNE45NEhFQ3FsUQ?oc=5",
-      "summary": "Emerging markets are in turmoil. The IMF must step in to help. Here’s how&nbsp;&nbsp;The Economist",
-      "published": "2020-04-11T07:00:00+00:00",
-      "source": "The Economist (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "IMF",
-        "emerging market"
-      ],
-      "big": false,
-      "id": "a2205a33bfbb8fc0"
-    },
-    {
-      "title": "Global Economic Brief: Trade War Turns to Europe - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc09VS2lwelQxQlRkOFlsN19MSm11UXpYSi1nYVBRVVVHeDJXQnZ6WHVXSTNXcG94LVRQWmFaSHI2R3dIZFZ3UXRxUGEzZl9DaXRtbU9YczRxb0JWMkc4VUZNMG9WRXkwUTlrMGJJdHZLUFZ2V2J6VllScDV4dTJTMEZwaFlKdFRXejc4eFoxa2M1dw?oc=5",
-      "summary": "Global Economic Brief: Trade War Turns to Europe&nbsp;&nbsp;WSJ",
-      "published": "2019-10-07T07:00:00+00:00",
+      "title": "Why World Leaders Are Pulling Their Punches in the Trade War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeHJIajNzT2ZaVkF2NkQyRHAxRFE3OEJEam1oZnZLMl9UaUZBUVU4amR2emVGdUdqd005VF9uXzZoNUp0Z3V6a0xFeHQzTFdUTHlEMUZkQzdCZVl5eEVNQjBhNmRfT0l0Y0FlZVFTZWl3UTZiRXVaMnVrQjhsLWt3akxjU0V4UFZDcjhKZ21Va19KWkp5NWk2VmZRemtULTRBWktqUjlB?oc=5",
+      "summary": "Why World Leaders Are Pulling Their Punches in the Trade War&nbsp;&nbsp;WSJ",
+      "published": "2025-04-18T07:00:00+00:00",
       "source": "WSJ (via GNews)",
       "groups": [
         "Geopolitics",
@@ -2280,24 +2279,23 @@
         "trade war"
       ],
       "big": true,
-      "id": "c1f9cf5ef217e8d4"
+      "id": "d36872d2e3eb17c8"
     },
     {
-      "title": "Emerging markets’ Trump tantrum abates, except in Turkey - The Economist",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQS0xYVlDeXNmVXQ1N2wzUHctTUx5MEhSUUFvcnVuUi1YNHRYT1N0NmFBemRMLUptQ3J0c3BqRjg2VzlHMl8wdC1Wa0lEcmhGdEZaVVZNS3lFU1dYRzZETDQwX1lhRVRRSDQtUFNqd0dUVFVfck1EaVdCVzNUbEJrdU02WVF1OE9PV0hSV0hyVS1iamxhcm9jYmw5clByUThjQ3BlSUVnQjlvMEJSNjBPcmhvYw?oc=5",
-      "summary": "Emerging markets’ Trump tantrum abates, except in Turkey&nbsp;&nbsp;The Economist",
-      "published": "2017-02-04T08:00:00+00:00",
-      "source": "The Economist (via GNews)",
+      "title": "India and Indonesia Can Be Big Winners From Global Trade War - Carnegie Endowment for International Peace",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWUVJUWpyMl9EWnlLTndNaE9BODRxTWdsVFFmN2NveVJFM0RHbkNUVlhWNURsUlc2ZjN4a3dpejFzbDBmR2VqSzB1Zk5ESWRjQ0VQalJOU3dieUw4d0lzZWM5Yks5a09zSlIwZFdMUjZMMjJ5bXpFUHZrR0RVbm1icVAzald3Z3VIbGhNWE9GWjdiS0xxM2lSYjRpaWlyN1NrM3lBdzYzaw?oc=5",
+      "summary": "India and Indonesia Can Be Big Winners From Global Trade War&nbsp;&nbsp;Carnegie Endowment for International Peace",
+      "published": "2019-09-25T07:00:00+00:00",
+      "source": "Financial Times (via GNews)",
       "groups": [
         "Geopolitics",
         "Global Finance"
       ],
       "matched": [
-        "Trump",
-        "emerging market"
+        "trade war"
       ],
-      "big": false,
-      "id": "b7e4ae44b899caf0"
+      "big": true,
+      "id": "98058fd31a11ec0d"
     }
   ]
 }

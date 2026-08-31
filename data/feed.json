@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-31T03:54:36.888839+00:00",
+  "updated": "2026-08-31T10:36:04.041960+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "OJK Sanksi 23 Emiten Langgar Aturan Pasar Modal, Ada Bakrie BNBR dan Salim ROTI",
+      "link": "https://katadata.co.id/finansial/bursa/6a95459e3d3e2/ojk-sanksi-23-emiten-langgar-aturan-pasar-modal-ada-bakrie-bnbr-dan-salim-roti",
+      "summary": "Otoritas Jasa Keuangan (OJK) menjatuhkan sanksi administratif kepada sejumlah emiten di Bursa Efek Indonesia (BEI) atas pelanggaran ketentuan di bidang pasar modal dan kepatuhan pelaporan.",
+      "published": "2026-08-31T09:13:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Bakrie"
+      ],
+      "matched": [
+        "BNBR",
+        "Bakrie"
+      ],
+      "big": false,
+      "id": "cd9cef70ecaf2fbd"
+    },
     {
       "title": "Ramalan Nasib Saham AADI, BUMI, PTBA, Hingga INDY Dibayangi RKAB dan Harga BBM - Bisnis Indonesia Premium",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdERFVmFrNnlCV3BsOFc3ZHYxN3NZOUk1b2NxRmJFZHhxSDZpT0dGbGZIMVBMZWduSzl6cTYyVkNtUjhCdVRJa3VXdjB4RmNFejZBU251WEs3ZG1YeHdSRE5JSnpOeTAzQ0ZLV1BRbEs2Y2ZIcGxzeEgya0YtS0U2ZHltOGZ2UUVDdDFXODk5NG9aVkh6UTVQMWdYbWw2aDhGU3pCUklUM1l1TzBhYXo2cUVrX3pqNEl1RjV5UmxHM3RoVnZ3Nm1z?oc=5",
@@ -3154,22 +3170,6 @@
       ],
       "big": false,
       "id": "697b232f32c2c764"
-    },
-    {
-      "title": "Rupiah Lesu, Laba Bersih Indofood CBP (ICBP) Susut 33,12% Semester I/2026 - Bisnis.com - Market",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaXIzdWxGMU9qV0VVdDVOeFZTajRKTzk4WjFoUXIyTk5xRnlwT0xhNG5kd25tclhOUXJ4a2hYUXlOTEZkMlppR0t3ZHYtQ0I4TlExYXNqUkFDMVZwOWllSjRnelZxSzNBR0xXdE1QV0R1NlRjYzQ3Y3VSUWtXNzc2dFpRRXdwMi0wNGd5R01KTU00LVEwcTdrTGVOZHFsZkZyN21GQzNKeHNRQW54MERBakMxME9TdTBmSEdR?oc=5",
-      "summary": "Rupiah Lesu, Laba Bersih Indofood CBP (ICBP) Susut 33,12% Semester I/2026&nbsp;&nbsp;Bisnis.com - Market",
-      "published": "2026-08-03T03:31:52+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Salim"
-      ],
-      "matched": [
-        "ICBP",
-        "Indofood"
-      ],
-      "big": false,
-      "id": "9d447edf52c77a3e"
     }
   ]
 }

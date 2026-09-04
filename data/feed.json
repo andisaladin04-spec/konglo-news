@@ -1,7 +1,24 @@
 {
-  "updated": "2026-09-04T09:59:19.208180+00:00",
+  "updated": "2026-09-04T14:12:10.207696+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Ditutup Lesu, Saham CUAN, BULL, BBCA, BBRI, dan TINS Ramai Diburu Investor",
+      "link": "https://katadata.co.id/finansial/bursa/6a9a92ce48709/ihsg-ditutup-lesu-saham-cuan-bull-bbca-bbri-dan-tins-ramai-diburu-investor",
+      "summary": "Indeks Harga Saham Gabungan atau IHSG ditutup turun 0, 47% ke 6.636 pada perdagangan saham hari ini, Jumat (4/9). Sebanyak 256 saham menguat, 363 saham terkoreksi, dan 172 saham tidak bergerak.",
+      "published": "2026-09-04T11:12:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Djarum / Hartono",
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "BBCA",
+        "CUAN"
+      ],
+      "big": false,
+      "id": "c6aa613c682ff99f"
+    },
     {
       "title": "Indeks Bisnis-27 Ditutup Melemah, Saham TAPG, ASII, hingga JPFA Kompak Merah - Bisnis.com - Market",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaDJ2RkVXNFJQTkt3SjR6WkdxdjltLUVzdVlIYVB2clRzSFpOZmlJdXlpWmNnRzFTZ21fNE5UMS1hdFNxSkZ5U2VIWEZEbV94WFNjR0xkOGFZdVpid1RiRDVWd3BkWHEyYmtkZUpuWUtIWTg3SElQaHAtbklSZmRtWFVwZHBBSzUtN3VadVkwMmhkQ2dxZVBIWXcxdkZ1eDdmM1ZFaWl4ZjRMcUw2SG44VGNhd1g3alVodmQyd1hsM1Q?oc=5",
@@ -3166,21 +3183,6 @@
       ],
       "big": true,
       "id": "907accafe497d443"
-    },
-    {
-      "title": "Investor Asing Net Buy Rp 273 M: Lepas Saham BBCA dan EMAS, Borong DSSA",
-      "link": "https://katadata.co.id/finansial/bursa/6a7529d7a588f/investor-asing-net-buy-rp-273-m-lepas-saham-bbca-dan-emas-borong-dssa",
-      "summary": "Saham PT Bank Central Asia Tbk (BBCA) dan PT Merdeka Gold Resources Tbk (EMAS) paling banyak dilepas investor asing pada perdagangan kemarin.",
-      "published": "2026-08-07T00:41:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Djarum / Hartono"
-      ],
-      "matched": [
-        "BBCA"
-      ],
-      "big": false,
-      "id": "ae0a4a7ccf6e5b89"
     }
   ]
 }

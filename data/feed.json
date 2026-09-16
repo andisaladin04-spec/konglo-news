@@ -1,7 +1,24 @@
 {
-  "updated": "2026-09-16T05:12:26.713159+00:00",
+  "updated": "2026-09-16T10:00:48.625026+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Berbalik Lesu, Saham BBCA, TOWR, BBRI, SMMA Crossing Jumbo",
+      "link": "https://katadata.co.id/finansial/bursa/6aaa676891837/ihsg-berbalik-lesu-saham-bbca-towr-bbri-smma-crossing-jumbo",
+      "summary": "IHSG ditutup melemah 0, 38% ke level 6.436 pada perdagangan saham hari ini, Rabu (16/9). Pasar berbalik ke zona merah setelah pada sesi pertama siang tadi sempat menguat 0, 36% ke posisi 6.484.",
+      "published": "2026-09-16T09:54:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Djarum / Hartono",
+        "Sinar Mas"
+      ],
+      "matched": [
+        "BBCA",
+        "SMMA"
+      ],
+      "big": false,
+      "id": "d63a9685afc35370"
+    },
     {
       "title": "Apindo Berharap Menkeu Suahasil Nazara Bisa Atasi Masalah Fiskal dan Investasi",
       "link": "https://katadata.co.id/berita/industri/6aaa0f807fe80/apindo-berharap-menkeu-suahasil-nazara-bisa-atasi-masalah-fiskal-dan-investasi",
@@ -3132,22 +3149,6 @@
       ],
       "big": true,
       "id": "658e431ebe949e83"
-    },
-    {
-      "title": "Adu Emiten Ritel di Era Omnichannel, AMRT, MIDI hingga MAPI Masuk Radar Analis - Bisnis.com - Market",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObUNwRFlpLU1RNVFGY2p0S1llTmNDRUhqTUtLYlJPTGx5bm1PM1hVM2ZoWGFsanJGSGJ5OU9OeWRGX0VWRktVZnNfUEEwaGhqQzJRSUdLZmlKYmRUWHhDNzlfR0cwZWNnc1F0eEpPWGZILXdZN3RiWExfbzdDWFB0WkxOV3lfRW1HYkx2TVVULUFjZTZYRTFldWthblZraVYwem5MV2M2YUdYQmxFNklKRGtqYTV5cDYxakZXakg4NU42bGRYcVFj?oc=5",
-      "summary": "Adu Emiten Ritel di Era Omnichannel, AMRT, MIDI hingga MAPI Masuk Radar Analis&nbsp;&nbsp;Bisnis.com - Market",
-      "published": "2026-08-19T07:05:10+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Salim"
-      ],
-      "matched": [
-        "AMRT",
-        "MIDI"
-      ],
-      "big": false,
-      "id": "74a825d6a71bf601"
     }
   ]
 }

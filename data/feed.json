@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-17T08:54:17.651413+00:00",
+  "updated": "2026-09-17T14:07:15.953802+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Ditutup Level 6.462, Ada Crossing di Saham Grup Salim BINA dan Djarum BBCA",
+      "link": "https://katadata.co.id/finansial/bursa/6aabd3949c1ec/ihsg-ditutup-level-6462-ada-crossing-di-saham-grup-salim-bina-dan-djarum-bbca",
+      "summary": "Indeks Harga Saham Gabungan (IHSG) ditutup naik 0, 4% ke level 6.462 pada perdagangan Kamis (17/9). Saham apa saja yang menjadi top gainers?",
+      "published": "2026-09-17T10:19:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Djarum / Hartono"
+      ],
+      "matched": [
+        "BBCA",
+        "Djarum"
+      ],
+      "big": false,
+      "id": "1a3c07f2524fab5a"
+    },
     {
       "title": "IHSG Sesi I Naik 0,42% hingga Net Buy Rp 77,54 M, Asing Beli BMRI, CUAN, DSSA",
       "link": "https://katadata.co.id/finansial/bursa/6aab80382f6b4/ihsg-sesi-i-naik-0-42-hingga-net-buy-rp-77-54-m-asing-beli-bmri-cuan-dssa",
@@ -3130,23 +3146,6 @@
       ],
       "big": false,
       "id": "aef3b85ae633ea50"
-    },
-    {
-      "title": "Indeks Bisnis-27 Dibuka Menguat Ditopang Laju AKRA, BRMS, dan ICBP Cs - Bisnis.com - Market",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQVB5Zml2TlBaYV9nVVpIdEcwa3lfX0tiSlFFUkhVSVR4UHFOTlVtTnlYLUY4YWNDSWRqLUhXNTk5NndaMWJVUndtLUtvN0lPUS1wRFNMS2VlRlBQTmx1dlpGMkxwRWxKcDM0UzMtSUV4NDA0MXRnTVd4ekJQX1g5bnllaUc5bnlkeDNOc3RnNmN4eHo1MzNLTkh6ZFFQWlYwU2RzTkJxNmZBc1lGQXZkU0xyLTBfZUw3?oc=5",
-      "summary": "Indeks Bisnis-27 Dibuka Menguat Ditopang Laju AKRA, BRMS, dan ICBP Cs&nbsp;&nbsp;Bisnis.com - Market",
-      "published": "2026-08-20T02:24:19+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Prajogo / Barito",
-        "Salim"
-      ],
-      "matched": [
-        "BRMS",
-        "ICBP"
-      ],
-      "big": false,
-      "id": "cc83a0fcf67576ce"
     }
   ]
 }

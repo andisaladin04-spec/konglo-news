@@ -1,7 +1,22 @@
 {
-  "updated": "2026-09-17T03:37:26.078629+00:00",
+  "updated": "2026-09-17T08:54:17.651413+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Sesi I Naik 0,42% hingga Net Buy Rp 77,54 M, Asing Beli BMRI, CUAN, DSSA",
+      "link": "https://katadata.co.id/finansial/bursa/6aab80382f6b4/ihsg-sesi-i-naik-0-42-hingga-net-buy-rp-77-54-m-asing-beli-bmri-cuan-dssa",
+      "summary": "IHSG ditutup naik 0, 42% 6.463 pada perdagangan saham sesi pertama hari ini, Kamis (17/9). Sebanyak 374 saham menguat, 234 terkoreksi, dan 178 saham lainnya tidak bergerak.",
+      "published": "2026-09-17T05:52:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "CUAN"
+      ],
+      "big": false,
+      "id": "2fd0ccc5fc25a5c8"
+    },
     {
       "title": "Gerak Saham SMRA Dibayangi Kasus OTT Dirut Summarecon, Bagaimana Prospeknya?",
       "link": "https://katadata.co.id/finansial/bursa/6aab5d5c3fa0d/gerak-saham-smra-dibayangi-kasus-ott-dirut-summarecon-bagaimana-prospeknya",
@@ -3132,23 +3147,6 @@
       ],
       "big": false,
       "id": "cc83a0fcf67576ce"
-    },
-    {
-      "title": "IHSG Berpotensi Turun, Analis Rekomendasikan DEWA, ICBP hingga SSIA",
-      "link": "https://katadata.co.id/finansial/bursa/6a8639797713f/ihsg-berpotensi-turun-analis-rekomendasikan-dewa-icbp-hingga-ssia",
-      "summary": "IHSG berpotensi melanjutkan koreksi, namun analis merekomendasikan tiga saham pilihan seperti DEWA, ICBP, dan SSIA untuk diamati investor.",
-      "published": "2026-08-19T23:17:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Bakrie",
-        "Salim"
-      ],
-      "matched": [
-        "DEWA",
-        "ICBP"
-      ],
-      "big": false,
-      "id": "2b2bfd6324e6885e"
     }
   ]
 }

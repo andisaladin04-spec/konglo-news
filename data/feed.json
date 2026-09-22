@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-21T22:18:19.923062+00:00",
+  "updated": "2026-09-22T00:54:39.890640+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "Di Balik Gurita Grup Djarum, Menakar Arah Baru Konglomerasi Keluarga Hartono",
+      "link": "https://katadata.co.id/indepth/telaah/6ab1c2b3262fe/di-balik-gurita-grup-djarum-menakar-arah-baru-konglomerasi-keluarga-hartono",
+      "summary": "Puluhan tahun lamanya, nama Hartono bersaudara identik dengan Djarum. Dari bisnis rokok di Kudus, Jawa Tengah bisnis keluarga Hartono berkembang menjadi salah satu konglomerasi terbesar di Indonesia.",
+      "published": "2026-09-21T23:34:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Djarum / Hartono"
+      ],
+      "matched": [
+        "Djarum",
+        "Hartono"
+      ],
+      "big": false,
+      "id": "770908805924a3de"
+    },
+    {
+      "title": "IHSG Rawan Terkoreksi, Saham TPIA, DEWA, AMMN, ASII Jadi Rekomendasi",
+      "link": "https://katadata.co.id/finansial/bursa/6ab1bef393965/ihsg-rawan-terkoreksi-saham-tpia-dewa-ammn-asii-jadi-rekomendasi",
+      "summary": "Indeks Harga Saham Gabungan (IHSG) berpotensi mengalami tekanan koreksi pada perdagangan saham hari ini, Selasa 22 September, berdasarkan analisis kondisi pasar terkini.",
+      "published": "2026-09-21T23:34:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Astra",
+        "Bakrie",
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "ASII",
+        "DEWA",
+        "TPIA"
+      ],
+      "big": false,
+      "id": "d1f410d5a7b8bb9b"
+    },
     {
       "title": "Daftar 10 Top Laggards: Saham BYAN–BBCA Jadi Pemberat IHSG Hari Ini - market.bisnis.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON0tTUVZQOWtTSFpsT2tYMEQtSFFDWEQ5VlpqVVhhWjNJX1FxVVpQa25IYjkxOFdTeXBIWDhhNGR2RXI1aWV1UTdqQm16akFoV09qNTNXYm5LbmNUWktfZ1didDVMWkV4bnJ6WWx4VHcwa1BKWTFHMHd5a2xjTDlUUEFhT2s2MEpCY2U1WHBLQVBIdlpOcE5YaUxtRFJfWi1NVGJNZVhUNkJITHAwVUtfa085Z2NaeE0?oc=5",
@@ -3099,40 +3134,6 @@
       ],
       "big": true,
       "id": "778a46e8a52bee18"
-    },
-    {
-      "title": "Hasil Rebalancing FTSE: 29 Saham Terdepak dari Indeks, BSDE Turun Dua Tangga",
-      "link": "https://katadata.co.id/finansial/bursa/6a8836f4667a6/hasil-rebalancing-ftse-29-saham-terdepak-dari-indeks-bsde-turun-dua-tangga",
-      "summary": "Lembaga pemeringkat FTSE Russel mengumumkan daftar saham Indonesia yang masuk dalam indeks global.",
-      "published": "2026-08-21T11:31:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Sinar Mas"
-      ],
-      "matched": [
-        "BSDE"
-      ],
-      "big": false,
-      "id": "d27000ca65650953"
-    },
-    {
-      "title": "IHSG Ditutup di 6.525 Akhir Pekan, Saham BUMI, TPIA, BBCA, DSSA Diburu Investor",
-      "link": "https://katadata.co.id/finansial/bursa/6a8825e79fb87/ihsg-ditutup-di-6525-akhir-pekan-saham-bumi-tpia-bbca-dssa-diburu-investor",
-      "summary": "Indeks Harga Saham Gabungan (IHSG) ditutup naik 0, 37% pada penutupan perdagangan Jumat (21/8).",
-      "published": "2026-08-21T10:18:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Bakrie",
-        "Djarum / Hartono",
-        "Prajogo / Barito"
-      ],
-      "matched": [
-        "BBCA",
-        "BUMI",
-        "TPIA"
-      ],
-      "big": false,
-      "id": "67bc1001ca0f290d"
     }
   ]
 }

@@ -1,7 +1,52 @@
 {
-  "updated": "2026-09-25T23:36:30.126898+00:00",
+  "updated": "2026-09-26T02:03:59.559824+00:00",
   "count": 150,
   "items": [
+    {
+      "title": "Dexa Group: IHYA 2026 bentuk apresiasi pacu industri farmasi halal",
+      "link": "https://www.antaranews.com/berita/5759325/dexa-group-ihya-2026-bentuk-apresiasi-pacu-industri-farmasi-halal",
+      "summary": "Perusahaan besar farmasi Dexa Group menilai penghargaan Indonesia Halal Industry Awards (IHYA) 2026 dari Kementerian ...",
+      "published": "2026-09-26T00:56:01+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "apresiasi"
+      ],
+      "big": false,
+      "id": "90066ef583ccde53"
+    },
+    {
+      "title": "Araghchi: Iran bisa buka Selat Hormuz dalam sepekan jika AS sepakat",
+      "link": "https://www.antaranews.com/berita/5759317/araghchi-iran-bisa-buka-selat-hormuz-dalam-sepekan-jika-as-sepakat",
+      "summary": "Menteri Luar Negeri (Menlu) Iran Abbas Araghchi&nbsp;mengatakan pihaknya dapat membuka kembali Selat Hormuz dalam waktu ...",
+      "published": "2026-09-26T00:42:52+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "menteri"
+      ],
+      "big": false,
+      "id": "de9e93041aabbbde"
+    },
+    {
+      "title": "DKI kemarin, FIFA ASEAN Cup hingga peringatan minum obat",
+      "link": "https://www.antaranews.com/berita/5759296/dki-kemarin-fifa-asean-cup-hingga-peringatan-minum-obat",
+      "summary": "Sejumlah berita seputar DKI Jakarta yang terjadi pada Jumat (25/9) kemarin, mulai dari FIFA ASEAN Cup hingga peringatan ...",
+      "published": "2026-09-25T23:49:16+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "ASEAN"
+      ],
+      "big": false,
+      "id": "ba86cc5becd43289"
+    },
     {
       "title": "Memacu ketahanan energi dengan B50",
       "link": "https://www.antaranews.com/infografik/5759260/memacu-ketahanan-energi-dengan-b50",
@@ -1921,6 +1966,21 @@
       "id": "02af6966bd6b8f58"
     },
     {
+      "title": "Bank of England defies Fed’s rate-hike lead, leaving rates unchanged",
+      "link": "https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html",
+      "summary": "The Bank of England kept rates steady Thursday, even after U.K. inflation rose to 3.1% and energy costs put pressure on prices.",
+      "published": "2026-09-17T12:27:10+00:00",
+      "source": "CNBC Global Markets",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "Bank of England"
+      ],
+      "big": false,
+      "id": "280ec1a85ed050fb"
+    },
+    {
       "title": "Precious Metals Relinquish Gains Following Fed Rate Increase - WSJ",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTlFrTzVTN3Jwd0MtUHMwRjJrMzF5d1ZqU2dlTGVCMzZ2T2pZTnMxNXVKV0V2Q3VTQTJmNmp6ZHRqY19rb1VwRERYWWhYanJEakwtanVWUHlLYmxVWk5SdUxELTJrVTRhVmU5bDk3eFBXSnJYUkhvTWlUUmFyNV9wX3BrckdjYTV0bTJWVVVZMHZ3OVN3b0l0eXBBbTM4U0JmNDh1UlVRdw?oc=5",
       "summary": "Precious Metals Relinquish Gains Following Fed Rate Increase&nbsp;&nbsp;WSJ",
@@ -1964,6 +2024,39 @@
       ],
       "big": true,
       "id": "c9ee81e30c2cc764"
+    },
+    {
+      "title": "Inflation persisted in August, potentially locking in a Fed interest rate hike",
+      "link": "https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html",
+      "summary": "The all-items consumer price index was expected to rise 0.4% in August, with core, excluding food and energy, showing a 0.2% gain, according to the Dow Jones consensus.",
+      "published": "2026-09-11T13:46:36+00:00",
+      "source": "CNBC Global Markets",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "Dow Jones",
+        "interest rate",
+        "rate hike"
+      ],
+      "big": true,
+      "id": "27a7e97865557952"
+    },
+    {
+      "title": "The likelihood of a Fed interest rate hike next week just got a lot higher",
+      "link": "https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html",
+      "summary": "Traders pushed chances for a rate increase to 70% in morning action.",
+      "published": "2026-09-10T16:55:17+00:00",
+      "source": "CNBC Global Markets",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "interest rate",
+        "rate hike"
+      ],
+      "big": true,
+      "id": "56be53891751e623"
     },
     {
       "title": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
@@ -2202,98 +2295,6 @@
       ],
       "big": false,
       "id": "037e084b56ba9310"
-    },
-    {
-      "title": "Indonesia central bank holds policy rates to keep rupiah stable - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDBwQ3lCM2pvVktxLWFvS3RJQ3dTbGd3bkxPbjU2czNlNXp3R2NtWWdXS3diQW05dmhrUEtsbVNLRUd3UVpid0tZckF3Q281czRveUNKLUpmYXBVNjdGM3lmbDUxTTR0eUZpVjRraHByVUpDNzhHLUZDMlNvWURWV1BiZjBNQmVLRW51UnNLYjBOM2N5U2xFZGstc01iTGY1VE44RS1MbVJTdDQxajRwbjFpSEc3QQ?oc=5",
-      "summary": "Indonesia central bank holds policy rates to keep rupiah stable&nbsp;&nbsp;Reuters",
-      "published": "2025-04-23T07:00:00+00:00",
-      "source": "Reuters – Indonesia",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah"
-      ],
-      "big": true,
-      "id": "d46070e2dabfdda0"
-    },
-    {
-      "title": "Wall Street’s ‘Smart Money’ Braced for Tariff Chaos. It Was Still Caught Off Guard. - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcE9MMzJOZ3VxSlRPODh6M2ZyTGViOFpHdmJGVDY2OFdvZktHclg3U3FoVWsxSkpHb21qbkpjYzlrQU9QUE51Q0VPRjRSNGdhVzJXRndGQ3VxVXp0cXpvYW5IMnRIU0NzWUUyN3Atbkt2RE9udW1VaU84ckhVMHVYMkZOTE1mRVFkbUlDWDNqOUk5b3o1VUtEX1ppWUg2V05xNkVrSG94M1dVY3d2Tm1SQTA4Qm9mSHFzTnRHY010SVNfMVE?oc=5",
-      "summary": "Wall Street’s ‘Smart Money’ Braced for Tariff Chaos. It Was Still Caught Off Guard.&nbsp;&nbsp;WSJ",
-      "published": "2025-04-12T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "tariff"
-      ],
-      "big": false,
-      "id": "fac2028af9f45c79"
-    },
-    {
-      "title": "Indonesia’s new sovereign wealth fund vows transparency ‘like a public company’ - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbXNqaXNqbExtbDRLb0hQVFhHUGJseDV4cUdSeGVFVUl0U0NJaDVpZnJBeU5XejhvV0JqZUVMY1B6V3A1OEphUjQtaGZHeDR4TVc3YTlfc0ptWV9TSDVMQlZVOVNzTTI0UzFmaUNNWUJiaFdWS3VRNjNOdFJ2V0ROclB6VVQ?oc=5",
-      "summary": "Indonesia’s new sovereign wealth fund vows transparency ‘like a public company’&nbsp;&nbsp;Financial Times",
-      "published": "2025-03-31T07:00:00+00:00",
-      "source": "Financial Times (via GNews)",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "sovereign"
-      ],
-      "big": false,
-      "id": "d315cbcf29b34870"
-    },
-    {
-      "title": "Will Prabowo Subianto cosy up to Donald Trump or to China? - The Economist",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcjdXakNNZVFJZWxGUDMyMF9qQTJpWmwxVUJkQnhmQzFZTENZTXNzc29tWHIxYlpCMjIwSHpETjEzMkxWeTF6ZjVQMFNvWFQ1bDg2STdWeTh3R2NBNnJVZDBDZi01Q0JCdzVGeWE2c0Z1RG5mNWI4Tk52YUhRZVVoQ2NQaHFwam91cWJKMXhSNGxBQ0pMTGVsbWNmaXptbWM0?oc=5",
-      "summary": "Will Prabowo Subianto cosy up to Donald Trump or to China?&nbsp;&nbsp;The Economist",
-      "published": "2024-11-07T08:00:00+00:00",
-      "source": "The Economist (via GNews)",
-      "groups": [
-        "Geopolitics",
-        "Government / Policy"
-      ],
-      "matched": [
-        "Prabowo",
-        "Trump"
-      ],
-      "big": false,
-      "id": "8e0327d3f78b6fb1"
-    },
-    {
-      "title": "Indonesia's plunging rupiah twists the policy plot - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVi1uQkx4Z1dKT0k0T05uT0FtbVdjSjQzaDdXaktrR09hdkRYMElJeUN4a18wMVFtNkUwcjFDZmxxS0NWREFCOWRxNkllblJFVDVXWUk4QTRCX0djWTBZbnNQSFJmdi1JVER0SXllWm5mWDg4WDZWaUlSQW9Jc0kyZHBoS3dPaW1oWlZTNXlHVk1YXzgtY3dnVWRR?oc=5",
-      "summary": "Indonesia's plunging rupiah twists the policy plot&nbsp;&nbsp;Reuters",
-      "published": "2024-04-16T07:00:00+00:00",
-      "source": "Reuters – Indonesia",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah"
-      ],
-      "big": true,
-      "id": "97b3dea1c33194fd"
-    },
-    {
-      "title": "Are central banks in emerging markets now less of a slave to the Fed? - The Economist",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdER6RHhvc1doYTBfUUFBS29CLWd0bGRONmVhb3pTM1Rja0xIQ3dVNVBYakJHR1RpVGNvcU5YUk91Z0swc19tWVhuMC1kNVNhZzFVTmtiVzl4eDhzcV9qUjRfMVJKYXM4NUR6RWQ3bVJqY2VGLXF6UHRsZi1fYlhEMm02eDNrczRsYkk0bHBJUHNvRzMyWkpsc2MyQ2VyYWNLRW11TjRmbG85MjNIaDZMVVljelp4dnBRLTlMM0dCQ0NEVVhEdUE?oc=5",
-      "summary": "Are central banks in emerging markets now less of a slave to the Fed?&nbsp;&nbsp;The Economist",
-      "published": "2022-07-07T07:00:00+00:00",
-      "source": "The Economist (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "emerging market"
-      ],
-      "big": false,
-      "id": "367eebb4a8fcc36c"
     }
   ]
 }

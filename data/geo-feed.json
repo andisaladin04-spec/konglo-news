@@ -1,7 +1,329 @@
 {
-  "updated": "2026-09-29T00:57:02.887754+00:00",
+  "updated": "2026-09-29T06:49:11.586368+00:00",
   "count": 150,
   "items": [
+    {
+      "title": "KSP: Presiden minta transformasi digital birokrasi pada layanan publik",
+      "link": "https://www.antaranews.com/berita/5762900/ksp-presiden-minta-transformasi-digital-birokrasi-pada-layanan-publik",
+      "summary": "Kantor Staf Presiden (KSP) menyatakan bahwa&nbsp;Presiden Prabowo Subianto meminta birokrasi pemerintah terus melakukan ...",
+      "published": "2026-09-29T06:45:39+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "7f93bef5399dd040"
+    },
+    {
+      "title": "Gaji PPPK pemda resmi ditanggung pemerintah pusat pada 2027",
+      "link": "https://www.antaranews.com/berita/5762895/gaji-pppk-pemda-resmi-ditanggung-pemerintah-pusat-pada-2027",
+      "summary": "DPR RI dan pemerintah menyepakati bahwa gaji pegawai pemerintah dengan perjanjian kerja (PPPK) di lingkungan pemerintah ...",
+      "published": "2026-09-29T06:39:26+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "DPR"
+      ],
+      "big": false,
+      "id": "073794fd8aa7ce52"
+    },
+    {
+      "title": "DPR tunda bertemu parpol nonparlemen sebab ingin libatkan lebih banyak",
+      "link": "https://www.antaranews.com/berita/5762880/dpr-tunda-bertemu-parpol-nonparlemen-sebab-ingin-libatkan-lebih-banyak",
+      "summary": "Wakil Ketua DPR RI Sufmi Dasco Ahmad menyampaikan pihaknya menunda pertemuan dengan partai politik (parpol) nonparlemen ...",
+      "published": "2026-09-29T06:31:56+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "DPR"
+      ],
+      "big": false,
+      "id": "b6f8a775d311d0b3"
+    },
+    {
+      "title": "Australia raises interest rates to 15-year high",
+      "link": "https://www.aljazeera.com/economy/2026/9/29/australia-raises-interest-rates-to-15-year-high?traffic_source=rss",
+      "summary": "Reserve Bank of Australia lifts benchmark rate to 4.6 percent amid stubborn inflation.",
+      "published": "2026-09-29T06:29:01+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "interest rate"
+      ],
+      "big": false,
+      "id": "edff43c20f68f835"
+    },
+    {
+      "title": "BKPM: Implementasi RUPTL buka peluang investasi Rp2.133 triliun",
+      "link": "https://www.antaranews.com/berita/5762871/bkpm-implementasi-ruptl-buka-peluang-investasi-rp2133-triliun",
+      "summary": "Kementerian Investasi dan Hilirisasi/Badan Koordinasi Penanaman Modal (BKPM) menyebut implementasi Rencana Usaha ...",
+      "published": "2026-09-29T06:25:55+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Commodity / Energy Policy"
+      ],
+      "matched": [
+        "hilirisasi"
+      ],
+      "big": false,
+      "id": "62a3d9c365c95e4c"
+    },
+    {
+      "title": "Komnas HAM apresiasi pengampunan mutlakFilipina untuk Mary Jane",
+      "link": "https://www.antaranews.com/berita/5762865/komnas-ham-apresiasi-pengampunan-mutlakfilipina-untuk-mary-jane",
+      "summary": "Komisi Nasional Hak Asasi Manusia (Komnas HAM) mengapresiasi pengampunan mutlak (absolute pardon) yang diberikan ...",
+      "published": "2026-09-29T06:22:59+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "apresiasi"
+      ],
+      "big": false,
+      "id": "1127da5d6831d5fe"
+    },
+    {
+      "title": "Subsidi energi 2027 ditetapkan Rp261,5 triliun, ini rinciannya",
+      "link": "https://www.antaranews.com/berita/5762853/subsidi-energi-2027-ditetapkan-rp2615-triliun-ini-rinciannya",
+      "summary": "Pemerintah dan DPR RI menyepakati anggaran subsidi energi dalam Undang-Undang Anggaran Pendapatan dan Belanja Negara ...",
+      "published": "2026-09-29T06:18:01+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "DPR",
+        "anggaran",
+        "subsidi"
+      ],
+      "big": false,
+      "id": "fc4661734061e700"
+    },
+    {
+      "title": "Pemerintah dan DPR sepakati belanja negara 2027 jadi Rp4.106,26 T",
+      "link": "https://www.antaranews.com/berita/5762845/pemerintah-dan-dpr-sepakati-belanja-negara-2027-jadi-rp410626-t",
+      "summary": "Pemerintah dan DPR RI menyepakati kenaikan belanja negara dalam APBN 2027 sebesar Rp9,07 triliun menjadi Rp4.106,26 ...",
+      "published": "2026-09-29T06:15:53+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "APBN",
+        "DPR"
+      ],
+      "big": true,
+      "id": "605e46de73f92d6c"
+    },
+    {
+      "title": "ESDM bidik Kaltim dan Sumsel untuk proyek batu bara jadi BBM",
+      "link": "https://www.antaranews.com/berita/5762840/esdm-bidik-kaltim-dan-sumsel-untuk-proyek-batu-bara-jadi-bbm",
+      "summary": "Kementerian Energi dan Sumber Daya Mineral (ESDM) membidik Kalimantan Timur dan Sumatera Selatan untuk menjadi lokasi ...",
+      "published": "2026-09-29T06:14:44+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Commodity / Energy Policy"
+      ],
+      "matched": [
+        "batu bara"
+      ],
+      "big": false,
+      "id": "04389d1ffd049613"
+    },
+    {
+      "title": "DPR sahkan APBN 2027, pendapatan negara capai Rp3.435,10 triliun",
+      "link": "https://www.antaranews.com/foto/5762832/dpr-sahkan-apbn-2027-pendapatan-negara-capai-rp343510-triliun",
+      "summary": "Ketua DPR Puan Maharani (kedua kanan) menerima berkas pendapat akhir dari Menteri Keuangan Suahasil Nazara (kiri) pada ...",
+      "published": "2026-09-29T06:11:46+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "APBN",
+        "DPR",
+        "menteri"
+      ],
+      "big": true,
+      "id": "445982071e3be734"
+    },
+    {
+      "title": "KKP geser sentra perikanan dari Benoa ke Pengambengan",
+      "link": "https://www.antaranews.com/berita/5762823/kkp-geser-sentra-perikanan-dari-benoa-ke-pengambengan",
+      "summary": "Menteri Kelautan dan Perikanan Sakti Wahyu Trenggono menilai Pelabuhan Benoa, Bali, sudah tidak layak lagi dikembangkan ...",
+      "published": "2026-09-29T06:05:06+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "menteri"
+      ],
+      "big": false,
+      "id": "6f92954783353fee"
+    },
+    {
+      "title": "DPR akan datangi Lapas Cibinong guna cocokkan data dan fakta lapangan",
+      "link": "https://www.antaranews.com/berita/5762808/dpr-akan-datangi-lapas-cibinong-guna-cocokkan-data-dan-fakta-lapangan",
+      "summary": "Wakil Ketua DPR RI Sufmi Dasco Ahmad mengatakan Komisi XIII DPR RI akan mengunjungi Lembaga Pemasyarakatan (Lapas) ...",
+      "published": "2026-09-29T05:54:33+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "DPR"
+      ],
+      "big": false,
+      "id": "38bf096e004b0098"
+    },
+    {
+      "title": "Mendiktisaintek minta SPI perkuat pengawasan cegah penyimpangan",
+      "link": "https://www.antaranews.com/berita/5762793/mendiktisaintek-minta-spi-perkuat-pengawasan-cegah-penyimpangan",
+      "summary": "Menteri Pendidikan Tinggi, Sains, dan Teknologi (Mendiktisaintek) Brian Yulianto meminta&nbsp;Satuan Pengawas Internal ...",
+      "published": "2026-09-29T05:33:39+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "menteri"
+      ],
+      "big": false,
+      "id": "b38b40bd90062404"
+    },
+    {
+      "title": "Puan: Pertemuan Prabowo dan Megawati \"jauh di mata, dekat di hati\"",
+      "link": "https://www.antaranews.com/berita/5762791/puan-pertemuan-prabowo-dan-megawati-jauh-di-mata-dekat-di-hati",
+      "summary": "Ketua DPP PDIP Puan Maharani menilai pertemuan Presiden Prabowo Subianto dan Presiden Ke-5 Republik Indonesia Megawati ...",
+      "published": "2026-09-29T05:32:52+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "1a3fb00cf9d9daeb"
+    },
+    {
+      "title": "KKP gelontorkan Rp1,2 triliun untuk pengembangan PPN Pengambengan Bali",
+      "link": "https://www.antaranews.com/berita/5762784/kkp-gelontorkan-rp12-triliun-untuk-pengembangan-ppn-pengambengan-bali",
+      "summary": "Menteri Kelautan dan Perikanan (KP) Sakti Wahyu Trenggono menyebut pemerintah mengalokasikan investasi sedikitnya Rp1,2 ...",
+      "published": "2026-09-29T05:29:02+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "menteri"
+      ],
+      "big": false,
+      "id": "551161c1282c86ea"
+    },
+    {
+      "title": "Siang ini MK putuskan 20 permohonan uji materiil undang-undang",
+      "link": "https://www.antaranews.com/berita/5762768/siang-ini-mk-putuskan-20-permohonan-uji-materiil-undang-undang",
+      "summary": "Mahkmah Konstitusi (MK) Selasa siang ini dijadwalkan menggelar sidang pengucapan putusan atau ketetapan terhadap 20 ...",
+      "published": "2026-09-29T05:18:30+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "MK"
+      ],
+      "big": false,
+      "id": "246d5896a54d57d1"
+    },
+    {
+      "title": "BI sebut pelemahan rupiah dipengaruhi kekhawatiran tekanan inflasi global - ANTARA News Megapolitan",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeXZzdkFrTTBKbUxSblBSM0ttVDRwMGRyQXQyVm5ha01xYjItenNteGRnY3FDVnRla20zY2EtVkxVclFrRUliVXV2a0pIeWtvU2lxa2tqYlA3Rnplc3ZhX3hoMTlYOW1Wd2JCRXlUNTB6c09MSGdtaVN3bmQzX2FjdnNicW5pdEZIOHJNZ1V2VXIwcnJNbHpMbXRuX2h1NFJ0bkxoY3NKN0RpSUtVWUNQUUZtYlpFQ0xrdVRqUUZjMNIBxAFBVV95cUxOZERkTWFuQzRROUtlMU5wdlZaZVFZSHFkam9leUdYM0VJNjN4V2p3VGVQMklLTFZoQXRrTHlmNHBZSzdfNDYzTmJiTnJsNmE3NTc2S3FYaU5OeExWMFJFWW9JajRCYlZqVlpoQXlEU1BtNnZzUDJBY0lJbkFyOWdwRHUzbG43XzBuRXlhc3NJSDcxeHZfQjFnU1hNbV9UemFrdHk4TktYZUZZV1pDemY0eGREWTVpQzBjSm9yb3ZNcVczS0Jv?oc=5",
+      "summary": "BI sebut pelemahan rupiah dipengaruhi kekhawatiran tekanan inflasi global&nbsp;&nbsp;ANTARA News Megapolitan",
+      "published": "2026-09-29T04:47:48+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "inflasi",
+        "rupiah"
+      ],
+      "big": true,
+      "id": "aa5529d60466153d"
+    },
+    {
+      "title": "Australian interest rates hit 15-year high after fourth hike this year - Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdFVZSVU2b2JhX0pjVnpEMkV2ejRqTEFiWFgtQnRsVG9saXVRa2ZQeTZnam9SRXFGMHJoMjJTLUl0SV9JQjlIY3FsR3hlT0toc1d5N1NtNTBCUFhlT0RYYjd4ZmhRZ01nbzZ3SEVreUIwYXVmR2lGNHlZcm5oMkY4UHJEcUZyZmp4V2FXa2I5TXRQN2s4VVdVVy1qU2hfZEVFM1gtNA?oc=5",
+      "summary": "Australian interest rates hit 15-year high after fourth hike this year&nbsp;&nbsp;Nikkei Asia",
+      "published": "2026-09-29T04:33:00+00:00",
+      "source": "Nikkei Asia (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "interest rate"
+      ],
+      "big": false,
+      "id": "45a326d5b06e13d1"
+    },
+    {
+      "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
+      "link": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
+      "summary": "It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume.",
+      "published": "2026-09-29T04:10:33+00:00",
+      "source": "BBC Business",
+      "groups": [
+        "Geopolitics",
+        "Global Finance"
+      ],
+      "matched": [
+        "trade war"
+      ],
+      "big": true,
+      "id": "75c99657219b8dc5"
+    },
+    {
+      "title": "Prabowo Receives Call From Turkish President Erdogan",
+      "link": "https://en.tempo.co/read/2120525/prabowo-receives-call-from-turkish-president-erdogan",
+      "summary": "Erdogan extended an invitation to Prabowo to attend the COP31 summit in Antalya, Turkey.",
+      "published": "2026-09-29T04:02:06+00:00",
+      "source": "Tempo.co",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "4dc75ecf67ae8ab9"
+    },
+    {
+      "title": "Pilihan Sulit BI Selamatkan Rupiah Tanpa Korbankan Ekonomi RI - CNBC Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQXg3Tmp6eWJzYnFwQWdYOFh5X0wtR2NaSEdZSUNnR0syaFBxUkZSLXlsZWl1TDZLZnRtWVhIYzQwejRRaUdEWmdPcExqY1lHZzJaaHJsamc0cnY5cmJwbEp5WjZxS1BGTGdYOFBLZ2Q0eEJueUJrMGJxREdhd2JGWEdTekgwMGV1bGxnRWkta1JBQ3JDLUtucWpzZVFKSnRXZ3ZFc1kwLVVibFpKa1EtSGtFcmw5LW1jakwyNGJVQmNaQdIBwgFBVV95cUxOQXg3Tmp6eWJzYnFwQWdYOFh5X0wtR2NaSEdZSUNnR0syaFBxUkZSLXlsZWl1TDZLZnRtWVhIYzQwejRRaUdEWmdPcExqY1lHZzJaaHJsamc0cnY5cmJwbEp5WjZxS1BGTGdYOFBLZ2Q0eEJueUJrMGJxREdhd2JGWEdTekgwMGV1bGxnRWkta1JBQ3JDLUtucWpzZVFKSnRXZ3ZFc1kwLVVibFpKa1EtSGtFcmw5LW1jakwyNGJVQmNaQQ?oc=5",
+      "summary": "Pilihan Sulit BI Selamatkan Rupiah Tanpa Korbankan Ekonomi RI&nbsp;&nbsp;CNBC Indonesia",
+      "published": "2026-09-29T00:05:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "rupiah"
+      ],
+      "big": true,
+      "id": "035405ad3c072b8e"
+    },
     {
       "title": "Pilihan Sulit BI Selamatkan Rupiah Tanpa Korbankan Ekonomi RI - CNBC Indonesia",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN2diZVF5S2wwNXdjUHBGYVk2ZnJrem1jS3dzSGt2enFUdmY5cFUtd2lYUTZkbEVrbnFUSWtETDJraVI0elJEMWxtODhEVU9CWkRFMUxtNHlSODdMaTNNOVlvYUFfR2R1VWdKX25PQ25yOHcwTEdnVmxlMDRFWUU0cFFxRFFFSjNEYkJicTU0bnkyMXdFdHNYakY0eGtLd1BPSDRhdkFuLVo5YmNyLVktTjhOSWU2eEF4UUtmTtIBwgFBVV95cUxOQXg3Tmp6eWJzYnFwQWdYOFh5X0wtR2NaSEdZSUNnR0syaFBxUkZSLXlsZWl1TDZLZnRtWVhIYzQwejRRaUdEWmdPcExqY1lHZzJaaHJsamc0cnY5cmJwbEp5WjZxS1BGTGdYOFBLZ2Q0eEJueUJrMGJxREdhd2JGWEdTekgwMGV1bGxnRWkta1JBQ3JDLUtucWpzZVFKSnRXZ3ZFc1kwLVVibFpKa1EtSGtFcmw5LW1jakwyNGJVQmNaQQ?oc=5",
@@ -1354,137 +1676,117 @@
       "id": "3d2c58151ac2bd41"
     },
     {
-      "title": "Kapolri berangkatkan dua bersaudara umrah gratis",
-      "link": "https://www.antaranews.com/berita/5760847/kapolri-berangkatkan-dua-bersaudara-umrah-gratis",
-      "summary": "Kapolri Jenderal Pol Listyo Sigit Prabowo memberangkatkan dua bersaudara asal Bogor, Ulil Albab Presisi (4) dan Sattar ...",
-      "published": "2026-09-27T13:43:52+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "d8ee7db071610334"
-    },
-    {
-      "title": "Menaker dukung pengembangan Satpel PVP di Sawahlunto",
-      "link": "https://www.antaranews.com/berita/5760844/menaker-dukung-pengembangan-satpel-pvp-di-sawahlunto",
-      "summary": "Menteri Ketenagakerjaan (Menaker) Yassierli&nbsp;mendukung pengembangan Satuan Pelayanan Perlindungan dan Pemberdayaan ...",
-      "published": "2026-09-27T13:43:51+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "menteri"
-      ],
-      "big": false,
-      "id": "da925d24c8c2f13b"
-    },
-    {
-      "title": "John Herdman: Laga lawan Malaysia pacu performa terbaik Garuda",
-      "link": "https://www.antaranews.com/berita/5760832/john-herdman-laga-lawan-malaysia-pacu-performa-terbaik-garuda",
-      "summary": "Pelatih Kepala Timnas Indonesia John Herdman menyebutkan laga melawan Malaysia dalam FIFA ASEAN Cup 2026 akan memacu ...",
-      "published": "2026-09-27T13:22:08+00:00",
-      "source": "Antara News",
+      "title": "Two giant pandas depart China for US after Xi-Trump summit - Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYzNGWDRNRFpRMGpySnB2aDZmY0F2bWdoS2FyM2FFZDh0NldIdE84Y05vMlF6YVc3ZUJ6WVBwbTFuX1JibGNpc3FtWmx6OGhfdjg5Z0JfVkNqRnVsT2lpLXNsU2tSUERNNlUxQ3RxVFlPUHhUMThkTjlWMHg2c09xeTV1MjRQZVZZa3pkN0dJMEhrc05pSDRFbVhKek82SnJUeno0dnVxRnJsZkdHREJjWTFFZzZJQQ?oc=5",
+      "summary": "Two giant pandas depart China for US after Xi-Trump summit&nbsp;&nbsp;Nikkei Asia",
+      "published": "2026-09-27T05:10:00+00:00",
+      "source": "Nikkei Asia (via GNews)",
       "groups": [
         "Geopolitics"
       ],
       "matched": [
-        "ASEAN"
+        "Trump"
       ],
       "big": false,
-      "id": "b3153a7492b1f663"
+      "id": "29c6ca2df28e2c63"
     },
     {
-      "title": "‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer?",
-      "link": "https://www.aljazeera.com/news/2026/9/27/better-deal-whats-behind-trumps-rejection-of-irans-truce-offer?traffic_source=rss",
-      "summary": "Experts say Trump sees economic sanctions as key to extracting more concessions but he risks losing leverage.",
-      "published": "2026-09-27T13:17:53+00:00",
-      "source": "Al Jazeera",
+      "title": "Indonesia Holds Rate, Boosting Hedging Incentives for Rupiah - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeFFlbTBhODNqeDRHTHVsaUVRNi0wUk9wVUlQU2JXYmYwcFNIWHZ0bHlIaC1obU5Kc21ISi01dzlqNm5ZcUc5SEFhTlpfaUhrM2kwd2loNlBpSkpWTWdGREpva2tFX1VoTFBmTnhjaU1fcjBtVjFpT1J0Tm44a0tqZlVRdzhQVlozMzEzMXFSR1RxQjNaVmZ2c1gwSkFzM2VuVlZ4amY4cHcwejQ0aTFTSFZUc1JNa2RPRHFKejI4UQ?oc=5",
+      "summary": "Indonesia Holds Rate, Boosting Hedging Incentives for Rupiah&nbsp;&nbsp;Bloomberg.com",
+      "published": "2026-09-23T07:22:48+00:00",
+      "source": "Bloomberg (via GNews)",
       "groups": [
-        "Geopolitics",
-        "Global Finance"
+        "Macro / Economy"
       ],
       "matched": [
-        "Trump",
-        "sanctions"
+        "rupiah"
       ],
-      "big": false,
-      "id": "e1f89a935a579b0c"
+      "big": true,
+      "id": "c60424727dfa318e"
     },
     {
-      "title": "BI Rate Tetap, Cadangan Devisa Topang Stabilitas Rupiah - PT Suara Dewata Media",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY0JhOEgwcTY3QXB2R09EUllwS21ta25hLUNDYVU1dzRWU0xIS1NMUThwVzB2NjVTQXN2eFVrNFZOSm9zUmN1ZGpDRDlvZi12a0pJWGg5NWo0MWFDM1pPeFgyQlZZaHZTaG9ITGZMejJjM3Q3b2UxREJlQnY4Nk1EVFgtTHVqZDJ0WmJOd2Qxd0piU3NwVHNLMko0VXdYS0RPdjJvTg?oc=5",
-      "summary": "BI Rate Tetap, Cadangan Devisa Topang Stabilitas Rupiah&nbsp;&nbsp;PT Suara Dewata Media",
-      "published": "2026-09-27T13:00:00+00:00",
+      "title": "BI Rate Diproyeksi Tetap 5,75 Persen di Tengah Tekanan Rupiah dan Global - kumparan.com - kumparan.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ3MtRG9YVGhkSHVzaUV2WGpYTExyN24wdWxuYmE3SlNhekR0dlFvcEYzbWd3SEpiZWJScVE2Z21ZTENCdXdWOTJHR3VIYTNsTnJwVVpWWkhUNi15SGxXX2NrY2lZVGc2TzFkOFFJbjhDMVNGcUYtUUdIaVNjaUpvdjltbHFvUjJkWUZQRWU3U0txNXdYYTkzWEV0YjFBWUJnbnMwRDA0STd0eEw0MVZYYmZ3QXVjdkw5cDJ0WtIBxAFBVV95cUxNQjJkNWQwZW52UUNrcklEajhrQ0RfUjl3NmNTXzFtVXNkT2RDdkVNR252dnE3aUtqR0FsdjlENjdzZHgyUjBnWGZlcHVWQjBvQkNaQXFzd044OFlQeGUyQUJjU01kZ2hXMzBpNU5lZDFrVm9UQk1RejdiLU90Q2Y1eHNwcDFDQTlLdEVlWkZyTGdSMU42Wjk3eDJpR0t6MWdEN3g4THVxcmxubExyTjU4YW42b3N4VjljMEpiWlpWTGwxbENy?oc=5",
+      "summary": "BI Rate Diproyeksi Tetap 5,75 Persen di Tengah Tekanan Rupiah dan Global - kumparan.com&nbsp;&nbsp;kumparan.com",
+      "published": "2026-09-23T03:48:00+00:00",
       "source": "GNews – BI rate rupiah",
       "groups": [
         "Macro / Economy"
       ],
       "matched": [
         "BI rate",
-        "cadangan devisa",
         "rupiah"
       ],
       "big": true,
-      "id": "2fea73a66967a5fc"
+      "id": "6a4dc3f2a2d1c558"
     },
     {
-      "title": "Pertamina SMEXPO 2026 libatkan 150 UMKM binaan",
-      "link": "https://www.antaranews.com/berita/5760808/pertamina-smexpo-2026-libatkan-150-umkm-binaan",
-      "summary": "PT Pertamina (Persero) menyebutkan ajang Pertamina SMEXPO 2026 yang diselenggarakan di beberapa kota di tanah air, ...",
-      "published": "2026-09-27T12:56:44+00:00",
-      "source": "Antara News",
+      "title": "Watch Trump Hails US-Iran Talks, Reviving Hopes of Diplomacy - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTHBqc1RlSndkRWN6SFpvMW0yQW9tOEk3V0dxMFNYUzlQMjJIM1FYNGxNdXRicXc0b3pCZmdlaXI0ZFd1YWJUVHBTdE9SYUw0UGFlNTdzRkVScy1uUTFIOWlUeTdVanNVWk5sQlhyLTMxTmtNRWRrVFA5U0RvSEd0dnlxRy1SRVA0RUFRN0lYNjNGQzhSY0FCU3BySFotalRKaFQyb1J0c2tzZjVY?oc=5",
+      "summary": "Watch Trump Hails US-Iran Talks, Reviving Hopes of Diplomacy&nbsp;&nbsp;Bloomberg.com",
+      "published": "2026-09-23T00:00:00+00:00",
+      "source": "Bloomberg (via GNews)",
       "groups": [
-        "Commodity / Energy Policy"
+        "Geopolitics"
       ],
       "matched": [
-        "Pertamina"
+        "Trump"
       ],
       "big": false,
-      "id": "a55dc2810e01d7c0"
+      "id": "d2e0372d27ba5326"
     },
     {
-      "title": "Emerging Market Investors Shun Riskiest Bonds as US Yields Soar - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMXVzamIwSmlSREV5QTJmRU9Ga1pFRWw0OXNWUkNwT0hJUkZOR3M0UlVTLW5xMm10RVNhUlhqclZXRGJIRTY3TFM5N3ZFX3RFSnI3dlZ6YmVaMzFxR0VmYUQzb2JnRmg1a290T3huS2xlUXV3d3d2T3RtM1ZXTUx0M0xvT1RJbkE4LUc0a0U4LXlDSW4wNmJhNDFsZzJ4WWF0dVlYdXlzeTlaRWVndl9UdV9lcmM?oc=5",
-      "summary": "Emerging Market Investors Shun Riskiest Bonds as US Yields Soar&nbsp;&nbsp;Bloomberg",
-      "published": "2026-09-27T12:30:00+00:00",
+      "title": "Gold Steadies as Iran Talks Temper Concerns Over Fed Rate Path - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS0lGQndCZl9ua0tsV1ljV3ZxekNiNU1WSlBfUXpScmdaVHpkX2NWS3Jnc2ZoMnNTRlhEMXRadlpwSGJmQ3VlSDNlZlc2RnRFQmc1bGN5NE5lRWI3aVlzV2RoUm5Xc2IzdW9Da2RnUno0dkRDYnhfeEJIRGJWU0h2YUxQOXdWbUJMZEZ6bGNzUFVkSUpTOUJYOVRaRDdROEdKTzAybHIxRTdtTjl5NXNpTm1PSQ?oc=5",
+      "summary": "Gold Steadies as Iran Talks Temper Concerns Over Fed Rate Path&nbsp;&nbsp;Bloomberg.com",
+      "published": "2026-09-22T23:56:43+00:00",
       "source": "Bloomberg (via GNews)",
       "groups": [
         "Global Finance"
       ],
       "matched": [
-        "emerging market"
-      ],
-      "big": false,
-      "id": "46d1749f5945b00c"
-    },
-    {
-      "title": "BI Rate Tetap, Cadangan Devisa Topang Stabilitas Rupiah - Minews ID",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUWUzRjJJX3dCUjZzSkR1S3Z6c2Z6ZkgxVkxYb1o1aVdtZ2FueEVyS3dzZXBUSjdjTk93aVFGWm9oTi1yTE1BLXpDX1o3RnJaT1VpVnNHTFVUc2ZWWWRKR3FoaERNRGhpWnVXUjkyVWxRMTBYdjVQeUlOUHNjSXl1Tmh3bw?oc=5",
-      "summary": "BI Rate Tetap, Cadangan Devisa Topang Stabilitas Rupiah&nbsp;&nbsp;Minews ID",
-      "published": "2026-09-27T12:20:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate",
-        "cadangan devisa",
-        "rupiah"
+        "Fed rate"
       ],
       "big": true,
-      "id": "9992f9c2736e896e"
+      "id": "7dc6f02d3ced6808"
     },
     {
-      "title": "81 tahun PT Pos, Wamenkomdigi minta digitalisasi beri manfaat",
-      "link": "https://www.antaranews.com/berita/5760719/81-tahun-pt-pos-wamenkomdigi-minta-digitalisasi-beri-manfaat",
-      "summary": "Dalam peringatan HUT ke-81 PT Pos, Wakil Menteri Komunikasi dan Digital (Wamenkomdigi) Angga Rakha Prabowo meminta ...",
-      "published": "2026-09-27T10:38:15+00:00",
-      "source": "Antara News",
+      "title": "How Harley-Davidson, an American Icon, Became a Tariff Punching Bag - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMnZhVnlQdjFiRFBVaHlnZWZEcktwQ2pPNVRPTFpuVUs5RjlCVFpSdlN2anpWNlF2ajR0QmM3NW9YT3hiVDBmMWh3Njg3MVY0dXd4Q3dpOGEyZzdXZ0U3WE1TenMyZWNmeWtIU19ibTJkaEE0TkJab2RtQ0o4SFdvSUdMSkx3OFdDWXVaWGZLSkFFbTFBSjdsekRuLVNvajcwbFZmZHN0TWdzRmFV?oc=5",
+      "summary": "How Harley-Davidson, an American Icon, Became a Tariff Punching Bag&nbsp;&nbsp;WSJ",
+      "published": "2026-09-21T09:30:00+00:00",
+      "source": "WSJ (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "tariff"
+      ],
+      "big": false,
+      "id": "711ef60968d0a274"
+    },
+    {
+      "title": "Apa Kira-kira Respons BI Setelah Fed Rate Naik? - Kompas.id",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ILVpYUmxodXZEQzRNNEFtT3dGVmx0Z0NVbVhTZ2cyMV9CcWVmb2poR0d3M0JheW9jTGp1SHBjU3dWMnR6QTQ1eDByYjRCWUt6QzhYMXRaTUJ2NWFjUS1JNjB5cFVjTTYtZ0toRndjT1UyU2ZtX2c?oc=5",
+      "summary": "Apa Kira-kira Respons BI Setelah Fed Rate Naik?&nbsp;&nbsp;Kompas.id",
+      "published": "2026-09-17T07:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "Fed rate"
+      ],
+      "big": true,
+      "id": "3864e9cee7326e30"
+    },
+    {
+      "title": "Suahasil Nazara Ungkap Pesan Prabowo Setelah Ditunjuk Jadi Menteri Keuangan - nasional.kontan.co.id",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTExvWWlfUmx4Y2p0RmdwT3VXSGtuX1pmTEtQaVM1aVNaNXV1QTBQNGtNemYwalVJU2JVLVk4Y3J5Q2xfUGFUUDhUVTZ0dDk0YUNGMG84SUdWczNkNTZzdzYtTUQtb1dxMG1TbjZkVm02cXhVY1k3QUthZUpjUXlhZUZCNDQwWlBLR3VJZzJTMUladG5Rb09PWXRIRUgyaDFIYXZtMFo3OGVTSno1YnhB0gGoAUFVX3lxTE1SOUZSQk9CR0lqU1JSNjJrVXlFc25ETERTR25qcTFBUkZrLWxKVlZEbE1fcU9YS1R4MGc5YzVESmFxUWdiSDI0Q29WVmxXVFJhY0k4eTAxdlp1Z29QR0RQRnVZb0xHMHVhcldOOTZMYlc0VEdaSkNtNFRiOTllcmlRTzdBMG9RZEM3bW1ZZFlVbExpZ3hJLWFoSEZpNXI4VU5TVmp2LWFXcw?oc=5",
+      "summary": "Suahasil Nazara Ungkap Pesan Prabowo Setelah Ditunjuk Jadi Menteri Keuangan&nbsp;&nbsp;nasional.kontan.co.id",
+      "published": "2026-09-14T07:00:00+00:00",
+      "source": "GNews – Prabowo APBN",
       "groups": [
         "Government / Policy"
       ],
@@ -1493,290 +1795,46 @@
         "menteri"
       ],
       "big": false,
-      "id": "76f55ee86428cc7b"
+      "id": "0ef368dbbc626905"
     },
     {
-      "title": "Expo Haji-Umrah Madiun bukukan transaksi Rp5,7 miliar",
-      "link": "https://www.antaranews.com/video/5760707/expo-haji-umrah-madiun-bukukan-transaksi-rp57-miliar",
-      "summary": "ANTARA - Menteri Haji dan Umrah (Menhaj) Mochamad Irfan Yusuf menyebutkan perputaran uang yang tercatat dalam Expo 2026 ...",
-      "published": "2026-09-27T10:36:36+00:00",
-      "source": "Antara News",
+      "title": "Prabowo Copot Purbaya, Suahasil Nazara Naik Jadi Menteri Keuangan - Sumbarsatu",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcWI3WHJla19JMTNITGZhT2xqSmRtTlF2NGxIbzlZZlpHVXZ2WWk2TjNmbm1PTkxvYXg3Z2RObnd5LWhRcUlhR25qYTVZZlVBNlVLdFJob2JsUWJqVWwxTTBOQzl2b3k2RUhWdnFjYlQzVGp5OHh4S1EweWhId2R1S2pXS3k2b29tcTFObHE3UW90NlFkWHl3OUwwME1IYXE0dnc?oc=5",
+      "summary": "Prabowo Copot Purbaya, Suahasil Nazara Naik Jadi Menteri Keuangan&nbsp;&nbsp;Sumbarsatu",
+      "published": "2026-09-14T07:00:00+00:00",
+      "source": "GNews – Prabowo APBN",
       "groups": [
         "Government / Policy"
       ],
       "matched": [
+        "Prabowo",
         "menteri"
       ],
       "big": false,
-      "id": "9f08b24ffc6cabbd"
+      "id": "b971f372181bf408"
     },
     {
-      "title": "Today's Top 3 News: Forestry Group Backs Prabowo's Move to Revise Land-Burning Rules",
-      "link": "https://en.tempo.co/read/2120416/todays-top-3-news-forestry-group-backs-prabowos-move-to-revise-land-burning-rules",
-      "summary": "Here is the list of the top 3 news on Tempo English today.",
-      "published": "2026-09-27T10:30:00+00:00",
-      "source": "Tempo.co",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "1c4f8dda4fb3c720"
-    },
-    {
-      "title": "Menbud sebut penyelenggaraan KILA dorong regenerasi pencipta lagu anak",
-      "link": "https://www.antaranews.com/berita/5760703/menbud-sebut-penyelenggaraan-kila-dorong-regenerasi-pencipta-lagu-anak",
-      "summary": "Menteri Kebudayaan (Menbud) Fadli Zon mengatakan bahwa penyelenggaraan program Cinta Lagu Anak Indonesia (KILA) dapat ...",
-      "published": "2026-09-27T10:19:21+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "menteri"
-      ],
-      "big": false,
-      "id": "050e27e5018128ce"
-    },
-    {
-      "title": "Bappenas dorong Sekolah Unggul Garuda dibangun di Papua Pegunungan",
-      "link": "https://www.antaranews.com/berita/5760695/bappenas-dorong-sekolah-unggul-garuda-dibangun-di-papua-pegunungan",
-      "summary": "Kementerian Perencanaan Pembangunan Nasional/Badan Perencanaan Pembangunan Nasional (PPN/Bappenas) mengharapkan Sekolah ...",
-      "published": "2026-09-27T10:06:19+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Bappenas"
-      ],
-      "big": false,
-      "id": "bc9841f1e0f49a4a"
-    },
-    {
-      "title": "Menbud sebut lagu anak sarana efektif kenalkan budaya sejak dini",
-      "link": "https://www.antaranews.com/berita/5760676/menbud-sebut-lagu-anak-sarana-efektif-kenalkan-budaya-sejak-dini",
-      "summary": "Menteri Kebudayaan (Menbud) Fadli Zon menyampaikan bahwa lagu anak merupakan salah satu sarana yang efektif untuk ...",
-      "published": "2026-09-27T09:55:21+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "menteri"
-      ],
-      "big": false,
-      "id": "a8ee69a7da0b4be1"
-    },
-    {
-      "title": "DJPb: APBN dan KUR dorong pertumbuhan ekonomi Maluku",
-      "link": "https://www.antaranews.com/berita/5760675/djpb-apbn-dan-kur-dorong-pertumbuhan-ekonomi-maluku",
-      "summary": "Direktorat Jenderal Perbendaharaan (DJPb) Provinsi Maluku mencatat dukungan Anggaran Pendapatan dan Belanja Negara ...",
-      "published": "2026-09-27T09:51:08+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Government / Policy",
-        "Macro / Economy"
-      ],
-      "matched": [
-        "APBN",
-        "anggaran",
-        "pertumbuhan ekonomi"
-      ],
-      "big": true,
-      "id": "1b387e18d1f3258c"
-    },
-    {
-      "title": "Iran Sticks to Hormuz Plan After Trump Rejects It",
-      "link": "https://en.tempo.co/read/2120417/iran-sticks-to-hormuz-plan-after-trump-rejects-it",
-      "summary": "Iran says it has not received a formal U.S. rejection of its proposal to reopen the Strait of Hormuz despite Trump's comments.",
-      "published": "2026-09-27T08:27:39+00:00",
-      "source": "Tempo.co",
-      "groups": [
-        "Geopolitics"
-      ],
-      "matched": [
-        "Trump"
-      ],
-      "big": false,
-      "id": "de2ee6e3983fc4f6"
-    },
-    {
-      "title": "Trump rejects Iranian proposal to open Hormuz and end fighting - Nikkei Asia",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZUtGVW1UWXlPTFBEWWFPOUpMQmF2aXRmRld1MkFxZVJubHQxa25Nb0ZMVVQzRXVxNFB0V29FVGU1NkQxc2o4bVh6WkZEWDhkM3p3ZFJGSEpWb0d5cjVRZE1ZLWQwS3E4QmtneE9mSG0tSm4xaEFMM29uZ0cwM0REekFtRE1PcDBUR1QxVjZiZjd0VGpmSV9WcExRYjN4ODRieklFTVBxcGlYcUtCQV9EbmZZOE84ZktGZmpR?oc=5",
-      "summary": "Trump rejects Iranian proposal to open Hormuz and end fighting&nbsp;&nbsp;Nikkei Asia",
-      "published": "2026-09-26T23:08:00+00:00",
-      "source": "Nikkei Asia (via GNews)",
-      "groups": [
-        "Geopolitics"
-      ],
-      "matched": [
-        "Trump"
-      ],
-      "big": false,
-      "id": "a1c0317dbd31ea48"
-    },
-    {
-      "title": "Japan herbal remedy makers seek to reduce China from supply chain - Nikkei Asia",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM09CSVNyMjQzb19aODFTclJpQjBOZUw1TFFROHhrejgtR3M1dFViMHF0MWRYSVV5NHpqczZib1hUcjI2RHdsUk4yZ3FCZ1ZqNjg2b1BhQVg1VTd1SEk0UXBaN0t4X3ZqMGhVTWRzRnZPelFQNlZPUjZHQV9qSE5tcmFBdE05M3NJWUI3Um8xaDQwTW5hcWFNQWk2UHFNU05mdDdQR2ZJZFdjTW5pWUhodDhn?oc=5",
-      "summary": "Japan herbal remedy makers seek to reduce China from supply chain&nbsp;&nbsp;Nikkei Asia",
-      "published": "2026-09-25T21:48:00+00:00",
-      "source": "Nikkei Asia (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "supply chain"
-      ],
-      "big": false,
-      "id": "6ea043cdfc2c8e4b"
-    },
-    {
-      "title": "US, Japan finance chiefs discuss yen after Trump raises concerns in summit - Nikkei Asia",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORWVzVzlaY0RsR2U2bV9tNURvNGNUU3cxdDVSTEJneW8zUTl1Rjl2c2RiRXg4YWdCZkQxTUotcHEwQmlYalZQeVgzV3dvRURadG1qYjhZWTJTWDBBRkRJUU5tSUpCUjd0QzhVT1pnYWVpc1NjTjgtSFloTkFUcWNXc1EtN0gxQ2xLdkw4a0djZzEtWkVIRlU4TE5rZ3JMaHpHZmhPRUVFRGlSRGhPVF9OUlBZeWluQVdpbzRPNEx4YURleE0?oc=5",
-      "summary": "US, Japan finance chiefs discuss yen after Trump raises concerns in summit&nbsp;&nbsp;Nikkei Asia",
-      "published": "2026-09-25T14:07:00+00:00",
-      "source": "Nikkei Asia (via GNews)",
-      "groups": [
-        "Geopolitics"
-      ],
-      "matched": [
-        "Trump"
-      ],
-      "big": false,
-      "id": "640445b8c7dda63a"
-    },
-    {
-      "title": "Bank Indonesia Pertahankan BI Rate 5,75 Persen dan Proyeksi Rupiah Stabil - suaralandak.co.id",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aNE11UUlFN1paQWgxanlxVmh5Q0ljV3BlMGFidm04WXZNY3VpYVpmaFVQQ2lEM1Y3NGdHemhzWlRjdlNwYTRSMWwxMlBrN1N0LWNFY0FSTm94eGlWSUZqU3VyRUQ0X0VRNnpmcFY4S0JaZw?oc=5",
-      "summary": "Bank Indonesia Pertahankan BI Rate 5,75 Persen dan Proyeksi Rupiah Stabil&nbsp;&nbsp;suaralandak.co.id",
-      "published": "2026-09-24T19:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate",
-        "Bank Indonesia",
-        "rupiah"
-      ],
-      "big": true,
-      "id": "dec51758040b2e59"
-    },
-    {
-      "title": "Bank Indonesia tak lagi andalkan suku bunga demi jaga rupiah, mengapa? - IDNFinancials",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUGJRRTAzRlpjaHdNUmVKU3pOOU5pT0R4RHRhYmo4UzZXd0JLZGJiTWZkYkpqWFMyVUZDV1AtcmhWVEgweHNjUFd0S0lLTlFGcXlSU3BRVnhvbDAyYks5dVZWRHRQeklaeVo5cGRHTUVkWmhVVFRVLXY0dmFRWlNISWZSd0ZpZ0Z2WV9fa2prRmtrdHR5ZVhnOHlVZnlwYkh3WGN3S2tlT2JheC03cDJSWERR?oc=5",
-      "summary": "Bank Indonesia tak lagi andalkan suku bunga demi jaga rupiah, mengapa?&nbsp;&nbsp;IDNFinancials",
-      "published": "2026-09-23T22:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "Bank Indonesia",
-        "rupiah",
-        "suku bunga"
-      ],
-      "big": true,
-      "id": "b27166490c7f9747"
-    },
-    {
-      "title": "Trump warns in UN speech he could 'annihilate' Iran without peace deal - Nikkei Asia",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSVZ4Q0VaMm00TEFsMDhzLXhtU2dpWHZ5cmdBTGd2M2labmR2bFMwejVwbHdBS1Vub2F1elBVX1hBSTFfVUo3VmF2NEszQzR3OTR2MFNkRmJoNjF0RzEzMHVkQ19TazNmRHk3LVBITGk4WGJLcGlTNmh6VURJRUFGVFlhU3hqdnM0V015QzctdXpXalV6TXN1aU5XWmV6WndhRElmS1hiQnJ3YlR2dHhDeFRfUTZBX0lQY3h6Y1M3WXM0Q3M?oc=5",
-      "summary": "Trump warns in UN speech he could 'annihilate' Iran without peace deal&nbsp;&nbsp;Nikkei Asia",
-      "published": "2026-09-22T18:48:00+00:00",
-      "source": "Nikkei Asia (via GNews)",
-      "groups": [
-        "Geopolitics"
-      ],
-      "matched": [
-        "Trump"
-      ],
-      "big": false,
-      "id": "1d9cb55029902bff"
-    },
-    {
-      "title": "Indonesia's new finance minister touts policy continuity, keeps deficit outlook - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUjZJODZ0Qk0wVVhaSXJWaEJDLTh2ODhvU2pwUFRNRjZXdTRYay1NWlg3ZlBjRVBxcEw4Q0d3VzNrb0Y4anBDZ2QtY2JlSjY0Vk9fNlh0Qjd1aWcxVlFBeUhxV0VUdXdQX1ZGc251R05xRThFRTVyWXhYYmZoUGFxUE42bDBFdTNobHF2T29WQlMyd3dBWHhzdGVEMjZoRzRCUm1uUEpQczdBUUNRMUliNTVGTUNiRDhObV9SSzhrakdFMmRuWUhUWXhsb2k?oc=5",
-      "summary": "Indonesia's new finance minister touts policy continuity, keeps deficit outlook&nbsp;&nbsp;Reuters",
-      "published": "2026-09-18T07:00:00+00:00",
-      "source": "Reuters – Indonesia",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "outlook"
-      ],
-      "big": false,
-      "id": "6f879fa68ceed6da"
-    },
-    {
-      "title": "Watch Key Takeaways After the Fed's Rate Hike - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN3BmUDF0NVh6eXdyNHhpdWx6VUF0SFdIZ0Z4QzdjTlhVYXZTbVRLWUNfLTBqNEw2Sjd3eGUydWdWQV9IaVZGQmRKT1E4bjFNNE1odU1CN3RaSHk3MHBtYm9KWFFTMURaejR6TkdYMDZOcWJza3ZmYWlvTkZFUUh4cDlRSWJzM3BxTjUxNzVKOEV3WWZSQVQ5eGp3?oc=5",
-      "summary": "Watch Key Takeaways After the Fed's Rate Hike&nbsp;&nbsp;Bloomberg.com",
-      "published": "2026-09-17T07:00:00+00:00",
-      "source": "Bloomberg (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "rate hike"
-      ],
-      "big": true,
-      "id": "6225b8a45580a052"
-    },
-    {
-      "title": "What Fed Rate Increase Means for Your Money - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWWYzbmN2VXktejhvbjVzUEJVV3lPSEk4V3ZnS1c3VXJ4cnlxZ2NWYXAtQ3VwX3lFcENVNk5iSHVPb3BhRjV4ek00WDJnUGxOREJvN0NvQ3luTnlMdXpJbTdCMmwteFh4UW5EdG9KWmlGOHUySkZtT2FOSUJwTEdzTk9oU01wOHp3RGROS1ctSUlUY0FK?oc=5",
-      "summary": "What Fed Rate Increase Means for Your Money&nbsp;&nbsp;WSJ",
-      "published": "2026-09-17T07:00:00+00:00",
+      "title": "Trump Pledges to Rescind 10% Tariff on Irish Whiskey - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQTRnV1FUdXZlOFQ4eEg0d2xmU2V4RGgxaWhHdFl5azJ5ajd2RWNjZ0JFTGJnd2wyNUFwdEhFNmRYSEUtbGV1RGJ6TVRnMkU4bVpaajYxSWI2MHBFUi1CLVFJTk9Vbl9iSG5JZzFhZzhGVGxoWUlkV1ZERFJyUUJsMHFmVEs1X0RHaXFxSlB2d2ozWnVtblFaZVNn?oc=5",
+      "summary": "Trump Pledges to Rescind 10% Tariff on Irish Whiskey&nbsp;&nbsp;WSJ",
+      "published": "2026-09-13T07:00:00+00:00",
       "source": "WSJ (via GNews)",
       "groups": [
+        "Geopolitics",
         "Global Finance"
       ],
       "matched": [
-        "Fed rate"
-      ],
-      "big": true,
-      "id": "12027d7bdd2e47e2"
-    },
-    {
-      "title": "Prabowo replaces Finance Minister Purbaya in long-awaited Indonesian Cabinet shake-up - The Straits Times",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORUl4blRxbVBac05Wd3VKUTlBZnE3ZmdKenpmM2ZOSFdiQlB0TERzelZ0bjYzOUZnYlRtQVp6OXBieGtabG5KVFRPZDFuYURxMW02VTYwRDRORDNyTHNla1dkSURCQlRtRnJCTzF1YWFkOHRUT0ZubWljS2ZaYUVHY0VXLUV4VjEwT3o0SXRkOU9OTW9jTjJKZmJuUXF2MVViRk1HQm5DLUZFV0h3UlhrLVdLMGI2QVI0T3p4eHNNU3BfNzJLcVE?oc=5",
-      "summary": "Prabowo replaces Finance Minister Purbaya in long-awaited Indonesian Cabinet shake-up&nbsp;&nbsp;The Straits Times",
-      "published": "2026-09-14T07:00:00+00:00",
-      "source": "Financial Times (via GNews)",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Prabowo"
+        "Trump",
+        "tariff"
       ],
       "big": false,
-      "id": "d69cdda30eef6666"
+      "id": "c48c4798564fafb4"
     },
     {
-      "title": "Gold Steadies Near $4,400 as Traders Weigh Fed Rate-Hike Path - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaFRXcGQwNTFkN3pOdUk5d28xYXFuUzk5elZ0cEotYUpLY3lJTnAwMUs3OWVVMTIzQ1M0d2c0N0QzcG13aDJNWllJVGJ3THdmdnhad1JmaUtwemVERFVVY2tHamV5a0JWaXJJa05ZenhLdGtKci0xSHdqWlpBTkxjVEQ0a3MxUFVYVTJXZDJGc0VUazVPa1JXRTBsa1k5NUdTeEZLVkp0ZHdMMEh4MlNqeg?oc=5",
-      "summary": "Gold Steadies Near $4,400 as Traders Weigh Fed Rate-Hike Path&nbsp;&nbsp;Bloomberg.com",
+      "title": "What a Fed Rate Hike Actually Means for the US Economy and Inflation - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbURnSGJWd2lvYWxON2xJVEdlQ3lpQ2NGdy1zc3pfTnFybC0tRUg5ZTlFd3lEZlU2emJvQkhyREpWV2VUTzd5anQxUTRJbnROWTMyWml0YzFseHRqeURHekU0WWpPRmNMUVlheXkwNzFjUTBRRjJpT1hLUWF0VDRfbldJcktzZk1Db1RSdDN1dWhOOUpTZmJ6ZGcxNnJMbFBXNkQ1dS03RGRnR3lVaG90VFkzSQ?oc=5",
+      "summary": "What a Fed Rate Hike Actually Means for the US Economy and Inflation&nbsp;&nbsp;Bloomberg.com",
       "published": "2026-09-10T07:00:00+00:00",
-      "source": "Bloomberg (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "Fed rate"
-      ],
-      "big": true,
-      "id": "fe3d0d6c1d73e3ea"
-    },
-    {
-      "title": "Watch Jobs Report Stokes Bets on Sept. Fed Rate Hike - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdW5QS3NlR19jTzB5bVhTb1F1OVhOaWhQaWsyY0VKT2FQQW5WbXpQdHprel90WWljMzkwZ24yeXdFV1NWNGRmbE5wbUVuLUhFaWtLYjBacnAxN3g3RXZTYnF5RDRLS2lVMU4zM01WcU9Ma3B6SVczSzU5S21mTkowN2x4NUJON2JYN3d5dWF3T2RkZGJ3T3JNNS1oZTRaUTl6TlE?oc=5",
-      "summary": "Watch Jobs Report Stokes Bets on Sept. Fed Rate Hike&nbsp;&nbsp;Bloomberg.com",
-      "published": "2026-09-04T07:00:00+00:00",
       "source": "Bloomberg (via GNews)",
       "groups": [
         "Global Finance"
@@ -1786,199 +1844,13 @@
         "rate hike"
       ],
       "big": true,
-      "id": "9a53b420394da175"
+      "id": "49444044c9ce10c1"
     },
     {
-      "title": "Inflasi Agustus 3,19%, Samuel Sekuritas: Ruang BI Pangkas Bunga Makin Sempit - InvestorTrust",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONG1fNGJsSEppVXVYLXVkQnJGdmduZXRVR3czdkd1bDNJYVRwNGE3blVqMTZLTHcwTXk4bThDTjVpTGt5RFF3cEpURWVXSXdFeVdFUlBKUGhUelYweGhoOXBKQW9ZbHg3QURZandhaXRyN3hjLTJvS01mSUJjc1ktTG50bHBUQUFicFdGUGJmcTVQVk5uNkgwT3RwaTNlS0Q1OWdneGlIM1JOUEpMUWlORA?oc=5",
-      "summary": "Inflasi Agustus 3,19%, Samuel Sekuritas: Ruang BI Pangkas Bunga Makin Sempit&nbsp;&nbsp;InvestorTrust",
-      "published": "2026-09-02T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "inflasi"
-      ],
-      "big": false,
-      "id": "516e90a8006eaa9f"
-    },
-    {
-      "title": "Daya Beli & Arah BI Rate di Tengah Inflasi yang Meninggi - Market - Bloomberg Technoz",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPckZFYjZXX0EtUHVMdnMybERuWEYwUHEtc1hDeC04Q0xEeHB5SUNlTEhQbzZBWUgwTWo0QU1tM1dlb0duRlJUblB4N0prV0xTSnlKTVJrNjFkX0gybHBETW8zZE5JblNTYXc2a3lXa2NQd2lGeGt1MHl1S2xLSERvQkNjX3IyWk1Jd0x4UW03Nm1qN1FyQ2dNVlAyclAtekt6SjczdEtGZVZxVUJp?oc=5",
-      "summary": "Daya Beli & Arah BI Rate di Tengah Inflasi yang Meninggi - Market&nbsp;&nbsp;Bloomberg Technoz",
-      "published": "2026-09-01T08:35:06+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate",
-        "inflasi"
-      ],
-      "big": true,
-      "id": "a526a1303da1c8bb"
-    },
-    {
-      "title": "Trump is losing his war of independence on rare earths - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYXp6bVI5N3pXYjBMWXpQbGg4ZW02RFM1NER6NTZrUVlSNGNwNktNQ2VRM0RiLUNvY292SVhuTW9oQzZFZG4xb0Rwbjh1LWI1YzFlYVZvUDJJM1VmNklXOXNzWDI1RW40YWFCekhhc01RN0pPSFR2R2ptNjBEWUxLUlVqelQ?oc=5",
-      "summary": "Trump is losing his war of independence on rare earths&nbsp;&nbsp;Financial Times",
-      "published": "2026-08-20T07:00:00+00:00",
-      "source": "Financial Times (via GNews)",
-      "groups": [
-        "Geopolitics"
-      ],
-      "matched": [
-        "Trump"
-      ],
-      "big": false,
-      "id": "d871c442bfbbb162"
-    },
-    {
-      "title": "Presiden Prabowo Sampaikan Sepuluh Langkah Besar Transformasi Indonesia - Sekretariat Kabinet Republik Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZjBLX0tqZWpQOXVMZHUxQ0NsRVBpc1daVk5QcExlNFZvSWpUTFpCME5vM1luUzAyQTF3TFk3QUc0d1J0aWVUM2w3T3RtTmJvalVDY3pmV3hvbGo0VXVTN1J0OXhCRU5MN0VNU3dUSTdMUE9jSjlHTGVHYm9KbjV1VlZNLXBPWENLLXZYRWVYMERkUGFxV2N0YQ?oc=5",
-      "summary": "Presiden Prabowo Sampaikan Sepuluh Langkah Besar Transformasi Indonesia&nbsp;&nbsp;Sekretariat Kabinet Republik Indonesia",
+      "title": "Prabowo Target Pertumbuhan Ekonomi 2027 Tembus 6% - CNBC Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeXI1dTZXX08tTDFVYzBOVjdudTI4eHZDNkd5Mlh6T3Qwa3FGNDBOOE5wRmZVeWVUbFlmMGlzZS1JYlNzMDk0SU96OHF2RUtTVmV5WE5XZ2VMZEx1RzR0OU05M0FrV2NMeFlxbWdmV1pJeC0yMG9MbGFwc3hqRk1LS3FDQXFXcWllX1dGNVJXSHhVOTR1a1IzRFZIMUxRYVV6T1dnVGlxMkdxOTDSAbABQVVfeXFMTVJNMF9IOEhFb1FBM3FzVFdaQ1R0M29iSkRQSlNtXzlHbUlRazNRR1dxSjVfaEhvRjlhQVVEZzB1YnFYUkRJVWJVTGlDSDBlZFJCLVU3ZFQ0TlB1OFh2U000MXlWaXFqUk8xY0ZNWXBlZWswdlFlay1BdGlZb01UWmZ0MGlEcXc0WGEwSG1VM19jU1UzcWVrTEJaWmpzVTRWWG5pWnl4UU1kLVJLel9EMnY?oc=5",
+      "summary": "Prabowo Target Pertumbuhan Ekonomi 2027 Tembus 6%&nbsp;&nbsp;CNBC Indonesia",
       "published": "2026-08-14T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Prabowo",
-        "kabinet"
-      ],
-      "big": false,
-      "id": "5ee1503a6c9f3a04"
-    },
-    {
-      "title": "Explainer: What next for Indonesia after MSCI extends downgrade review - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTzdBekdvTVVjSFN0RWRadW1zVjZRT2lXV0I3T0NpMGk2bnI1aWhPX0VMYmtuanJKcHZrSHJ4Nm1qNUJrQ0Vfb1VQeWFsZDNSWFR2RElXdU1qRXRaVFVFLWYtOEtnU2dEUnN6ZXJRck9lVHkzNmhkb25vdk0zRUw1NFQ4akk5UlQ3djN0QmJ4bTY0c2RkQ1RtTjFDVllEdi04RzJPRV9sQ1cyY2c4TDNr?oc=5",
-      "summary": "Explainer: What next for Indonesia after MSCI extends downgrade review&nbsp;&nbsp;Reuters",
-      "published": "2026-06-24T07:00:00+00:00",
-      "source": "Reuters – Indonesia",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "downgrade"
-      ],
-      "big": true,
-      "id": "3681232eccfc6360"
-    },
-    {
-      "title": "BI-Rate Naik 25 Bps Jadi 5,75%, Bank Indonesia Perkuat Stabilitas Rupiah - Ajaib",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNlpWQ20wYXZiZmtIemJkX2tmZzVaY29RVW1sTnN6Yld0dGs3RVdLbFJGOEpEVXJvWFFON3VMc2NQd19FMGtNd3RCbVlmT0h1MGowWUF0WDQ0anQ0WmZnbjREaVB4cUtSOHBaTmd0SEN2eHd2OXQzaERSRHdvQWx2VmQ2VFEtZTBnZUhLNWp1YmU2eldUME8wT0llZVJSa2RHeGV1NWxzaw?oc=5",
-      "summary": "BI-Rate Naik 25 Bps Jadi 5,75%, Bank Indonesia Perkuat Stabilitas Rupiah&nbsp;&nbsp;Ajaib",
-      "published": "2026-06-18T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "Bank Indonesia",
-        "rupiah"
-      ],
-      "big": true,
-      "id": "32277d0006ebc145"
-    },
-    {
-      "title": "Indonesia raises rates in surprise move as rupiah lingers near record lows - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT21xTlNNUVE2eU9Vb3R0UGc2NWJ3cm42am1WTFRWdTluUkxiR0FWbEp1WXhndFZxQXROR2ZHZEFkTVZxQktjQ0tyNzhHTmhXdnFQcGtuejE4SWc3eno2VXdoMS1BcVZSR2F6OXl0ZmhwX2ZPLUdhUUVVbXBQc3Q4VXh4dXh3bDAyanU5S29WM21iM0F0SWRubNIBngFBVV95cUxNdll2WS1fMGVLOE9HejZudGQyOWNRTFJCNlJDbVBCcFNYU2t3TFVadmVheWRTV09FTTJvLWhNUndpQzZadjE3TFNsWE5fRkI5ZFcwM3BLdVAyVFczUzVocVNucE43YXNqLWlSOVlPT195NWhxbFJBMUlrX2tFbG5aOFFNRUVCcDdRVmp4TmN1OFZaSGpKSGxxWUFWY3hxZw?oc=5",
-      "summary": "Indonesia raises rates in surprise move as rupiah lingers near record lows&nbsp;&nbsp;CNBC",
-      "published": "2026-06-09T07:00:00+00:00",
-      "source": "Reuters – Indonesia",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah"
-      ],
-      "big": true,
-      "id": "f93e3fddcb2d9840"
-    },
-    {
-      "title": "Rupiah Terus Melemah, Siap-siap BI Rate Bakal Naik Lagi - Bloomberg Technoz",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSkx3MldCMk5JWkhZWGJUcHVyTGtyNXhGMHlVQWo4cElILVRPT3BxbkhobXJkWFQxWnNvbmZtMkhLM2lyYThRT0ZTUlRCOGl6ZWxiZW4xSDduUndlaVRKU25aSi00N1d4UUpDc1V6VzUzbGlYZ1N5dlg4LVFOSXI4b21PTGtnNHBwd1hiLUt3TGlZRlV5X3pETG9kWHU5ckpWSUM5NFZTNldkdw?oc=5",
-      "summary": "Rupiah Terus Melemah, Siap-siap BI Rate Bakal Naik Lagi&nbsp;&nbsp;Bloomberg Technoz",
-      "published": "2026-06-04T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate",
-        "rupiah"
-      ],
-      "big": true,
-      "id": "60e5204346e8c362"
-    },
-    {
-      "title": "The leakage and lies keeping Indonesia’s rupiah weak - Asia Times",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcXJOcVVjaGRWRFFTdkhFU3piVjhqbWVwa0VZeHh4MU44MFZDM2VfcmFTUkhLMDN5NFFXTV8tbHpOVUhRSHJvbkxxcEpyWW40N2xaWWIwa1NpVms3YUlBTG8yczVjMXBzWkxyNUlqa1k3Wmhwa29DcTd4NlVwNXozU2ZONEVZdERSd2c?oc=5",
-      "summary": "The leakage and lies keeping Indonesia’s rupiah weak&nbsp;&nbsp;Asia Times",
-      "published": "2026-05-29T07:00:00+00:00",
-      "source": "Reuters – Indonesia",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah"
-      ],
-      "big": true,
-      "id": "cabb00bc2a55af51"
-    },
-    {
-      "title": "Meski BI Sudah Kerek Suku Bunga, Rupiah Masih Terjerembap di Atas Rp 17.700 - Kompas.id",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdlNKb2pmdlRqeS1TOFQwbGcyTmJ0dmdlNExic0JVeVk4bExJSnNUY1Z1R3ZVbm0wS2NabmJhV1lMOE0ybW9xdnllQ2lPdnRpMXRWOTA2alRaWm1GeDlTV2V0SS1wMTVVRFFmX1pJZXlJQTJOSkw5N2NEYjVZM3NlQXE1MjZHVFdFWU9F?oc=5",
-      "summary": "Meski BI Sudah Kerek Suku Bunga, Rupiah Masih Terjerembap di Atas Rp 17.700&nbsp;&nbsp;Kompas.id",
-      "published": "2026-05-25T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah",
-        "suku bunga"
-      ],
-      "big": true,
-      "id": "1c6a9657f3ea4765"
-    },
-    {
-      "title": "Prabowo’s biggest crackdown on Indonesia tycoons shocked his own officials - The Straits Times",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdldWczF2ZU9hbmVXamlMMHhCbWZvZ1JMbDJremxsNjZzSUZsQ3MyRUZrOEhIQmp4LTRJcV90MWlZdFlHV0NEcTVYTG5KaktpUzAwbU5OZXB0TUlnSDNpQ3NTZGh4XzdrMy1zc2FRZWx3NElGSWlfWWZ4YXdFN1JLMm9Ib1JUNE13TUp5alFPNGN6MkI4em5TYTdGMEdVRWVHNXAzTDZ1RFk?oc=5",
-      "summary": "Prabowo’s biggest crackdown on Indonesia tycoons shocked his own officials&nbsp;&nbsp;The Straits Times",
-      "published": "2026-05-21T07:00:00+00:00",
-      "source": "Financial Times (via GNews)",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "d607174af748ddd4"
-    },
-    {
-      "title": "Membaca Ulang Pidato Lengkap Prabowo di DPR, Ini Poinnya - Infobanknews",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY0cxWEF6RktYa3B4NTlqQnpOUS1LWkZkaUdZRmlIejRJVzNlNkh0aDhKMHNtWFhqQnVFY1BEc2NkOEU0andTRnFFd04yMTljZUVqUW1DLUY5ZHEzdkVJS2xBSDN6SmRuTlBPUXpndjlmX2lsUEVodi16WVF5Qmx5dXpyZVRrbUE?oc=5",
-      "summary": "Membaca Ulang Pidato Lengkap Prabowo di DPR, Ini Poinnya&nbsp;&nbsp;Infobanknews",
-      "published": "2026-05-21T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "DPR",
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "d04ccbff61247f9a"
-    },
-    {
-      "title": "Prabowo Rancang Pertumbuhan Ekonomi 2027 Capai 6,5% - CNBC Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWnNkdVdvVC1DbFl5MVAydVUyT3Q4QzdadnZ2WU9EQWNxX2laanpuM2pELWx4QV8yeXdFT0dmWDlHSVZobjV2VGVsekhwX0g3c19WYXJiLTJvTmZKeWZWNXBkUDIwVVFrVGxyeE9sU0hPVmdhZ0FDd1dWeTFqczJla0pKdDQtak9PZ0FudlRQWWNPTUl1Zzdqa09neW5FbnFKOENld3E5X1o3LURk0gGyAUFVX3lxTFAtdTAxbmdOdW82a19EaHFnbjIyUzF1clB2TmtMaklJOWZtTUhSRGdZTlk2ZW9tdDA3bWl0SUZCYkRzdExkWkwzbW04cHFLejd3ZFRqRW9fZVgwUkU1NW9GZ1VuenB4a0NCQkN3dW91bFZWS0RWNnJqaUE3bGF0SnBxa0RMZDFNOC0tSzZoTEd1cUczTWQ2ZGgxM0ExT1Z1MkJUVVNKUlZnTXViQTZPcjdLQlE?oc=5",
-      "summary": "Prabowo Rancang Pertumbuhan Ekonomi 2027 Capai 6,5%&nbsp;&nbsp;CNBC Indonesia",
-      "published": "2026-05-20T07:00:00+00:00",
       "source": "GNews – Prabowo APBN",
       "groups": [
         "Government / Policy",
@@ -1989,46 +1861,13 @@
         "pertumbuhan ekonomi"
       ],
       "big": false,
-      "id": "22b99714dba15816"
+      "id": "7c44566a5a68d660"
     },
     {
-      "title": "Prabowo Blak-blakan Sebut APBN Bukan Sekadar Dokumen Keuangan Tapi Ini - CNBC Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONWZMWHVxc3Q3RDl5VjFES2JvWEtjaUxEN0RtcHladnBJRUxzd3ZNYWpIRk1CVTVObjdFVkNhZ0htT3ZFa0dySlBLNXM2eEVZajhaS1dZMS1NSU05S2xDQi1CRF9lMWJpZnl1YlNTWE9rSzlhTTNpTzR2azA2bVBGdE1rTzJKalQxVTBlT0N1eFFubklOaHhtbEpQVzB5YzRqRl9obVJjY3FzUHJtZmZNQ2Z6cVRUandTZDN4NG1vQWRzUFl6MDlZZ9IBzgFBVV95cUxPTkN4aG9nWEItTU42RnNHb2ljZW5qQjRnXzlTbDBjRk1nQ1Y5MW9Ta0pJX2hiWEJndnVCQ3lsOGthTFhjVmsyR2hvd1gtTUIwdW9kdFJybEVFTFE4a1BCTDNXbHA5NWZCS0NxdnliWTFHa3R3d0NSNFFFMHRoOWhIS1NnSnpQb0RmS2pDbTVXcHE1YkhDTzZuQlBBQUdqS1AyREdyMm40bHdBaTQyWFo0aWVya25fS25SSVl2cE5hMnhQMnFHM01oU0Z1RGQxZw?oc=5",
-      "summary": "Prabowo Blak-blakan Sebut APBN Bukan Sekadar Dokumen Keuangan Tapi Ini&nbsp;&nbsp;CNBC Indonesia",
-      "published": "2026-05-20T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "APBN",
-        "Prabowo"
-      ],
-      "big": true,
-      "id": "75c1dd0fa784e56c"
-    },
-    {
-      "title": "Prabowo Tiba di DPR Umumkan Embrio APBN 2027, Ini Agenda Lengkapnya - CNBC Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYTVFR2pNSkx1SlZtU0hCLWpMTjlaVlI0Q2JWRnRzQkYwU3pRMVpXUmsyMzJ4dzN4ZE1jMVVmVmxUNzlVZzJzOXBHN0hJRjJ2dG9TU3lYdnlON0ZSUF82NklRNTZhMkJmLVkzNlFBcXlNTGJTNmZrOGNjYjFoc29tYTJKRDh4NHdEbU92ZmMyU2lVMmV5bWtzbV9FZ1pINmswejBwdWVMaVkyUzVuUlVLRzFkd3RtcHhNb1YwX3VpZDlrYW_SAcgBQVVfeXFMT0JSTWI2YjFjM1ZBTXkxUXVMWmZ1VThITVRBT0xCU0ZUMkVHOG11RC1FbDVURnlKZVZkcEtjOTA2NHJfeU9hTWpoVlNlRDhzMmRwVVJNOUJpQ1p2ODRtR09KUG9nVExmNFM4VnpEZ3poRjFBTmRqcUVrY0JOU1luaWNKQlVoMkd2SHZuNVNZal9Pd0FqdHF5R3R4NEI2NHZROVVQOWtLa2IxZVN6aFExR2d1RVRYaVp5RjltWnV4VzRHMzdTNHdCQ2g?oc=5",
-      "summary": "Prabowo Tiba di DPR Umumkan Embrio APBN 2027, Ini Agenda Lengkapnya&nbsp;&nbsp;CNBC Indonesia",
-      "published": "2026-05-20T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "APBN",
-        "DPR",
-        "Prabowo"
-      ],
-      "big": true,
-      "id": "917b08456881ec96"
-    },
-    {
-      "title": "Prabowo Pasang Target Ekonomi 6,5 Persen pada 2027 untuk Menuju Pertumbuhan 8 Persen - Infobanknews",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXJOR2t5c1RiSExuQWZPcEpkUTBHc28wSUUzeG9jaXFjdWp2Y2EwZnppNC1vRkc3aE9sRW93ZV9vRVhWdjJIZ2FqRlllM1hMSzJPU1JJdmdSMkxPVk5DX0NEc2stN2NYVVZudlpZSnY1RV9LQm1KMDVobG1wcUJzMFNGLThwNTNZbEhrQkNwR19Pb18wbGo4U2kzY1FmNFB6VTFZcjNrcU5TMUJJ?oc=5",
-      "summary": "Prabowo Pasang Target Ekonomi 6,5 Persen pada 2027 untuk Menuju Pertumbuhan 8 Persen&nbsp;&nbsp;Infobanknews",
-      "published": "2026-05-20T07:00:00+00:00",
+      "title": "Prabowo Minta Masyarakat Isi Sensus Ekonomi 2026 dengan Jujur - InvestorTrust",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYlVNVi1KVEEtU3hKSERZampCNEJxRVl5UVFBUnpiNXBFWnJ0Y2RKRkNWUEozeTYtRnNpdS1xV3lHN1ExZVlRUlN4ZXJubXdHNkNTazF5ZDVLdTQ4X3FqQjJuemhLNERGWTVfR0NCblB2WEg5VWFoWTVXN05CWHBlcG54T1dqaU5CYXI3YlFlTHlhVENTcmRCVHIwa3U0eXoy?oc=5",
+      "summary": "Prabowo Minta Masyarakat Isi Sensus Ekonomi 2026 dengan Jujur&nbsp;&nbsp;InvestorTrust",
+      "published": "2026-08-14T07:00:00+00:00",
       "source": "GNews – Prabowo APBN",
       "groups": [
         "Government / Policy"
@@ -2037,46 +1876,13 @@
         "Prabowo"
       ],
       "big": false,
-      "id": "25b6f6f30f1142bd"
+      "id": "894e55f3ab427bd4"
     },
     {
-      "title": "Prabowo Paparkan Materi APBN 2027 di DPR Besok - detikFinance - Berita Ekonomi Bisnis, dan Investasi Hari Ini",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQUM0VU9xLWVnaTR4RGt5OHcwck9DSlJ0N3BnbTR0XzlPREEtVExVdDlsOU9ORW9GaG1NcmFESHZxWFBtT19UdUVNcUdRcTFINzZhbWlraTdBQXF3SUJIdkNKLUxRRF9hNVg2X19DRzFTZTFWN1JDQThaWGY0V2N2enVUN2NlYW80aGg4aU9KVEFXMFo4T0N2RTVlSTRucjA0MzQ3eHp2a9IBrAFBVV95cUxNaHFWby1LRkhtNjJvZTFZblM5RkVsd3MyMTRzNHIxRHNvbnpaX1g3TFQ3MVBJZ0Vvek5qNEtXczVuNUdWWDNvRHZqT0NzU3FBNlNKOFJTMThWT05FVkt5eDhCNndaTEVwU1Z4WXVlei05ZU9xZGZ2RkJkTF9iY3lkMjh3X05lelFBbld1a1BhNnhjbTl2aURTMXZhM0ltWlZBM1ZrTUE3S3l6WWJs?oc=5",
-      "summary": "Prabowo Paparkan Materi APBN 2027 di DPR Besok&nbsp;&nbsp;detikFinance - Berita Ekonomi Bisnis, dan Investasi Hari Ini",
-      "published": "2026-05-19T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "APBN",
-        "DPR",
-        "Prabowo"
-      ],
-      "big": true,
-      "id": "6480f6d03939581e"
-    },
-    {
-      "title": "Defisit APBN Membesar, Saatnya Prabowo Menata Ulang Program Prioritas - Kompas.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZjRueXFYSkJocnd1ay1USFJ3SkVrLVlMY2FUZUZLNk9qdGpOZVExWHAxTVdsSVhSeDRjUmk1RUlXY1J5LVRLTUttSkg0UkUtWk9ieWJ4X0Jtc2d1N082Vi1XTFFtdTQ2N0l5M1FhQ296WDZ5SWNZOGJjUjVvUGdjQUVRYmxMeHpyVmRmSWphVzhGSzlwSzJSWV9JOWY2cVFMMWxENjk2T1JJZEFEaXRFTTJZSFIwWmlZLWh5bzZsN2FpLXRQbE5TMWh3?oc=5",
-      "summary": "Defisit APBN Membesar, Saatnya Prabowo Menata Ulang Program Prioritas&nbsp;&nbsp;Kompas.com",
-      "published": "2026-04-11T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "APBN",
-        "Prabowo"
-      ],
-      "big": true,
-      "id": "096675ee6bbe54b8"
-    },
-    {
-      "title": "Strategi Fiskal Presiden Prabowo: Utang Dijaga di Bawah 40%, Defisit Tetap 3% - MetroTVNews.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZDZORW5pT1ZwektRT1R0M2U0Qi1ZbmZhTVo4UElBc0s2ZUVMcExmX1h1cVBEWTB1c0ZyMGhMdlpGNXM2WGQtdW80MkFXcEMyT1QwaUdaSXprdUIyamV3bDFyV3A5dU1nMnhfdHpVaGFFUmtucnE2M2dzeUlPdWllRmZNYmdydVRsMWNQbkU0MU81ZzRZVWFVMU5WZVdBblROSmVXSjZ6bXhMOU16OGtTbzgyMkU2Zw?oc=5",
-      "summary": "Strategi Fiskal Presiden Prabowo: Utang Dijaga di Bawah 40%, Defisit Tetap 3%&nbsp;&nbsp;MetroTVNews.com",
-      "published": "2026-04-08T07:00:00+00:00",
+      "title": "Prabowo Klaim Kebijakan Ekonomi Pemerintah Berakar pada Gagasan Marhaen - Kabar24",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM0F2MzRiN05YeC1FSS00eUszYlBCVFI5ZWVLeG9TaG1UcjVQNkU2NlpNb05HSThobnNKRlZKQ2ZzMjNFR0xYYnROelkxb3RvR1lsMlhFaHJMQi1aLW9LY3VLZEs5cHVVdEpQeDBSWkw2WlVhUk1EbXhsY095TVhXdGZsbG5EcG9ZdVV2ZlVMbmZ4QW94OGRvNUR6RTY4Mkktb1NIU1Y1cDU4SkQtVUFoMGUyeWhyWGktMzZkeE1Mano?oc=5",
+      "summary": "Prabowo Klaim Kebijakan Ekonomi Pemerintah Berakar pada Gagasan Marhaen&nbsp;&nbsp;Kabar24",
+      "published": "2026-08-14T07:00:00+00:00",
       "source": "GNews – Prabowo APBN",
       "groups": [
         "Government / Policy"
@@ -2085,77 +1891,188 @@
         "Prabowo"
       ],
       "big": false,
-      "id": "e88e527e921f56b9"
+      "id": "449f46ae48f2349c"
     },
     {
-      "title": "Prabowo Ogah Defisit APBN Lewati 3%: Kecuali Darurat Seperti COVID - detikFinance - Berita Ekonomi Bisnis, dan Investasi Hari Ini",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVmFtcEhzajdMV25wMUw3b2M5clpvcmNELTVDYU1wVFk0VHVWRy1DMkR5SDZHWFRDVHFiY0VmWHNXSTBmS3RlRUFXZzBzVGJraFBCSHI3TmRLYlBxR2t0RXg3TXc1al9IN2drN0VLbjBKeXhzYlVhRWlnb3puT0VxcGpyRFVldUpRcmxxSkFkSjAweXhzUXBhV0Nja2x0aGlhNmI3OURCVS12LWVrQ1RtaEczX1NZZldJS3VTQjdhRdIBxAFBVV95cUxPaEstRjhKZjdCSWdYY1FscVVRT2FhbGxBeW54WS14MUQzbmwtWUMzb0R6MzdwNGh5RlY2Nm5MUk4xa2czdTNSd3FVOFd4YUxuOU1CSVhFTlBJOGs5Zk03S0FjM3RtOVRxYllOTy1pYXBPbm5HQS1yYUt6MUpQRzctTFNBYTlVVWRaOW00U3ZMeWVLTFF3X2p6MS11Y1hmbjZzSFFvRGxEY25xYUI3Q0JVRWxycUt0RDdkek5rZ3FaQ1Jwb3Vj?oc=5",
-      "summary": "Prabowo Ogah Defisit APBN Lewati 3%: Kecuali Darurat Seperti COVID&nbsp;&nbsp;detikFinance - Berita Ekonomi Bisnis, dan Investasi Hari Ini",
-      "published": "2026-03-16T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
+      "title": "Destry Damayanti Tegaskan Fokus Utama Terkini BI: Inflasi dan Rupiah - CNBC Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZjNtV3VoOGNxYnZUMHhPaGZ0VEprNThQNDNhaXRPNGVQa2JLWnFqU2ExTy1oOUNMZTA2WF9BVHA1VWY1WW93MmZyMVhMTVZKTjhKSXlrUmdXbVpjQjcxelFPZEJ5LWVlSVB1WTlRemFzbGxsSm9IanZaMUkydmt0NTBHemZobFdqdEtqcC1EM2NCd0RqTS1ZOWR6OXRoNldfbUpYNFgwTHJuLWwzeWNNUkZYVWRUODJjdnRhSGhGR1B5cFZLcTVmRtIBzgFBVV95cUxNcGhabVQ3NzVkMnJSaUkxX0x3cU1TN0VGVlhudUJ0RWQydVdjQlVLMkVaRHcza1dKWFBhUjlibXd3UXNfRDVSZWtFQk1EX2tVcWJEZVBvY3hadUlSUEVnWnUxb25aRXVycGFubERidGlScEZZUHhTVjhnWXg5V1dEWUIyWWZiZmlIU2JCQjdhbFRwX212NnY2QlU5eE1BZURkaFRwZlZoeWRncS1FNWFielREUEQ0V2hfa1UyYjMwSnlLZnYxbW03ak1ocnppUQ?oc=5",
+      "summary": "Destry Damayanti Tegaskan Fokus Utama Terkini BI: Inflasi dan Rupiah&nbsp;&nbsp;CNBC Indonesia",
+      "published": "2026-07-31T07:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
       "groups": [
-        "Government / Policy"
+        "Macro / Economy"
       ],
       "matched": [
-        "APBN",
-        "Prabowo"
+        "inflasi",
+        "rupiah"
       ],
       "big": true,
-      "id": "e4cb610ff6b921d4"
+      "id": "7680289f50015e6d"
     },
     {
-      "title": "Fitch lowers outlook for Indonesia on ‘erosion’ of credibility - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMVdSWWtIbjB3V3BINEpOMk9heXhOV3hsVnlnMWlqNXpUdFhURVQyNU9YeFNQUkdmTGtJczZUR1Bqek1iTnVYMHNnRHlkLUs2MnVIb3JlMmlHOFNhNWJtTHJHbTZheW1GWjA4Mkk5Yy1XSVFEU0gtazcyN0pPd01QZ09zdF8?oc=5",
-      "summary": "Fitch lowers outlook for Indonesia on ‘erosion’ of credibility&nbsp;&nbsp;Financial Times",
-      "published": "2026-03-04T08:00:00+00:00",
+      "title": "Rupiah Tembus Rp17.800, Bank Indonesia Diprediksi Tahan BI-Rate 5,75 Persen di RDG Juli 2026 - Suara.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYUl0bHQ2Q0Uzc3RmNHY1S1BmZUdBS2VDeVdCSnJTbk5qbk9ZQjYwZFQtb1c4WWRYbmpGdDhha1BfUnFLeW1DOU83ZGJvY0RNSWR5S1hFQmw4bko2N2RtT050N0Z1SE53Q1VOT25tRHN1S1NqRmg2VjQxcnI4cTlNaERiS0x2dkFMdHJVX0s1cUpXaWZOV05nS1loQ3dXMkhpejdKZmpRa1ltTmdpY2k3cC1oRm1nM0s2ZTRRRzBCQWNFN0dGVm9GdTRfeEdYZ21nMGfSAdIBQVVfeXFMTkZPN1B3dzZzd2dINmRESWxqc1B5Tk8yTmR2YmtEbUlSbzN2QVQ1eDlmVDJselFEdVJ0MVpaQ3J3d2h5WWNCTmE4QkZtY3k5WXlUc0ZNdWFwOWpuZWpqMTV3dkN4WXVtTllaNU5LVkJUZkM2elI1SVloeno4dmlRVVM3SHY1enZxOER0VkFlaEE1U1l5SzdqXzR3S2UyamhPRHBvXzdPbFpIX3BxZ1FvV3V3UFZPa2wxLUdxUlJqMUo0MVNJVEFBejhoQ2JVUHBfdDl3?oc=5",
+      "summary": "Rupiah Tembus Rp17.800, Bank Indonesia Diprediksi Tahan BI-Rate 5,75 Persen di RDG Juli 2026&nbsp;&nbsp;Suara.com",
+      "published": "2026-07-22T07:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "Bank Indonesia",
+        "rupiah"
+      ],
+      "big": true,
+      "id": "b577178868977b21"
+    },
+    {
+      "title": "Meski BI Rate Naik 75 Basis Poin, Bunga Deposito Relatif Tetap, Mengapa? - InvestorTrust",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMlk4cmZzZGJaeWZWMDdXcjJfUjg3VUFzcmpUNm14MlhZS3hVRzZOTS1XWVBQdzlMRXlTODctdnM1QUF6dW1qdTFfenNMTHBJcUUyUlVuWkphRWhXanlUNGJFWk5JNUp4aVRqbWFRdjY3YWIyMEhReUhUV3VRQTVjV05TTlIwS0MtcElOQV9tVGRNaExzOGFOUmw5RzUtRlpsc0FGd1ZfblFvd3UyeV9NcQ?oc=5",
+      "summary": "Meski BI Rate Naik 75 Basis Poin, Bunga Deposito Relatif Tetap, Mengapa?&nbsp;&nbsp;InvestorTrust",
+      "published": "2026-06-22T07:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "BI rate"
+      ],
+      "big": true,
+      "id": "5959d1cde965131d"
+    },
+    {
+      "title": "BI Rate Naik 'Obat Stabilitas' Rupiah & Inflasi - CNBC Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcHhaaW1zLUJJdHZqbU5zMkx2VldxcTJnV2p5UlFJVmx2YnBRdzl0WTZZMmZrQkkzcmd0aWozYUtTWHkzaS1OdV92S0NITnVheUhmWFI0blpUVXlTWEQzOGRRX0VtcjlXeERMa25SZWcydU41dVh5Zlh6N2NHZWZsd3o3WUE4N19MbU1yZnJaNzZOTGszZzhqUVlzZlJKXzZBUVo0ZNIBqgFBVV95cUxOUkRHQnpPN0hYcXdic1RUeVhDdTJySi11RlJidGx0ZFZvNndWaExKc2k1b0pwZzB3NnIwNDNqUDMyVEtGTk9QSVY1eXdMdDJQdGthU1ZPMmNqTGhJSkl0eldTazR3MlV4cnJhMklERC1TSk92all4ZkNqWkcwWHItWFg0OFZKbnpVbGNMTi1SVjhDU2hrSXZfSnNMY0V1c0NVRWFaSlB6Q083Zw?oc=5",
+      "summary": "BI Rate Naik 'Obat Stabilitas' Rupiah & Inflasi&nbsp;&nbsp;CNBC Indonesia",
+      "published": "2026-06-19T07:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "BI rate",
+        "inflasi",
+        "rupiah"
+      ],
+      "big": true,
+      "id": "f9c45a5e00bfa58a"
+    },
+    {
+      "title": "BI Rate Naik Jadi 5,75%, Pemerintah Anggap Mujarab Buat Rupiah-IHSG - CNBC Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUnFHT3hGb1BDU3pMSW1UTFl2bVRjaHRuSndBWXV1dTJ0S3FwWWlHdTZDSTJUOHdwZnRyY29BNm5sQi1lcWFRa1RBVURXSGt1Rzl4Rl83YTNlbjQ1ZkpDYThhSF9NNlluZGNpQnM1b3pHUDI0Wmt6bG96SEM1SS1PaG1KbmMyMENZYS1IN05aNG1CQ1FBQ0RfTng0R0stM09OQXMxX3Q0eHZEXzN0YUkzMWx2VVJ0QlhXNVlDM0VyUC3SAcYBQVVfeXFMTnhtcEJqQmtRYThncW9hcUV0VnVnTDAydE5MaExYZVpoRndHcC03S21xRHl4SjdqSGFGOWs0emJrSTRUYk1uQjhKeEphdTdnRWpRTXhGcURBT0FJODNBN0YxVDJscDZxdDRWSlNjVmpmLUVhNElydG9RbFVxMUNjMG9iQUI1RDVsNGNPOTRMZk43VWx3NUROcFllYlJOeGhybWhQVWEwVko5ekVIbE4yc0xReHlOamlNR2l4aktHbDhiRVFyNWdn?oc=5",
+      "summary": "BI Rate Naik Jadi 5,75%, Pemerintah Anggap Mujarab Buat Rupiah-IHSG&nbsp;&nbsp;CNBC Indonesia",
+      "published": "2026-06-19T07:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "BI rate",
+        "IHSG",
+        "rupiah"
+      ],
+      "big": true,
+      "id": "9853b69d018137f3"
+    },
+    {
+      "title": "BI Diproyeksi Tak Buru-Buru Naikkan Suku Bunga Acuan - InvestorTrust",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQnZ1NC1IT3A0RlhoUmFUVlktYm94VDBzeGFzUklBcjRLemZqZ0YyMmwzbW03dzNjcmRCcm03LUM0a09Mb1puMlowTEZYMFd5ZzNycDA0OU13eVVaM2ZRME1pYkVsN09zWDNVb0F6a1lUbl9xY3NERnZMaHlaendmNFBQbEZYTXBzTFdyYzRTSElGUUdr?oc=5",
+      "summary": "BI Diproyeksi Tak Buru-Buru Naikkan Suku Bunga Acuan&nbsp;&nbsp;InvestorTrust",
+      "published": "2026-06-17T07:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "suku bunga"
+      ],
+      "big": true,
+      "id": "8441bc4a966c72f2"
+    },
+    {
+      "title": "‘Sell Indonesia’ sweeps trading desks as Prabowo tightens grip - The Straits Times",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQjNvaTFGZm9wYVlQdmplUXBkalJjeExlM1F6bDBZdEVIem91TE5MVnI2T3ROTjZwalhodkpMNm9HOFdSQ29uRU43ZS1rbWJQNnhzNllfNUd5TFZkVk9iMWhoSW5FM25LSE10eE1JQ1VzRkx1VFB2RW0wNWs4ZndjUUNrU25vX2U1SkRqVG1icVdEVDd5OUVkSVJ2c1pCX3Vyb3ZFYnBxNkhzSlI1VlcwQk1adlVFajA?oc=5",
+      "summary": "‘Sell Indonesia’ sweeps trading desks as Prabowo tightens grip&nbsp;&nbsp;The Straits Times",
+      "published": "2026-06-05T07:00:00+00:00",
       "source": "Financial Times (via GNews)",
       "groups": [
-        "Global Finance"
+        "Government / Policy"
       ],
       "matched": [
-        "Fitch",
-        "outlook"
+        "Prabowo"
       ],
       "big": false,
-      "id": "ebe6bf33ce6bc81a"
+      "id": "1c7f6ca0c0fa3b85"
     },
     {
-      "title": "Indonesian markets slide again after Moody's cuts outlook - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTE5NZm1pZDlEV3puenlfWFA4NGt1aEtvc0M0QUZseWpwa0xGUEFWVExiNUcyMDVqRVBBa2lwdEk2TWx4X2d0Mm93Y2NPbXJJMVIwTVFmWFRJekJaOVprQk1sSjFKQUFkR1JSOGtkbHFzcndEVmUwRXh6eGlpblBzbTlfQXJMclJMY3B4cWZsejh3SHJiU2tYU09tREpneDJFMGJQd1VWbExhU0NZODdhQ0ZZZWxDRUstN204M1k1bE9Ma1E1RVR3eXRTMXBUY1hIRjFWcnhR?oc=5",
-      "summary": "Indonesian markets slide again after Moody's cuts outlook&nbsp;&nbsp;Reuters",
-      "published": "2026-02-06T08:00:00+00:00",
-      "source": "Reuters – Indonesia",
+      "title": "Lengkap! Prabowo Paparkan Cetak Biru RAPBN 2027 - Bisnis.com - Ekonomi",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOXNjMEV3bllhQ1puQ19BNk54R0syX2lPN3lvRk8xSDVnQjFyWndXSDd3cENSM0ZtdzVNeEpIMGFVbmdBd0IwTnlVVGlvTVM3R0FzRl91RFZha0JpTm9Nbkp2VHVhcmxtSmYwM1RVeGRmVVpOUE5vUm1vMkU2cHB0ZlJrdHJkOWZiaE81aFNJTEFwbVp2MWhsR2FyVS1vUQ?oc=5",
+      "summary": "Lengkap! Prabowo Paparkan Cetak Biru RAPBN 2027&nbsp;&nbsp;Bisnis.com - Ekonomi",
+      "published": "2026-05-20T07:00:00+00:00",
+      "source": "GNews – Prabowo APBN",
       "groups": [
-        "Global Finance"
+        "Government / Policy"
       ],
       "matched": [
-        "Moody's",
-        "outlook"
+        "Prabowo"
       ],
       "big": false,
-      "id": "93cd9175d5b3dc40"
+      "id": "c29d3e3d2c8b0d77"
     },
     {
-      "title": "Opinion | The Tariff King and the Supreme Court - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOW55QXFkWi14U0pmQWw5dkd4QVVCajl2bjVqbTVVLW5oU29UUzY1WHBfQlJWYjhIUXdxejZsRzByYkRVazhXZVREeXpwUDIyemJtYUc0WWs1bjJoUW05SnE1UklGbWRRLWNKZHc4RnFKRWFSbkRKdWF1Q3lNeG54UmNJVFlIdTlpS3c?oc=5",
-      "summary": "Opinion | The Tariff King and the Supreme Court&nbsp;&nbsp;WSJ",
-      "published": "2025-11-03T08:00:00+00:00",
-      "source": "WSJ (via GNews)",
+      "title": "Pidato RAPBN 2027 di DPR, Prabowo Tegaskan APBN Jadi Alat Pelindung Rakyat - Informasi.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcGZBbjdrQlJIYzBnc25INjhULWNVV05uMTNiSzNmZHJXNHlPU1dPaVdlUE13VVlFN2x1Zzg0d2MxNUVCOE1VLUJ1TzJua2NNb0V2ZWZ3blRnUWpiczdxbGNReHJnaHZHSjJDN051dGxFR2hqeV9oaW0zNlJkU2lYc2IxQWZCRkZKdUVhT3VhcXluN3V5N3VRQXYzNFkzNC02V3V0RnhaUkIzNjlwS3BsQXIycTh0RUk?oc=5",
+      "summary": "Pidato RAPBN 2027 di DPR, Prabowo Tegaskan APBN Jadi Alat Pelindung Rakyat&nbsp;&nbsp;Informasi.com",
+      "published": "2026-05-20T07:00:00+00:00",
+      "source": "GNews – Prabowo APBN",
       "groups": [
-        "Global Finance"
+        "Government / Policy"
       ],
       "matched": [
-        "tariff"
+        "APBN",
+        "DPR",
+        "Prabowo"
       ],
-      "big": false,
-      "id": "40d366faf6702ae7"
+      "big": true,
+      "id": "c4b82526ccc2bc40"
     },
     {
-      "title": "Indonesia central bank holds policy rates to keep rupiah stable - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDBwQ3lCM2pvVktxLWFvS3RJQ3dTbGd3bkxPbjU2czNlNXp3R2NtWWdXS3diQW05dmhrUEtsbVNLRUd3UVpid0tZckF3Q281czRveUNKLUpmYXBVNjdGM3lmbDUxTTR0eUZpVjRraHByVUpDNzhHLUZDMlNvWURWV1BiZjBNQmVLRW51UnNLYjBOM2N5U2xFZGstc01iTGY1VE44RS1MbVJTdDQxajRwbjFpSEc3QQ?oc=5",
-      "summary": "Indonesia central bank holds policy rates to keep rupiah stable&nbsp;&nbsp;Reuters",
-      "published": "2025-04-23T07:00:00+00:00",
-      "source": "Reuters – Indonesia",
+      "title": "Rupiah Tertekan, BI Diminta Naikkan Suku Bunga 50 Bps Demi Jaga Kredibilitas - InvestorTrust",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOVZwVFJ4aDY2c2JieDFkYmc2YXVZM2h4d0VoMWt2MzZxeXNZZmk2Rmk5NkhQck5kVU5UejRJaWlvdE5leGZ2WFZsUnZrTjNpMWlJV2JTQ04tNUhsUEVFVmdEWl9wc0xPX1oycTRVSEptSjVyNnZYM1lhWlNlNG9FWlQ0Wm5ZVW4ySi1vWFNQZXpDNEJLclE1UFlmQWU1UlAtMUlHc0VTNnRxOWdsWnlPc3hIa3RZNFZi?oc=5",
+      "summary": "Rupiah Tertekan, BI Diminta Naikkan Suku Bunga 50 Bps Demi Jaga Kredibilitas&nbsp;&nbsp;InvestorTrust",
+      "published": "2026-05-19T07:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "rupiah",
+        "suku bunga"
+      ],
+      "big": true,
+      "id": "4675caf8109212df"
+    },
+    {
+      "title": "Defiant Prabowo Spars With Indonesia Tycoons and Market Skeptics - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUENvRWh5ZzVWZkpmM09xYzZJQ2lkbExpcjBKb3NXZ1Z3eWxNVUJaLTBIVGZtUnVfbF9mX0FkaXdhMTM1OFlMMWR5Y3ZXMkRkVnN2Wk0tT0VZbTMzeWtDRzZuWE9hZTlyY1BGSk5wa1hRUlNNU1NsMWpCYTZ2aTJJRnVEZ2tYcTBVT2dyX09jc1F0cF9NU0d5Ti1MdmY2RlloM3UxRk5oc3UtM1h2UTR3c1pfbDF4S3ZH?oc=5",
+      "summary": "Defiant Prabowo Spars With Indonesia Tycoons and Market Skeptics&nbsp;&nbsp;Bloomberg.com",
+      "published": "2026-03-16T07:00:00+00:00",
+      "source": "Bloomberg (via GNews)",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "0b86aac0f2c9255f"
+    },
+    {
+      "title": "Di Tengah Perang dan Rupiah Ambruk, Investor Menanti Jurus BI - CNBC Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSklZaGRGcFR4V1Ftd1piRmpBcFhjOWJSSE5aSXJRbXA3Zl83Tm9SeUdmdkNDUm1MTUVfaDRkbWRDeEZtNlNmeF9FX0I2bVNVMEdXOUZyRHp6NTNIelNfSEFicEllZjZDRWloMDY3NFhMaGhwcWVLNW4wRF8yZVRqdTNCdEZrUC1HMGxlWVJjMGcydHlyLVdhRWc0eWFtOU1PNE5WdFg3RUZlUHpvZkdRLVVaUWZNa2V5aVkyMHZwd0JIS3M?oc=5",
+      "summary": "Di Tengah Perang dan Rupiah Ambruk, Investor Menanti Jurus BI&nbsp;&nbsp;CNBC Indonesia",
+      "published": "2026-03-16T07:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
       "groups": [
         "Macro / Economy"
       ],
@@ -2163,13 +2080,91 @@
         "rupiah"
       ],
       "big": true,
-      "id": "d46070e2dabfdda0"
+      "id": "26da0eff5ee53942"
     },
     {
-      "title": "Trump’s Tariff Onslaught Is Coming Faster Than His Team Can Carry It Out - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TOVZwZTJhZ0ctRm1xSkRTbkk4ZjFHNjlhRnpmVUJfSDJ4QmdvQVd0SjdOQy1YcC13MlAtYmZUSURkaEwwX2R2b2pPOFpvS0ZZd2xLdXBFRFgxTUhCZ2pkUUJOTkNjUUJFUklnMTJWRnlkZm4tNU5wMDFlRVdXXzA?oc=5",
-      "summary": "Trump’s Tariff Onslaught Is Coming Faster Than His Team Can Carry It Out&nbsp;&nbsp;WSJ",
-      "published": "2025-02-27T08:00:00+00:00",
+      "title": "Asian Markets Shrug Off U.S. Tariff Uncertainties - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSXhsVWJGcWNMTU00eTRqcnk4U0Q1Z2NKdXRfYVduWUxfZEtMRlhEcEJqYzB4WFowaGY0bjNqRFdwSDZaM0pYSmdvbUhTS0haT1hybmc1bzhFM1VSMDE4cENoZmF6MWxRY09PdkQwQk9YNHAyYklpWmMza2ZodnJfcHh0LVNnNzVsZzVhSi1aSjJoVDZQWnRz?oc=5",
+      "summary": "Asian Markets Shrug Off U.S. Tariff Uncertainties&nbsp;&nbsp;WSJ",
+      "published": "2026-02-23T08:00:00+00:00",
+      "source": "WSJ (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "tariff"
+      ],
+      "big": false,
+      "id": "e638996e2324daef"
+    },
+    {
+      "title": "Bank Indonesia holds rates steady, focus remains on 'undervalued' rupiah - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTFZ6R2NMeEwxLTl0aHdWNVVIZFFsQW1tTUtQTWVMTGJQQTVsZTFqMzZoNXNrby1CbVpPYUZvOHZXTE1uUGZwel9KVGFXbGxwaXBzNXFwRi1KTDZhYmYzeG5rb3dSM2NxVmdKY1pVT0pvMU5vU1FNUERvQ0ZyZEdQUmQ5YklpRHA0THdHNElCWmlOdGpDQmhYU3JRakZHeWl3N0FKSExWVXdrLXk5WDJaZmQyUEVIZ25ubnFjLUhB?oc=5",
+      "summary": "Bank Indonesia holds rates steady, focus remains on 'undervalued' rupiah&nbsp;&nbsp;Reuters",
+      "published": "2026-02-19T08:00:00+00:00",
+      "source": "Reuters – Indonesia",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "Bank Indonesia",
+        "rupiah"
+      ],
+      "big": true,
+      "id": "1fc976e2b5621ece"
+    },
+    {
+      "title": "Under Prabowo, Indonesia is veering off course - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb3duWTN4QU5UcEtlUWNTQkJtYjRPX21FVjBOcTV1WS1QN0dpRnZRNWRoQnJkclZ4UnRTQ2o3bmhjR3NFMGowdktBSUR2dVpNSWRReW1qdWZrWVZKOVlZUDVnbnlfVWVoVjBYbExWNVdFdktURkZfZVV0aUpnNEljbkNyVV8?oc=5",
+      "summary": "Under Prabowo, Indonesia is veering off course&nbsp;&nbsp;Financial Times",
+      "published": "2026-02-03T08:00:00+00:00",
+      "source": "Financial Times (via GNews)",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "64c8ed6fddaf796a"
+    },
+    {
+      "title": "When Hary met Donald: the billionaire key to Trump’s Indonesian plans - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONHFKYzFBMTB4ZnFZMWwtcnhKLW1sMjUyS01fYlFUTEk2aGRXVzFVOVRlZWdGWDF6aF9GbENIUHZzN25VZlB1a0txR2Z3OV9fZE1kQnVwNUNiY2pKNlJLNXRjZndYemF3a05PNmdtT2xzam1JZzZyQjg3RUpWY3JXZ1BFLXo?oc=5",
+      "summary": "When Hary met Donald: the billionaire key to Trump’s Indonesian plans&nbsp;&nbsp;Financial Times",
+      "published": "2025-11-22T08:00:00+00:00",
+      "source": "Financial Times (via GNews)",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "3b0d82deb74f4954"
+    },
+    {
+      "title": "Surprise rate cut, growth push place Indonesian rupiah under pressure - borneobulletin.com.bn",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaXB2eXBwM3NVT3FKY3lmN1dEMUZHZGxPTUREc3pva2Vsa2xPcmNmVzlXUEtOd19xSVRiaEpLYkhKNTdvcEhQdzljZjByclpJZnpRSzlETEVPODFFYWhvN3ZVQzVkbEo2dnp0NTFSTXd2cG80NGgzY1E4Mk1jUUZOajhLSHg3b05HWXlLR3h6a1Z3VHhPMHd6ai0yUHBPb3VE?oc=5",
+      "summary": "Surprise rate cut, growth push place Indonesian rupiah under pressure&nbsp;&nbsp;borneobulletin.com.bn",
+      "published": "2025-09-22T07:00:00+00:00",
+      "source": "Reuters – Indonesia",
+      "groups": [
+        "Global Finance",
+        "Macro / Economy"
+      ],
+      "matched": [
+        "rate cut",
+        "rupiah"
+      ],
+      "big": true,
+      "id": "4e7c58f59a1ee38e"
+    },
+    {
+      "title": "Trump Calls on Goldman to Replace Economist Over Tariff Stance - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSDlrTGhSc2x6NFhySnUxalFlNW9VUXFNY2NFTDRtcDdnNVczRVZDWW5mb0Zzd0k0U2VDVDBGaENsWXNGdGRzenJyNjlQNlpRU0ZSUzNZTVBjTUFvdXVJX3AxX1gxYVh3S0RUcHp0UHN0Sm01ZkxaajkzcldvakwyNzRRN0JJajZfeHYxdnF4bUwyVU82eEttU1ozdGtDd0Mz?oc=5",
+      "summary": "Trump Calls on Goldman to Replace Economist Over Tariff Stance&nbsp;&nbsp;WSJ",
+      "published": "2025-08-12T07:00:00+00:00",
       "source": "WSJ (via GNews)",
       "groups": [
         "Geopolitics",
@@ -2180,13 +2175,45 @@
         "tariff"
       ],
       "big": false,
-      "id": "392eacc934b7e4c4"
+      "id": "345b308a940d8010"
     },
     {
-      "title": "U.S. Aluminum Buyers Scramble for Metal as Trump Tariff Looms - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNVE5TC1rVExPMUppWWk5cmpwREozOHpjdGI2aTk3M3FPTGZFcmFpQlpkN01Gc0RuanFUTXd3dG9oa1JPSV96YTVCeVFkTU04NHBXUUNLQllhYU9qSmRFS1FZV2JudDdzTWxzYXNIczJNWFVKUFFoQWFkbnM2cTUzMklHSWRRUnhYbWVURzZ0UWVOU04xb1E5eTRnaWhjaVZ5Q1YyOEFjdzhLNzZyajRiVk8wNHBpbVVV?oc=5",
-      "summary": "U.S. Aluminum Buyers Scramble for Metal as Trump Tariff Looms&nbsp;&nbsp;WSJ",
-      "published": "2025-02-21T08:00:00+00:00",
+      "title": "Foreign Investment Faces Third Year of Decline on Tariff Uncertainty, UN Warns - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZDJBTVZqZ0pJc2VQaXgwWlEzNllBVU1fc1pMMmFWTVQta3FMeGsydFpfeFk3Q2pUN2tFaExpV2hSMnZWenhHUlBZN19NdnAzYm9CMkxla2RMX24xQUU3a1JNRG9KZFhucVhJNTJjdTNhZnN0UWoyRzJPaEpHTDhrOUZnV05uRUNKajdZS3JGTExwdXFpNUotMTVLZmhWV0VUenRob1VaREFfd0drSklXWnBPeTJqeERTenJXRjl3?oc=5",
+      "summary": "Foreign Investment Faces Third Year of Decline on Tariff Uncertainty, UN Warns&nbsp;&nbsp;WSJ",
+      "published": "2025-06-19T07:00:00+00:00",
+      "source": "WSJ (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "tariff"
+      ],
+      "big": false,
+      "id": "b9db96193238c380"
+    },
+    {
+      "title": "Wall Street Bets the Worst of Trump’s Trade War Is Behind It - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR1BNUXlBTG04RTM0RU1KelJkRnI4UlRvTDdpUWhjZHRjRmY5ZzJMRW90eEo1Zl9sN0dHSEtaR0N4RXdXaTVNdDJHcUM3bVFZdDRSNFVjQ3Q1bXdjd1Q4VEwzZ0hYYUxFcVpHRDY5Ym8ySkhCckl1ZDJLM09NYmx1RXRBbw?oc=5",
+      "summary": "Wall Street Bets the Worst of Trump’s Trade War Is Behind It&nbsp;&nbsp;WSJ",
+      "published": "2025-05-27T07:00:00+00:00",
+      "source": "WSJ (via GNews)",
+      "groups": [
+        "Geopolitics",
+        "Global Finance"
+      ],
+      "matched": [
+        "Trump",
+        "trade war"
+      ],
+      "big": true,
+      "id": "b4e84661aa605aa4"
+    },
+    {
+      "title": "Exclusive | Trump Administration Lays Out Roadmap to Streamline Tariff Talks - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeG85MWZrT1dLQllxUzN3WTQ1X1ZyVUNZOGllQUh6aWhGSnhQemhwWTBwVFRzak13dDlWX3FnODNWbjBxTm1oM1RrbmNIcmxpZmd3NWJ2TUpJdnZPZHltVkxEa3I2bzc0U2VpZWI3Q0RnbmlzUTZUQVl1VGZLTGRZOS1OWDlDd2NrTXJ1Q01BVUZGWkxjZlNv?oc=5",
+      "summary": "Exclusive | Trump Administration Lays Out Roadmap to Streamline Tariff Talks&nbsp;&nbsp;WSJ",
+      "published": "2025-04-25T07:00:00+00:00",
       "source": "WSJ (via GNews)",
       "groups": [
         "Geopolitics",
@@ -2197,45 +2224,45 @@
         "tariff"
       ],
       "big": false,
-      "id": "641865ae406772c6"
+      "id": "d6aecb98e3ae058a"
     },
     {
-      "title": "China’s Strategy in Trade War: Threaten U.S. Tech Companies - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsNWlwNWN2WjUzU0VLcjRFeV9zbHJHdUdEVTZiV3dYT3BBSUxwajViRXRqdmZ0cDNnTVpwOElPRFJyd0o4MjRkV3dEQ3d1SF85UUVsWFAtR1VNZUJVTktTVU1XNjJTNFlW?oc=5",
-      "summary": "China’s Strategy in Trade War: Threaten U.S. Tech Companies&nbsp;&nbsp;WSJ",
-      "published": "2025-02-09T08:00:00+00:00",
+      "title": "Exclusive | Trump White House Considers Slashing China Tariffs to De-Escalate Trade War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNREpxVW5zVGdxZzlPZWt1enAtMjRMMlVkRTZCUFdBSk9RaldWR013bGxKbDVvbFBya1pFVjN5cVVXWjB5YlNrN1JLaDk2MDVkRmk3S0Nya08xTDl6Q25fZ3dxbGJMR1BHZjgzMlpxcDZvbC0ybV9aSmFWMzdXRy16TXMtekFZbVhaYjJPNm9UVU1WS1otUTktcWVjR0QtcFpkR0szUnBhZlBFWG5pelVBVkdCcWo?oc=5",
+      "summary": "Exclusive | Trump White House Considers Slashing China Tariffs to De-Escalate Trade War&nbsp;&nbsp;WSJ",
+      "published": "2025-04-23T07:00:00+00:00",
       "source": "WSJ (via GNews)",
       "groups": [
         "Geopolitics",
         "Global Finance"
       ],
       "matched": [
+        "Trump",
         "trade war"
       ],
       "big": true,
-      "id": "488fcbc4fc9cc5ed"
+      "id": "508a9bfe0cd7b929"
     },
     {
-      "title": "Opinion | The Dumbest Trade War in History - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORjNSc29XWEMxbVJkbGxOUDFHcThxLWx6ZWNoRDVfUHAtYjhaRHl3Z0JLeG4zYjZ0UWl4N2FVRC0wcWFBV1pwR0ZCWGptSVF5S24yWDdKR1RWaXF1T0dTUzNYVzEybEpoMG1ieXQ1eFRweUtJall4VndaUFVGVnhrakZJMUpHU2FHOUxLY24wTUs4dkFGc0pweERXa0k?oc=5",
-      "summary": "Opinion | The Dumbest Trade War in History&nbsp;&nbsp;WSJ",
-      "published": "2025-01-31T08:00:00+00:00",
+      "title": "Breaking Down Trump’s Tariffs on China and the World, in Charts - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUHlJTFVoTVdlS09PMTB6Nm95TW9XOUtyaGt0V3FCWjAwd3VsVUtVS1dJdUppblJMc2hxNW5Eb0I4U0dtS29vNHJORTdsRjd0aS1BRW1Yam9JYUNhTUtHU3dmeW5kTk1Nc0pYQVlweHZ4bV9fZTJTUkR5bTZVRFVyODJpMW1qWWdZcnNFVHQ5TQ?oc=5",
+      "summary": "Breaking Down Trump’s Tariffs on China and the World, in Charts&nbsp;&nbsp;WSJ",
+      "published": "2024-12-03T08:00:00+00:00",
       "source": "WSJ (via GNews)",
       "groups": [
-        "Geopolitics",
-        "Global Finance"
+        "Geopolitics"
       ],
       "matched": [
-        "trade war"
+        "Trump"
       ],
-      "big": true,
-      "id": "51d210661f36f504"
+      "big": false,
+      "id": "2c74a9479c00e73c"
     },
     {
-      "title": "Indonesia’s Prabowo is desperate to impress Trump and Xi - The Economist",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUzJsZkpxNmt6VHBsRW95NmRTSUR5c0hrTDdWcDVXajVNanNCd3JENXdLX2p6VFlqY0FPcUhJZ01Mc21mRVJDV19nWUdlZVdaaXFjM1I4cVc3VEh3NU9hVjkyQ3JFVHFsU3JzUGNUVzRTWWZJLXloWm9CdGw2ai1fX1JSZjUxa1VNeUpZd2NKQmI2X1BJRjhqM1FCUGVKUQ?oc=5",
-      "summary": "Indonesia’s Prabowo is desperate to impress Trump and Xi&nbsp;&nbsp;The Economist",
-      "published": "2024-11-28T08:00:00+00:00",
+      "title": "Will Prabowo Subianto cosy up to Donald Trump or to China? - The Economist",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcjdXakNNZVFJZWxGUDMyMF9qQTJpWmwxVUJkQnhmQzFZTENZTXNzc29tWHIxYlpCMjIwSHpETjEzMkxWeTF6ZjVQMFNvWFQ1bDg2STdWeTh3R2NBNnJVZDBDZi01Q0JCdzVGeWE2c0Z1RG5mNWI4Tk52YUhRZVVoQ2NQaHFwam91cWJKMXhSNGxBQ0pMTGVsbWNmaXptbWM0?oc=5",
+      "summary": "Will Prabowo Subianto cosy up to Donald Trump or to China?&nbsp;&nbsp;The Economist",
+      "published": "2024-11-07T08:00:00+00:00",
       "source": "The Economist (via GNews)",
       "groups": [
         "Geopolitics",
@@ -2246,14 +2273,31 @@
         "Trump"
       ],
       "big": false,
-      "id": "0f586f99f80b27e5"
+      "id": "8e0327d3f78b6fb1"
     },
     {
-      "title": "Prabowo Subianto will be the next president of Indonesia - The Economist",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vSHY2NllldWFVZFVjdWd0bml3ZHZlaHhwZnVaS25lcHR4US15ZlJVNUF3Zk5kRlRxbzlJSWJWM2hpcDBCd2V4NXBiX2RIdldhckhZdENDLTYwb0hBamxSSEE3Ym5peXVVZXVxNHg4RThSSGM?oc=5",
-      "summary": "Prabowo Subianto will be the next president of Indonesia&nbsp;&nbsp;The Economist",
-      "published": "2024-02-14T08:00:00+00:00",
-      "source": "The Economist (via GNews)",
+      "title": "Why Economists Hate Donald Trump's Tariff Plan - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQlFVcU9JYVNDaElNcDFET0lka1Y3Z2tobXhSTk1vcUFqVmJ1ekptT1BFOWNHckxrZkFpRUVyNzMyRGtUVmtoa3pKN0ZzcWUxUXdEQ2w2dURnMWlBeXRWMHZ3MTFzclkxTG9uMU5nSVhNVXcwM3F4eHJLY1RSb2FEZThJN09FZ0V6cElTcEhvRlBIMVRSU1g5YVY0WDd1bGxxUTBMamNEVG1XekJZX1A3MHJxRnJNVlg5MkJZSnljS2lraG9HcFNZSDBCOWhVSi1NU1lROA?oc=5",
+      "summary": "Why Economists Hate Donald Trump's Tariff Plan&nbsp;&nbsp;WSJ",
+      "published": "2024-10-16T07:00:00+00:00",
+      "source": "WSJ (via GNews)",
+      "groups": [
+        "Geopolitics",
+        "Global Finance"
+      ],
+      "matched": [
+        "Trump",
+        "tariff"
+      ],
+      "big": false,
+      "id": "dc1199306a2caf9f"
+    },
+    {
+      "title": "Prabowo’s economic policies need less poetry and more prose - East Asia Forum",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaHpuXy1GTkM4a1M4Q3B5Z3dVNlVHbUl5UG1KNWtmZFlQYjEyNUF4UnNXbkNvdHdBRHFjX21rMVhxS1J3SW5GSlhQcXNoQXVySThVamdGVXNVR3ZWemI0V1hVSHR6bnZtdG5Wb3dYbkhiLVBxTUlqZzdneWl4eFd4ZTdtWWlENTBzazZhdUwtSU1vR0FvbFJwdHlNTUo?oc=5",
+      "summary": "Prabowo’s economic policies need less poetry and more prose&nbsp;&nbsp;East Asia Forum",
+      "published": "2024-08-17T07:00:00+00:00",
+      "source": "Financial Times (via GNews)",
       "groups": [
         "Government / Policy"
       ],
@@ -2261,30 +2305,13 @@
         "Prabowo"
       ],
       "big": false,
-      "id": "48e49c5adb38d8c0"
+      "id": "974723198a4f839e"
     },
     {
-      "title": "EMERGING MARKETS-Indonesian rupiah lags Asia FX; Thai baht hovers at six-week lows - Yahoo Finance Singapore",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVTF5T2ZxNU1Ca0w0bVpOV1A5YTMtSnRIcTJFeVhSSkRITDZ6aklYdmtVa0w2Y2hkdlJPaWZSaGNOVDhXdW40eXBxNldXZUtLQmcwcEJSZnNMeERVd2w1QngtUUEyYm1vTnk0R3FmcVlXRUFub1dhelNCaFJXSG1TUGRBdmdnMnEwN25jU3QzWVFIUQ?oc=5",
-      "summary": "EMERGING MARKETS-Indonesian rupiah lags Asia FX; Thai baht hovers at six-week lows&nbsp;&nbsp;Yahoo Finance Singapore",
-      "published": "2020-07-16T07:00:00+00:00",
-      "source": "Reuters – Indonesia",
-      "groups": [
-        "Global Finance",
-        "Macro / Economy"
-      ],
-      "matched": [
-        "emerging market",
-        "rupiah"
-      ],
-      "big": true,
-      "id": "2f04c3ff97f55214"
-    },
-    {
-      "title": "Bearish bets on Indian rupee, Indonesian rupiah at highest in years: Reuters poll - Yahoo Finance Singapore",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaHFqRUdoTDFwTHJNWmhFOVVHX2h6X2RPUWRIQXo4SlJPVUZGMzFrSmduSjdQODRmRGZoQWxaUGhtdkwwc0g5ckU5MldUT1J1cWM4NW5aM1N3aVd2V3NEMERHeG12NFdHX2l0YU41OU4wTk0ybXFzaWgxSXRZOWtoWTIyb2diUldfYXVsOEhNbS1TSk1uWE1LUWw5SkV4VE0yN19QMW04UUJwdmdkTjhKN2hmM1NsUQ?oc=5",
-      "summary": "Bearish bets on Indian rupee, Indonesian rupiah at highest in years: Reuters poll&nbsp;&nbsp;Yahoo Finance Singapore",
-      "published": "2018-09-06T07:00:00+00:00",
+      "title": "Indonesia intervenes to stem rupiah's slide after currency hits 4-year low - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTldDa3Ryb1Q3dDE2Q0pNY0dPY2lNMHBEWE45T0RIWHdMUm1tMFEtVk1wdDc4X3V6R0VXLXYxdThVcGZ3Q192LURJb1FJLURwcjIwZloxcHhCcnFTN1BXRmdUVFl3RUJacm8tQ2g0TnlSUmsxdEZlV2tycnNHR3dqSVJabDk4U2plWVI2bHNVMjc5SC1GRGdrMjItak12eDFpYjBrUU42bXNkSVF4NnRkMElBT2s1ZjRGdmhEcjlmZUY1V1k?oc=5",
+      "summary": "Indonesia intervenes to stem rupiah's slide after currency hits 4-year low&nbsp;&nbsp;Reuters",
+      "published": "2024-04-16T07:00:00+00:00",
       "source": "Reuters – Indonesia",
       "groups": [
         "Macro / Economy"
@@ -2293,37 +2320,7 @@
         "rupiah"
       ],
       "big": true,
-      "id": "c5d5f33f658e4e9a"
-    },
-    {
-      "title": "Defining emerging markets - The Economist",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdEZ2YWcyY1FQVF9jX0JBa0EzbGNiZ0N2NDZXcml1bTJ6NFI4ZWloUVRQTXNjT0V1U2h6THRmUVJ5UEk2aDNlWDU4S25XRTdPTjBZeWxEZjQyWDZxZzZHdFFOS0FKcmR3Q1Z6RG1mV2VoM1dveXVCbEttQjVFMk4wbjk1MA?oc=5",
-      "summary": "Defining emerging markets&nbsp;&nbsp;The Economist",
-      "published": "2017-10-05T07:00:00+00:00",
-      "source": "The Economist (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "emerging market"
-      ],
-      "big": false,
-      "id": "1d0f049ab8dd7b70"
-    },
-    {
-      "title": "The emerging markets’ scapegoat - The Economist",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42MnNCWkxMVVRQckJJcmVLMWdxaHotbk13RGt1WGF3Sk42WTB0Q09JblgxTGliQTVBZHhaaTFVYVdnTDJNOVlzMDB2bU5iQkFubExhemdEWmItZERaZ1pONGxUdkZZMWtZajlVQjBxVmhqRGlCbTJsYnV2NTI?oc=5",
-      "summary": "The emerging markets’ scapegoat&nbsp;&nbsp;The Economist",
-      "published": "2003-01-23T08:00:00+00:00",
-      "source": "The Economist (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "emerging market"
-      ],
-      "big": false,
-      "id": "da2b70c722d8807e"
+      "id": "8669162f5e9c7e17"
     }
   ]
 }

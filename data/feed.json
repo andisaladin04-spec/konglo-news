@@ -1,7 +1,24 @@
 {
-  "updated": "2026-10-04T23:28:20.411968+00:00",
+  "updated": "2026-10-05T02:18:53.852976+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Rawan Terkoreksi, Saham BBCA, ASII, MDKA, GGRM Masuk Rekomendasi Analis",
+      "link": "https://katadata.co.id/finansial/bursa/6ac2e26828ed0/ihsg-rawan-terkoreksi-saham-bbca-asii-mdka-ggrm-masuk-rekomendasi-analis",
+      "summary": "Indeks Harga Saham Gabungan atau IHSG rawan terkoreksi pada perdagangan saham awal pekan ini, Senin (5/10). Sentimen apa saja yang berpotensi memengaruhi kinerja indeks hari ini?",
+      "published": "2026-10-04T23:34:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Astra",
+        "Djarum / Hartono"
+      ],
+      "matched": [
+        "ASII",
+        "BBCA"
+      ],
+      "big": false,
+      "id": "c0338e32e03997aa"
+    },
     {
       "title": "Historia Bisnis: Isu Chandra Asri Milik Prajogo Jatuh ke Tangan Petronas - Bisnis Indonesia Premium",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcG5OUmdHbFdZMVYzNHhvX2lYWFdqci1uWGtMaW4wdWVrYldEMUZFUlJGMEo4MXduaFpHdGVieXo4ckVEMWwwUlNFTTVSdTgxMjdoN0FRWklqWFhLdGh0ZFNPMktuUW1RUTYzVEdlenE2ODlxY0tJRjUzZkV6U21SUVUxUzhRU0sxQXA1b1JQTmFNNEc4a0hmSFNQS01jUk5NR0xrUUg2X3BJLUpSVkVIZWY2RmpYTlUxa05LTEJiRk95UQ?oc=5",
@@ -3110,23 +3127,6 @@
       ],
       "big": false,
       "id": "44c4b7b771df63e3"
-    },
-    {
-      "title": "IHSG Ditutup Lesu, Saham CUAN, BULL, BBCA, BBRI, dan TINS Ramai Diburu Investor",
-      "link": "https://katadata.co.id/finansial/bursa/6a9a92ce48709/ihsg-ditutup-lesu-saham-cuan-bull-bbca-bbri-dan-tins-ramai-diburu-investor",
-      "summary": "Indeks Harga Saham Gabungan atau IHSG ditutup turun 0, 47% ke 6.636 pada perdagangan saham hari ini, Jumat (4/9). Sebanyak 256 saham menguat, 363 saham terkoreksi, dan 172 saham tidak bergerak.",
-      "published": "2026-09-04T11:12:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Djarum / Hartono",
-        "Prajogo / Barito"
-      ],
-      "matched": [
-        "BBCA",
-        "CUAN"
-      ],
-      "big": false,
-      "id": "c6aa613c682ff99f"
     }
   ]
 }

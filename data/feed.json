@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-06T06:32:56.658861+00:00",
+  "updated": "2026-10-06T13:35:21.189514+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "Ada Grup Bakrie ENRG di Balik Proyek HighPeak Energy di AS, Investasi Rp 3,6 T",
+      "link": "https://katadata.co.id/finansial/bursa/6ac4f1f325951/ada-grup-bakrie-enrg-di-balik-proyek-highpeak-energy-di-as-investasi-rp-3-6-t",
+      "summary": "Emiten afiliasi Grup Bakrie PT Energi Mega Persada Tbk (ENRG) turut berinvestasi bersama sejumlah mitra termasuk Danantara di proyek HighPeak Energy Inc total US$ 450 Juta atau sekitar Rp 8, 05 triliun",
+      "published": "2026-10-06T11:44:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Bakrie"
+      ],
+      "matched": [
+        "Bakrie",
+        "ENRG"
+      ],
+      "big": true,
+      "id": "e8da7eeba9f29858"
+    },
     {
       "title": "IHSG Sesi I Melonjak 1,26% Ditopang Lompatan Saham LQ45 GOTO, DEWA hingga PTBA",
       "link": "https://katadata.co.id/finansial/bursa/6ac4863fcf57b/ihsg-sesi-i-melonjak-1-26-ditopang-lompatan-saham-lq45-goto-dewa-hingga-ptba",
@@ -3112,21 +3128,6 @@
       ],
       "big": false,
       "id": "d43026555ea8e322"
-    },
-    {
-      "title": "Peluang Pemulihan United Tractors (UNTR) - Bisnis Indonesia Premium",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVFd4Q1hIejY3cm1EVFhvbEpkMEVHdEsxSmJtSUlkcjE4Vm4zU01wMUhZb3FkMGFkOVFMWHplNldhdElNUHpHellmSjlvMk5ZTURRaHBwdHNXT0JoYVFCSkRHbEZDaXFpS3B4b19ZazdPM1VXdXlobXo2cjdjWGxCdUd4aVVXZnJEMG15TThqZUMydVBiRXc?oc=5",
-      "summary": "Peluang Pemulihan United Tractors (UNTR)&nbsp;&nbsp;Bisnis Indonesia Premium",
-      "published": "2026-09-07T02:07:28+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Astra"
-      ],
-      "matched": [
-        "UNTR"
-      ],
-      "big": false,
-      "id": "e5ff18b639fb8fee"
     }
   ]
 }

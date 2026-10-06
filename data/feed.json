@@ -1,7 +1,24 @@
 {
-  "updated": "2026-10-05T18:33:29.212848+00:00",
+  "updated": "2026-10-06T00:18:35.439079+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Rawan Terkoreksi, Analis Lirik Saham BBCA, INCO, MEDC, BRPT",
+      "link": "https://katadata.co.id/finansial/bursa/6ac42eed261c1/ihsg-rawan-terkoreksi-analis-lirik-saham-bbca-inco-medc-brpt",
+      "summary": "IHSG rawan terkoreksi pada perdagangan saham Selasa (6/10). Investor pun disarankan untuk mencermati sejumlah sentimen yang berpotensi memengaruhi pergerakan indeks hari ini.",
+      "published": "2026-10-05T23:12:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Djarum / Hartono",
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "BBCA",
+        "BRPT"
+      ],
+      "big": false,
+      "id": "34d1505c91215d1c"
+    },
     {
       "title": "Chandra Asri (TPIA) Perkuat 3 Pilar Bisnis di Asia Tenggara - market.bisnis.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU2ozeFc5dC1yd2xLU09YNHVxZWtZMzU4bTFBQkw3WXFnNGs1dTdVZkY1SE5hZjFpclEyZ1JMUXRqQ3lEZUNiQVRMbW9iMnhra0R6Wmxsdll5cHRwSmFLcFlwOTg3a1Bvc3pfNjRpcC1rUmpEZ1BlTjNkQnk4ekVDb2tuT2JpUVRsakdYRVZhYUxBRUliQXRnZVBObmt2bnJFWTBGa202cTdENU9DVUE?oc=5",
@@ -3110,21 +3127,6 @@
       ],
       "big": false,
       "id": "74357c153c4c3f30"
-    },
-    {
-      "title": "Saham Top Gainers-Losers Sepekan: SINI Melonjak Tajam, RGAS & VKTR Terpangkas - Bisnis.com - Market",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ2NsYXBFaDZNN1plZ0hIQVdDTTVSOVBvVUtZdTFUa2hKTHRhN18xRXRFejlCeFkwUVdLSm1obDl0Vm1CTEZmeFBwWF81dmhEd3VyVlBJNThUOWhPdVlBaklJR0lMcTdZbFR4Q29BeGE1dzVZUFNjZGp1X0paQU9hRGwyb0JuUTdRTGdrUF9vOEZRZWRzRjhPODk4Vy1FTktiU3QwdUN2RHh3WWVFSzJJcVROTU16V0NUaHdHSC1HSTM?oc=5",
-      "summary": "Saham Top Gainers-Losers Sepekan: SINI Melonjak Tajam, RGAS & VKTR Terpangkas&nbsp;&nbsp;Bisnis.com - Market",
-      "published": "2026-09-05T06:48:11+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Bakrie"
-      ],
-      "matched": [
-        "VKTR"
-      ],
-      "big": true,
-      "id": "72f61625efce858b"
     }
   ]
 }

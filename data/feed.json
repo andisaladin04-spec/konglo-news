@@ -1,7 +1,22 @@
 {
-  "updated": "2026-10-08T19:48:16.432539+00:00",
+  "updated": "2026-10-08T23:59:27.919079+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Masih Rawan Terkoreksi, Analis Jagokan Saham ASII, EMAS, INCO, RAJA",
+      "link": "https://katadata.co.id/finansial/bursa/6ac8210325e74/ihsg-masih-rawan-terkoreksi-analis-jagokan-saham-asii-emas-inco-raja",
+      "summary": "IHSG berpotensi terkoreksi pada akhir pekan, namun analis merekomendasikan sejumlah saham seperti ASII, EMAS, INCO, dan RAJA untuk diperhatikan investor.",
+      "published": "2026-10-08T23:02:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Astra"
+      ],
+      "matched": [
+        "ASII"
+      ],
+      "big": false,
+      "id": "9b1154800e2ca214"
+    },
     {
       "title": "IHSG Merosot ke 6.031, Ada Crossing Jumbo di Saham MPRO dan SMMA",
       "link": "https://katadata.co.id/finansial/bursa/6ac76cb4c2437/ihsg-merosot-ke-6031-ada-crossing-jumbo-di-saham-mpro-dan-smma",
@@ -3127,21 +3142,6 @@
       ],
       "big": false,
       "id": "fe8768c6acbeba15"
-    },
-    {
-      "title": "Indeks Bisnis-27 Ditutup Menguat Ditopang Laju AKRA, INKP & MEDC Cs - Bisnis.com - Market",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTDg0N1FYMG1DT2JvQWgxY2ozQmV2UFZDTnFYZjNsSDdjUGVRUWV1aDlDWjVvdFJIUk1YaTdySm1OckZ2Vmplbi1STnluXzl1WFdjUU9oZldidVBIYmozZEFJSldtQ2xpUnktLTVGMVNRNGtFcHQ0LVRfSTFkcUlnc3R3UXRlYmtxQW1jVWFzYWV4MHYyTWZDTjFqR05KNHdVd3E1cGJwYTA3NE9GcThrbkFfTy0?oc=5",
-      "summary": "Indeks Bisnis-27 Ditutup Menguat Ditopang Laju AKRA, INKP & MEDC Cs&nbsp;&nbsp;Bisnis.com - Market",
-      "published": "2026-09-08T09:18:34+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Sinar Mas"
-      ],
-      "matched": [
-        "INKP"
-      ],
-      "big": false,
-      "id": "24eef40edf3d2ea3"
     }
   ]
 }

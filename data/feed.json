@@ -1,7 +1,25 @@
 {
-  "updated": "2026-10-10T02:06:43.774532+00:00",
+  "updated": "2026-10-10T08:26:26.090923+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "Emiten Bakrie VKTR, BUMI, BNBR Panen Proyek Prabowo, Apa yang Perlu Dicermati?",
+      "link": "https://katadata.co.id/finansial/makro/6ac9eb47df18a/emiten-bakrie-vktr-bumi-bnbr-panen-proyek-prabowo-apa-yang-perlu-dicermati",
+      "summary": "Sebanyak empat emiten grup Bakrie kini menggenggam berbagai proyek strategis di dalam atau luar negeri, mulai dari sektor pertambangan hingga energi bersih.",
+      "published": "2026-10-10T07:37:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Bakrie"
+      ],
+      "matched": [
+        "BNBR",
+        "BUMI",
+        "Bakrie",
+        "VKTR"
+      ],
+      "big": false,
+      "id": "cc7c0dced65a4e74"
+    },
     {
       "title": "IHSG Ditutup Naik 1,04%, Ada Crossing Jumbo di Saham VICI, DOOH, hingga SMMA",
       "link": "https://katadata.co.id/finansial/bursa/6ac8bb6054a19/ihsg-ditutup-naik-1-04-ada-crossing-jumbo-di-saham-vici-dooh-hingga-smma",
@@ -3126,21 +3144,6 @@
       ],
       "big": false,
       "id": "65d0cd915daa683c"
-    },
-    {
-      "title": "Intip Kisi-Kisi Dividen Interim Ketiga BCA (BBCA) hingga Bidik Kredit Tumbuh 10%",
-      "link": "https://katadata.co.id/finansial/bursa/6aa168e188db7/intip-kisi-kisi-dividen-interim-ketiga-bca-bbca-hingga-bidik-kredit-tumbuh-10",
-      "summary": "Emiten perbankan swasta raksasa PT Bank Central Asia Tbk (BBCA) atay BCA mengumumkan kisi-kisi pembagian dividen interim ketiganya hingga membidik pertumbuhan kredit mencapai 10%.",
-      "published": "2026-09-09T14:10:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Djarum / Hartono"
-      ],
-      "matched": [
-        "BBCA"
-      ],
-      "big": true,
-      "id": "87a97fc92dc62599"
     }
   ]
 }

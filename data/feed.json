@@ -1,7 +1,22 @@
 {
-  "updated": "2026-10-15T20:58:14.211331+00:00",
+  "updated": "2026-10-15T23:37:54.963604+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Diperkirakan Lanjut Koreksi, Analis Jagokan Saham BSDE, PWON hingga MBMA",
+      "link": "https://katadata.co.id/finansial/bursa/6ad160d488a38/ihsg-diperkirakan-lanjut-koreksi-analis-jagokan-saham-bsde-pwon-hingga-mbma",
+      "summary": "Indeks Harga Saham Gabungan (IHSG) diproyeksikan turun pada perdagangan Jumat (16/10). Seiring dengan itu, analis merekomendasikan saham PT Bumi Serpong Damai Tbk (BSDE), PT Pakuwon Jati Tbk (PWON)",
+      "published": "2026-10-15T23:35:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Sinar Mas"
+      ],
+      "matched": [
+        "BSDE"
+      ],
+      "big": false,
+      "id": "082eb9801acd713b"
+    },
     {
       "title": "IHSG Merosot ke 5.862, Ada Crossing Jumbo di Saham BYAN hingga SMMA",
       "link": "https://katadata.co.id/finansial/bursa/6ad0a36da0f7e/ihsg-merosot-ke-5862-ada-crossing-jumbo-di-saham-byan-hingga-smma",
@@ -3125,21 +3140,6 @@
       ],
       "big": false,
       "id": "ee857dbae89d9a20"
-    },
-    {
-      "title": "Presdir Kena OTT KPK, Saham Summarecon (SMRA) Tumbang 6,02% - Bisnis.com - Market",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSENockxKc0lBYmNOWE9YdVd6eEZ5RUcyVy10elc2UmFNbWpBVVBNTUw1REFpSklubXBVc3RNUTgtOHNvSk1aOEtLOVAxS1lhWldpZ0F4cFh0OU42VGFodmdJT3JheG0zZ2tVcllJT0hreGtmWUo2RGs1Wk11ZE9sM2kzX05TTzZjMVNZcEhTMV9SazhjeWh2blNIMDc4bTFiRlh3V1QwYmNXUQ?oc=5",
-      "summary": "Presdir Kena OTT KPK, Saham Summarecon (SMRA) Tumbang 6,02%&nbsp;&nbsp;Bisnis.com - Market",
-      "published": "2026-09-15T07:08:06+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Sinar Mas"
-      ],
-      "matched": [
-        "SMRA"
-      ],
-      "big": false,
-      "id": "74fce7126c8285f3"
     }
   ]
 }

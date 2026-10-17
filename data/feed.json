@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-17T00:18:29.992445+00:00",
+  "updated": "2026-10-17T04:41:05.737634+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "OJK Denda Rp2,1 Triliun Pihak Terkait Pelanggaran Saham DSSA, BREN, dan CUAN",
+      "link": "https://katadata.co.id/finansial/korporasi/6ad2d55b67761/ojk-denda-rp2-1-triliun-pihak-terkait-pelanggaran-saham-dssa-bren-dan-cuan",
+      "summary": "OJK menjatuhkan denda total Rp 2, 1 triliun kepada pihak terkait DSSA, BREN, dan CUAN atas pelanggaran manipulasi pasar dan penjatahan saham.",
+      "published": "2026-10-17T01:53:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "BREN",
+        "CUAN"
+      ],
+      "big": false,
+      "id": "0c588e3d87ec64be"
+    },
     {
       "title": "Skandal BREN–CUAN sejak 2024 Baru Ditindak Sekarang, Bos OJK: Butuh Proses",
       "link": "https://katadata.co.id/finansial/bursa/6ad1fce26a4b3/skandal-brencuan-sejak-2024-baru-ditindak-sekarang-bos-ojk-butuh-proses",
@@ -3132,21 +3148,6 @@
       ],
       "big": false,
       "id": "ea2f20a58932f43e"
-    },
-    {
-      "title": "Kisi-Kisi Terbaru Target Saham BBCA Usai Guyur Dividen Interim September 2026 - Bisnis Indonesia Premium",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX3F6S1hIZXBnQ1dnNjAtRk1LTU1IN1JIdThlRHhoa3hFMnI1VmJoZzM2aFdsZUpWdTA2SHMwU1BnRWF6bUw0WFY2TVFlWTJUTVpaVUhjWVdMWEhKVEQ0cWE5WGhwdnZSN2FyZldTQVRfWERJVnh3OG84TDJrQnhuaXM1TXlfS3RuZlhnUTd4LXk1MUtHdW8xWlRFQ3ZhZjg0UW1QdUtLSzMyWkhQQjRxc3Jjbk91dW1kQ3ZQN1U3ZEpOdHVoR3E2cm9B?oc=5",
-      "summary": "Kisi-Kisi Terbaru Target Saham BBCA Usai Guyur Dividen Interim September 2026&nbsp;&nbsp;Bisnis Indonesia Premium",
-      "published": "2026-09-15T23:45:00+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Djarum / Hartono"
-      ],
-      "matched": [
-        "BBCA"
-      ],
-      "big": true,
-      "id": "a5dc81ac655ae5de"
     }
   ]
 }

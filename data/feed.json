@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T13:25:39.520897+00:00",
+  "updated": "2026-10-18T16:42:36.522502+00:00",
   "count": 200,
   "items": [
     {
@@ -16,6 +16,21 @@
       ],
       "big": false,
       "id": "b52cc9f1762df312"
+    },
+    {
+      "title": "IHSG Ambruk, Asing Net Sell Jumbo di Saham Big Banks BBCA-BMRI - Bisnis.com - Market",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTGZBRVpPNUlmazNpa1pkV19vM1daVWJHWjk5QUFvOUtGeHNOaXIzblVJek92eUU3cjV4MFJXa0tMUGpvUG9WR1Q2QWxid0hzdXJPdEZFRWdSOENkdXAxa3hLbzE1aER0R1p1NmVoVWJaQ2lXa2lzOExCOTg1eGVKdDFhUnQ1X1B1VldKLWlZVFEzVWZrYy1sVEFFQ1pBSmpzV0EtMnQ1Ri1XUHlrdHczbQ?oc=5",
+      "summary": "IHSG Ambruk, Asing Net Sell Jumbo di Saham Big Banks BBCA-BMRI&nbsp;&nbsp;Bisnis.com - Market",
+      "published": "2026-10-18T05:49:09+00:00",
+      "source": "Bisnis Indonesia (via GNews)",
+      "groups": [
+        "Djarum / Hartono"
+      ],
+      "matched": [
+        "BBCA"
+      ],
+      "big": true,
+      "id": "0b79252609b3d6ab"
     },
     {
       "title": "BREN dan CUAN Respons Sanksi Denda dari OJK, Janji Penuhi Ketentuan Pasar Modal",
@@ -3132,23 +3147,6 @@
       ],
       "big": false,
       "id": "48294799195e604a"
-    },
-    {
-      "title": "IHSG Berbalik Lesu, Saham BBCA, TOWR, BBRI, SMMA Crossing Jumbo",
-      "link": "https://katadata.co.id/finansial/bursa/6aaa676891837/ihsg-berbalik-lesu-saham-bbca-towr-bbri-smma-crossing-jumbo",
-      "summary": "IHSG ditutup melemah 0, 38% ke level 6.436 pada perdagangan saham hari ini, Rabu (16/9). Pasar berbalik ke zona merah setelah pada sesi pertama siang tadi sempat menguat 0, 36% ke posisi 6.484.",
-      "published": "2026-09-16T09:54:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Djarum / Hartono",
-        "Sinar Mas"
-      ],
-      "matched": [
-        "BBCA",
-        "SMMA"
-      ],
-      "big": false,
-      "id": "d63a9685afc35370"
     }
   ]
 }

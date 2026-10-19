@@ -1,7 +1,24 @@
 {
-  "updated": "2026-10-18T23:30:12.319742+00:00",
+  "updated": "2026-10-19T01:35:21.328673+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "Daftar Terkini Saham RI Penghuni Indeks MSCI, Ada BBCA, BRPT hingga MAPI",
+      "link": "https://katadata.co.id/finansial/bursa/6ad5726c95e9e/daftar-terkini-saham-ri-penghuni-indeks-msci-ada-bbca-brpt-hingga-mapi",
+      "summary": "Setidaknya ada 43 saham Indonesia yang masih tercatat sebagai konstituen di MSCI. Sembilan di antaranya masuk MSCI Global Standard Index, sedangkan 34 saham lainnya masuk ke MSCI Small Cap Index.",
+      "published": "2026-10-19T01:29:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Djarum / Hartono",
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "BBCA",
+        "BRPT"
+      ],
+      "big": false,
+      "id": "37ef41628951b639"
+    },
     {
       "title": "Peluang Serok Saham Bank Jumbo BBCA Hingga BBRI saat IHSG Tertekan MSCI - Bisnis Indonesia Premium",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMndrMVlfcWZKeF9haDZ0RUFxOG04MDY0ZG9ucXNpVnd0LWJQME9MSDhNUGRQOHk4YzJBcjl1UEczZjF1ZlE2eDhqMmJuMDQtYkpWN2k0bmFveXVkZlpMcTZfY3I4QjZsWTFuYS1SUkdDNldmalVGQXl5STNHbWljSnkydlhDSzE5WTlmUkFCVmVBS1Q4NGJPY01NV1d0Z0lDZjJOZVZPQVYyQVdrQUpDTGZiSVdMeDQtOTlVSWJWTktGZw?oc=5",
@@ -3132,21 +3149,6 @@
       ],
       "big": false,
       "id": "b444296cb5df96ea"
-    },
-    {
-      "title": "Petrosea (PTRO) Akuisisi Perusahaan Jasa Kepelabuhanan Sejahtera Terminal Logistik - Bisnis.com - Market",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdGZqOGdHd212OFU1TXZHbE5pV253X3lPSEo2a25ORjkyZy15QTlnX2g4TGtNZkZ3ZmdlOVJpYV91SFBaVktWQkNlS0c4OTlGeldSY19iZlVKdExxZWNlZXVDUmVkdWZWMnEyVTB1aGgzY2hXLUJMVEp0Ti1McnNmb3RUbVA1N3htNTBnVnBjY1BKRWFzRFgwbTlVQ0h5VFlPMXdRblMwb1BGMUdvQlh2cWcxOTdCVEdnUlVIWW8zQ3ZQTlBNeE9Wd19KQ1o?oc=5",
-      "summary": "Petrosea (PTRO) Akuisisi Perusahaan Jasa Kepelabuhanan Sejahtera Terminal Logistik&nbsp;&nbsp;Bisnis.com - Market",
-      "published": "2026-09-17T00:36:08+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Prajogo / Barito"
-      ],
-      "matched": [
-        "PTRO"
-      ],
-      "big": true,
-      "id": "be29c22c01040ade"
     }
   ]
 }

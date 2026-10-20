@@ -1,7 +1,22 @@
 {
-  "updated": "2026-10-20T20:51:10.254798+00:00",
+  "updated": "2026-10-20T23:37:54.513004+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Diramal Menguat Jelang Rapat BI, Analis Jagokan Saham ANTM, ACES, RAJA",
+      "link": "https://katadata.co.id/finansial/bursa/6ad7f77057d43/ihsg-diramal-menguat-jelang-rapat-bi-analis-jagokan-saham-antm-aces-raja",
+      "summary": "IHSG diproyeksikan menguat dengan target rebound ke 5.318, meski momentum bearish masih ada. Analis merekomendasikan saham ANTM, ACES, hingga RAJA.",
+      "published": "2026-10-20T23:21:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Astra"
+      ],
+      "matched": [
+        "ACES"
+      ],
+      "big": false,
+      "id": "b4f5ecb15d9ac5ee"
+    },
     {
       "title": "Allo Bank (BBHI) Siapkan Buyback Saham hingga 2 Desember 2026 - Bisnis.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObHlrSnM5eXBHNmE5RzBrQXRoZFplVXBISlFYRGVONEx2Q29oa3ZfZHRNVTEzZGNGb3d5Z2xjZXV5aDNYMVU2Y3JQRnhfYUFaVFNWRmlFWlY4cnpJZmhQOVo1YXNSZlBmS2daWDNla1BsN2JfdlF4RDFOYi0zcWhKYjB5ZTJWc3RjTWVqeTdhakVKdDRTUWxwVEoxVll0czVUN0dRWXRrdHdqcHBTdEhhY21Pdw?oc=5",
@@ -3137,23 +3152,6 @@
       ],
       "big": false,
       "id": "68f23b7f500f942b"
-    },
-    {
-      "title": "Astra (ASII) Gelontorkan Capex Rp 17 Triliun demi Perkuat UNTR di Semester I",
-      "link": "https://katadata.co.id/finansial/bursa/6ab38b781c6af/astra-asii-gelontorkan-capex-rp-17-triliun-demi-perkuat-untr-di-semester-i",
-      "summary": "Emiten raksasa otomotif PT Astra International Tbk (ASII) telah merealisasikan belanja modal atau capital expenditure (capex) Rp 16, 9 triliun atau 47, 47% hingga semester pertama 2026.",
-      "published": "2026-09-23T08:19:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Astra"
-      ],
-      "matched": [
-        "ASII",
-        "Astra International",
-        "UNTR"
-      ],
-      "big": false,
-      "id": "a09026e1fedcf72c"
     }
   ]
 }

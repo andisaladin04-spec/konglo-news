@@ -1,7 +1,40 @@
 {
-  "updated": "2026-10-19T23:19:36.293333+00:00",
+  "updated": "2026-10-20T01:55:41.002637+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "Setelah MSCI, Indonesia Belum Kiamat!",
+      "link": "https://katadata.co.id/indepth/opini/6ad576ad79e8b/setelah-msci-indonesia-belum-kiamat",
+      "summary": "Kinerja IHSG 2023 yang menjadi terbaik kedua di ASEAN didorong kuat oleh MSCI dan segelintir saham konglomerasi seperti BREN dan TPIA milik Prajogo Pangestu.",
+      "published": "2026-10-20T00:15:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "BREN",
+        "Pangestu",
+        "Prajogo",
+        "TPIA"
+      ],
+      "big": false,
+      "id": "0c9246e7327d3e21"
+    },
+    {
+      "title": "Ramalan Nasib Saham BBCA dan Prospek Bank Central Asia di Tengah Gonjang-ganjing IHSG dan MSCI - Bisnis Indonesia Premium",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQ2xKbzBfWWc3SG5vOVJjcGt4aE5VR2pvNkhQVTI2VlZpWXRrQ0lqcFZYS2Z1bV81aWYtT3o2c29RRXpuYnJuUkJ2cGZMUUN1dThJNUZNTWpDZ1laUG9YUktKV0pQU05abEFWQl9wM1Bxbm90NWo1RU9xalhWZ0FCWHRETkVwcENWU3RJeGV3TC1hanA5UTE0SnNPakdfaTEwdXdPWDdIaVJWVUV0bkFxYlNpUzBlSVE5SzIydlVRNjNHUi1xN2MwelN1ckd5UnRYSlN2UTNnS3E5ZjBLaUxSVQ?oc=5",
+      "summary": "Ramalan Nasib Saham BBCA dan Prospek Bank Central Asia di Tengah Gonjang-ganjing IHSG dan MSCI&nbsp;&nbsp;Bisnis Indonesia Premium",
+      "published": "2026-10-19T23:45:00+00:00",
+      "source": "Bisnis Indonesia (via GNews)",
+      "groups": [
+        "Djarum / Hartono"
+      ],
+      "matched": [
+        "BBCA"
+      ],
+      "big": false,
+      "id": "02b2ac4c65f055af"
+    },
     {
       "title": "DSSA Tanggapi Sanksi Rp 1,5 Triliun yang Dijatuhkan OJK, Saham Bangkit 2,1%",
       "link": "https://katadata.co.id/finansial/bursa/6ad60e2f02e40/dssa-tanggapi-sanksi-rp-1-5-triliun-yang-dijatuhkan-ojk-saham-bangkit-2-1",
@@ -3120,37 +3153,6 @@
       ],
       "big": false,
       "id": "ce978d8a12a3acb7"
-    },
-    {
-      "title": "IHSG Rawan Tertekan Jelang Hasil RDG BI, Cermati Saham BIPI hingga SMRA - Bisnis.com - Market",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeDFfNnFmcnVGREZ1RGo0Mm9qMXVEcG5ZWUo3SWhNeUZSUGVJUldKUFdzckhBZmppcWkxSjFtdmJZQ1UtQ1lrNVJsWV9NY1RIVEllMjNtVHFWdC1lVXRDT1pyNm1ZVDVMM2E4MmhfLWt1VWlSTW01MXpabFBaTElUSUQ2QkdZaTh6SE00ZkVZd0toa1Mwd1p5bVVERU4zTlA3V3hTMEFJMmhobWk3cm5IM3k5aTNObXR3b0RQUks5TQ?oc=5",
-      "summary": "IHSG Rawan Tertekan Jelang Hasil RDG BI, Cermati Saham BIPI hingga SMRA&nbsp;&nbsp;Bisnis.com - Market",
-      "published": "2026-09-22T01:24:39+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Sinar Mas"
-      ],
-      "matched": [
-        "SMRA"
-      ],
-      "big": false,
-      "id": "67229477d3277243"
-    },
-    {
-      "title": "Di Balik Gurita Grup Djarum, Menakar Arah Baru Konglomerasi Keluarga Hartono",
-      "link": "https://katadata.co.id/indepth/telaah/6ab1c2b3262fe/di-balik-gurita-grup-djarum-menakar-arah-baru-konglomerasi-keluarga-hartono",
-      "summary": "Puluhan tahun lamanya, nama Hartono bersaudara identik dengan Djarum. Dari bisnis rokok di Kudus, Jawa Tengah bisnis keluarga Hartono berkembang menjadi salah satu konglomerasi terbesar di Indonesia.",
-      "published": "2026-09-21T23:34:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Djarum / Hartono"
-      ],
-      "matched": [
-        "Djarum",
-        "Hartono"
-      ],
-      "big": false,
-      "id": "770908805924a3de"
     }
   ]
 }

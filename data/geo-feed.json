@@ -1,7 +1,127 @@
 {
-  "updated": "2026-10-20T19:22:58.801317+00:00",
+  "updated": "2026-10-20T22:30:49.322606+00:00",
   "count": 150,
   "items": [
+    {
+      "title": "‘I don’t care how it’s done’: Trump pressures Ukraine to cut peace deal",
+      "link": "https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal?traffic_source=rss",
+      "summary": "The US president&#039;s remarks come amid a deepening feud with Ukraine&#039;s President Volodymyr Zelenskyy.",
+      "published": "2026-10-20T22:20:13+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "dadd66fbb976dbe9"
+    },
+    {
+      "title": "Trump commits more than $400m ahead of high-stakes midterm elections",
+      "link": "https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections?traffic_source=rss",
+      "summary": "The president&#039;s Republican Party seeks to maintain its hold over both chambers of Congress, despite declining polls.",
+      "published": "2026-10-20T21:27:38+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "a9efbe40fa9c5918"
+    },
+    {
+      "title": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
+      "link": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss",
+      "summary": "The lawsuit argues Trump bypassed Congress and misused a Depression-era law to impose tariffs on Canadian imports.",
+      "published": "2026-10-20T21:19:12+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "21e37893902c12d0"
+    },
+    {
+      "title": "Why do the US midterms matter for Trump and Congress?",
+      "link": "https://www.aljazeera.com/news/2026/10/20/why-do-the-us-midterms-matter-for-trump-and-congress?traffic_source=rss",
+      "summary": "Republicans and Democrats jockey for control of Congress, which will set course for Trump&#039;s final two years in office.",
+      "published": "2026-10-20T21:00:42+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "9ceb10188648b037"
+    },
+    {
+      "title": "Trump: Ilhan Omar could be deported, slams Somalia as a ‘s—house’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/trump-ilhan-omar-could-be-deported-slams-somalia-as-a-s?traffic_source=rss",
+      "summary": "Donald Trump called Congresswoman Ilhan Omar “sick” and “dishonest” a week after federal agents raided her home.",
+      "published": "2026-10-20T20:32:29+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "830d7dd0ff576256"
+    },
+    {
+      "title": "DEN dan presiden bahas strategi fiskal untuk jaga harga BBM subsidi",
+      "link": "https://www.antaranews.com/video/5800793/den-dan-presiden-bahas-strategi-fiskal-untuk-jaga-harga-bbm-subsidi",
+      "summary": "ANTARA - Dewan Ekonomi Nasional (DEN) membahas strategi fiskal untuk menjaga harga bahan bakar minyak (BBM) bersubsidi ...",
+      "published": "2026-10-20T20:10:00+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "subsidi"
+      ],
+      "big": true,
+      "id": "5e90ad9d8654807e"
+    },
+    {
+      "title": "Netanyahu says he discussed ‘eliminating’ Iran’s regime with Trump",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/netanyahu-says-he-discussed-eliminating-irans-regime-with-trump?traffic_source=rss",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu says he discussed the need to topple Iran’s regime with US President Trump.",
+      "published": "2026-10-20T19:51:09+00:00",
+      "source": "Al Jazeera",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "02d51ebcfa03fab9"
+    },
+    {
+      "title": "Trump sued over Canadian tariffs in latest legal challenge",
+      "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+      "summary": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
+      "published": "2026-10-20T19:30:05+00:00",
+      "source": "BBC Business",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "ed215accf7d30394"
+    },
     {
       "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
       "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
@@ -1544,6 +1664,21 @@
       "id": "5c506892c296e8b1"
     },
     {
+      "title": "Toyota, Honda resume Thai production after floods as supply chains come back - Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWWtvd21tZnB4QzFtOGxXdzZoVHJnZ0tTUUJPRG5HeWR5NjVXX3g0NkFxVTdsUTh4c0xaajR0ZDZQSEFwZ2xvM3VZM2dVMzdENzNNalFERkNkWkF0eVVFdS15NEdHb3FXVS1TTTRZQjdJY3BnNjVzZUozMU9WM2RTNGxwZWp3QmdwUzBNclczSTNGMHpPd0hoc2NVX1pzbWc0bFNVLXVtcV9TYm5LM1ZvTXRMUnhHQ01WczhKTA?oc=5",
+      "summary": "Toyota, Honda resume Thai production after floods as supply chains come back&nbsp;&nbsp;Nikkei Asia",
+      "published": "2026-10-19T20:24:00+00:00",
+      "source": "Nikkei Asia (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "supply chain"
+      ],
+      "big": false,
+      "id": "7062cdbbdcff0de1"
+    },
+    {
       "title": "Airlangga Laporkan Ekonomi RI Stabil ke Prabowo, Pemerintah Siapkan Langkah Perkuat Ekspor dan Efisiensi APBN - pantau.com",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeDltRF9JcktkVWRxSERIX2cxRTVfVHQ4bDJkTjdmdzRrSnNWU3hGb3JSREQ0UFlvTXR5b0dwZVRRUlVQaGdReFg0WU11X3o5b25YOGVNQ0NtQ2JPOXhTdXg1bWZwOXNpSGRUbWx4VERjZnpLQ3NpWll4LVFicE04NTJleXNINWRvX0dXdkRrZ3VhdWdhMTBWdWpSclNET1E5UTRlRW03ZDBFOUpYb2Rxak9vTl91dHd4c3JBNmFwcG83M2JWQW5CbHhTbmhIVlRoalZNamsta0hJUjlpRFVJ?oc=5",
       "summary": "Airlangga Laporkan Ekonomi RI Stabil ke Prabowo, Pemerintah Siapkan Langkah Perkuat Ekspor dan Efisiensi APBN&nbsp;&nbsp;pantau.com",
@@ -1560,153 +1695,132 @@
       "id": "845c9d826de63c77"
     },
     {
-      "title": "Watch The Copper Rally Faces a Tariff Test - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWGtlTlVER2VBNk5CcmxTWC1kTGgtaEpja3RMYVVxdzB2Z0lRcldkUUo5WkJXMUNKNmw4R1lyYTZmMHRDU2txVzlsRG1TeDh4RW5jaFM1WlVDNVlKNHNvbW44S3VWTlJPVFdJbjhIU1YtVnRkWWdPSVEwLU5DUHAzekQwV19SVXNhdWd4V2hkajRYTmZjSlE?oc=5",
-      "summary": "Watch The Copper Rally Faces a Tariff Test&nbsp;&nbsp;Bloomberg.com",
-      "published": "2026-10-19T00:00:00+00:00",
-      "source": "Bloomberg (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "tariff"
-      ],
-      "big": false,
-      "id": "192a95784bfc21c6"
-    },
-    {
-      "title": "Indonesia stocks, rupiah tumble as MSCI weighs market downgrade - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdkNvZGtYMEN3a25BdWFpa1JYbm1nUTBGajFONWtaYUY5enB3UmtlQXpzTXRpaEZSTUpSNVg4Y1JYY19LZlZ4MjFiN2JXamQ3Zm5CNlMxa1FxQXQzbS15ZFgxN1pYMFFsODNLWUtqWmRwWmFvTF9lRTRtd2QzQlgtODdPdktRQnZzU2lZcW5PalZPU0tyNjhqMElBVTNlcWtaLU4tSjVBeXFPZG0tdWE1N19xWjROWG5UeDIxNktpTnBRaEtRTktuc0VROThGaGNvWHoxTV9B0gHbAUFVX3lxTE1SX251c3V0UmRmTk1FekdaeGpIMEVKYjJadVAtdTllTWZ3djFlU2NFelQ3d1pFU2JKRHNwaDlTX2cwUllQQUdQOTU4SnlXZm1JY0p2bXdlS2w1TE5wVGtjU3ZFOUZNVi0zZTdIaV9DOWYwSGRyS2ZfRFdqZGNDOENDMWE3VEVNa3RmYW9UTFVfamRwdnZGd1RUQTY5SEZPSnVEd1hCa3lBY0VsY09ZcVNjM1lpeUxxTU9udmJuYXE0QURoNkhzeWFyS3FQZUNsZTZQZFNqSUFxeThoZw?oc=5",
-      "summary": "Indonesia stocks, rupiah tumble as MSCI weighs market downgrade&nbsp;&nbsp;The Economic Times",
-      "published": "2026-10-16T09:55:49+00:00",
-      "source": "Reuters – Indonesia",
-      "groups": [
-        "Global Finance",
-        "Macro / Economy"
-      ],
-      "matched": [
-        "downgrade",
-        "rupiah"
-      ],
-      "big": true,
-      "id": "b0260b410fe6a5e1"
-    },
-    {
-      "title": "US yields fall as investors look for safety and bet on pause in rate hikes - Nikkei Asia",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNHlRbWVqem9wbU9BVkZaQmpfRkdKWlJ1UW5fWk90VlhQczRuVnhybmY4Q21oaWhpR0xFTWJ5Mk5pXzFSZGlyU2gwaVJabWk4cG1mZGVBc1FWd21KbFBoV2oyTDNJYmxGUEV0QmNDNWZmdXZoc2h5REZsdGhRaGdrODJyMGF0Y2N6OS1UMXpLRHVRTDFsUzF1UzY4ZHN5UXIwWDNaemUwMGthRlliSGRhNmd0d0tyUQ?oc=5",
-      "summary": "US yields fall as investors look for safety and bet on pause in rate hikes&nbsp;&nbsp;Nikkei Asia",
-      "published": "2026-10-15T21:04:00+00:00",
+      "title": "Coal prices up 40% this year on LNG replacement demand, supply uncertainty - Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPamxPTUcyVnRjSFJxTkhqZ1hhR2E4T2haMzFKelgyci1oNVNiMjYxTklJdDctcHZFV0JIRVNpWlFySGV1ZXNrWE5naDZ3UXE2MWFVTlo1NzFLWUdjaG11MzdHTjVlbFdQZXczM2twU2VFemRCZU1xaWpGR0VaV2VXSW5LUnZ0SndVSmMzMzdyRURBc19pQXdjSm9UdnBDTXJNWldfNUhIZDJ4MlhmTkF0V2tR?oc=5",
+      "summary": "Coal prices up 40% this year on LNG replacement demand, supply uncertainty&nbsp;&nbsp;Nikkei Asia",
+      "published": "2026-10-14T16:35:00+00:00",
       "source": "Nikkei Asia (via GNews)",
       "groups": [
         "Global Finance"
       ],
       "matched": [
-        "rate hike"
-      ],
-      "big": true,
-      "id": "2327b9fdc2260bac"
-    },
-    {
-      "title": "Pernod Ricard mulls India IPO after country sales grew 19% in Q1 - Nikkei Asia",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQWJCTFYtaGZBNXdmSGh5eG0tdFlEaXNzUDNFSmxRVnlvUkNYcVZrSk1zWUZqa3ZtUTRNc0NscDZ4d19ZV2ZhQmhTRFZMM1I1RlJ3T2diLU5mU09UeUF4UTEtM2lJTzgyLU1UMXBWMWhzM1NrajRuNDE5WlZGMllMWmZVRG5QNnRtLTdncUczUVpyeW1jWG9JWlF3R0VCQUJ5VXNZbU9JanpnQnda?oc=5",
-      "summary": "Pernod Ricard mulls India IPO after country sales grew 19% in Q1&nbsp;&nbsp;Nikkei Asia",
-      "published": "2026-10-15T13:42:00+00:00",
-      "source": "Nikkei Asia (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "IPO"
+        "coal price"
       ],
       "big": false,
-      "id": "4ef5b9dbd4915ce5"
+      "id": "619bc095dfdfcc4c"
     },
     {
-      "title": "Watch Hot September CPI Spurs Fed Rate Hike Fears - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV3NEeWNhT1RvUU1ZaUNFZF9lSlRndG5Rc1NseDNLR3NnXzlNMzBOeTlud0I4bGprcmVmMVFaUzV6OXVEUmo0N2t6VEt1TGZFZ0VMMEdZLW12Y1JXV08tNVFyaG11cU9tOWF0V0NwZVNXa1pmZG5fOGdrU2NpUm9lMW40VGtVZ1pPV3RvTzZXUjVlZ2FuTXYtUVNn?oc=5",
-      "summary": "Watch Hot September CPI Spurs Fed Rate Hike Fears&nbsp;&nbsp;Bloomberg.com",
-      "published": "2026-10-14T23:09:09+00:00",
-      "source": "Bloomberg (via GNews)",
+      "title": "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’",
+      "link": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
+      "summary": "IMF Chief Kristalina Georgieva warned AI is hitting the global labor market like a “slow-moving tsunami,” with young workers entering the job market the most exposed.",
+      "published": "2026-10-13T13:09:55+00:00",
+      "source": "CNBC Global Markets",
       "groups": [
         "Global Finance"
       ],
       "matched": [
-        "Fed rate",
-        "rate hike"
+        "IMF",
+        "World Bank"
       ],
-      "big": true,
-      "id": "2703b9dca7e85c61"
+      "big": false,
+      "id": "c5c1aedd1122b2b5"
     },
     {
-      "title": "Dua Tahun Prabowo-Gibran: APBN Perkuat Program Prioritas dan Jaga Stabilitas Ekonomi serta Fiskal - Kementerian Keuangan",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPREd2ZXNTV2VuYmR6QmExUHN3T0hpTkdzRWpHQVdkTU1mcHNWNlQ2djdxZ1hYSWdETnhoVk1aYUZINURSdDByaVdFcnB4OWpTQU1vVG5fbWVSUnNOYnpGRHJGd05QeWFoZ0hjeVZBMGpGUkY1OWRqOHUwdzVjLXBQNDJRQURRV3hvZEp4ZklWVElTYy1icTVTcVVhVGJ4d0g0Ykp2Zzhn?oc=5",
-      "summary": "Dua Tahun Prabowo-Gibran: APBN Perkuat Program Prioritas dan Jaga Stabilitas Ekonomi serta Fiskal&nbsp;&nbsp;Kementerian Keuangan",
-      "published": "2026-10-08T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "APBN",
-        "Gibran",
-        "Prabowo"
-      ],
-      "big": true,
-      "id": "c360ab90aab786b3"
-    },
-    {
-      "title": "BI Rate Tetap 5,75 Persen, Analis Waspadai Tekanan Inflasi dan Rupiah - Infobanknews",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcnU4WHB0X3NpUUFUTlJzT2JDR1RPMnFMLTBWSFRBMU5EUzVOMjgyazdqWVJIajFoMXRKSUlLd1ZzUFU1ZUNsa0Z1SHpSc085a0F0dHFuVzFlRE16SGxqbmViSkpydFFMZ0Z1enJHYjVIVHBxczhXX2x0Wmc1N3FCMlZha2Z3T2U2MlNwa3dhNFg4a2RTZGRz?oc=5",
-      "summary": "BI Rate Tetap 5,75 Persen, Analis Waspadai Tekanan Inflasi dan Rupiah&nbsp;&nbsp;Infobanknews",
-      "published": "2026-09-24T07:21:00+00:00",
+      "title": "Destry Bongkar Alasan BI Tahan Suku Bunga 5,75%: Inflasi Masih Jinak - CNBC Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRmM1ZG1CczhfTmxpU0Q0WHNfWTZjMEtnTEtwMVRHc0RWZ2JacGNhMHhCdVVMNzdtT0NKbGk5X0ZmUTQwWmllLU9xQzZReTlPSC02RzVwbmpUN1B5QVJuV2wyN1dNbk9DWGNZcE1VdXg2Mm9lRXN1cE5OU29fbjJZcHNyQklPRlNlalQzdU95NVRWOXNxZUNDOHpZQXBhYWhqOW1pU21qcmVyc0pmWEVIck1leFZZa0lHSktDcy05dUhkdVJPVFHSAcsBQVVfeXFMUDBZZUppaDVZNkJyaVVNdmRUbHdFS3hTNUhmREp4VFJkdktoVWc4RURvMlN1ZUZSbGlJWjB0VVkwX1h4azJDSkQ4YTg3TDlkWU9jcE1LbzEzRGlrUWlWZFV6WTJmbmlUNWg0eHBNUEI1YjE3RlRGUFFZZFBqZXNTSTFwYzZQTU0zUDFpQ3BIV0h3cW5hUGt0eldJc3pzTmlzdFlzdDhQakVsTkJucDRRSGRZaHpGbXlsaHc5c2ZQbXUyVFVEOXp3ZGdsOFk?oc=5",
+      "summary": "Destry Bongkar Alasan BI Tahan Suku Bunga 5,75%: Inflasi Masih Jinak&nbsp;&nbsp;CNBC Indonesia",
+      "published": "2026-09-28T07:00:00+00:00",
       "source": "GNews – BI rate rupiah",
       "groups": [
         "Macro / Economy"
       ],
       "matched": [
-        "BI rate",
         "inflasi",
+        "suku bunga"
+      ],
+      "big": true,
+      "id": "4469170cd7fc9968"
+    },
+    {
+      "title": "Indonesia Set to Hold Key Rate as Risks Test Rupiah’s Resilience - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ0FKWjFlNEVDOFhJOEsxUjhIRkM5MzVIeThNbjNNX1VRX3RxNUM3c2NXci1SdWJUZmpLcnVvLVpOVV9VbXU4WWx1SUZPREtPZ0tjbEx5NjJ3eV9CaGx3YmJxX2VKcUZmLWYtcGRTRl9oY0x3Y3gzNGFkTEJ4akNQVlFZemxGNUxRNS1ycE1yOExGM2xBX0ItQ1VHRDB1cXptRWJCOTNERldqWFEwX09jal9PT3JfQQ?oc=5",
+      "summary": "Indonesia Set to Hold Key Rate as Risks Test Rupiah’s Resilience&nbsp;&nbsp;Bloomberg.com",
+      "published": "2026-09-22T07:00:00+00:00",
+      "source": "Bloomberg (via GNews)",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
         "rupiah"
       ],
       "big": true,
-      "id": "28bf7dc883c7cd94"
+      "id": "bfc3563864473fb3"
     },
     {
-      "title": "BI Rate Diproyeksi Tetap 5,75 Persen di Tengah Tekanan Rupiah dan Global - kumparan.com - Kumparan.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ3MtRG9YVGhkSHVzaUV2WGpYTExyN24wdWxuYmE3SlNhekR0dlFvcEYzbWd3SEpiZWJScVE2Z21ZTENCdXdWOTJHR3VIYTNsTnJwVVpWWkhUNi15SGxXX2NrY2lZVGc2TzFkOFFJbjhDMVNGcUYtUUdIaVNjaUpvdjltbHFvUjJkWUZQRWU3U0txNXdYYTkzWEV0YjFBWUJnbnMwRDA0STd0eEw0MVZYYmZ3QXVjdkw5cDJ0WtIBxAFBVV95cUxNQjJkNWQwZW52UUNrcklEajhrQ0RfUjl3NmNTXzFtVXNkT2RDdkVNR252dnE3aUtqR0FsdjlENjdzZHgyUjBnWGZlcHVWQjBvQkNaQXFzd044OFlQeGUyQUJjU01kZ2hXMzBpNU5lZDFrVm9UQk1RejdiLU90Q2Y1eHNwcDFDQTlLdEVlWkZyTGdSMU42Wjk3eDJpR0t6MWdEN3g4THVxcmxubExyTjU4YW42b3N4VjljMEpiWlpWTGwxbENy?oc=5",
-      "summary": "BI Rate Diproyeksi Tetap 5,75 Persen di Tengah Tekanan Rupiah dan Global - kumparan.com&nbsp;&nbsp;Kumparan.com",
-      "published": "2026-09-23T07:00:00+00:00",
+      "title": "Jelang 2 Tahun Prabowo, Pemerintah Perkuat Arah Kebijakan Ekonomi dan Keuangan - PT Suara Dewata Media",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa1F6cFY1TFBwblgxQXJtQnU3cHgzVkdzNW5SQklwQUNKQVhsd1A2cVI2VExZeWdQTUVMcm9pbjdDS2haaUxLbTdSN0gtNUM4OTFaZEQyRmxGR0xDVXRqeThEQWNzNldzbWF4N2d6cXNVcW15LWNfZlRiODR5OWhPenNWaWFRNGdna0dOMUVQRUNuX3ctQmdBR2Y3VW5rY3Q0U1l2SGdNaGZqVTNqT2hlaGpVeU5TUUNuZXBucTNR?oc=5",
+      "summary": "Jelang 2 Tahun Prabowo, Pemerintah Perkuat Arah Kebijakan Ekonomi dan Keuangan&nbsp;&nbsp;PT Suara Dewata Media",
+      "published": "2026-09-20T07:00:00+00:00",
+      "source": "GNews – Prabowo APBN",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "f851506a352dc787"
+    },
+    {
+      "title": "Futures Rise With Help From Oracle’s Beat and Cooler Oil Prices - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOemw5SW0wbTlzN0hCcUx5YVJMR3Z5WmdVamxJYnBhZmVTVWswQlZFeGM1czNqRTdpNUI3MVdweV9NeFhnWlNLeFEtZmhjZWE1dC1yTG0tT2lOeFBiN3lfX2x1UnYzWmRuZGNRLWVJS3FUNWNmc1JRVUoyYzBVcXlBZkdrMTJrWW5ZY1lGZThERGdWaWZSNzZwQjhhYnROOWxxVjhMcTlnOUE4N2x6a3NOYVM2bzI?oc=5",
+      "summary": "Futures Rise With Help From Oracle’s Beat and Cooler Oil Prices&nbsp;&nbsp;Bloomberg.com",
+      "published": "2026-09-11T07:00:00+00:00",
+      "source": "Bloomberg (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "oil price"
+      ],
+      "big": false,
+      "id": "985d8bb51c6867c9"
+    },
+    {
+      "title": "Daya Beli & Arah BI Rate di Tengah Inflasi yang Meninggi - Market - Bloomberg Technoz",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPckZFYjZXX0EtUHVMdnMybERuWEYwUHEtc1hDeC04Q0xEeHB5SUNlTEhQbzZBWUgwTWo0QU1tM1dlb0duRlJUblB4N0prV0xTSnlKTVJrNjFkX0gybHBETW8zZE5JblNTYXc2a3lXa2NQd2lGeGt1MHl1S2xLSERvQkNjX3IyWk1Jd0x4UW03Nm1qN1FyQ2dNVlAyclAtekt6SjczdEtGZVZxVUJp?oc=5",
+      "summary": "Daya Beli & Arah BI Rate di Tengah Inflasi yang Meninggi - Market&nbsp;&nbsp;Bloomberg Technoz",
+      "published": "2026-09-01T08:35:06+00:00",
       "source": "GNews – BI rate rupiah",
       "groups": [
         "Macro / Economy"
       ],
       "matched": [
         "BI rate",
-        "rupiah"
+        "inflasi"
       ],
       "big": true,
-      "id": "6a4dc3f2a2d1c558"
+      "id": "a526a1303da1c8bb"
     },
     {
-      "title": "Destry Blak-blakan, Rupiah Tak Selalu Harus Diselamatkan Pakai BI Rate - CNBC Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcDV6Vk43MDFUNmx4N2VfQi1IYTNHUzF6YzlmVGYxX1JBMUFuVFhqcm1fSWF0QUZpZzYxWHljT3YwbnFzQ3lHTlMxajhHVXNmSVlqd19SOHdGVl8tM1JPXzQ2aDIzX1JZenBUc3BZVkhqOU5FaW5kbkpGbXJBbmNZTkVOMXhiNGdGNmxtU1NpMzZTMHAwczR5ZDBOLWFyMi1qNGpVLWpwR3BRenVSaUR6d3Nzb3l6MUhzZjFUSXRGMzlZdXJJVDlLQXhQb9IB0AFBVV95cUxQb3BvSUVJWDdvUVFWMlEzUWVxY2dUWmZXRV9wdm1hc2FIcHNlcVl5VDBralh3S3lmMUtvbGdpTjFELWxFSDdSR3Z1cGdxVGYwWWg1YVdkTldzX2FVWExZU0Jqbi12cERYZ3VnVE1TMFlDbjR1LXA5YVBxZ0U4eUp4cGpfTndwcXVoTUR0aFVleUpYakxNSUxsYlRxM0hLcG1OZ0VOeGx1YkFxbzNNZFdEd3huS2c1M0puRFdRQ2ZyQVpBb0hGdmxiTEZKZGZPd1Zt?oc=5",
-      "summary": "Destry Blak-blakan, Rupiah Tak Selalu Harus Diselamatkan Pakai BI Rate&nbsp;&nbsp;CNBC Indonesia",
-      "published": "2026-08-26T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
+      "title": "Indonesia's Prabowo launches 100 GW solar power program - Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZjhoaEZVWEFDdFFqS1h6OXFzaHljLXI2QjdqME1YdkE3NVRUNHhPU3RXd1Y1U1U1MTFEUi0tUjNwU2FVYVc1MjVGZHFHVFBnRzhnanl3OHRiNm82WnhxQVFDZzVpa01ybjJlV0hzaEdUV2RXUDJWcWVOaXl0enlSRF80dDRIX3JnX0dFSjZSY1VSVWtjcm9XSjB0RQ?oc=5",
+      "summary": "Indonesia's Prabowo launches 100 GW solar power program&nbsp;&nbsp;Nikkei Asia",
+      "published": "2026-08-25T07:00:00+00:00",
+      "source": "Nikkei Asia (via GNews)",
       "groups": [
-        "Macro / Economy"
+        "Government / Policy"
       ],
       "matched": [
-        "BI rate",
-        "rupiah"
+        "Prabowo"
       ],
-      "big": true,
-      "id": "3281451cd92867e7"
+      "big": false,
+      "id": "f8eb375e7ffc345b"
     },
     {
-      "title": "Pesan Tegas Prabowo, APBN 2027 Harus Berdampak Nyata Kepada Masyarakat - Sulbar Kemenag",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNEpEd1h5eThjQkcxaXhTNUE2VlBwajBNZnBEanVieEpvS1lmNTNLSDFJSExRaXpQMnZsZi12ZzloNkg5VXRqejJLX2tQWGI0WUVkdTZ5UzhUZDcyeThfMEFrNFZsOXIzYWJKdW9OZlZRVW0ya0h0TzRtX3hkcWpjWTd5T2RpdzFkcDZHY0FKT20ya01waWptRDhPblNlZHg5Z0h3VkUtUzZRcnljWjFDbHJ3?oc=5",
-      "summary": "Pesan Tegas Prabowo, APBN 2027 Harus Berdampak Nyata Kepada Masyarakat&nbsp;&nbsp;Sulbar Kemenag",
+      "title": "Prabowo Rancang APBN 2027 Rp4.097,2 T, Defisit 2,68% PDB - CNBC Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaTZCNllVMUVXQ0NJbHFMaUNNR0wxNHE5VGZnQkNWREd5bnhwbHY1NmYtbEFXLXFIdkI2WlhyS3M1anNqenZzN0tTRXFQUXFFQTltVnZFcng1RThSZmpfZjhDMlpJSmRISDRCU3AtX2VJLXhiMWhseTFKYTdhdF84RFoxNVhvUDk5OHhWZ0QtbkVtTXJOYThYNk9YT08xM2tHU21LME80RWtzb1JXZXRj0gG0AUFVX3lxTE0tR2FlSXBrRHNmdThjTnpBT2tweVNQZEZsU2M4YnYzQUZGRHBWZU1DZjYtWUpveFRFbFhNS2JkTEI1YnRHQ0tINUVGRW5BUGxhc1lyYlp3bFNhNmtHSWRhTjVJRUlZejVIN3pPbVpROUU5MDFRUjhLcHRCN19rRlVUN3A2STJlalNsZ01sdUNLN3F2ZzZoOGVVZmZyeXRDc3ZqTzRqV19zTDNfS1lWVHZBaDNxWQ?oc=5",
+      "summary": "Prabowo Rancang APBN 2027 Rp4.097,2 T, Defisit 2,68% PDB&nbsp;&nbsp;CNBC Indonesia",
       "published": "2026-08-14T07:00:00+00:00",
       "source": "GNews – Prabowo APBN",
       "groups": [
@@ -1717,13 +1831,78 @@
         "Prabowo"
       ],
       "big": true,
-      "id": "38acb02d2cec931a"
+      "id": "b005ba006e0a8e62"
     },
     {
-      "title": "Presiden Prabowo Sampaikan Pidato Kenegaraan Penyampaian Keterangan Pemerintah atas RUU APBN 2027 dan Nota Keuangan - Kementerian Sekretariat Negara",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQT1RacVdsNnBWNUc5bUFmZzNtc3NuZldGZGhfdEdCcEIwbnJwWnBPaGhaRzVKcHZEWHBpVkhhMDI1SmM0ZGF4OHZvVkN6M1VYYnZoT21LUTN3U3NMYWZRaS1ZeFBDSUs3dVFpanVhQkx1bDBvRnpaSThTUGpvQXZZLW1vSUwtdUI4Wm93cFpFRUQ4RHVBWHlOUGg5dmxIZ2wtS2tMMEJtcW81OUlob2V1bUtKMDl1N2VJcHpBTFRYRkd4RTQ0eWlPR2p4WTJqWjQyaWF4ZEhyX1FpWkwyb1pvVg?oc=5",
-      "summary": "Presiden Prabowo Sampaikan Pidato Kenegaraan Penyampaian Keterangan Pemerintah atas RUU APBN 2027 dan Nota Keuangan&nbsp;&nbsp;Kementerian Sekretariat Negara",
+      "title": "Pengamat Apresiasi Pidato Presiden Prabowo, RUU APBN 2027 Dinilai Mampu Jaga Ekonomi Nasional - PT Suara Dewata Media",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNS202R1ozNFdYaHlyS2dyVnRuMXkxMTY1TmJiY2p1ZGhYVXphWUZxRFh4d0dYbFVZelJiWVdmSjBHeVU1ZlhBRVpValZnYVdUQXFRQUVTVzVxQjJablBGek9JdHIydGZsSnFQRUJRdnhuUEJEbnI5eUhINkhPMHFWbjJfd1l4T1pJcVpPSnVXcXBoQlpkMW1zbE5wLUpQMGU0cDdaX1o1U3ZubXA3Z3lHaXdnSmd2VnRtQnowU1E5aFdLLXpSTlFyQ3lNaUFkNDh0SzlqT1pOOA?oc=5",
+      "summary": "Pengamat Apresiasi Pidato Presiden Prabowo, RUU APBN 2027 Dinilai Mampu Jaga Ekonomi Nasional&nbsp;&nbsp;PT Suara Dewata Media",
       "published": "2026-08-14T07:00:00+00:00",
+      "source": "GNews – Prabowo APBN",
+      "groups": [
+        "Government / Policy",
+        "Macro / Economy"
+      ],
+      "matched": [
+        "APBN",
+        "Prabowo",
+        "UU ",
+        "apresiasi"
+      ],
+      "big": true,
+      "id": "fe183e09f7f27740"
+    },
+    {
+      "title": "Prabowo Dorong Sensus Ekonomi 2026 Jadi Dasar APBN Akurat - TIMES Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkd3dV83WmNhZU1RNDhPTVQySEgwejBLWlAzNUFjajhjam5NZFhIZG9YMFRteDZfTHpDd1lrcV84UVIwb1NyVUJrYkQ4aTZHZi1MZlJIWHBOdkxnRi1mMlI2RVJhOVZGdzZfckNDejdadGg2eDF6Y2RRODZDMnl0eFFtOFprMUcwc1VzcmV4bzJsQXR1b3ZMWXlKdVdaRkQ2eUdudVdQZWlDbTM4YVlYMnl3?oc=5",
+      "summary": "Prabowo Dorong Sensus Ekonomi 2026 Jadi Dasar APBN Akurat&nbsp;&nbsp;TIMES Indonesia",
+      "published": "2026-08-14T07:00:00+00:00",
+      "source": "GNews – Prabowo APBN",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "APBN",
+        "Prabowo"
+      ],
+      "big": true,
+      "id": "00d0dea55efb4006"
+    },
+    {
+      "title": "BI Rate tetap di 5,75% usai naik 100 bps sejak awal tahun - IDNFinancials",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM3cyUGxRc2h2LUhXNkxCLUNKcTFKS3pzX29Za2IybnlrVGNlbXhBR2VXaURGVnh3ZEpzTjFUU0RrREpscVJkZ2tLMnlRV0pYU3g3ZFFPeThHOFRUTnYtenVaS2xtZFQ0Z2s5cEt5V2hNYzZKTHk4Smx3Q0NiQVhPWWxnQmJBWFA2azZwYTNEN2VKN1pVWVhJT213NjZfUXhTVGc?oc=5",
+      "summary": "BI Rate tetap di 5,75% usai naik 100 bps sejak awal tahun&nbsp;&nbsp;IDNFinancials",
+      "published": "2026-07-22T07:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "BI rate"
+      ],
+      "big": true,
+      "id": "1c8de84ac77b310d"
+    },
+    {
+      "title": "Kenapa BI Naikkan Suku Bunga Lagi Jadi 5,75%? - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM3IwMzdLMmdqODgyUXJpeHBuaDNCNTYwMEVGVElQQ0FDdjkzbnN4N083T29qbXk0cDBtQkExRkZRRUlRU0hTOHJnVkJWYUREck1GcjJuYjJNRUlOeHNrcVNiS1ZJanpkd1Ezcl85QWdZVUR4RVNaZExXZzhhbTgwMNIBgAFBVV95cUxOZ2Y1a2ExVjU1blFGSzBrOXM5bDk4UXk0cHhMX2swSVVZWUMzb0RCSDBjMHNSNkMwY0VYM2JlNU9XSGtMNWVyVGo1UUx6T3pWaUJnSVdUX1g5cXd2S1FLMGt5WHhjc0ZtRkNiSV9KN1RSZGtrSjUyX1pmMUd6a2ZqbQ?oc=5",
+      "summary": "Kenapa BI Naikkan Suku Bunga Lagi Jadi 5,75%?&nbsp;&nbsp;DW.com",
+      "published": "2026-06-18T07:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "suku bunga"
+      ],
+      "big": true,
+      "id": "466052494e0a1088"
+    },
+    {
+      "title": "Klaim Hemat APBN Rp300 Triliun, Kepala Bakom Minta Mahasiswa Dukung Prabowo Lawan Kebocoran Anggaran - Warta Ekonomi",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRmp4cXU3YW9SQmtXQ29UNjNJbTB6ZUZ2OGlCWmR4aWlTZm00RXl2NGdtRjFrM0NIVEUzUDNWVHN6ZS1SYTBwb0l1VndWenlIV2R4UkNhbmlVb1NMNmlCd3lhaVZHVUJsNG8zY215NGlUMW43enEtR2VrSTcwOW04SXdkaUxZVEpWZEVLQWh6ZFFJWTNLRzZDSjZpeGlibU1qRjJBbDk0WnhrOTg3M1ZlbWQ0TWpTOC1HSk40ZFhVZnFISjZJVkc4d01MdEphamlhVG9B0gHYAUFVX3lxTE01XzBPZ00yd0FZT2ZVdF9yZHlvZTdCc09uVjhoSVpFTHdjLTVrR2ZnUGtVNWYtVHRHcnVRR1Z1RDJZRFVxVjdiRGlVSnJGdDJERDBHMFpEM1BHOTkxa05XaGlrNU41U0FTQk0xaE1kZHJkbC1FcGlVdmRxOEJScVF5QWk5ZHZZNTdzWU83ek4xeS1PVjMyd0VUc0lQN29rQ3dUN0J1SG1wc3o4UGh5d3BPSEc2MnRDZnN2SGh0aFNyeDFPY29zZ2pPSi1RSHFqclZwdzhmNV9LUw?oc=5",
+      "summary": "Klaim Hemat APBN Rp300 Triliun, Kepala Bakom Minta Mahasiswa Dukung Prabowo Lawan Kebocoran Anggaran&nbsp;&nbsp;Warta Ekonomi",
+      "published": "2026-06-15T07:00:00+00:00",
       "source": "GNews – Prabowo APBN",
       "groups": [
         "Government / Policy"
@@ -1731,148 +1910,140 @@
       "matched": [
         "APBN",
         "Prabowo",
-        "UU "
+        "anggaran"
       ],
       "big": true,
-      "id": "528cf5c64e509a73"
+      "id": "3b816e519ee39562"
     },
     {
-      "title": "Pidato Presiden Republik Indonesia pada Penyampaian Keterangan Pemerintah Atas RUU tentang APBN Tahun Anggaran 2027 Beserta Nota Keuangannya di Depan Rapat Paripurna DPR RI, 14 Agustus 2026 - Sekretariat Kabinet Republik Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPUlRZeHFKZHBPbllDOWt4dDhFY215S3NNTmZNOTVMMURoeXlTRVRNNHdzUTlwUDRWQWxCanYtMmN6aS1vQlhTUmU4eE8zS2V1b2xhZWtpUWJKaFY5TDRVczhyd1U5MDBwNVFoSlFBcXQyWGw1a1VPNjNkWW5teDFQTjc5SmxLQ3RLVU1ka0lYNUxuWHVVRTFNSDNEaGtSVFZWT000MDRpLWZKZTJrQ2sxU0lkRmhudldGUGxYZFpWVFVRT0NpZnc2bUFHMGlhR1FFN2FBNEtoajJaT2czTDdlbFNyNTFYR2JwdFVFRThFNk5pRHg1SFdDN3pCSHNhaTBScjB5ekg0aWJHQWdkTVpuc2RxNWcwS0RLbjN3VjV3VzJwdTNQM0ZvSEZabWNjNWJPeXNBVg?oc=5",
-      "summary": "Pidato Presiden Republik Indonesia pada Penyampaian Keterangan Pemerintah Atas RUU tentang APBN Tahun Anggaran 2027 Beserta Nota Keuangannya di Depan Rapat Paripurna DPR RI, 14 Agustus 2026&nbsp;&nbsp;Sekretariat Kabinet Republik Indonesia",
-      "published": "2026-08-14T07:00:00+00:00",
+      "title": "Prabowo's populist policies propel a 'doom-loop' in Indonesian markets - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSW56ZHNjVnktdXYzcUNCalV1MDNVVHY0cDhNRG9ZTGVLRWlYb2lOMm1BWWgtMzdIX1ltTHd6T3ZvaUpXNHo1RTBKYkdLN1BLbU1sT1BaSW9OQU52cjR4S0x5MFFuTXNyU0luQzFpcmtLWVhNNWV0ZGtHNzZzNHlqblBpLV9GZUQwLVJqUjgxSkl4TXd2UDFqdmtUdGRoRTBpeURnWHVIbGJURk9VTTREXy0yTi1ScDIx?oc=5",
+      "summary": "Prabowo's populist policies propel a 'doom-loop' in Indonesian markets&nbsp;&nbsp;Reuters",
+      "published": "2026-06-08T07:00:00+00:00",
+      "source": "Reuters – Indonesia",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "f319d225e6d88de3"
+    },
+    {
+      "title": "Presiden Prabowo Sampaikan Arah Kebijakan Fiskal Tahun 2027, Tekankan APBN sebagai Alat Perjuangan Bangsa - Kementerian Keuangan",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVUZJb01pRWJKMGV1ZXMyUE92WFNwVlhucTRvTDEtUzdaWldLTXQxZVBHdWJzbUtWd0V5VGtiTERvRm5NTUxUVDVNdG5QSzk1NTdRY2g5ei1lWndnS3FCY2VyVldNX0FGa1NZWm1ubVozVE9WZ0pBc0dEUnBIS0hEdDB2RHBpc0hUeGNjNjh3NWJzZktDeUl0eUJtNWU?oc=5",
+      "summary": "Presiden Prabowo Sampaikan Arah Kebijakan Fiskal Tahun 2027, Tekankan APBN sebagai Alat Perjuangan Bangsa&nbsp;&nbsp;Kementerian Keuangan",
+      "published": "2026-05-20T07:00:00+00:00",
       "source": "GNews – Prabowo APBN",
       "groups": [
         "Government / Policy"
       ],
       "matched": [
         "APBN",
-        "DPR",
-        "UU ",
-        "anggaran",
-        "kabinet"
+        "Prabowo"
       ],
       "big": true,
-      "id": "d0601c75c3adc452"
+      "id": "d372102daaa92e7b"
     },
     {
-      "title": "Pemerintah Gandeng BI Jaga Rupiah, Inflasi, dan Pertumbuhan Ekonomi - Infobanknews",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcXJSVUxNRmV2NzJOb18tWXA1bVNURUEwS0FOVjJ5ZXBETTR6cDAwWEc0QVZ3OHVoMmhwaWFfV2FNc1pPc3hkelBTM1kyLUJkRUFScV8wYjNhQmhLVHpVMl91d1dnTnprX0k0OERjUVZyZjFIX2x1WjZSX21ZeGRuSjdmdU1GLWpYNmtIR1lwaEF4aWFZ?oc=5",
-      "summary": "Pemerintah Gandeng BI Jaga Rupiah, Inflasi, dan Pertumbuhan Ekonomi&nbsp;&nbsp;Infobanknews",
-      "published": "2026-08-05T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
+      "title": "Prabowo Blak-blakan Sebut APBN Bukan Sekadar Dokumen Keuangan Tapi Ini - CNBC Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONWZMWHVxc3Q3RDl5VjFES2JvWEtjaUxEN0RtcHladnBJRUxzd3ZNYWpIRk1CVTVObjdFVkNhZ0htT3ZFa0dySlBLNXM2eEVZajhaS1dZMS1NSU05S2xDQi1CRF9lMWJpZnl1YlNTWE9rSzlhTTNpTzR2azA2bVBGdE1rTzJKalQxVTBlT0N1eFFubklOaHhtbEpQVzB5YzRqRl9obVJjY3FzUHJtZmZNQ2Z6cVRUandTZDN4NG1vQWRzUFl6MDlZZ9IBzgFBVV95cUxPTkN4aG9nWEItTU42RnNHb2ljZW5qQjRnXzlTbDBjRk1nQ1Y5MW9Ta0pJX2hiWEJndnVCQ3lsOGthTFhjVmsyR2hvd1gtTUIwdW9kdFJybEVFTFE4a1BCTDNXbHA5NWZCS0NxdnliWTFHa3R3d0NSNFFFMHRoOWhIS1NnSnpQb0RmS2pDbTVXcHE1YkhDTzZuQlBBQUdqS1AyREdyMm40bHdBaTQyWFo0aWVya25fS25SSVl2cE5hMnhQMnFHM01oU0Z1RGQxZw?oc=5",
+      "summary": "Prabowo Blak-blakan Sebut APBN Bukan Sekadar Dokumen Keuangan Tapi Ini&nbsp;&nbsp;CNBC Indonesia",
+      "published": "2026-05-20T07:00:00+00:00",
+      "source": "GNews – Prabowo APBN",
       "groups": [
-        "Macro / Economy"
+        "Government / Policy"
       ],
       "matched": [
-        "inflasi",
-        "pertumbuhan ekonomi",
-        "rupiah"
+        "APBN",
+        "Prabowo"
       ],
       "big": true,
-      "id": "8ea0312cdb93c089"
+      "id": "75c1dd0fa784e56c"
     },
     {
-      "title": "LG Electronics Expects Quarterly Earnings to Surge, Buoyed by Tariff Refund - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOVRXa3JTNkpjWF9vWHc0MkJoeGFjOTFOb1BHSUd0eXc5QWxNU1pYV3g3Y2ZOR2xVYlF4SDROTDdGZDd3eFNoSWJLVm1hTUExd0l4S2FTeEpYQkkzUko1ZTE0V0dOSEppaEF0blJTUHRkQzEwWHJNUFNWWUczeVc1a0R5MTUzaC1BdHBpSUpVSEdycURCM2hTT2pMNEJmcF9GUFkyT3BvY2JIazc4?oc=5",
-      "summary": "LG Electronics Expects Quarterly Earnings to Surge, Buoyed by Tariff Refund&nbsp;&nbsp;WSJ",
-      "published": "2026-07-07T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
+      "title": "Presiden Prabowo Tegaskan APBN Jadi Alat Melindungi Rakyat - MetroTVNews.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTmxic0owODEtb3ZJVk90OWVxcXpjVU9kT3hjdjhIM0ZBWURKbEpRczNQNW5jQXBHa21xOEpwSHZqSTZQRXNHbzdwY01NRHVQTjBrU0RGSjJMX0lPS24yeWZ0YVozOVNIbWZtUlh5VFA0ODR3cW1SeDNRQlFJVnNRUUxWaTNRS2hmcmljTzI0MkUwaDJFSGk0cFBxZ3J1R0x4dlE?oc=5",
+      "summary": "Presiden Prabowo Tegaskan APBN Jadi Alat Melindungi Rakyat&nbsp;&nbsp;MetroTVNews.com",
+      "published": "2026-05-20T07:00:00+00:00",
+      "source": "GNews – Prabowo APBN",
       "groups": [
-        "Global Finance"
+        "Government / Policy"
       ],
       "matched": [
-        "tariff"
+        "APBN",
+        "Prabowo"
+      ],
+      "big": true,
+      "id": "054291da1ed25edc"
+    },
+    {
+      "title": "Prabowo Tegaskan APBN untuk Jaga Ekonomi di Tengah Krisis - Kompas.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOEcyeGtucFhid3MtQ3VMVlZ2N3EtLURIS3c2eTM3UXUwSkhJM0EtQm4ySDNneTEzTHltVVVpRU5pUDRSanl2bTJBU3FsUEZTd2U4ckFZYUZpMHJ4UkZONHZ1TlowX0czWVFWSlBlQjd4bEdSd1U1NXJ5enJGU2tvSGVPVW0wYkdtQ0xILWw1aGwya29fUWlQTUNGSXBLWHBya0lQQW4zenpwT3Br?oc=5",
+      "summary": "Prabowo Tegaskan APBN untuk Jaga Ekonomi di Tengah Krisis&nbsp;&nbsp;Kompas.com",
+      "published": "2026-05-20T07:00:00+00:00",
+      "source": "GNews – Prabowo APBN",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "APBN",
+        "Prabowo"
+      ],
+      "big": true,
+      "id": "9f1a11a5cd76e630"
+    },
+    {
+      "title": "Prabowo target defisit maksimal 2,4 persen dari PDB pada RAPBN 2027 - ANTARA News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUDVHLVNiMTJqRGRJZGdZZUhjaTlkUDFRcndjdFZsdUFrTU1YNUMzb1pTcl81eDQ4MDVJU0gzRUpvQXZkWjU3TFVwc3Y0bUE2V29LaG5fVFVtODBPMXVwYjlnODZ6aWJnejlhTXM5STZadEtfQ0tDQzhvdy0temxxS3JvM2xrelZOSnZ2ZS1xRktPMHVPb2ZQcEhyU0U3YVVHMUdoWGZkSDZCblJHaWfSAbMBQVVfeXFMTk9wdHVGWk1FdVVDbzREVFBFcGszWVZvSV9YTmZHaUxvdHZoRVFkQkdSWENQd1FQWWZZYXhodks4Qzl2T0JocTBONnVFVzlSLXhhWEx2OHdQdDJ4MkhLOEwtUVB0WDl3eEtqU1dYREh5cTk0WGlpbm5mUGM5MzZjbVhXaFJTNjl3aDlPTm5rb201N1NnSmNURWpzUElzOWIxd216czU4Qmc1a2NCcG9xcE9IZXc?oc=5",
+      "summary": "Prabowo target defisit maksimal 2,4 persen dari PDB pada RAPBN 2027&nbsp;&nbsp;ANTARA News",
+      "published": "2026-05-20T07:00:00+00:00",
+      "source": "GNews – Prabowo APBN",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Prabowo"
       ],
       "big": false,
-      "id": "d17b75ed0d1dc86a"
+      "id": "d48e38ddc4526c6d"
     },
     {
-      "title": "Efek BI Rate ke Rupiah Belum Terasa, Perbankan Sudah Revisi Suku Bunga Pinjaman, Pengusaha Makin Tertekan - AFU.id",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbVZrRWxVOEpzcG9yZkJYMnpCdlNVZzN6NXJwbEV4OHNGT1BXSGp2VUlIN3R6M2hsSVBhMVFteFJCam5BbERMNWY1cHh4ZV82UlpRTWx4NmdJWHBEd3pRUzE2SU5HM0I2M29hMFdHN1ZsV25uY2d6Y1hPakFzWjI5NjFHSHZHaGFOYTdpd3d4b3dSTThaLVlnY3lRU3JEUTRCbnFrZWlUV2dVaXJDalJibUUycS13SnlUV1l0MHZGbEVmNnlaSGc?oc=5",
-      "summary": "Efek BI Rate ke Rupiah Belum Terasa, Perbankan Sudah Revisi Suku Bunga Pinjaman, Pengusaha Makin Tertekan&nbsp;&nbsp;AFU.id",
-      "published": "2026-06-24T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate",
-        "rupiah",
-        "suku bunga"
-      ],
-      "big": true,
-      "id": "d89eec1d0544b11e"
-    },
-    {
-      "title": "BI Rate Naik 'Obat Stabilitas' Rupiah & Inflasi - CNBC Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcHhaaW1zLUJJdHZqbU5zMkx2VldxcTJnV2p5UlFJVmx2YnBRdzl0WTZZMmZrQkkzcmd0aWozYUtTWHkzaS1OdV92S0NITnVheUhmWFI0blpUVXlTWEQzOGRRX0VtcjlXeERMa25SZWcydU41dVh5Zlh6N2NHZWZsd3o3WUE4N19MbU1yZnJaNzZOTGszZzhqUVlzZlJKXzZBUVo0ZNIBqgFBVV95cUxOUkRHQnpPN0hYcXdic1RUeVhDdTJySi11RlJidGx0ZFZvNndWaExKc2k1b0pwZzB3NnIwNDNqUDMyVEtGTk9QSVY1eXdMdDJQdGthU1ZPMmNqTGhJSkl0eldTazR3MlV4cnJhMklERC1TSk92all4ZkNqWkcwWHItWFg0OFZKbnpVbGNMTi1SVjhDU2hrSXZfSnNMY0V1c0NVRWFaSlB6Q083Zw?oc=5",
-      "summary": "BI Rate Naik 'Obat Stabilitas' Rupiah & Inflasi&nbsp;&nbsp;CNBC Indonesia",
-      "published": "2026-06-19T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "BI rate",
-        "inflasi",
-        "rupiah"
-      ],
-      "big": true,
-      "id": "f9c45a5e00bfa58a"
-    },
-    {
-      "title": "Ekonom: BI-Rate naik lagi tunjukkan ada risiko tekanan pada rupiah - Berita Terkini Yogyakarta - ANTARA News Yogyakarta",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT0dDQzI5cmZ5TVJKM0FIbW9lalpQYVdSOXAxX0VqTEJ3SXJ6UGRMVzZVZGlwSVJFMVctZUVYX0hUd0FpbmNjejg0ZUtGUWc2S2FKS0hBMXhNZUl1eDU1Z05vY2prUVJuWllYR19BN3BGamR6SGZnWDF3aUMxNzJLekN2UWFURk5qSml3akxDZTYxWXNIdmI5ZlJZQTNsNTdLUF9USV9SandCN2xW?oc=5",
-      "summary": "Ekonom: BI-Rate naik lagi tunjukkan ada risiko tekanan pada rupiah - Berita Terkini Yogyakarta&nbsp;&nbsp;ANTARA News Yogyakarta",
-      "published": "2026-06-19T07:00:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah"
-      ],
-      "big": true,
-      "id": "cb7564b78219e67e"
-    },
-    {
-      "title": "Indonesia central bank, finance minister agree to boost asset yields to aid rupiah - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZE5mbTdUejNmVTZ6VzJQNzV1WTBGa013MmlqcC1Fcmt4QjVjQVgybUFMWVEtZmJBNW5BMnVWd1Z3c1Z6Vk9wbGpMZ1lnY0JIZnNYbmM0bmRzZGg0X3k2NkUtUXRPZ1kxd2VLOG50WUV0amdDT3doQl9haEJmQ2xwSnBsVFk4YkhiUXE4ZHFTNkVUazVsOUFnaGVtTmgwdFdFaVpjdzU1SkV5MWVabVliM2hUZmxrTVViZF9ySlpzM2M1REdvNnZNRlZR?oc=5",
-      "summary": "Indonesia central bank, finance minister agree to boost asset yields to aid rupiah&nbsp;&nbsp;Reuters",
-      "published": "2026-06-07T07:00:00+00:00",
-      "source": "Reuters – Indonesia",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah"
-      ],
-      "big": true,
-      "id": "c7a7e87eabb2248f"
-    },
-    {
-      "title": "Bank Indonesia Delivers First Rate Hike in Years as Rupiah Flounders, Risks Rise - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbzFPWUxpaXZtcUxMVEpzcXhrOUlvZWJoV0c2M29QTEU0YnA5cXRrQXNkdXZmUG1uNFh2akRXVkxCc3ktcWlDUlFIZWpCTG50c1RDdDZ4WEk2aTVKd1o4Q1JfeVFCTVVUNEw4TUZZcmJTa0ZPd0pkYzNzdHNaVDB2d3RoNmJSTENGRHdlb3A3Y201RzFHb3MzclRGRzlvVXpzUmQzVjJGRlNwcjZ0VzBVcTNOVlFsdHNuME9Idi10cXRjaXoxQk5LcXF1Mng?oc=5",
-      "summary": "Bank Indonesia Delivers First Rate Hike in Years as Rupiah Flounders, Risks Rise&nbsp;&nbsp;WSJ",
+      "title": "Prabowo Tetapkan Defisit APBN Tahun Depan Maksimal 2,4% - detikFinance",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMmU4bTBxanlkak5HOEllajRmOUFLQ1dwVGM0a25VNUFUV3g2OEQzaVVSRjZURDYzUjNOWE9uc2l3Q1lSOXpkOTFTUnJRcWVHM1o3SW1SSlo5amlnck5PRXZVSUFsenJyWENwcW5wR0RmZ0laT0hoTmpLMUhEUVBuNzdDNGNaT0FlMHg1Q3A3OE9OZk44aWprNG82M1J4MXhJREdMdmY1ODh2aEZneFF5cjRB0gG3AUFVX3lxTE5TUU9FaWJ6cGdGTGhFY3owSjZJNGtNclJfWDNUdEZGVUcwd0tRSTFzQ2JLdEVsazhrbXF3LU12bUJuMjk1bU83Rko3c1hNY3FxZHlkc3d5LUxodlg4T0VRSF9aZkhxZXpDbVVYZzJDZVpISEFNQW5WZWFFZkdSc0tYZVVWWDNmRVk2VWxyMGdBZHlZOF9jejRRLW1fYUNVV2JSZkp4elVKRkxKOWx3Z3laa2owbG0wQQ?oc=5",
+      "summary": "Prabowo Tetapkan Defisit APBN Tahun Depan Maksimal 2,4%&nbsp;&nbsp;detikFinance",
       "published": "2026-05-20T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
+      "source": "GNews – Prabowo APBN",
       "groups": [
-        "Global Finance",
-        "Macro / Economy"
+        "Government / Policy"
       ],
       "matched": [
-        "Bank Indonesia",
-        "rate hike",
-        "rupiah"
+        "APBN",
+        "Prabowo"
       ],
       "big": true,
-      "id": "261e17cdfc737dc7"
+      "id": "cf0d39442df716f3"
     },
     {
-      "title": "Presiden Prabowo Paparkan Arah Kebijakan Ekonomi Nasional Melalui KEM PPKF 2027, Pertumbuhan Ekonomi Diproyeksi Capai 6,5 Persen - Sekretariat Kabinet Republik Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYmR0dlN6MGlUdW9lMlpzWUFDa2FfVW16NXYtY2RpMDBkS0w4cGZsdzhZTDdXMFJlak54Zm5rSVBqcFYyY3BXd2dZOU01ejhkMDRNdDI1ZGVOYVhkS3ZzMGhlNy04V1Z6Tm1tTi0ybUliVk1wR09LTndjd3JRMW93WEdWUmFvME94Q3lOY1JIS09VS0RJNW91R1JrUkI4RlpJOE5zcVlleDVhc1RQVjlpVjhUeDZmTHJWWElWQTdiZF8xbnVNMzZmQmRGTk05Y0JrS09LUDNsUndHWDgzODFaaGtn?oc=5",
-      "summary": "Presiden Prabowo Paparkan Arah Kebijakan Ekonomi Nasional Melalui KEM PPKF 2027, Pertumbuhan Ekonomi Diproyeksi Capai 6,5 Persen&nbsp;&nbsp;Sekretariat Kabinet Republik Indonesia",
+      "title": "Prabowo Paparkan Langsung KEM-PPKF 2027, Soroti Ketidakpastian Global - MerahPutih",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNek93SG5aS05paF9ERnEteDYzV21VaWNWSHktT29nUk1COElIMnB0b1pKQVBQVmpYa0FhR1FrbEFPcmVLbUR2ZUtpRVBtMzM2ZHhfZ3BSd0ZOcE9Xd1FpY1ZCN2VkYnB0eTRlUUYxRXlfbW1MREhHQi15d2JBQTRFSWZkbjJUbGhmSmFaOTVjT3Nhenhsb3NrNldEUG1XY0dOOXFMQXRmem1ETGFa0gGrAUFVX3lxTE1acEluNndVSW9iemtEeTZZRTNoaEY4ckdYbXRiY3dWejM5VmFIN3lOOU5lOHAxVlpYUk9MWDRvTF9BTTBjbXB1SFdPLS1EVGg3OFFrbFd2UjRvc05lSjl2bTdfOXZwZU1oX3IzXzFkMmlKTXdQLXNWdHZGZ3hZR2RQZ0NJbkw4U2gyNHQ5RXVvTWlQVUUxMjFYalJZclJZb1ZfTXhmQTBjSTc5UQ?oc=5",
+      "summary": "Prabowo Paparkan Langsung KEM-PPKF 2027, Soroti Ketidakpastian Global&nbsp;&nbsp;MerahPutih",
+      "published": "2026-05-20T07:00:00+00:00",
+      "source": "GNews – Prabowo APBN",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "a314d5224711aacf"
+    },
+    {
+      "title": "Prabowo Targetkan Pertumbuhan Ekonomi 6,5% dan Defisit 2,4% pada 2027 - kontan.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNUlCaE16ZmhiTzNvLXZfRFBScEdrN3laNzJlc1RVQnhOaU53OHk1V3ltdEhOWi1UOXRlcGp6SUhLYjBldTUxTkE0MmxtenR1Nk5HZEpzZTFpM3RxUW4zdGx0TmZzU3lRakthaTJhdFA4UFpVcEVHRzVCMG5tTXQzSGtzNWU5MW1DdW5zQXV6YnVCWDhqYzFPLS1IbTJ2UDBtVVHSAZsBQVVfeXFMTUJiSFJUcmRJUEZnTTBWSHd6Ym1BWm96cTdjeDB2Z1N2bFpNMmdpbkxjcUNvTUhEenJ4WUJEcndSVEhCWDQza1F1c2hHQ1ItY2I2RWdLZERRaVZ6OEFtLXRpZ0RtV29IZzhyMzdiaUQtMXZvOUZMdXpucnFZVTQ0d3Bhc0xWSlBEanNwcUs4ZUxDcEZfMkQxQXpLUWs?oc=5",
+      "summary": "Prabowo Targetkan Pertumbuhan Ekonomi 6,5% dan Defisit 2,4% pada 2027&nbsp;&nbsp;kontan.co.id",
       "published": "2026-05-20T07:00:00+00:00",
       "source": "GNews – Prabowo APBN",
       "groups": [
@@ -1881,17 +2052,16 @@
       ],
       "matched": [
         "Prabowo",
-        "kabinet",
         "pertumbuhan ekonomi"
       ],
       "big": false,
-      "id": "343338a55a511765"
+      "id": "4d56b76ec78fbc07"
     },
     {
-      "title": "Prabowo di DPR: APBN Alat Perjuangan, SDA Harus untuk Rakyat - InvestorTrust",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaTlUdm5QVUdHTFJTdzNqbTkwaGFXZkM1ZG9UUzhpWkNpRVdVeGtkazJvSEJvc1lXTlNTeXVuUW9JUEZYUE9VdEkzY1FrT0JPVTBnbVA1TkN2WndMb0JEa0laQ053Z3JOV2RxemxfZmpLLS1TWUdNZ3J3M2FXekNnZ0NBclBSOWZ5dUtaSTJaOElCRGNCUFVTUnpTVWY3Rnc?oc=5",
-      "summary": "Prabowo di DPR: APBN Alat Perjuangan, SDA Harus untuk Rakyat&nbsp;&nbsp;InvestorTrust",
-      "published": "2026-05-20T07:00:00+00:00",
+      "title": "Prabowo Paparkan Materi APBN 2027 di DPR Besok - detikFinance",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQUM0VU9xLWVnaTR4RGt5OHcwck9DSlJ0N3BnbTR0XzlPREEtVExVdDlsOU9ORW9GaG1NcmFESHZxWFBtT19UdUVNcUdRcTFINzZhbWlraTdBQXF3SUJIdkNKLUxRRF9hNVg2X19DRzFTZTFWN1JDQThaWGY0V2N2enVUN2NlYW80aGg4aU9KVEFXMFo4T0N2RTVlSTRucjA0MzQ3eHp2a9IBrAFBVV95cUxNaHFWby1LRkhtNjJvZTFZblM5RkVsd3MyMTRzNHIxRHNvbnpaX1g3TFQ3MVBJZ0Vvek5qNEtXczVuNUdWWDNvRHZqT0NzU3FBNlNKOFJTMThWT05FVkt5eDhCNndaTEVwU1Z4WXVlei05ZU9xZGZ2RkJkTF9iY3lkMjh3X05lelFBbld1a1BhNnhjbTl2aURTMXZhM0ltWlZBM1ZrTUE3S3l6WWJs?oc=5",
+      "summary": "Prabowo Paparkan Materi APBN 2027 di DPR Besok&nbsp;&nbsp;detikFinance",
+      "published": "2026-05-19T07:00:00+00:00",
       "source": "GNews – Prabowo APBN",
       "groups": [
         "Government / Policy"
@@ -1902,123 +2072,103 @@
         "Prabowo"
       ],
       "big": true,
-      "id": "e5264bd5186c164d"
+      "id": "6480f6d03939581e"
     },
     {
-      "title": "Prabowo Tetapkan Defisit APBN Tahun Depan Maksimal 2,4% - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMlRvT0tIYlhlSy1tVnBfa1d1UzRhbXE3Q2RSRW11bXpwWWpQZnZhT09oZkkxbGRjSkFDYm1ZSTN5eGJFNjZsZzlyNjZMRTFUR1NaMEplVWNQWWlnUVFkZjAwSmFQd2E5WGZpMmxvanRHM3pOdDEwMjBvYzRsdFI4WElBVFZZbGxrR084Z1NfTdIBjwFBVV95cUxONW9pRHYyMFVyTkR2TUJvRmJqajdPOWpfMVpPME9zZ3BxYXYwLVp5U19kY2JiQzJrYXN0em1OZTNMd1k1amRGYTVnR1pFVjZNcm1XM1FhZHlobndDU1pMVkpPMFlOUF9oX0VRSjZZQWRQX2dCeEVYeVNqMEpIcE55MVRJUmVhVFRhMFpRVVp0OA?oc=5",
-      "summary": "Prabowo Tetapkan Defisit APBN Tahun Depan Maksimal 2,4%&nbsp;&nbsp;DW.com",
-      "published": "2026-05-20T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "APBN",
-        "Prabowo"
-      ],
-      "big": true,
-      "id": "9f2a3312fcab5645"
-    },
-    {
-      "title": "Prabowo Bidik Defisit APBN 2027 Maksimal 2,4 Persen dari PDB - PT Dimensi Internasional Tax (DDTC)",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObHJlRlh2NUQzQWgyU3ZxSEdzaC1WWDhoeENHR2c4VFhtODJ2enhHOUZWaXduNU1ERmpYZi1kLXBIUmVBdXlkck9UZWtKT2hKMTN6bGQtZEVWd3h3cGgtNTRZYXdZMVlKMFdKV1cyV1RkV2ItTFlYdVU3ZG95a1VlUV9vYU8yaVRCcXl3Z0VVRGRMeE82Uy1QaUgtSGcyVU1NNVRpNWtpd19QZEU?oc=5",
-      "summary": "Prabowo Bidik Defisit APBN 2027 Maksimal 2,4 Persen dari PDB&nbsp;&nbsp;PT Dimensi Internasional Tax (DDTC)",
-      "published": "2026-05-20T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "APBN",
-        "Prabowo"
-      ],
-      "big": true,
-      "id": "d66549b8a9269df7"
-    },
-    {
-      "title": "Defisit APBN Membesar, Saatnya Prabowo Menata Ulang Program Prioritas - Kompas.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcW1kX1hmbFBKZTczS3ZFSW1zbnVsXzVrOHhWOXkwbHU1Y2R4SmxfTjNWUUI2dnNQT1pnV1RLbW14cXI3U3FydXk1U25qenAtWERoaS1SeUZuR215Vm5oWk4wckUteWZQbmYtdVppckNXQ0hjM0dObXFtZDhLLTFHZlNyV3BWd2ZYUElWRTVhaDJMVF8wOHFldTFjZWR0TjhkN21ZTHluSmU4SXZEbTU3dW8wclIwckhtUERiRlNR?oc=5",
-      "summary": "Defisit APBN Membesar, Saatnya Prabowo Menata Ulang Program Prioritas&nbsp;&nbsp;Kompas.com",
-      "published": "2026-04-11T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "APBN",
-        "Prabowo"
-      ],
-      "big": true,
-      "id": "965f0d04c793e21a"
-    },
-    {
-      "title": "Pemerintah Jaga Defisit APBN di Bawah 3 Persen, Siapkan Strategi Antisipasi Kenaikan Harga Energi - Sekretariat Kabinet Republik Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSc3EzTVBQbzJJSndGeTM1RzFORDJ0VmR1LWppQzUtSmZtTXRjLWwyRFdrQUw3Nm9NbWdCMWthNThXMG14R1Y4WHFPQ0E4bUFWd1pUOWt5OGhnVXBvQlU4WEwtMFFjU1g2MWRZ?oc=5",
-      "summary": "Pemerintah Jaga Defisit APBN di Bawah 3 Persen, Siapkan Strategi Antisipasi Kenaikan Harga Energi&nbsp;&nbsp;Sekretariat Kabinet Republik Indonesia",
-      "published": "2026-03-19T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "APBN",
-        "kabinet"
-      ],
-      "big": true,
-      "id": "8c1816d2a4f4b687"
-    },
-    {
-      "title": "Prabowo Ogah Defisit APBN Lewati 3%: Kecuali Darurat Seperti COVID - detikFinance - Berita Ekonomi Bisnis, dan Investasi Hari Ini",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVmFtcEhzajdMV25wMUw3b2M5clpvcmNELTVDYU1wVFk0VHVWRy1DMkR5SDZHWFRDVHFiY0VmWHNXSTBmS3RlRUFXZzBzVGJraFBCSHI3TmRLYlBxR2t0RXg3TXc1al9IN2drN0VLbjBKeXhzYlVhRWlnb3puT0VxcGpyRFVldUpRcmxxSkFkSjAweXhzUXBhV0Nja2x0aGlhNmI3OURCVS12LWVrQ1RtaEczX1NZZldJS3VTQjdhRdIBxAFBVV95cUxPaEstRjhKZjdCSWdYY1FscVVRT2FhbGxBeW54WS14MUQzbmwtWUMzb0R6MzdwNGh5RlY2Nm5MUk4xa2czdTNSd3FVOFd4YUxuOU1CSVhFTlBJOGs5Zk03S0FjM3RtOVRxYllOTy1pYXBPbm5HQS1yYUt6MUpQRzctTFNBYTlVVWRaOW00U3ZMeWVLTFF3X2p6MS11Y1hmbjZzSFFvRGxEY25xYUI3Q0JVRWxycUt0RDdkek5rZ3FaQ1Jwb3Vj?oc=5",
-      "summary": "Prabowo Ogah Defisit APBN Lewati 3%: Kecuali Darurat Seperti COVID&nbsp;&nbsp;detikFinance - Berita Ekonomi Bisnis, dan Investasi Hari Ini",
-      "published": "2026-03-16T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "APBN",
-        "Prabowo"
-      ],
-      "big": true,
-      "id": "e4cb610ff6b921d4"
-    },
-    {
-      "title": "Bank Indonesia may defend rupiah amid volatile oil, analysts say - The Business Times",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORGVnQzBxaElwNFpuOVhZWm53UWN2NE5nOVhGV0FGN2I2VklNSHpGakVtbFp1NUtkdVg1SWpZTnZSazJQTXJwWlU4R1lzeFNidUVNa3FYMXMtSDBhV0FjMlF5NUdFb2lNTEFRZ2EyS1EyTkhQbkJWaFNOQTZsSjB2OU5HaERLVzhmeElJOTNGWnF2aGtCX1IxTXlIbUM2TVE0Xy1UbkU4RmliVWlNWHRBRFBzMVpscFFLTDlxcHE0Vm1PTmxLR0IwUHBR?oc=5",
-      "summary": "Bank Indonesia may defend rupiah amid volatile oil, analysts say&nbsp;&nbsp;The Business Times",
-      "published": "2026-03-10T07:00:00+00:00",
+      "title": "Indonesia rupiah hits new record low despite currency intervention, president downplays fall - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN25XMnF0TzRQN0pkZWVhZ0x0cVBFRDl5TlBYbWtycHVRdHVIOUxSeG5LTldUVDBKa0VkWUV0NEVjVk05X29FdEJLUE91R096T1BONXRIV1d2ZlVTczA3WExfUm1CdWx0a1FyRUpjU0YwZG5TaVlPR2JKY3YxQWpRQ0NTSkUwYmtpOVJyWG5memVRWkQxT2xEY1MxRGZoVFgtU3ZwWkhTNkl1RUpfbEFNUEtMZTJXZ19seFR5MjBaZ3VWM2IwUTRlQw?oc=5",
+      "summary": "Indonesia rupiah hits new record low despite currency intervention, president downplays fall&nbsp;&nbsp;Reuters",
+      "published": "2026-05-18T07:00:00+00:00",
       "source": "Reuters – Indonesia",
       "groups": [
         "Macro / Economy"
       ],
       "matched": [
-        "Bank Indonesia",
         "rupiah"
       ],
       "big": true,
-      "id": "7c746bdaf44a7a6b"
+      "id": "a34e4ed4ff6edb0c"
     },
     {
-      "title": "Tariff Ruling Triggers Accounting Judgments on Refunds - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZUJ4Rlp2X1V5ckppODFuNGFCLVdCNkt4S1lUWFNxZkYwQVhfWTczc3FxZnVoSkVhVlNFTGdpN3EzQ0F1RnIzcVdENVpscFBDQzBpSUg2WDB5SURkZ3NqZTJheFFmZXd3eWxtZmxOYUFvQk95clZEV1ZzY1JFWm0tMS1mMGJUQlphZ1MyOE1BcW9IcGhNdkNjd1VmQlNhZ3d2ZDZ1Um5HWFlOSXNIY19WbXhmeXVrN2pHMTI3MFlCRUVKYWY5blE?oc=5",
-      "summary": "Tariff Ruling Triggers Accounting Judgments on Refunds&nbsp;&nbsp;WSJ",
-      "published": "2026-03-05T08:00:00+00:00",
-      "source": "WSJ (via GNews)",
+      "title": "Rupiah rout stoking fears of a 1997 repeat in Indonesia - Asia Times",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRXo5NFdENGFjQkdER25hSmJPNktST3hnVC1HOUJ1WGJnTkJIWEtkVG1URUFpaG1BVHBfUlhsSEM3RzFHZVZfQ0R5cWlDVDZ6TTA5aUZ5ZlAxbUpfc3RrRUo3MUtibzFaU0NhUHA4NzNXRmtoWDU0aU4ydjZzWk9LMzBIWktkbnpvdEdJcTRQdw?oc=5",
+      "summary": "Rupiah rout stoking fears of a 1997 repeat in Indonesia&nbsp;&nbsp;Asia Times",
+      "published": "2026-05-08T07:00:00+00:00",
+      "source": "Financial Times (via GNews)",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "rupiah"
+      ],
+      "big": true,
+      "id": "adf1f649a5051a66"
+    },
+    {
+      "title": "Indonesia's central bank intervenes in FX market after the rupiah hits a record low - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUUFDMzBmdUNadzJVM1k0MUx1Tm9UaGpLRTgtU3lPOTF2LUdWZzB6eTR2dDZKSXd0bk80SE9MOUs0OHRpZ3NSMWpxN1M3ZnNDRVNKZkdqdjRuMU9SZENjbVF0ZVE3aThtWXFBWjJETW1LUHlTMjZSdGpqN19oNk5tekJhb3c5dTlzU1Q5SXNRamo3S04xYXpvY3pndDF3U2NZb1BuTWY3ZksxenhqVTFnWTRCWF9ETGs3THZ4cGl6S2pCUEk3N1hJaFhjd0VUN0l4?oc=5",
+      "summary": "Indonesia's central bank intervenes in FX market after the rupiah hits a record low&nbsp;&nbsp;Reuters",
+      "published": "2026-04-06T07:00:00+00:00",
+      "source": "Reuters – Indonesia",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "rupiah"
+      ],
+      "big": true,
+      "id": "6d67eae4fa3078fb"
+    },
+    {
+      "title": "Pemerintah Gerak Cepat Menjaga Stabilitas di Tengah Pelemahan Rupiah - beritanasionalupdate.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVmF4Y3J4czBwLU1zTnlPMm5HX3ZUNGtMSkZoUlJhSTlVVDRyZjVaY3pvZ1lOQjRwOFB3SXk0NXotOWJXb2FBRE0wYjJmbE90cEdYTm12dEtNdW9qNktpblhkajNocUs3UzkyUzhoZG1JOS1tZzFxSGFtTTZVazJVNzZtOUNqUjBzV2tmOVRIWFEtU084ZGk3RkVSd0FnSUhWeXNBT1dmNVpUNHd0QTUtczFqem4yemZqMm5R?oc=5",
+      "summary": "Pemerintah Gerak Cepat Menjaga Stabilitas di Tengah Pelemahan Rupiah&nbsp;&nbsp;beritanasionalupdate.com",
+      "published": "2026-04-04T07:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "rupiah"
+      ],
+      "big": true,
+      "id": "dc0ba580d1c2e658"
+    },
+    {
+      "title": "Letter: How Indonesia can reassure its sovereign wealth fund backers - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBQVA2REdTUkd0NTZUcmFHcFdCVjVETHFUY1NRZmZkT1R0YXVJMzNwMUE5LTVqcG40enRhSVhMSUdTSElTRjdTY2dRbzI5X0sydEJaX3lKbjlicHFWck9UNVN6YjJwNWwwdzYwUWU0czE?oc=5",
+      "summary": "Letter: How Indonesia can reassure its sovereign wealth fund backers&nbsp;&nbsp;Financial Times",
+      "published": "2026-03-19T07:00:00+00:00",
+      "source": "Financial Times (via GNews)",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "sovereign"
+      ],
+      "big": false,
+      "id": "69c8c8e4afeef546"
+    },
+    {
+      "title": "Fitch lowers outlook for Indonesia on ‘erosion’ of credibility - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMVdSWWtIbjB3V3BINEpOMk9heXhOV3hsVnlnMWlqNXpUdFhURVQyNU9YeFNQUkdmTGtJczZUR1Bqek1iTnVYMHNnRHlkLUs2MnVIb3JlMmlHOFNhNWJtTHJHbTZheW1GWjA4Mkk5Yy1XSVFEU0gtazcyN0pPd01QZ09zdF8?oc=5",
+      "summary": "Fitch lowers outlook for Indonesia on ‘erosion’ of credibility&nbsp;&nbsp;Financial Times",
+      "published": "2026-03-04T08:00:00+00:00",
+      "source": "Financial Times (via GNews)",
       "groups": [
         "Global Finance"
       ],
       "matched": [
-        "tariff"
+        "Fitch",
+        "outlook"
       ],
       "big": false,
-      "id": "9fd6d3d709eb7e06"
+      "id": "ebe6bf33ce6bc81a"
     },
     {
-      "title": "Opinion | The Tariff Battles Are Far From Over - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4MXB5VHBEeG9uejlNU1BneEVNdFFqR09EemlXcnNuT3NydzJkQVFUc2ItS0g5OVJtcE1BdHB5dkhZei00Mkhhb3YxemVUREgyQ00xSFpIaUJvY2RkV3ZDVXBfak15anNFRzJ3cjNnN0xYb0VYbkVKNGhVbEU4dw?oc=5",
-      "summary": "Opinion | The Tariff Battles Are Far From Over&nbsp;&nbsp;WSJ",
+      "title": "Asian Markets Shrug Off U.S. Tariff Uncertainties - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSXhsVWJGcWNMTU00eTRqcnk4U0Q1Z2NKdXRfYVduWUxfZEtMRlhEcEJqYzB4WFowaGY0bjNqRFdwSDZaM0pYSmdvbUhTS0haT1hybmc1bzhFM1VSMDE4cENoZmF6MWxRY09PdkQwQk9YNHAyYklpWmMza2ZodnJfcHh0LVNnNzVsZzVhSi1aSjJoVDZQWnRz?oc=5",
+      "summary": "Asian Markets Shrug Off U.S. Tariff Uncertainties&nbsp;&nbsp;WSJ",
       "published": "2026-02-23T08:00:00+00:00",
       "source": "WSJ (via GNews)",
       "groups": [
@@ -2028,44 +2178,13 @@
         "tariff"
       ],
       "big": false,
-      "id": "d4a7b51cd89e1845"
+      "id": "e638996e2324daef"
     },
     {
-      "title": "Under Prabowo, Indonesia is veering off course - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb3duWTN4QU5UcEtlUWNTQkJtYjRPX21FVjBOcTV1WS1QN0dpRnZRNWRoQnJkclZ4UnRTQ2o3bmhjR3NFMGowdktBSUR2dVpNSWRReW1qdWZrWVZKOVlZUDVnbnlfVWVoVjBYbExWNVdFdktURkZfZVV0aUpnNEljbkNyVV8?oc=5",
-      "summary": "Under Prabowo, Indonesia is veering off course&nbsp;&nbsp;Financial Times",
-      "published": "2026-02-03T08:00:00+00:00",
-      "source": "Financial Times (via GNews)",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "64c8ed6fddaf796a"
-    },
-    {
-      "title": "Tahun 2026, Pertaruhan Awal APBN Prabowo - Kompas.id",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45Z2MtQTEyOU90MVNRRGE1a1IyUXE5TVZKVE5vTV9GNzRza3J3bVZVZ0doSVVSMWhtU25TalJtNUY3UVQ3a0NEMjBpUXZEaUYxVldmWThqZTFkbGdLX2tnb3B2a0VmXzJ4d3c?oc=5",
-      "summary": "Tahun 2026, Pertaruhan Awal APBN Prabowo&nbsp;&nbsp;Kompas.id",
-      "published": "2026-01-22T08:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "APBN",
-        "Prabowo"
-      ],
-      "big": true,
-      "id": "969f21a6e4f9a71e"
-    },
-    {
-      "title": "Rupiah di rekor terendah, konsensus yakin BI Rate tetap di 4,75% - IDNFinancials",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSU1nZ0QtM2ZUOG15S01oclZZTkYtMlB0bjdxajVPdzd5UEhrS01RbE53dGVhSE1TMGE5NHlmZXEwaldobXBoMEpsd3p0djFhczBEaG5HeFoxanhTN00wX3dmRkZzNDlkMGs1aV9kZ29meVV1NUNMdkJwQVY3UG5iZFhjR1hQZ1dzRXA0UUM0eUNxZFR4bVVBTGozVU83b0VBSlJnLU1iay1sZw?oc=5",
-      "summary": "Rupiah di rekor terendah, konsensus yakin BI Rate tetap di 4,75%&nbsp;&nbsp;IDNFinancials",
-      "published": "2026-01-20T08:00:00+00:00",
+      "title": "Breaking News: BI Rate Tetap 4,75% di Februari 2026, Fokus Jaga Stabilitas Rupiah - Ajaib",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92Qm5qR1BWRUNiYk9Vb0RybGdocHpBbzVuZnYxLWxOQW1GNkcwdm9VcTY3Tm9IVm55UllFcHVhSU1pNXpveG5IRHdnbk9oRHVxQ0xxTlBkUkNYbU4tV3FJZWN2RE1DYXJ2U3hESzBvYzlQQk1P?oc=5",
+      "summary": "Breaking News: BI Rate Tetap 4,75% di Februari 2026, Fokus Jaga Stabilitas Rupiah&nbsp;&nbsp;Ajaib",
+      "published": "2026-02-19T08:00:00+00:00",
       "source": "GNews – BI rate rupiah",
       "groups": [
         "Macro / Economy"
@@ -2075,93 +2194,29 @@
         "rupiah"
       ],
       "big": true,
-      "id": "8ab86703e4972c9e"
+      "id": "211f484ba6c7ecb5"
     },
     {
-      "title": "Bank Indonesia will bring rupiah to trade at 16,500 per dollar next year, governor says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeWdXT0p4WGFBcXZ5UDNWeElEbmJWT1B2Tnh6RU5tTENpTUJrVzFJUldaaWFNU3UweUh1YVlSMVNBMlVpalViNFBzdjBvNnFVbVNDZjZJSmxaR3pWUEhIY3c4OEdSd0lhUjZTY3BwVVZaYjJhWTBZOWN1TEl2X0Zacll6WFJjTTYxLVNvOEI4RXd1MFZpVHVyaTk3U3FBb2lmMUNmN2RrVUYyb1U1eThPenJDMzQxRFVCbVF2WFFvS21HZm5kci1ydG82bnVLcU0?oc=5",
-      "summary": "Bank Indonesia will bring rupiah to trade at 16,500 per dollar next year, governor says&nbsp;&nbsp;Reuters",
-      "published": "2025-11-30T08:00:00+00:00",
+      "title": "Indonesian markets slide again after Moody's cuts outlook - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTE5NZm1pZDlEV3puenlfWFA4NGt1aEtvc0M0QUZseWpwa0xGUEFWVExiNUcyMDVqRVBBa2lwdEk2TWx4X2d0Mm93Y2NPbXJJMVIwTVFmWFRJekJaOVprQk1sSjFKQUFkR1JSOGtkbHFzcndEVmUwRXh6eGlpblBzbTlfQXJMclJMY3B4cWZsejh3SHJiU2tYU09tREpneDJFMGJQd1VWbExhU0NZODdhQ0ZZZWxDRUstN204M1k1bE9Ma1E1RVR3eXRTMXBUY1hIRjFWcnhR?oc=5",
+      "summary": "Indonesian markets slide again after Moody's cuts outlook&nbsp;&nbsp;Reuters",
+      "published": "2026-02-06T08:00:00+00:00",
       "source": "Reuters – Indonesia",
       "groups": [
-        "Macro / Economy"
+        "Global Finance"
       ],
       "matched": [
-        "Bank Indonesia",
-        "rupiah"
-      ],
-      "big": true,
-      "id": "e22a73c2b570ab20"
-    },
-    {
-      "title": "Indonesian finance minister's removal unnerves investors, rupiah sinks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSEEwVFNGMThCcVF1RW1iSkk0d1RFVzlmVzVnc2V5OXJnZmZkYUN3R2FkTDdrejlFcHhPVk9EOTBOTmh4YWU1NnVWTWlxMW9oM01zRmI0WHI5bHBsWkJncnJSeWVXNGlWWnZRaHZjcnJqRmdLN3JXSGlFa0JkMUNfaGtYemp2UFNCOGVmcEJNc1FYR3FxN1hFM05sVXNpaUZMb29nUDZlYlBkZWg3Sm5aRHpLbUtmSEZRX0VDUFZFbmM?oc=5",
-      "summary": "Indonesian finance minister's removal unnerves investors, rupiah sinks&nbsp;&nbsp;Reuters",
-      "published": "2025-09-08T07:00:00+00:00",
-      "source": "Reuters – Indonesia",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah"
-      ],
-      "big": true,
-      "id": "9365fdcbcb2b6e63"
-    },
-    {
-      "title": "Presiden Prabowo Sampaikan 8 Agenda Prioritas dalam RAPBN 2026 di Paripurna DPR - Kementerian Keuangan",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQlJ4Ul91RVd5Ui0yNU9INkFIdjN2bEdUUmlVUjBVbHVaOElFY0FyaE5NOXBBYWJ1YU02SGlvakxMMWtmaFRzeGhtTHd1SVdmd04zZ0xrS2xNQm5rODNueG5veEpvSlc3OHJEMHA5Vll0MVZ4dkFrWE8tX3F4eVB3R0xJNkNqV2IzaTdJbXFMQlhmdlBKMnZ6a2x3c2V4UVp3a2NOMw?oc=5",
-      "summary": "Presiden Prabowo Sampaikan 8 Agenda Prioritas dalam RAPBN 2026 di Paripurna DPR&nbsp;&nbsp;Kementerian Keuangan",
-      "published": "2025-08-15T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "DPR",
-        "Prabowo"
+        "Moody's",
+        "outlook"
       ],
       "big": false,
-      "id": "b7c08ea56d7e1a44"
+      "id": "93cd9175d5b3dc40"
     },
     {
-      "title": "Presiden Prabowo Paparkan Arsitektur APBN 2026: Perkuat Pangan, Energi, Ekonomi, dan Pertahanan - Kantor Staf Presiden",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX3lBd25sN09qLVhiNWJfZkZobnQ0N2xRRWxqdURHajZWYkxPZWM4VUlGdVFmUHR0TXEyVjJySDRMT3hxVl9JdXpYN2gzSGVadjV3clRIQ3EteFdxQ0JISEZaOTF4Y1oxeURlSS1ySG5reGFBdHpIckpwU2J4NmJfTmx2M1E1MzZHTGc1MW9lYWpUR3FlaGxkWEdYem1Bb3JmQ1RHWHBOdWdwbjNsRmNWZDZxQUhvWmhuR1E?oc=5",
-      "summary": "Presiden Prabowo Paparkan Arsitektur APBN 2026: Perkuat Pangan, Energi, Ekonomi, dan Pertahanan&nbsp;&nbsp;Kantor Staf Presiden",
-      "published": "2025-08-15T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "APBN",
-        "Prabowo"
-      ],
-      "big": true,
-      "id": "7fa7735a29091dd4"
-    },
-    {
-      "title": "Perdana Susun APBN, Prabowo Targetkan Defisit Anggaran 2,48% di 2026 - DDTCNews",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVEZDdi1SeEV2QVdsYVRPQU9OaDFCTzBZaDNWNXNBQ1pCc0ZYMVlYVTVnMWlIRFVPM2hUN2ktVzBNN18yTkdOWkRubW9rTk9icTdyMGhIcEswTlVxOHFibmg5clFTcGJCQnl3TEFLSkdKakJZZlE0aUJHU2taRUd0bERUMTZncF90by0ta05UNU1OMEdkQ2Q3ZzR2cFpQdWI5SUlyczVPWHZkWXpJSWt6Zy15VQ?oc=5",
-      "summary": "Perdana Susun APBN, Prabowo Targetkan Defisit Anggaran 2,48% di 2026&nbsp;&nbsp;DDTCNews",
-      "published": "2025-08-15T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "APBN",
-        "Prabowo",
-        "anggaran"
-      ],
-      "big": true,
-      "id": "42aaf53adfff986f"
-    },
-    {
-      "title": "India’s Economy Faces Bumpy Road in Face of Steep Trump Tariff - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcXNIYy1qZXJ5WENBbTdDTXdzak81UlYyR2tsV05XOFdYUklfenNKbENra3JZelU1aXMwRWN6Tks2aTNjOW1lN0VTbEMzeGZTOTVBMVJqdmhVaDZrekVSdFFqYVlsN0l6a1pxa1hoNzQ4VXJBZ0dqXy1leWdYSVVFTUItWm9RV21TNmYzdWRmb3BZVXZONG1iNzZWbDIwUTNOTkJCNVVfcw?oc=5",
-      "summary": "India’s Economy Faces Bumpy Road in Face of Steep Trump Tariff&nbsp;&nbsp;WSJ",
-      "published": "2025-08-07T07:00:00+00:00",
+      "title": "Ontario to Pause Anti-Tariff Ad Campaign After Trump Called Off Trade Talks - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbkt2OG9ZZGRPOTRicm1GclBBcjJHTmEya3p0RnBCZFZkNThfWmIyaEEyZV9scXhIN21VQjFFWGkwM1NUOVNJU1ZLbFpOZmVMSjl6VXJCdVBGaE8zYWhyRl9oeC1YcFBFY0pBU3FVcFllaGI3dlF5UVotSUJVY2c0bDZkSFVfYzk0ZUs2RkxSc0l5ZmJkXzAtVk14M0E3THFuNEgtYnM4TjR2Q1FRN1gwTll6Q2xZdy1LajZV?oc=5",
+      "summary": "Ontario to Pause Anti-Tariff Ad Campaign After Trump Called Off Trade Talks&nbsp;&nbsp;WSJ",
+      "published": "2025-10-24T07:00:00+00:00",
       "source": "WSJ (via GNews)",
       "groups": [
         "Geopolitics",
@@ -2172,176 +2227,13 @@
         "tariff"
       ],
       "big": false,
-      "id": "548c0a94f03fd7f2"
+      "id": "b55e689af264ae83"
     },
     {
-      "title": "Prabowo Minta APBN 2026 Fokus pada Program Prioritas dan Reformasi Pajak - Ikatan Konsultan Pajak Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVjFoeHhDXzA0QkwwZGdVWU9xWnZhSVR0aUJybWt1eXNIUGg0WWh6S0FQaTVlN2cwSHZxQkw5NklJOE1tV19LVGdacWY5NzhmeE1HdkF1Sm9nTTRXcHl4cWFTYXB3a2ZVZjRaZklzUHIybWJWYlB5QV9XYzZIQ3R0a245QzA4WDFYdld6RDIxR0VJWVZfTklIcXdwWTltV1lBSGc?oc=5",
-      "summary": "Prabowo Minta APBN 2026 Fokus pada Program Prioritas dan Reformasi Pajak&nbsp;&nbsp;Ikatan Konsultan Pajak Indonesia",
-      "published": "2025-07-23T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "APBN",
-        "Prabowo"
-      ],
-      "big": true,
-      "id": "547b490074d6c88a"
-    },
-    {
-      "title": "Supply Chains Become New Battleground in the Global Trade War - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNkxpejVPSk85NjR1YVlaVngwSjBVNmFzVTZiU0tSWkxiMVZNdFNwTThyS3ZFV1c0aVB1R3hpVW5UVHFiTWNwLWQ4dTBSTUwydGJuTmNUd05iZFBfQzIyanZLOHlOSnpJZlYyTWwtaF9tNWlYTkJoSlktMzlVWWctXw?oc=5",
-      "summary": "Supply Chains Become New Battleground in the Global Trade War&nbsp;&nbsp;WSJ",
-      "published": "2025-06-11T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Geopolitics",
-        "Global Finance"
-      ],
-      "matched": [
-        "supply chain",
-        "trade war"
-      ],
-      "big": true,
-      "id": "aa6978602a752e35"
-    },
-    {
-      "title": "Daftar 11 Program Prioritas Prabowo, Telan Anggaran Rp 446 Triliun - Tempo.co",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcFlYZUo2dUxMOVRtU2dUZUZOLVpaWGh1VEZ5bDFkUmQ5TlAwTzJMMHI0X1VfU0xYZmgwNVliN0lxOHUxYXRpOWkzSWQ5TzNJR0RpdHNNb05xNEd4TDc3OENzSUl4TzZTd3R6MEFxTzZiYkg4cm1DaENrVHRQRjdnUS1kYzJWbENNbnRTR0tIUzRybF9jOWQyaWtQZE5ERVA1M2RNNg?oc=5",
-      "summary": "Daftar 11 Program Prioritas Prabowo, Telan Anggaran Rp 446 Triliun&nbsp;&nbsp;Tempo.co",
-      "published": "2025-06-05T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Prabowo",
-        "anggaran"
-      ],
-      "big": false,
-      "id": "cd440cad9ea1b8a2"
-    },
-    {
-      "title": "Dana Rp 446 Triliun APBN Mengalir Deras untuk 11 Program Prioritas Prabowo - InvestorTrust",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM2IwbkI4WjNUbmJJMzRhSEgyZWRPa2JHNXdTQjlhVWRXTjRjd1JGcmtfTmNrNFQxVkFhYVV0cEJ5MnRZbl81WjlVSmN5Vl9TdFRUQlNlcjN5cGFxdGk1U2pBZVBvOHJDYmNRUndVUXh0VHV2SGlncEF6WnI0OXFDamRyTGRFQktrSmM3UVphRVZnX214bk1Ia0dJWmgzOUU2R040Y3c2Q29qdmJPVUVHbg?oc=5",
-      "summary": "Dana Rp 446 Triliun APBN Mengalir Deras untuk 11 Program Prioritas Prabowo&nbsp;&nbsp;InvestorTrust",
-      "published": "2025-06-04T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "APBN",
-        "Prabowo"
-      ],
-      "big": true,
-      "id": "5c350984e4c306a5"
-    },
-    {
-      "title": "Wall Street Bets the Worst of Trump’s Trade War Is Behind It - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR1BNUXlBTG04RTM0RU1KelJkRnI4UlRvTDdpUWhjZHRjRmY5ZzJMRW90eEo1Zl9sN0dHSEtaR0N4RXdXaTVNdDJHcUM3bVFZdDRSNFVjQ3Q1bXdjd1Q4VEwzZ0hYYUxFcVpHRDY5Ym8ySkhCckl1ZDJLM09NYmx1RXRBbw?oc=5",
-      "summary": "Wall Street Bets the Worst of Trump’s Trade War Is Behind It&nbsp;&nbsp;WSJ",
-      "published": "2025-05-27T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Geopolitics",
-        "Global Finance"
-      ],
-      "matched": [
-        "Trump",
-        "trade war"
-      ],
-      "big": true,
-      "id": "b4e84661aa605aa4"
-    },
-    {
-      "title": "America Inc. Slashes Spending as Tariff Uncertainty Swirls - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zU3BhY2xiZTlIREx0cmRkaS1NaW9Lc1R5Q1RKbWU5aVVEMXJicDVXLTlwVnk0YURQSVItXzdsNFUwSF8xbkNlVDZCYkJ3WFZxN0wwR3BETUhZdzVVU0N0R1RnV3hYSkdzTXNWSXRPeGdxU1hVaGZIag?oc=5",
-      "summary": "America Inc. Slashes Spending as Tariff Uncertainty Swirls&nbsp;&nbsp;WSJ",
-      "published": "2025-04-27T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "tariff"
-      ],
-      "big": false,
-      "id": "321a6d2b6f94c6ef"
-    },
-    {
-      "title": "Indonesia’s Central Bank Holds Amid Rupiah Wobbles, Tariff Concerns - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN3QxZTFIZVdhME9jNExQTGszS05ROTNEZk8zdEJJTE84R0tWSkM4UU1mR25YR0I1OWdqbFJRZjUzblpvOFJJMEVMd0lZQlBscDZuRVBwSnRXenVmVzA4SWdaRU16OU9VV1p2Nmxoclh3YlBWbVY2cjd6el8tV2NqcHlUWENUYWYyZ0N5S182TFdNdlQwMjU5X1NuLXlmUHdKMHhNWGJqMjNFUnZZazBlRlBSdUZiTWgwNGc?oc=5",
-      "summary": "Indonesia’s Central Bank Holds Amid Rupiah Wobbles, Tariff Concerns&nbsp;&nbsp;WSJ",
-      "published": "2025-04-23T07:00:00+00:00",
-      "source": "WSJ (via GNews)",
-      "groups": [
-        "Global Finance",
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah",
-        "tariff"
-      ],
-      "big": true,
-      "id": "16264142bfcbebb4"
-    },
-    {
-      "title": "100 Hari Prabowo-Gibran, APBN di Bawah Tekanan - Kompas.id",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQM2RPaWFES2FYbWhXNmpkd2Q3aGk2dlhmQ045MEFUVkdkVmRPY1g2b1dIZ2Z6Yk9IbkkzSTFqdnI4R05KZXJVaTRPS2pjTkJSdmF6NXRGakdraUdnY21Fd0FKRlBDTEtTcGs4U3VKNjlBS2k0MG9Z?oc=5",
-      "summary": "100 Hari Prabowo-Gibran, APBN di Bawah Tekanan&nbsp;&nbsp;Kompas.id",
-      "published": "2025-01-29T08:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "APBN",
-        "Gibran",
-        "Prabowo"
-      ],
-      "big": true,
-      "id": "8651f0687693aaeb"
-    },
-    {
-      "title": "Prabowo 'Nekat' Pangkas APBN Rp306 T, Ini Dampaknya ke Ekonomi RI - CNBC Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVlVQVk81bHlIa0hKWmtBUzFpTERTa2p3X3FldnF2a0hxTWZQZmhxczRXeC1ONzUzWmZGVWNmQjZtaGREQ041Rm8tX3ZOcGpGMUlzaTZvLW1nSW1oTHY4RWpzSklyaFAyVHh5UlJRMDFEZkNHbEc4ZmZwR0FNTXoyZXpZaEYzMDRZTjFaaF90S0pWcHAweWxTTzRYa1RRckVfWUJRZ2tPUGRIb282MHNPdWNrdTZMeHRudE5mMXBB0gHDAUFVX3lxTE9zVFNSRE15OUNWLUljVW5zYnZhM1E1YndUUE5GM2NvU0RtZk41N3UwbWNiQVl3UWgzQjhHbDhjTEtmYy1CTTFvQTROZ29UeHNMZndkblh0RTBuN3JiYXowZUtEQ1VhN283QjUxN19YNFFFdFBIeGJnV3U1dVdGSXZkSUtxTVdja0sydjFiUXc2OFFDc3FmMVo2Zm40ZWlreGMtdEVNYzYtWlRTbTlfY3pYQnM2cEppclo3emNfclBhdjZkWQ?oc=5",
-      "summary": "Prabowo 'Nekat' Pangkas APBN Rp306 T, Ini Dampaknya ke Ekonomi RI&nbsp;&nbsp;CNBC Indonesia",
-      "published": "2025-01-26T08:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "APBN",
-        "Prabowo"
-      ],
-      "big": true,
-      "id": "3d61a732a6b470b2"
-    },
-    {
-      "title": "Emerging markets are in turmoil. The IMF must step in to help. Here’s how - The Economist",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSEt4ak9TSC0ydGdYUVZTNWNnclJ5czliOWRBYURaUUpQRVJJXzk3eDdfdW41RUd0Q1NxbTFMTGl6SFdUTVhEN21sVzhHeGdTdU43RWtJU2JYdWE4d0diUkQxM0tIdy1WSVZIVTZXU01hWG45VHV4cmRLU290Y2hCYm9sX1laZnJRLXM1d1NGYmlreVFaV1VkM082Rk9vZ0VzT3YwU3c1MTVIcVdYNE45NEhFQ3FsUQ?oc=5",
-      "summary": "Emerging markets are in turmoil. The IMF must step in to help. Here’s how&nbsp;&nbsp;The Economist",
-      "published": "2020-04-11T07:00:00+00:00",
-      "source": "The Economist (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "IMF",
-        "emerging market"
-      ],
-      "big": false,
-      "id": "a2205a33bfbb8fc0"
-    },
-    {
-      "title": "Lunch with the FT: Prabowo Subianto - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOUVFVC1ZblhKaVlBVkZ4RDczVlA5WEJQWDNjRk5MXy1HbDZKRFZUTF9aeU0xYXRiS0ItQXAzMkRtelJETFItZXA0dEktVlpkU1R6SW9KRlpXU0dCUGFmSnRnaGFCb2JWX0NXbkZKcGJ2MVNMT05NZnVOLV95WE9KNW5idEI?oc=5",
-      "summary": "Lunch with the FT: Prabowo Subianto&nbsp;&nbsp;Financial Times",
-      "published": "2013-06-28T07:00:00+00:00",
+      "title": "Military advertises its bigger role as Prabowo reshapes Indonesia - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdk4yZUV2WW5hQWVxTjZ5R0d5TGpOWGt2VG9IWVFqcFZ6LVhOMWpZdkM2RHBTeHlxVV9XVnZpY0oyZ0FCRWhFVC16Z2U1aDFuVUVHcHZoQ2FsOWsxa180ZlR6b0pMaXFzcHNSdGxqNHk3QW1tR2xGblVmOThpdXROTmVtRkg?oc=5",
+      "summary": "Military advertises its bigger role as Prabowo reshapes Indonesia&nbsp;&nbsp;Financial Times",
+      "published": "2025-09-24T07:00:00+00:00",
       "source": "Financial Times (via GNews)",
       "groups": [
         "Government / Policy"
@@ -2350,7 +2242,84 @@
         "Prabowo"
       ],
       "big": false,
-      "id": "c90cbb34510033d9"
+      "id": "e5198267bac0e0ce"
+    },
+    {
+      "title": "A Weak Jobs Report and Revised Tariff Plans Send Markets Reeling - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeHdtSzdrUnprZ3ppTi05bVBXSFVCWFpjd01qOEo4VERfSTJRdGk5QVhIalhRZlhDNG1zMFFJNDdsQzRPZjk3WVBuYTJKaFZlRHAzLTFBY0h5dGFwelVXVlFUdjN1bXJpcmtwSGcybWFLSGRXdlpnN3I4SmpmS3B5WklpaER5NXlFcDhwUWFZOG84UEF6QVkzVkRzMXBwa3hQNHY3anJFYlMwUGVKbXU3UA?oc=5",
+      "summary": "A Weak Jobs Report and Revised Tariff Plans Send Markets Reeling&nbsp;&nbsp;WSJ",
+      "published": "2025-08-01T07:00:00+00:00",
+      "source": "WSJ (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "tariff"
+      ],
+      "big": false,
+      "id": "2f3108bb5d55b26a"
+    },
+    {
+      "title": "What the U.S.-China Tariff Rollback Means for the American Economy - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdXpvekRhd1d0eHVXbmNlTEZ1QVZacUt0ZnZwbGQ5NjMybHlmVTRVSVdtYlZvclFHd2VDZEdfcnV0TWx2UmVkYXY3N3cxY3VKSVZlUUYzY1ZSRWY0d1dUVDhKUUdJOUM3aUJiNjBYeXBnSkJzcnhUYjM1MFJOaXJ4TndwUFBsdmtvQUNjOWhqMGcxQVQ3ZVJHY09JWU9ZUzRNamoyUEphZlhKRVY3?oc=5",
+      "summary": "What the U.S.-China Tariff Rollback Means for the American Economy&nbsp;&nbsp;WSJ",
+      "published": "2025-05-12T07:00:00+00:00",
+      "source": "WSJ (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "tariff"
+      ],
+      "big": false,
+      "id": "98509325ad584a89"
+    },
+    {
+      "title": "Exclusive | Trump White House Considers Slashing China Tariffs to De-Escalate Trade War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNREpxVW5zVGdxZzlPZWt1enAtMjRMMlVkRTZCUFdBSk9RaldWR013bGxKbDVvbFBya1pFVjN5cVVXWjB5YlNrN1JLaDk2MDVkRmk3S0Nya08xTDl6Q25fZ3dxbGJMR1BHZjgzMlpxcDZvbC0ybV9aSmFWMzdXRy16TXMtekFZbVhaYjJPNm9UVU1WS1otUTktcWVjR0QtcFpkR0szUnBhZlBFWG5pelVBVkdCcWo?oc=5",
+      "summary": "Exclusive | Trump White House Considers Slashing China Tariffs to De-Escalate Trade War&nbsp;&nbsp;WSJ",
+      "published": "2025-04-23T07:00:00+00:00",
+      "source": "WSJ (via GNews)",
+      "groups": [
+        "Geopolitics",
+        "Global Finance"
+      ],
+      "matched": [
+        "Trump",
+        "trade war"
+      ],
+      "big": true,
+      "id": "508a9bfe0cd7b929"
+    },
+    {
+      "title": "Prabowo Subianto is drastically cutting Indonesia’s budget - The Economist",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdUI1NWx6eEs4TjJXRTByNlpHODFUcWJzS2VfdlRzSFZfbW5lVUF5VGw4RmFIbGh2Z3Y3STQ0XzUwYktXTGktRzNEZ0RJbTk2SVVQX0F2UlJKV19EbUxxR0phNmloUldWM3psMThmWkI1SlFuWHVJS1h3aXItNkdmWWhaVXl0R0NrZ0dERW4yUG5nTEQtenVWUnNHLVRXV1pP?oc=5",
+      "summary": "Prabowo Subianto is drastically cutting Indonesia’s budget&nbsp;&nbsp;The Economist",
+      "published": "2025-02-27T08:00:00+00:00",
+      "source": "The Economist (via GNews)",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "bffa3897633957e1"
+    },
+    {
+      "title": "Bearish bets on Indian rupee, Indonesian rupiah at highest in years: Reuters poll - Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaHFqRUdoTDFwTHJNWmhFOVVHX2h6X2RPUWRIQXo4SlJPVUZGMzFrSmduSjdQODRmRGZoQWxaUGhtdkwwc0g5ckU5MldUT1J1cWM4NW5aM1N3aVd2V3NEMERHeG12NFdHX2l0YU41OU4wTk0ybXFzaWgxSXRZOWtoWTIyb2diUldfYXVsOEhNbS1TSk1uWE1LUWw5SkV4VE0yN19QMW04UUJwdmdkTjhKN2hmM1NsUQ?oc=5",
+      "summary": "Bearish bets on Indian rupee, Indonesian rupiah at highest in years: Reuters poll&nbsp;&nbsp;Yahoo Finance Singapore",
+      "published": "2018-09-06T07:00:00+00:00",
+      "source": "Reuters – Indonesia",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "rupiah"
+      ],
+      "big": true,
+      "id": "c5d5f33f658e4e9a"
     }
   ]
 }

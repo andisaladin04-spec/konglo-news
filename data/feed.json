@@ -1,7 +1,38 @@
 {
-  "updated": "2026-10-29T06:13:31.768250+00:00",
+  "updated": "2026-10-29T13:16:22.982650+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Anjlok 3,49%, Tertekan Koreksi Saham Bank Jumbo BBCA, BBRI, BMRI",
+      "link": "https://katadata.co.id/finansial/bursa/6ae31b4fc5eda/ihsg-anjlok-3-49-tertekan-koreksi-saham-bank-jumbo-bbca-bbri-bmri",
+      "summary": "IHSG anjlok 3, 49% atau 184, 26 poin ke level 5.098 pada penutupan perdagangan Rabu (28/8). Pelemahan indeks hari ini antara lain disebabkan tekanan dari rontoknya saham-saham bank jumbo.",
+      "published": "2026-10-29T10:09:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Djarum / Hartono"
+      ],
+      "matched": [
+        "BBCA"
+      ],
+      "big": true,
+      "id": "804be2e504c84e9f"
+    },
+    {
+      "title": "Denda Rp 2,1 T DSSA, BREN, CUAN Masuk Kas Negara, Investor Dapat Kompensasi?",
+      "link": "https://katadata.co.id/finansial/bursa/6ae3185f2b433/denda-rp-2-1-t-dssa-bren-cuan-masuk-kas-negara-investor-dapat-kompensasi",
+      "summary": "Otoritas Jasa Keuangan (OJK) menyebut tiga emiten yang dijatuhi denda total Rp 2, 1 triliun atas pelanggaran di pasar modal telah membayarkan denda tersebut kepada negara.",
+      "published": "2026-10-29T09:56:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "BREN",
+        "CUAN"
+      ],
+      "big": false,
+      "id": "2830ac6c80f40cab"
+    },
     {
       "title": "Emiten Migas Grup Bakrie (ENRG) Cetak Laba Naik 31%, Siap Genjot Temuan Minyak - Bisnis.com - Market",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY25LU0ZUNWtYMVgtOHhWS2dTY1N3YUJhanpSQXY2VHRwX1drb1J0bXptWVV6S0t1eVJqTVVnU3RsV1NTaUZoQXNJbUllZTVMbUM5UzZ2SER5LVV5SDRfdVpyRG9aRWpOLWk2b2ZKQjl6NG1oZ2k4VkhhWVg0SVNYLTh5aVIzYTNxb185U0NOSEc4NkViUlpDU19DNk9ZRjNZeHY1RFg2M09GSHJiZlIzNE5lUWkzMmRqVnNPZExiSG0weVJT?oc=5",
@@ -3100,36 +3131,6 @@
       ],
       "big": false,
       "id": "f048eb936af8e1a4"
-    },
-    {
-      "title": "Prabowo Lantik Syahganda Nainggolan jadi Kepala Bakom, Qodari ke Wantimpres",
-      "link": "https://katadata.co.id/berita/nasional/6abf7d140ff45/prabowo-lantik-syahganda-nainggolan-jadi-kepala-bakom-qodari-ke-wantimpres",
-      "summary": "Presiden Prabowo Subianto melaksanakan Pelantikan Bakom dengan mengangkat Syahganda Nainggolan sebagai Kepala dan Fadli Hartono sebagai Wakil Kepala Badan Komunikasi Pemerintah.",
-      "published": "2026-10-02T09:44:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Djarum / Hartono"
-      ],
-      "matched": [
-        "Hartono"
-      ],
-      "big": false,
-      "id": "97bd9cd573971034"
-    },
-    {
-      "title": "IHSG Hari Ini (2/10) Ditutup Menguat ke 6.036, Saham DCII, ASII hingga GOTO Melaju - Bisnis.com - Market",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM0gxeW1NRmhWUzU3YlRQN0Q0ai1mVF9EZ2lSZmlLdXNFYnQzSkU0OTJXQVJ3dHNnZDJidWdiMC1FWXZjYWUwX1cyMGJoenhQZGVTV3k5a2kxTExqSE1sXzg5V0RYVHg2ZnhqVGdSZ3duUVZ4NVhNdTRINFhkTndsc0d5dXRNclhzSjlQMDRNZkthU0dSNkUtamFHRFJrSEdfbXdFMEtwYUFxMTZ0VjlyT1p5dw?oc=5",
-      "summary": "IHSG Hari Ini (2/10) Ditutup Menguat ke 6.036, Saham DCII, ASII hingga GOTO Melaju&nbsp;&nbsp;Bisnis.com - Market",
-      "published": "2026-10-02T09:22:06+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Astra"
-      ],
-      "matched": [
-        "ASII"
-      ],
-      "big": false,
-      "id": "c47cc19cbbc01e2e"
     }
   ]
 }

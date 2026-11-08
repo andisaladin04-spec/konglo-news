@@ -1,7 +1,24 @@
 {
-  "updated": "2026-11-08T00:30:24.884105+00:00",
+  "updated": "2026-11-08T06:40:28.640047+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "Tekanan Jual Asing Mereda, Net Sell Rp 167 M Sepekan, BBCA dan ASII Topang IHSG",
+      "link": "https://katadata.co.id/finansial/bursa/6aefe4c5e29bb/tekanan-jual-asing-mereda-net-sell-rp-167-m-sepekan-bbca-dan-asii-topang-ihsg",
+      "summary": "Tekanan jual investor asing di pasar saham Indonesia mulai mereda meski masih mencatatkan aksi jual bersih pada perdagangan 2-6 November 2026. Apa saja saham penopang dan pemberat IHSG sepekan?",
+      "published": "2026-11-08T02:56:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Astra",
+        "Djarum / Hartono"
+      ],
+      "matched": [
+        "ASII",
+        "BBCA"
+      ],
+      "big": false,
+      "id": "9a8767e7bb438e84"
+    },
     {
       "title": "Agoes Projosasmito Borong 3,22 Juta Saham BRMS - Bisnis.com - Market",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT3VOenU3czNrcnVBdnhfV2UzeUJOZjBPU1VHV1MwQk5mVndhZGpQdjNNVzZBX0dIaVYycGYzdDVLOHJqVUI0VVpkOEhjX3JOV2haZ1YwMzZ5dzFWdjNKTW5RUDMzV1FiRVRIeUR4cEFuNzlUdWJ0RkhtQnM4UlQwZ2NkZlE4dk85VkRwQ3dJQ1FqeFhacG5Rbkcya1Z0UQ?oc=5",
@@ -3121,22 +3138,6 @@
       ],
       "big": true,
       "id": "0b79252609b3d6ab"
-    },
-    {
-      "title": "BREN dan CUAN Respons Sanksi Denda dari OJK, Janji Penuhi Ketentuan Pasar Modal",
-      "link": "https://katadata.co.id/finansial/bursa/6ad34faed2954/bren-dan-cuan-respons-sanksi-denda-dari-ojk-janji-penuhi-ketentuan-pasar-modal",
-      "summary": "BREN dan CUAN merespons keputusan OJK dan BEI terkait kasus pasar modal, menyatakan akan patuhi aturan dan jamin operasional perusahaan tetap berjalan normal.",
-      "published": "2026-10-17T10:36:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Prajogo / Barito"
-      ],
-      "matched": [
-        "BREN",
-        "CUAN"
-      ],
-      "big": false,
-      "id": "e75d77958a80a841"
     }
   ]
 }

@@ -1,7 +1,175 @@
 {
-  "updated": "2026-11-12T16:14:21.572007+00:00",
+  "updated": "2026-11-13T02:41:24.042909+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Dibuka Turun ke 5.218, Top Losers LQ45: BRPT, AMMN, MDKA, Jumat (13/11)",
+      "link": "https://investasi.kontan.co.id/news/ihsg-dibuka-turun-ke-5218-top-losers-lq45-brpt-ammn-mdka-jumat-1311",
+      "summary": "Indeks Harga Saham Gabungan (IHSG) dibuka melemah 0,62% ke level 5.218,21 pada perdagangan Jumat (13/11/2026) pukul 09.02 WIB.",
+      "published": "2026-11-13T02:12:54+00:00",
+      "source": "Kontan - Investasi",
+      "groups": [
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "BRPT"
+      ],
+      "big": false,
+      "id": "1cff404f2122a423"
+    },
+    {
+      "title": "Bedah Saham Bakrie di Tengah Proyek Prabowo, Cek Prospek BNBR, VKTR hingga ENRG",
+      "link": "https://katadata.co.id/finansial/bursa/6af652b4a140e/bedah-saham-bakrie-di-tengah-proyek-prabowo-cek-prospek-bnbr-vktr-hingga-enrg",
+      "summary": "Saham-saham Grup Bakrie melesat pada perdagangan Kamis (12/11), di tengah penguatan Indeks Harga Saham Gabungan (IHSG). PT VKTR Teknologi Mobilitas Tbk (VKTR) memimpin kenaikan dengan lonjakan 25%",
+      "published": "2026-11-13T01:17:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Bakrie"
+      ],
+      "matched": [
+        "BNBR",
+        "Bakrie",
+        "ENRG",
+        "VKTR"
+      ],
+      "big": false,
+      "id": "7c69704d10ea5b02"
+    },
+    {
+      "title": "Rebalancing MSCI, Asing Gencar Beli Saham Bank Besar, Investor Ritel Harus Apa?",
+      "link": "https://investasi.kontan.co.id/news/rebalancing-msci-asing-gencar-beli-saham-bank-besar-investor-ritel-harus-apa",
+      "summary": "Investor asing masih memborong saham BBRI, BMRI, dan BBCA usai rebalancing MSCI November 2026. Simak aliran dana asing dan risikonya.&#8203;",
+      "published": "2026-11-13T00:54:20+00:00",
+      "source": "Kontan - Investasi",
+      "groups": [
+        "Djarum / Hartono"
+      ],
+      "matched": [
+        "BBCA"
+      ],
+      "big": false,
+      "id": "5c86dcd4932e8312"
+    },
+    {
+      "title": "Nasib Saham yang Didepak MSCI, BRMS dan RAJA Ramai Dilepas Asing",
+      "link": "https://katadata.co.id/finansial/bursa/6af654ba0a19d/nasib-saham-yang-didepak-msci-brms-dan-raja-ramai-dilepas-asing",
+      "summary": "Sejumlah saham emiten yang terdampak penyesuaian indeks Morgan Stanley Capital International (MSCI) bergerak variatif pada perdagangan Kamis (12/11).",
+      "published": "2026-11-13T00:07:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "BRMS"
+      ],
+      "big": false,
+      "id": "5f74f80ccff2c842"
+    },
+    {
+      "title": "IHSG Potensi Menguat Lagi, Analis Rekomendasikan Saham BIPI, TINS, dan AMRT",
+      "link": "https://katadata.co.id/finansial/bursa/6af650dfdbaaa/ihsg-potensi-menguat-lagi-analis-rekomendasikan-saham-bipi-tins-dan-amrt",
+      "summary": "Indeks Harga Saham Gabungan (IHSG) berpeluang melanjutkan penguatan pada perdagangan Jumat (13/11).",
+      "published": "2026-11-12T23:50:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Salim"
+      ],
+      "matched": [
+        "AMRT"
+      ],
+      "big": false,
+      "id": "9690a6d8ef81c1cd"
+    },
+    {
+      "title": "Asing Ramai Borong Saham Bank Jumbo BBCA - BBRI, Analis Ungkap Sinyal Penting",
+      "link": "https://katadata.co.id/finansial/bursa/6af64d0b1fb80/asing-ramai-borong-saham-bank-jumbo-bbca-bbri-analis-ungkap-sinyal-penting",
+      "summary": "Aksi beli bersih atau net buy investor asing pada saham perbankan berkapitalisasi besar sepanjang pekan ini dinilai belum cukup untuk menandakan kembalinya arus modal asing secara berkelanjutan",
+      "published": "2026-11-12T23:35:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Djarum / Hartono"
+      ],
+      "matched": [
+        "BBCA"
+      ],
+      "big": false,
+      "id": "523609da8f86ff54"
+    },
+    {
+      "title": "Membaca Arah Saham BRMS: Turun Kelas MSCI tapi Pacu Produksi, Masih Punya Taji?",
+      "link": "https://katadata.co.id/finansial/bursa/6af648f55ff08/membaca-arah-saham-brms-turun-kelas-msci-tapi-pacu-produksi-masih-punya-taji",
+      "summary": "Terdegradasinya saham PT Bumi Resources Minerals Tbk (BRMS) ke MSCI Small Cap Indexes dinilai tidak membuat saham ini kehilangan daya tarik. Para analis masih percaya prospek jangka panjang BRMS kuat",
+      "published": "2026-11-12T23:22:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "BRMS"
+      ],
+      "big": false,
+      "id": "feadb4e3741a410e"
+    },
+    {
+      "title": "Laba BRMS Diprediksi Melonjak 133% di 2027, Mirae Pangkas Target Harga Jadi Rp 300",
+      "link": "https://investasi.kontan.co.id/news/laba-brms-diprediksi-melonjak-133-di-2027-mirae-pangkas-target-harga-jadi-rp-300",
+      "summary": "Prospek laba BRMS diproyeksikan melonjak 133% pada 2027, tetapi Mirae Asset menurunkan rekomendasi saham menjadi hold dengan target harga Rp 310.&#8203;",
+      "published": "2026-11-12T23:10:07+00:00",
+      "source": "Kontan - Investasi",
+      "groups": [
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "BRMS"
+      ],
+      "big": true,
+      "id": "554cf2e45f7678c1"
+    },
+    {
+      "title": "Menakar Peluang Bisnis Kontraktor Tambang PTRO ABMM Cs Kembali Menjulang - Bisnis Indonesia Premium",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeVZFdjhkMkNaM2V1ZnpEX3ZkcnZ4NHM1aHpwOUw0UV9TOXpnRm5XNUdxakFwWGh4VVUyTnNUbFQ4SWNOZV9XN2hmQjhHQjFzc1gtbzhNS0p1aGg5bXFlQ1dsa0dUNkpuaWpGZkZzRjZJY2htTXdCXy0xcS1ubk1QVllYaUoxSXhhTFlEbXVNbEJJRWJLNDZDOVFBX2VxVEp6STJkcFR4UzFmdnBEUHhTUmRRMkU5Z3J2R0hzZ0lSVEZMb1U?oc=5",
+      "summary": "Menakar Peluang Bisnis Kontraktor Tambang PTRO ABMM Cs Kembali Menjulang&nbsp;&nbsp;Bisnis Indonesia Premium",
+      "published": "2026-11-12T23:00:00+00:00",
+      "source": "Bisnis Indonesia (via GNews)",
+      "groups": [
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "PTRO"
+      ],
+      "big": false,
+      "id": "579957b4bac3440a"
+    },
+    {
+      "title": "Daftar 10 Saham LQ45 PER Terendah & Tertinggi (12 Nov 2026), DEWA dan ADRO Melesat",
+      "link": "https://investasi.kontan.co.id/news/daftar-10-saham-lq45-per-terendah-tertinggi-12-nov-2026-dewa-dan-adro-melesat",
+      "summary": "IHSG 12 November 2026: DEWA dan ADRO melesat tajam pimpin bursa, asing net buy Rp443 M. SMGR catat PBV terendah 0,23x. Simak laporan lengkapnya!",
+      "published": "2026-11-12T21:30:22+00:00",
+      "source": "Kontan - Investasi",
+      "groups": [
+        "Bakrie"
+      ],
+      "matched": [
+        "DEWA"
+      ],
+      "big": false,
+      "id": "75ec89abe118f413"
+    },
+    {
+      "title": "Ketidakpastian RKAB Batubara 2027 Tekan Emiten, Ini Saham yang Perlu Dicermati",
+      "link": "https://investasi.kontan.co.id/news/ketidakpastian-rkab-batubara-2027-tekan-emiten-ini-saham-yang-perlu-dicermati",
+      "summary": "Ketidakpastian RKAB batubara 2027 mengancam kinerja emiten. Simak saham AADI, ITMG, PTBA, dan BUMI serta rekomendasi analis.",
+      "published": "2026-11-12T13:07:45+00:00",
+      "source": "Kontan - Investasi",
+      "groups": [
+        "Bakrie"
+      ],
+      "matched": [
+        "BUMI"
+      ],
+      "big": false,
+      "id": "7007c0fe342a13bb"
+    },
     {
       "title": "Sandiaga Bicara Transparansi Bursa, SRTG hingga AGII Justru Masuk Daftar HSC",
       "link": "https://katadata.co.id/finansial/bursa/6af58840b2659/sandiaga-bicara-transparansi-bursa-srtg-hingga-agii-justru-masuk-daftar-hsc",
@@ -94,6 +262,21 @@
       ],
       "big": false,
       "id": "580d605662b5458a"
+    },
+    {
+      "title": "Saratoga Masuk Daftar HSC, Sandiaga Dukung Transparansi Bursa - Bisnis.com - Market",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUnpFRXFhWnh1QkFLRHZlM0pXWmpnRjZ6S0JCSVRDY2hvT0VjN0JxS3B1aUZsNWVKZ3g1WlJ6UDRLa3V2alQxMnZaSTNZMnlhZ1pISklZdnFUWG9GZUFFT08zZ2xDWHlZZUJKWFBwMWozWW1vLVJjbjZPUHNtbWlWVDlpQmx5cURFTEY3blI3SXpDWGVSeXRVRlMySmFpUzU1NFhjMVR1cFNrNnF5ekR5NkVB?oc=5",
+      "summary": "Saratoga Masuk Daftar HSC, Sandiaga Dukung Transparansi Bursa&nbsp;&nbsp;Bisnis.com - Market",
+      "published": "2026-11-12T07:10:09+00:00",
+      "source": "Bisnis Indonesia (via GNews)",
+      "groups": [
+        "Djarum / Hartono"
+      ],
+      "matched": [
+        "Saratoga"
+      ],
+      "big": false,
+      "id": "d7d1e8eef1191f1a"
     },
     {
       "title": "Ada Emiten Haji Isam, Salim, hingga Prajogo di Daftar 383 Saham HSC",
@@ -2952,197 +3135,6 @@
       ],
       "big": false,
       "id": "8d14c6678c57a385"
-    },
-    {
-      "title": "Update Sanksi DSSA, BREN, CUAN, Sederet Sekuritas Terseret - Bisnis.com - Market",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYzBzUW1yU2FCdDFUSmdNSTI5Y1lCeFFoVHRVekh3bGU5b0hyWUxCcVU3T3ZqV2Rwd1JDOTJOeUwwWk1MMVBGcnpEWERfWWRFUy1uVFJiZEtUMFphMTJvYW9nWXNHMnFteXBlVUd1T0tPZVhROGJscGFRLUZYaEw4V2J3dDhELXF0bHJoZDJ6M3ktU1FQdHFQM3FydzZySmNpNklKX3FpWkw?oc=5",
-      "summary": "Update Sanksi DSSA, BREN, CUAN, Sederet Sekuritas Terseret&nbsp;&nbsp;Bisnis.com - Market",
-      "published": "2026-10-21T12:50:49+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Prajogo / Barito"
-      ],
-      "matched": [
-        "BREN",
-        "CUAN"
-      ],
-      "big": false,
-      "id": "31174a25c54e3ff5"
-    },
-    {
-      "title": "10 Saham Penopang IHSG Hari Ini: BBCA–BREN Pimpin Top Leaders - Bisnis.com - Market",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUE9EbTBzRjh6dHVJakFaWGNlUzJsOUV6VmRyLXRWZ3pXVjlka3pmLWM3UGxFYzNJc05WYmtQWklXYkc0Z2xVb0lVRnh4dTF1SWhBdVBkdTNxTFVzODhoQmZUUEpvYVF5RGNWb1pPWVYyLWZRMXBiNU1VQkVISnlSUlItbWljVVFST29mcDRJb1UwaVRBQ21VMVhEdFdnaUU0aktFd1NJeS1aeThXdzdr?oc=5",
-      "summary": "10 Saham Penopang IHSG Hari Ini: BBCA–BREN Pimpin Top Leaders&nbsp;&nbsp;Bisnis.com - Market",
-      "published": "2026-10-21T12:01:57+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Djarum / Hartono",
-        "Prajogo / Barito"
-      ],
-      "matched": [
-        "BBCA",
-        "BREN"
-      ],
-      "big": false,
-      "id": "71a8a74f71a300d4"
-    },
-    {
-      "title": "Indeks Bisnis-27 Ditutup Menguat, Saham MIKA hingga ICBP ke Zona Hijau - Bisnis.com - Market",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR1JmbTF2cS1NblBicmhrNDM4a21FN01DUExEY1IwQnNka0F1c09SR0dOZU9rc0RGZ2hWZ216WmhzMzJkX0E1NkxDXzBuVUt0VWVUVEd3a3lYTGJtbVlLLWY2M0ZJemZmVEVLU092ZVZTanh2cDBQUExDUGpaY0M4a2MtUnZ0LWRqUTROZ2dncE9YdFo1UlI4NVprYXZ5V2x2Nkx3a1NCTU1ub05haUpBaFl6eFhwRHBRcnRj?oc=5",
-      "summary": "Indeks Bisnis-27 Ditutup Menguat, Saham MIKA hingga ICBP ke Zona Hijau&nbsp;&nbsp;Bisnis.com - Market",
-      "published": "2026-10-21T09:34:52+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Salim"
-      ],
-      "matched": [
-        "ICBP"
-      ],
-      "big": false,
-      "id": "062069675f4452f7"
-    },
-    {
-      "title": "Dividen AUTO, AALI, ASII Mengalir Pekan Depan, Ini Prospek Sahamnya - Bisnis Indonesia Premium",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR2ZlN01BUWdsckRkNmlrajVwb1RtLXVLRlRpMW8tckdpQW5UM0piOE9zNlFybTgyUm9WTDVYMzNzYkpEbG5BdjlpUmZPSnFVblZWdzNHbTU4d2VrV3pMcWdkNGJMbDVISGtDYUdLVjZOQURXbWh1VkhCMVhuWHBNYm9zSzVJeVpfSUd2dHo2NHllRlEtMUVzTHNTMjFRWUtwRko0R0oyMTlsbWJWd0JRckhlVGVqVkVB?oc=5",
-      "summary": "Dividen AUTO, AALI, ASII Mengalir Pekan Depan, Ini Prospek Sahamnya&nbsp;&nbsp;Bisnis Indonesia Premium",
-      "published": "2026-10-21T08:00:00+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Astra"
-      ],
-      "matched": [
-        "AALI",
-        "ASII"
-      ],
-      "big": true,
-      "id": "d2e94e4ad77efb80"
-    },
-    {
-      "title": "Aksi Para Taipan Borong Saham Saat IHSG Jatuh, Boy Thohir hingga Edwin Saratoga",
-      "link": "https://katadata.co.id/finansial/bursa/6ad84d43a01ad/aksi-para-taipan-borong-saham-saat-ihsg-jatuh-boy-thohir-hingga-edwin-saratoga",
-      "summary": "Sederet konglomerat dan anggota keluarganya memborong saham emiten yang terafiliasi dengan kelompok usaha mereka di tengah gejolak pasar modal dan koreksi harga saham.",
-      "published": "2026-10-21T05:27:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Djarum / Hartono"
-      ],
-      "matched": [
-        "Saratoga"
-      ],
-      "big": false,
-      "id": "50a140cb412c8b96"
-    },
-    {
-      "title": "BBCA Perpanjang Buyback Saham di Tengah Gejolak Harga, Bagaimana Skenarionya?",
-      "link": "https://katadata.co.id/finansial/bursa/6ad83f7badd91/bbca-perpanjang-buyback-saham-di-tengah-gejolak-harga-bagaimana-skenarionya",
-      "summary": "Emiten perbankan swasta raksas PT Bank Central Asia Tbk (BBCA) memperpanjang periode pembelian kembali saham atau buyback hingga Jumat (23/10). Apa skenarionya?",
-      "published": "2026-10-21T04:28:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Djarum / Hartono"
-      ],
-      "matched": [
-        "BBCA"
-      ],
-      "big": true,
-      "id": "14d04670e8715b4e"
-    },
-    {
-      "title": "BCA (BBCA) Perpanjang Periode Buyback Saham hingga 23 Oktober 2026 - Bisnis.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS2h6SzR6YVh4QlVkRlVOQWpvX1RrWUthWHFaZWgzM2JodlJOZlAxNlFvaUdyV2NPcFRGeFlVUjRZN3drQUpKWjJXSHBvLWJfcTZLUHBfdllSbG9EZVYxcW1yenBlUVFNMEc0ak5GSVZyM0lPVjhXS3dQZ0g1bG5DTHUza3dtNk9SRVNLSkJqdmdpUWZlWlE0d2prUERVWW5lc25aUlpsS01uQkJ1bHowRzBlUkxRT0xhMFE?oc=5",
-      "summary": "BCA (BBCA) Perpanjang Periode Buyback Saham hingga 23 Oktober 2026&nbsp;&nbsp;Bisnis.com",
-      "published": "2026-10-21T03:58:01+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Djarum / Hartono"
-      ],
-      "matched": [
-        "BBCA"
-      ],
-      "big": true,
-      "id": "57de41e21db89aed"
-    },
-    {
-      "title": "Semarak Konglomerat Buyback Saham, Prajogo Siapkan Dana di Atas Denda BREN-CUAN",
-      "link": "https://katadata.co.id/finansial/korporasi/6ad82c07e5580/semarak-konglomerat-buyback-saham-prajogo-siapkan-dana-di-atas-denda-bren-cuan",
-      "summary": "Konglomerat Prajogo Pangestu menyiapkan dana Rp 3, 5 triliun untuk buyback saham BREN hingga CUAN. Langkah serupa dipertimbangkan oleh emiten Grup Astra dan Grup Djarum.",
-      "published": "2026-10-21T03:05:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Djarum / Hartono",
-        "Prajogo / Barito"
-      ],
-      "matched": [
-        "BREN",
-        "CUAN",
-        "Djarum",
-        "Pangestu",
-        "Prajogo"
-      ],
-      "big": true,
-      "id": "bb17b3085cd30186"
-    },
-    {
-      "title": "IHSG Dibuka Menguat ke 5.314 Jelang Putusan Suku Bunga BI, Saham MBMA, DEWA Melaju - Bisnis.com - Market",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVlNOUWRzR3ZDMlgxa3hRX25uU3h1c2J6V05aMTdDcHAzcFNRN2Q5THVyRGVHXzk1UnBTYnlFM2xoNWR5YlMxUldKT0lsUWdERkdIam5zOHNlMlpyWXdLUHFIbzNMYk1rTU53aXpoSFRHaXRyWk1aZWlRcVk1S2Vvb0FjTHBPeVR3S1JiX2I4WlBfbmVPVDBWZUFMcW4zQ0ViRE9NREp5Y05Ia0lIQWp4aWFkTVpMQ0JOUU5ncVMzQWJPSkJfQ281OQ?oc=5",
-      "summary": "IHSG Dibuka Menguat ke 5.314 Jelang Putusan Suku Bunga BI, Saham MBMA, DEWA Melaju&nbsp;&nbsp;Bisnis.com - Market",
-      "published": "2026-10-21T02:22:26+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Bakrie"
-      ],
-      "matched": [
-        "DEWA"
-      ],
-      "big": false,
-      "id": "babf28b1dbd12dc3"
-    },
-    {
-      "title": "Indeks Bisnis-27 Dibuka Menguat, Saham MBMA, DEWA, dan ICBP Bergeliat - Bisnis.com - Market",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRlFVSk96X1FQVDIyNE5iQkt3b1J2a2sta0JOYXhxVDRyMnNCaEpkNzBZX2hqRzVldC1oZmxBNm51eGkyUmt6anV6c1M3WmZLNkEwVVpIc2dGVHVOZFVsR2tfak1EZ2tUanktTGdQNF81MkpNMkdYVmlqREIyN1JlcjVrME43UmI5UGVEc2ZaQXZ6M1JHdnU0OVJxWVJFWF9iWmpfVDdDVXZZNjQwRHlHTWdhR0Fxd2c?oc=5",
-      "summary": "Indeks Bisnis-27 Dibuka Menguat, Saham MBMA, DEWA, dan ICBP Bergeliat&nbsp;&nbsp;Bisnis.com - Market",
-      "published": "2026-10-21T02:18:51+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Bakrie",
-        "Salim"
-      ],
-      "matched": [
-        "DEWA",
-        "ICBP"
-      ],
-      "big": false,
-      "id": "4185dd99787c2728"
-    },
-    {
-      "title": "Semarak Buyback Saham Emiten Konglomerasi dari Grup Barito, Sinar Mas, Astra Hingga Thohir - Bisnis Indonesia Premium",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMFZNWWF1QzRxQkpUN0w0Vi1sYW5jRFBRT2hHM1Axb3NickZUekJQUjR5eUNjY3hSSzhaRmVZWkFPUXhrQTlWNDRZUnp5N3FsMERnT2VFajNqcUNYdHg2Y3AyeE1GclU4OFI5SzY0YVBxTW5weWphQzVsUE9VMUtmZ1hVVXJfWkdMeF9NVVgzOFVuTHMwcGltY2M3RDlkeGhoc2NaVzdZcEZKMl9GNGt6MnlNMVZZZFlOeFV4eTFIaTZySUEyNHprZW1UeUxTYXFLZU43NjB2MWo?oc=5",
-      "summary": "Semarak Buyback Saham Emiten Konglomerasi dari Grup Barito, Sinar Mas, Astra Hingga Thohir&nbsp;&nbsp;Bisnis Indonesia Premium",
-      "published": "2026-10-20T23:45:00+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Sinar Mas"
-      ],
-      "matched": [
-        "Sinar Mas"
-      ],
-      "big": true,
-      "id": "b76766b165369658"
-    },
-    {
-      "title": "IHSG Diramal Menguat Jelang Rapat BI, Analis Jagokan Saham ANTM, ACES, RAJA",
-      "link": "https://katadata.co.id/finansial/bursa/6ad7f77057d43/ihsg-diramal-menguat-jelang-rapat-bi-analis-jagokan-saham-antm-aces-raja",
-      "summary": "IHSG diproyeksikan menguat dengan target rebound ke 5.318, meski momentum bearish masih ada. Analis merekomendasikan saham ANTM, ACES, hingga RAJA.",
-      "published": "2026-10-20T23:21:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Astra"
-      ],
-      "matched": [
-        "ACES"
-      ],
-      "big": false,
-      "id": "b4f5ecb15d9ac5ee"
     }
   ]
 }

@@ -1,7 +1,944 @@
 {
-  "updated": "2026-11-16T06:14:08.512708+00:00",
+  "updated": "2026-11-16T16:04:10.637622+00:00",
   "count": 150,
   "items": [
+    {
+      "title": "KPK sita dua aset staf anggota DPR RI terkait kasus dana hibah Jatim",
+      "link": "https://www.antaranews.com/berita/5858431/kpk-sita-dua-aset-staf-anggota-dpr-ri-terkait-kasus-dana-hibah-jatim",
+      "summary": "Komisi Pemberantasan Korupsi (KPK) menyita dua aset milik BW selaku staf anggota DPR RI berinisial AS terkait ...",
+      "published": "2026-11-16T15:40:12+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "DPR",
+        "KPK"
+      ],
+      "big": false,
+      "id": "1b39b456e40b52eb"
+    },
+    {
+      "title": "KPK tahan paksa satu tersangka dugaan korupsi dana hibah pokmas Jatim",
+      "link": "https://www.antaranews.com/video/5858411/kpk-tahan-paksa-satu-tersangka-dugaan-korupsi-dana-hibah-pokmas-jatim",
+      "summary": "ANTARA -&nbsp;Komisi Pemberantasan Korupsi (KPK) kembali menetapkan satu orang tersangka dalam kasus dugaan korupsi ...",
+      "published": "2026-11-16T15:37:46+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "KPK"
+      ],
+      "big": false,
+      "id": "14d275fb1ee670ea"
+    },
+    {
+      "title": "Kenakan barong bermotif batik, Prabowo hadiri gala dinner KTT ASEAN",
+      "link": "https://www.antaranews.com/video/5858415/kenakan-barong-bermotif-batik-prabowo-hadiri-gala-dinner-ktt-asean",
+      "summary": "ANTARA - Presiden Prabowo Subianto menghadiri jamuan makan malam atau gala dinner KTT ke-49 ASEAN di Philippine ...",
+      "published": "2026-11-16T15:36:59+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Geopolitics",
+        "Government / Policy"
+      ],
+      "matched": [
+        "ASEAN",
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "0a920a1cfdf45955"
+    },
+    {
+      "title": "Menag kenang KH Maimoen Zubair sebagai guru spiritual",
+      "link": "https://www.antaranews.com/berita/5858419/menag-kenang-kh-maimoen-zubair-sebagai-guru-spiritual",
+      "summary": "Menteri Agama Nasaruddin Umar mengenang KH Maimoen Zubair sebagai sosok yang telah dianggap sebagai orang tua ...",
+      "published": "2026-11-16T15:33:09+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "menteri"
+      ],
+      "big": false,
+      "id": "8f2970f4defe9d58"
+    },
+    {
+      "title": "Trump says he wouldn't mind seeing Huang return to Nvidia",
+      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+      "published": "2026-11-16T15:31:20+00:00",
+      "source": "BBC Business",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "349134aed1b0ce2a"
+    },
+    {
+      "title": "Aria Bima PDIP Jadi Ketua Panja RUU Adminduk di Komisi II DPR",
+      "link": "https://www.cnnindonesia.com/nasional/20261116162048-32-1427756/aria-bima-pdip-jadi-ketua-panja-ruu-adminduk-di-komisi-ii-dpr",
+      "summary": "Komisi II DPR menunjuk Aria Bima sebagai Ketua Panja RUU Adminduk. RUU ini akan mengatur single ID number untuk identitas kependudukan dan layanan publik.",
+      "published": "2026-11-16T15:30:36+00:00",
+      "source": "CNN Indonesia",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "DPR",
+        "UU "
+      ],
+      "big": false,
+      "id": "1d1ff61f99e15112"
+    },
+    {
+      "title": "Aktivis Tolak Kunjungan Trump di KTT ASEAN ke-49",
+      "link": "https://www.cnnindonesia.com/internasional/20261116151857-110-1427715/aktivis-tolak-kunjungan-trump-di-ktt-asean-ke-49",
+      "summary": "Kelompok aktivis dan para pengunjuk rasa menolak kehadiran Trump pada KTT ASEAN ke-49 di Manila, Filipina, Minggu (15/11).",
+      "published": "2026-11-16T15:30:15+00:00",
+      "source": "CNN Indonesia",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "ASEAN",
+        "Trump"
+      ],
+      "big": false,
+      "id": "09269dab490877ca"
+    },
+    {
+      "title": "Presiden Prabowo Subianto hadiri Gala Dinner KTT ke-49 ASEAN di Filipina",
+      "link": "https://www.antaranews.com/foto/5858403/presiden-prabowo-subianto-hadiri-gala-dinner-ktt-ke-49-asean-di-filipina",
+      "summary": "Presiden Prabowo Subianto menyapa wartawan saat tiba pada Gala Dinner Konferensi Tingkat Tinggi (KTT) ke-49 ASEAN 2026 ...",
+      "published": "2026-11-16T15:23:54+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Geopolitics",
+        "Government / Policy"
+      ],
+      "matched": [
+        "ASEAN",
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "7bb855edd577eaf1"
+    },
+    {
+      "title": "KPK tahan staf anggota DPR RI pada kasus dana hibah Jawa Timur",
+      "link": "https://www.antaranews.com/berita/5858387/kpk-tahan-staf-anggota-dpr-ri-pada-kasus-dana-hibah-jawa-timur",
+      "summary": "Komisi Pemberantasan Korupsi (KPK) menahan BW selaku staf anggota DPR RI berinisial AS dalam lanjutan penyidikan kasus ...",
+      "published": "2026-11-16T15:17:46+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "DPR",
+        "KPK"
+      ],
+      "big": false,
+      "id": "4def6e83a3007e1c"
+    },
+    {
+      "title": "Mendag bertolak ke China dampingi Presiden Prabowo di KTT APEC",
+      "link": "https://www.antaranews.com/berita/5858383/mendag-bertolak-ke-china-dampingi-presiden-prabowo-di-ktt-apec",
+      "summary": "Menteri Perdagangan (Mendag) Budi Santoso&nbsp;segera bertolak ke Shenzhen, China pada Selasa&nbsp;(17/11) dini hari ...",
+      "published": "2026-11-16T15:17:35+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Prabowo",
+        "menteri"
+      ],
+      "big": false,
+      "id": "8f2bf2901b3607ef"
+    },
+    {
+      "title": "Prabowo ajak Korsel perkuat kerja sama ketahanan energi",
+      "link": "https://www.antaranews.com/berita/5858379/prabowo-ajak-korsel-perkuat-kerja-sama-ketahanan-energi",
+      "summary": "Presiden Prabowo Subianto menyatakan ketahanan energi perlu mendapat perhatian lebih besar dalam kemitraan ASEAN dan ...",
+      "published": "2026-11-16T15:16:19+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Geopolitics",
+        "Government / Policy"
+      ],
+      "matched": [
+        "ASEAN",
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "8f8f6491c84689e6"
+    },
+    {
+      "title": "Polda Koordinasi ke KPK soal Pemeriksaan 8 Kepala Kantor BPN di Jatim",
+      "link": "https://www.cnnindonesia.com/nasional/20261116204940-12-1427871/polda-koordinasi-ke-kpk-soal-pemeriksaan-8-kepala-kantor-bpn-di-jatim",
+      "summary": "Polda Jatim berkoordinasi dengan KPK untuk pemeriksaan delapan kepala BPN terkait dugaan korupsi. Lokasi pemeriksaan direncanakan pakai fasilitas Polda Jatim.",
+      "published": "2026-11-16T15:15:32+00:00",
+      "source": "CNN Indonesia",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "KPK"
+      ],
+      "big": false,
+      "id": "bcdd23db64226ee3"
+    },
+    {
+      "title": "Prabowo: RCEP berperan sentral perkuat ketahanan kawasan",
+      "link": "https://www.antaranews.com/berita/5858351/prabowo-rcep-berperan-sentral-perkuat-ketahanan-kawasan",
+      "summary": "Presiden Prabowo Subianto menyatakan RCEP berperan sentral memperkuat ketahanan kawasan melalui integrasi ekonomi dan ...",
+      "published": "2026-11-16T15:06:00+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "917d408c7c09216c"
+    },
+    {
+      "title": "ASEAN dan PBB tegaskan kembalu komitmen perkuat kemitraan komprehensif",
+      "link": "https://www.antaranews.com/berita/5858347/asean-dan-pbb-tegaskan-kembalu-komitmen-perkuat-kemitraan-komprehensif",
+      "summary": "Dalam KTT yang dihadiri oleh para pemimpin ASEAN tersebut, Sekretaris Jenderal PBB Antonio Guterres dan Sekretaris ...",
+      "published": "2026-11-16T15:05:59+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "ASEAN"
+      ],
+      "big": false,
+      "id": "b9bf57af63614175"
+    },
+    {
+      "title": "Prabowo dorong peningkatan pasar bebas ASEAN-Korea Selatan",
+      "link": "https://www.antaranews.com/berita/5858343/prabowo-dorong-peningkatan-pasar-bebas-asean-korea-selatan",
+      "summary": "Presiden Prabowo Subianto mendorong peningkatan kawasan perdagangan bebas ASEAN-Korea (AKFTA) untuk memperluas akses ...",
+      "published": "2026-11-16T15:05:55+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Geopolitics",
+        "Government / Policy"
+      ],
+      "matched": [
+        "ASEAN",
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "5794e89c6bb9504e"
+    },
+    {
+      "title": "Pemerintah usulkan penataan kewenangan Kadin dalam RUU Kadin",
+      "link": "https://www.antaranews.com/berita/5858339/pemerintah-usulkan-penataan-kewenangan-kadin-dalam-ruu-kadin",
+      "summary": "Pemerintah mengusulkan penataan kewenangan Kamar Dagang dan Industri (Kadin) dalam pembahasan Rancangan Undang-Undang ...",
+      "published": "2026-11-16T15:04:56+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "UU "
+      ],
+      "big": false,
+      "id": "467978ef9c63743e"
+    },
+    {
+      "title": "PM Li Qiang imbau Tiongkok-ASEAN bersatu atasi berbagai gangguan",
+      "link": "https://www.antaranews.com/berita/5858327/pm-li-qiang-imbau-tiongkok-asean-bersatu-atasi-berbagai-gangguan",
+      "summary": "Perdana Menteri (PM) Tiongkok Li Qiang mengimbau Tiongkok dan ASEAN bersatu dan bersama atasi berbagai imbauan.    PM ...",
+      "published": "2026-11-16T15:01:26+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Geopolitics",
+        "Government / Policy"
+      ],
+      "matched": [
+        "ASEAN",
+        "menteri"
+      ],
+      "big": false,
+      "id": "8d2784686b368866"
+    },
+    {
+      "title": "Wamentan Alim: Sistem pangan tangguh diperkuat hadapi ancaman iklim",
+      "link": "https://www.antaranews.com/berita/5858319/wamentan-alim-sistem-pangan-tangguh-diperkuat-hadapi-ancaman-iklim",
+      "summary": "Wakil Menteri Pertanian (Wamentan) Alim Setiawan Slamet menegaskan sistem pangan tangguh diperkuat melalui penguatan ...",
+      "published": "2026-11-16T14:57:08+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "menteri"
+      ],
+      "big": false,
+      "id": "b64c594e8ad8e3be"
+    },
+    {
+      "title": "Yen Could Strengthen Versus Dollar by Year-End - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY0tIRFRtTEs5OTF4TDNFdllkdHpXRFYxdmI1N0xBM1JfQi05SzB4dS16US1KVkw1OHR4Snk2NGZOVnBONGZXZFgzUkhva2ZCTVlPRDllemY5R1VEQ1VKeGRoOF85a25yd0hyeUdzZzNwZGl4Tm5KNW1TRW4wa3RadTRZT3VoLVM0NE5rRkRHN3J5cjY4UFFvTDZwUXR5X0Radm80MEdPR0FqOUk3alhUa1pnTmRpSmp0SEE?oc=5",
+      "summary": "Yen Could Strengthen Versus Dollar by Year-End&nbsp;&nbsp;WSJ",
+      "published": "2026-11-16T14:57:00+00:00",
+      "source": "WSJ (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "US dollar"
+      ],
+      "big": false,
+      "id": "e70421217d226fc3"
+    },
+    {
+      "title": "Menko PMK: Presiden berikan perhatian penanganan bencana Sumatera",
+      "link": "https://www.antaranews.com/berita/5858303/menko-pmk-presiden-berikan-perhatian-penanganan-bencana-sumatera",
+      "summary": "Menteri Koordinator Bidang Pembangunan Manusia dan Kebudayaan (Menko PMK) Sugiono menegaskan, Presiden RI Prabowo ...",
+      "published": "2026-11-16T14:50:15+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Prabowo",
+        "menteri"
+      ],
+      "big": false,
+      "id": "0c8ae163b5097059"
+    },
+    {
+      "title": "US to curb China's access to AI chips as Trump heads to Asia - Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOT1lQcVFLanBjMFQtUXIzSGlWZ3RaSTNaZ2ZHMUU1R2dzSXlWNHgwZnF6SV9UQ1JqXzY1MlBSZFU2ZXliRDNsZ29XUVBTZjZQeDdOVlNzSjdlRVlNMld4aGJXdWR6V09FRXZ3R2UzSXliY3dZdGsxQ3RWWHB3VEZ2RDUxNDF5WmRxT2dvaVk0MHIyb2tXeHFjSTlMbFZXNUlLaEp3R01BU2UxNHJvaDItajdubXlvSUpaN29iSlFLWU9xSGNUUE9N?oc=5",
+      "summary": "US to curb China's access to AI chips as Trump heads to Asia&nbsp;&nbsp;Nikkei Asia",
+      "published": "2026-11-16T14:49:00+00:00",
+      "source": "Nikkei Asia (via GNews)",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "Trump"
+      ],
+      "big": false,
+      "id": "cf6458fe233dbded"
+    },
+    {
+      "title": "ASEAN buka peluang pulihkan keterwakilan Myanmar asal penuhi 5PC",
+      "link": "https://www.antaranews.com/berita/5858279/asean-buka-peluang-pulihkan-keterwakilan-myanmar-asal-penuhi-5pc",
+      "summary": "Para pemimpin ASEAN membuka peluang pemulihan keterwakilan politik penuh Myanmar di forum kawasan tersebut secara ...",
+      "published": "2026-11-16T14:41:09+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "ASEAN"
+      ],
+      "big": false,
+      "id": "20084ad09f75df94"
+    },
+    {
+      "title": "Kemenkeu optimalkan Gedung A.A. Maramis jadi perpustakaan publik",
+      "link": "https://www.antaranews.com/video/5858243/kemenkeu-optimalkan-gedung-aa-maramis-jadi-perpustakaan-publik",
+      "summary": "ANTARA - Kementerian Keuangan mengoptimalkan Gedung A.A. Maramis di Jakarta sebagai Perpustakaan Kementerian Keuangan ...",
+      "published": "2026-11-16T14:40:13+00:00",
+      "source": "Antara News",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Kemenkeu"
+      ],
+      "big": false,
+      "id": "7edd81bb8fa23460"
+    },
+    {
+      "title": "VIDEO: Pelapor Suket Gibran Tegaskan Laporan Berlanjut",
+      "link": "https://www.cnnindonesia.com/tv/20261116204902-400-1427874/video-pelapor-suket-gibran-tegaskan-laporan-berlanjut",
+      "summary": "Kuasa hukum pelapor dugaan pemalsuan suket pendidikan Gibran Rakabuming Raka menegaskan tidak akan mencabut laporan di Bareskrim.",
+      "published": "2026-11-16T14:30:09+00:00",
+      "source": "CNN Indonesia",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Gibran"
+      ],
+      "big": false,
+      "id": "6b5b9b02a5832b71"
+    },
+    {
+      "title": "Habiburokhman Gerindra Jadi Ketua Tim Verifikasi Cawapres di MPR",
+      "link": "https://www.cnnindonesia.com/nasional/20261116211045-32-1427879/habiburokhman-gerindra-jadi-ketua-tim-verifikasi-cawapres-di-mpr",
+      "summary": "Ketua Fraksi Gerindra Habiburokhman ditunjuk sebagai Ketua Tim Verifikasi Cawapres untuk pemilihan di MPR.",
+      "published": "2026-11-16T14:28:25+00:00",
+      "source": "CNN Indonesia",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "MPR"
+      ],
+      "big": false,
+      "id": "c532b12e40314670"
+    },
+    {
+      "title": "VIDEO: Sidang Paripurna Pemilihan Wapres Ditunda ke 9 Desember",
+      "link": "https://www.cnnindonesia.com/tv/20261116204833-400-1427872/video-sidang-paripurna-pemilihan-wapres-ditunda-ke-9-desember",
+      "summary": "Rencana pemilihan dan penetapan Wakil Presiden pengganti Gibran Rakabuming Raka kembali mengalami perubahan.",
+      "published": "2026-11-16T14:04:22+00:00",
+      "source": "CNN Indonesia",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Gibran"
+      ],
+      "big": false,
+      "id": "a930eecfd0c56936"
+    },
+    {
+      "title": "DPD RI Serahkan Pilihan Cawapres pada Prabowo",
+      "link": "https://www.cnnindonesia.com/nasional/20261116203934-32-1427869/dpd-ri-serahkan-pilihan-cawapres-pada-prabowo",
+      "summary": "Mundurnya Gibran dari jabatan Wakil Presiden memunculkan berbagai nama calon. DPD RI serahkan sepenuhnya kepada Presiden Prabowo untuk memilih pendamping.",
+      "published": "2026-11-16T13:45:03+00:00",
+      "source": "CNN Indonesia",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Gibran",
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "14f1ec82b95d28a4"
+    },
+    {
+      "title": "US toy sellers pin tariff hopes on third Trump-Xi meeting this year - Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYVYwVDg5MXZXMnJqM2dieklWMm82aEdtZnJjVDFhZEtOMktkUzgydnEzT2lOOU1VX0R5ajd0Z25jQzhPRFJMT1FmZUNwNkJMVWxRcERrQ05SSEVMOUcxV1gxeEo2U295ZjNuMEd0VUpoTGowOWY4TE80RS1KbGNIYjFUYjZMZ19CbXpSYmE5bVo2SmVWWHROa2JxUHFsVnphREhTVEt2MDZhU3IxYl9ueUhGZmQ5T3lZNEpUMERZeFM?oc=5",
+      "summary": "US toy sellers pin tariff hopes on third Trump-Xi meeting this year&nbsp;&nbsp;Nikkei Asia",
+      "published": "2026-11-16T13:30:00+00:00",
+      "source": "Nikkei Asia (via GNews)",
+      "groups": [
+        "Geopolitics",
+        "Global Finance"
+      ],
+      "matched": [
+        "Trump",
+        "tariff"
+      ],
+      "big": false,
+      "id": "1df90d668feba676"
+    },
+    {
+      "title": "Prabowo Hadiri Gala Dinner KTT ASEAN, Duduk Diapit Modi-Prince Mateen",
+      "link": "https://www.cnnindonesia.com/internasional/20261116193713-106-1427854/prabowo-hadiri-gala-dinner-ktt-asean-duduk-diapit-modi-prince-mateen",
+      "summary": "Presiden Prabowo menghadiri Gala Dinner Konferensi Tingkat Tinggi ke-49 ASEAN di Philippine International Convention Center, Filipina, Senin (16/11) malam.",
+      "published": "2026-11-16T13:20:00+00:00",
+      "source": "CNN Indonesia",
+      "groups": [
+        "Geopolitics",
+        "Government / Policy"
+      ],
+      "matched": [
+        "ASEAN",
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "52497fb3274e5a1c"
+    },
+    {
+      "title": "Dokumen Kasus Korupsi ATR/BPN Diduga Bocor, Pegawai KPK Diperiksa",
+      "link": "https://www.cnnindonesia.com/nasional/20261116200218-12-1427860/dokumen-kasus-korupsi-atr-bpn-diduga-bocor-pegawai-kpk-diperiksa",
+      "summary": "KPK mengonfirmasi pemeriksaan pegawai terkait dugaan kebocoran dokumen kasus suap pengurusan HGB di Kementerian ATR/BPN. Delapan tersangka telah ditetapkan.",
+      "published": "2026-11-16T13:10:47+00:00",
+      "source": "CNN Indonesia",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "KPK"
+      ],
+      "big": false,
+      "id": "1e0b3ff8b2e71bf0"
+    },
+    {
+      "title": "Prabowo Ungkap Strategi RI Capai Kemandirian Energi di KTT ke-49 ASEAN",
+      "link": "https://www.cnnindonesia.com/ekonomi/20261116193428-90-1427852/prabowo-ungkap-strategi-ri-capai-kemandirian-energi-di-ktt-ke-49-asean",
+      "summary": "Presiden Prabowo memaparkan capaian program biodiesel B50 serta rencana pengembangan PLTS berkapasitas 100 GW di KTT ke-49 ASEAN di Filipina.",
+      "published": "2026-11-16T13:06:08+00:00",
+      "source": "CNN Indonesia",
+      "groups": [
+        "Geopolitics",
+        "Government / Policy"
+      ],
+      "matched": [
+        "ASEAN",
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "c7e0526daa47d6b4"
+    },
+    {
+      "title": "Prabowo Gagas Penguatan Kerja Sama Semikonduktor ASEAN-Korsel",
+      "link": "https://www.cnnindonesia.com/ekonomi/20261116195004-532-1427859/prabowo-gagas-penguatan-kerja-sama-semikonduktor-asean-korsel",
+      "summary": "Presiden RI Prabowo Subianto mendorong penguatan kerja sama ASEAN-Korea Selatan (Korsel) dalam meningkatkan kapasitas teknologi semikonduktor di kawasan.",
+      "published": "2026-11-16T12:55:47+00:00",
+      "source": "CNN Indonesia",
+      "groups": [
+        "Geopolitics",
+        "Government / Policy"
+      ],
+      "matched": [
+        "ASEAN",
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "1ed5152ae53695cc"
+    },
+    {
+      "title": "VIDEO: Presiden Prabowo Serukan Soliditas Negara ASEAN",
+      "link": "https://www.cnnindonesia.com/tv/20261116174248-401-1427807/video-presiden-prabowo-serukan-soliditas-negara-asean",
+      "summary": "Presiden Prabowo Subianto juga menyerukan penguatan ketahanan pangan, energi, serta soliditas negara ASEAN dalam menghadapi ketidakpastian geopolitik global.",
+      "published": "2026-11-16T12:45:49+00:00",
+      "source": "CNN Indonesia",
+      "groups": [
+        "Geopolitics",
+        "Government / Policy"
+      ],
+      "matched": [
+        "ASEAN",
+        "Prabowo",
+        "geopolitik"
+      ],
+      "big": false,
+      "id": "7ca0de3005c2b1d9"
+    },
+    {
+      "title": "KTT ASEAN-Australia, Prabowo Tekankan Pentingnya Stabilitas Maritim",
+      "link": "https://www.cnnindonesia.com/internasional/20261116190211-106-1427848/ktt-asean-australia-prabowo-tekankan-pentingnya-stabilitas-maritim",
+      "summary": "Presiden RI Prabowo Subianto menekankan pentingnya menjaga keamanan dan stabilitas maritim sebagai salah satu faktor penentu keberlangsungan perdagangan.",
+      "published": "2026-11-16T12:45:30+00:00",
+      "source": "CNN Indonesia",
+      "groups": [
+        "Geopolitics",
+        "Government / Policy"
+      ],
+      "matched": [
+        "ASEAN",
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "7d3e6b6a2f93a6ab"
+    },
+    {
+      "title": "KPK Tahan Eks Staf Anwar Saddad Terkait Kasus Dana Hibah Jatim",
+      "link": "https://www.cnnindonesia.com/nasional/20261116191739-12-1427849/kpk-tahan-eks-staf-anwar-saddad-terkait-kasus-dana-hibah-jatim",
+      "summary": "KPK menahan Bagus Wahyudyono, tersangka korupsi dana hibah di Jawa Timur. Wakil Ketua DPRD Jatim 2019-2024 Anwar Saddad juga tersangka namun belum ditahan.",
+      "published": "2026-11-16T12:40:19+00:00",
+      "source": "CNN Indonesia",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "KPK"
+      ],
+      "big": false,
+      "id": "a4bcc0d1849570d6"
+    },
+    {
+      "title": "VIDEO: Wapres Pengganti Gibran: Kader Gerindra atau Nonpartai?",
+      "link": "https://www.cnnindonesia.com/tv/20261116173316-400-1427804/video-wapres-pengganti-gibran-kader-gerindra-atau-nonpartai",
+      "summary": "Bursa calon Wakil Presiden pengganti Gibran mulai mengerucut dengan sejumlah nama kader Gerindra yang muncul.",
+      "published": "2026-11-16T12:15:28+00:00",
+      "source": "CNN Indonesia",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Gibran"
+      ],
+      "big": false,
+      "id": "bff6323a567e6e87"
+    },
+    {
+      "title": "MPR Masih Kaji Mekanisme Pemilihan 2 Cawapres Usulan Prabowo",
+      "link": "https://www.cnnindonesia.com/nasional/20261116182116-32-1427836/mpr-masih-kaji-mekanisme-pemilihan-2-cawapres-usulan-prabowo",
+      "summary": "Ketua MPR RI Ahmad Muzani mengkaji mekanisme pemilihan cawapres pengganti Gibran. Pemilihan akan dilakukan di Paripurna pada 9 Desember 2026.",
+      "published": "2026-11-16T12:14:35+00:00",
+      "source": "CNN Indonesia",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Gibran",
+        "MPR",
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "de9caf0aaf743744"
+    },
+    {
+      "title": "Jelang RDG BI November 2026, BI Rate Diperkirakan Naik ke 6% - Berita Moneter",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNUhLTHNWd19YaTZVdVozYVBjVkd1YUViejFPdzlINmhHbzYyVzFGcWp3U1UyTHNUckVoSEVsUWhqeE9YQ3JIUGdzMFE1NHVDdmM5NzZxQTgyUkdkMFVTRU9BdDZtdVRzOVV2V1Q2Yk1yVDFhbG9IZXpMY1RNUGVFSDJOd1h4eFJBaXZJTnhYU0RYcG5JX1N3?oc=5",
+      "summary": "Jelang RDG BI November 2026, BI Rate Diperkirakan Naik ke 6%&nbsp;&nbsp;Berita Moneter",
+      "published": "2026-11-16T11:57:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "BI rate"
+      ],
+      "big": true,
+      "id": "c57069c6e29745d4"
+    },
+    {
+      "title": "FOTO: Sohibul Iman Dilantik Jadi Wakil Ketua MPR",
+      "link": "https://www.cnnindonesia.com/nasional/20261116161630-34-1427747/foto-sohibul-iman-dilantik-jadi-wakil-ketua-mpr",
+      "summary": "Sohibul Iman resmi menjabat Wakil Ketua MPR RI setelah dilantik menggantikan Hidayat Nur Wahid. MPR kini sedang bersiap memilih wapres baru.",
+      "published": "2026-11-16T11:42:18+00:00",
+      "source": "CNN Indonesia",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "MPR"
+      ],
+      "big": false,
+      "id": "8906607d65ff53be"
+    },
+    {
+      "title": "Mendagri Tito Apresiasi Inisiatif Pembentukan RUU Adminduk",
+      "link": "https://www.cnnindonesia.com/nasional/20261116181738-25-1427834/mendagri-tito-apresiasi-inisiatif-pembentukan-ruu-adminduk",
+      "summary": "Mendagri Tito Karnavian apresiasi RUU Administrasi Kependudukan, Regulasi baru ini penting untuk pelayanan publik dan perlindungan data di era digital.",
+      "published": "2026-11-16T11:30:22+00:00",
+      "source": "CNN Indonesia",
+      "groups": [
+        "Government / Policy",
+        "Macro / Economy"
+      ],
+      "matched": [
+        "UU ",
+        "apresiasi"
+      ],
+      "big": false,
+      "id": "27986b7b7d2c3d06"
+    },
+    {
+      "title": "India Akan Bangun Museum Terbesar di Dunia, Target Dibuka 2027",
+      "link": "https://www.cnnindonesia.com/internasional/20261116145100-113-1427692/india-akan-bangun-museum-terbesar-di-dunia-target-dibuka-2027",
+      "summary": "Kabinet India resmi menyetujui pembangunan museum terbesar di dunia dengan luas 178.509 meter persegi, pekan lalu.",
+      "published": "2026-11-16T11:30:00+00:00",
+      "source": "CNN Indonesia",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "kabinet"
+      ],
+      "big": false,
+      "id": "4a363efd0c303e4d"
+    },
+    {
+      "title": "MPR Akan Umumkan 2 Nama Usulan Cawapres dari Prabowo Sebelum Paripurna",
+      "link": "https://www.cnnindonesia.com/nasional/20261116172419-32-1427803/mpr-akan-umumkan-2-nama-usulan-cawapres-dari-prabowo-sebelum-paripurna",
+      "summary": "Presiden Prabowo Subianto harus menyerahkan dua nama calon wakil presiden pengganti Gibran ke MPR paling lambat 25 November 2026, sesuai aturan.",
+      "published": "2026-11-16T11:29:55+00:00",
+      "source": "CNN Indonesia",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Gibran",
+        "MPR",
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "101a39cd9c1cae24"
+    },
+    {
+      "title": "MPR Akan Kantongi 2 Nama Cawapres Prabowo Sebelum 25 November",
+      "link": "https://www.cnnindonesia.com/nasional/20261116175510-32-1427810/mpr-akan-kantongi-2-nama-cawapres-prabowo-sebelum-25-november",
+      "summary": "MPR RI akan umumkan dua calon wakil presiden pengganti Gibran putra Jokowi pilihan Prabowo pada 9 Desember 2026.",
+      "published": "2026-11-16T11:22:28+00:00",
+      "source": "CNN Indonesia",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Gibran",
+        "MPR",
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "8b959ad274780649"
+    },
+    {
+      "title": "Menhub Anak Buah Trump Ogah Minta Maaf usai Penerbangan AS Lumpuh",
+      "link": "https://www.cnnindonesia.com/internasional/20261116151624-134-1427712/menhub-anak-buah-trump-ogah-minta-maaf-usai-penerbangan-as-lumpuh",
+      "summary": "Menteri Perhubungan Amerika Serikat anak buah Presiden Donald Trump, Sean Duffy, menolak meminta maaf usai seluruh penerbangan AS lumpuh pada Jumat (13/11).",
+      "published": "2026-11-16T11:00:00+00:00",
+      "source": "CNN Indonesia",
+      "groups": [
+        "Geopolitics",
+        "Government / Policy"
+      ],
+      "matched": [
+        "Trump",
+        "menteri"
+      ],
+      "big": false,
+      "id": "84245fe6acdc013a"
+    },
+    {
+      "title": "Prabowo Minta Paripurna MPR Pemilihan Wapres Digelar 9 Desember",
+      "link": "https://www.cnnindonesia.com/nasional/20261116172712-36-1427800/prabowo-minta-paripurna-mpr-pemilihan-wapres-digelar-9-desember",
+      "summary": "Ketua MPR Ahmad Muzani mengatakan Presiden Prabowo telah meminta agar sidang paripurna pemilihan wakil presiden baru diundur menjadi Rabu, 9 Desember 2026.",
+      "published": "2026-11-16T10:47:30+00:00",
+      "source": "CNN Indonesia",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "MPR",
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "aa12ed7a4425bc9f"
+    },
+    {
+      "title": "Watch Nvidia Fallout Puts ASEAN's Tech Boom in Focus - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaFl1ZEM5MWNCRVB2WFJ3R2VGbnFoRUdNcmpxdGcya3VsTmppLWxfVG5FR1ZoclFudl8xZUxNWkFoc0MyeFFIOVNPcGVRWVY0aFBxaVRRdl9YN081V2Qwd1dUT3E0V1JRcm9zNFZxM095T2kwc1BQeWZJN24xb3BmOFB6dTBua3U2ejBVMEtyMmswRlVsZ0M4?oc=5",
+      "summary": "Watch Nvidia Fallout Puts ASEAN's Tech Boom in Focus&nbsp;&nbsp;Bloomberg",
+      "published": "2026-11-16T10:47:03+00:00",
+      "source": "Bloomberg (via GNews)",
+      "groups": [
+        "Geopolitics"
+      ],
+      "matched": [
+        "ASEAN"
+      ],
+      "big": false,
+      "id": "ae354216878b63d1"
+    },
+    {
+      "title": "Prabowo Hadiri KTT ASEAN-Korea Selatan di Manila",
+      "link": "https://www.cnnindonesia.com/internasional/20261116173350-106-1427802/prabowo-hadiri-ktt-asean-korea-selatan-di-manila",
+      "summary": "Presiden Prabowo menghadiri Konferensi Tingkat Tinggi (KTT) ke-27 ASEAN-Korea Selatan di Manila, Filipina, Senin (16/11).",
+      "published": "2026-11-16T10:45:05+00:00",
+      "source": "CNN Indonesia",
+      "groups": [
+        "Geopolitics",
+        "Government / Policy"
+      ],
+      "matched": [
+        "ASEAN",
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "6f549044a4149056"
+    },
+    {
+      "title": "U.S. Treasury Yields Decline but Fed Rate-Hike Prospects in Focus - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0dsM2ttY3ctRTRCZzZPRzE4aG1RNzBCeUQzUEFRbGk1VzRqZGF4Z2J6NFFXVExyX0xROFU1bWFGc3U5ZXpWR21YQmh6S096RXVFS25wcjY4QmxDTUJhdkh5eG51UjVrRVlfZHBpX0pKZkJMOFI4eVVvV1BvSWxIOWQ3aFZId2xOcXJXeGI2SlZvd0RqUUhzT2NVck1jQ3VKLUNXSEFaYXhuNzVtbm1vaQ?oc=5",
+      "summary": "U.S. Treasury Yields Decline but Fed Rate-Hike Prospects in Focus&nbsp;&nbsp;WSJ",
+      "published": "2026-11-16T10:31:27+00:00",
+      "source": "WSJ (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "Fed rate",
+        "Treasury yield"
+      ],
+      "big": true,
+      "id": "561e9ff28327ae42"
+    },
+    {
+      "title": "Bobby Nasution Perintahkan Foto Gibran Diturunkan",
+      "link": "https://www.cnnindonesia.com/nasional/20261116170030-32-1427783/bobby-nasution-perintahkan-foto-gibran-diturunkan",
+      "summary": "Gubernur Bobby Nasution instruksikan penurunan foto Gibran Rakabuming Raka setelah pengunduran dirinya sebagai Wapres.",
+      "published": "2026-11-16T10:29:38+00:00",
+      "source": "CNN Indonesia",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Gibran"
+      ],
+      "big": false,
+      "id": "3a3b54c2da3b3841"
+    },
+    {
+      "title": "MPR: Prabowo yang Minta Paripurna Pemilihan Wapres 9 Desember",
+      "link": "https://www.cnnindonesia.com/nasional/20261116163607-32-1427763/mpr-prabowo-yang-minta-paripurna-pemilihan-wapres-9-desember",
+      "summary": "Ketua MPR Ahmad Muzani mengumumkan penundaan sidang paripurna pemilihan wapres baru menjadi 9 Desember 2026, sesuai usulan Presiden Prabowo Subianto.",
+      "published": "2026-11-16T10:01:21+00:00",
+      "source": "CNN Indonesia",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "MPR",
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "26edba78eca693e9"
+    },
+    {
+      "title": "Kurs Rupiah Tertekan Jelang RDG BI, Suku Bunga Acuan Diproyeksi Tetap 5,75% - kontan.co.id",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY2xBNGZjZjlmM1c2VkxWekluQW1iUGtYT1JoQXFjSEhQUF93aTdQNlVyR19Cb21VVDdsanoweU1aQk0yR2VfclJ2ajZfYW1YRUtsWml3VlhzcGIyU1c1UGNKTlBlRXFOVXN3Z2pPVlBJLWNFOTVoRU9qSnBZZkJjQWhkbHQ5THV4NnZYaElrZFoyOWYyQy1nRUdXM09ZTG5BTXlod0RxUzZCVEUt0gGkAUFVX3lxTFB5ODY3WG9ydS1IYmFpb1pSWE9PbFR1U01vZVY0UFV4VnZVNTdzaERnZTdtTU4zYTVKeHd1elUxT29BblpldTFjSlo0Q3JWQVRmSURtUUZvUTdEcVpaZ2MtX0doZXVwN3pONjRJTW5OU18zZWJLdElxcGx3aWhBRnlFM1pZYXFBendpYmVwWndBVnExaE9sV0hQcjNLX2x5NEVrbzBt?oc=5",
+      "summary": "Kurs Rupiah Tertekan Jelang RDG BI, Suku Bunga Acuan Diproyeksi Tetap 5,75%&nbsp;&nbsp;kontan.co.id",
+      "published": "2026-11-16T09:19:38+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "kurs",
+        "rupiah",
+        "suku bunga"
+      ],
+      "big": true,
+      "id": "f0ae882c63cdafda"
+    },
+    {
+      "title": "Kalender Ekonomi Pekan Ini (16-20 November 2026): RDG BI, Notulen FOMC, dan Data Ekonomi AS - Pintu",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2aUd4cF9oZHRRS3VheXdveWVteTI2R2NSUDRKdkFXVld3cUxkcHNEZk5yUEQ2bzNWU1BDdDVYSW5XUEE2N29yS0RQcHEwR0JJN0ZfS3Y2ano0Sjd0X3JWSWg3ZTd4X2M2Q1E?oc=5",
+      "summary": "Kalender Ekonomi Pekan Ini (16-20 November 2026): RDG BI, Notulen FOMC, dan Data Ekonomi AS&nbsp;&nbsp;Pintu",
+      "published": "2026-11-16T08:23:58+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "FOMC"
+      ],
+      "big": true,
+      "id": "530cf0a2e6c03dfe"
+    },
+    {
+      "title": "BI Rate Diumumkan Rabu: Rupiah di Atas Rp18.000, Ini Data Pentingnya - Pintu",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNXc5Y25tZExXUGRJaU9SNlliYklpM2RmcWNJUFp3SUNoVTRJdUFITjE0VHJjVjB4d1dZSlV1ODUyVmlwNFVxNGRhOFU1MXQ1a3Y2YUZJVHRZV1JwaGM3MTNCSU5razF1SExRdEQ2OTU2eEJkbGJUejJ2aEtJTjFVYzMxTmxndUZsbzh0T1pHT1hHdHN2NUpaaUZqalQ1ZmRic0oyc0w4TQ?oc=5",
+      "summary": "BI Rate Diumumkan Rabu: Rupiah di Atas Rp18.000, Ini Data Pentingnya&nbsp;&nbsp;Pintu",
+      "published": "2026-11-16T08:23:57+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "BI rate",
+        "rupiah"
+      ],
+      "big": true,
+      "id": "3e35ffa159bcc0af"
+    },
+    {
+      "title": "The Fed: Apa Itu Federal Reserve, Cara Kerja Suku Bunga, dan Pengaruhnya ke Kripto - Pintu",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJa2gxWUc2UjBGRlBKQWhMNlBBeDgwRmJCR1loQWlRTGZFY3BXXzBkdW1Vd1JhX0M1MmNETUFnbzFwT3poTzB4MHd4T094c3VrNkNsRHRXaERHa3c4TjlVeHlHQnR2QkxhRHN2TXZULTI?oc=5",
+      "summary": "The Fed: Apa Itu Federal Reserve, Cara Kerja Suku Bunga, dan Pengaruhnya ke Kripto&nbsp;&nbsp;Pintu",
+      "published": "2026-11-16T08:23:57+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Global Finance",
+        "Macro / Economy"
+      ],
+      "matched": [
+        "Federal Reserve",
+        "suku bunga"
+      ],
+      "big": true,
+      "id": "9ca3410ceaa2546f"
+    },
+    {
+      "title": "DXY Hari Ini: Indeks Dolar Tertinggi Sejak April 2025, Ini Dampaknya - Pintu",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSGE1STdKazBJY1p5TkxTVkNiY0xUcmdDRXlTSjFoN0R0aWxxU3MtNENCTmo0c01ZM3BnMEstYmdySlhCWnVwaGlHUkRkRmVHanlMOHlaczVvR2trWWFkV0dQWGJld295c2dxOXEtUW9yMFhzeEw5Q0JleWJQdGV5RDljWTJqTmdvQVNucWpyN1BpTGxOZEtuZXdjR0lzcnl1YVNv?oc=5",
+      "summary": "DXY Hari Ini: Indeks Dolar Tertinggi Sejak April 2025, Ini Dampaknya&nbsp;&nbsp;Pintu",
+      "published": "2026-11-16T08:23:57+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "DXY"
+      ],
+      "big": false,
+      "id": "672774e48c27a53f"
+    },
+    {
+      "title": "Kalender Ekonomi: Jadwal NFP, CPI, FOMC, dan BI Rate dalam WIB - Pintu",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb0RSYzNPazRjQjdvSklvRWlmem5MVkxJWC1GU1Q5aHRobHV4TERHbWNJY0lRRmZXcEVCc0QxZU95cVRISWlzeU5mbmtqRmw4QXBhTnp3eUFKT2I5MXp6cjk5OGtwYl9fVGw1T0ZRZ1dSeVlpaVBiNHFFUjNMSU9OeUxTVUZnQ3c?oc=5",
+      "summary": "Kalender Ekonomi: Jadwal NFP, CPI, FOMC, dan BI Rate dalam WIB&nbsp;&nbsp;Pintu",
+      "published": "2026-11-16T08:23:55+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Global Finance",
+        "Macro / Economy"
+      ],
+      "matched": [
+        "BI rate",
+        "FOMC"
+      ],
+      "big": true,
+      "id": "20029838afb5af3e"
+    },
+    {
+      "title": "Inflasi Indonesia Oktober 2026 Turun ke 3,23%: Data Inflasi Indonesia dan Artinya bagi Investor - Pintu",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CVW5PZmZIcWhRQVNVc2JVX3ZfMFdUZVBNeVJqTXBpcDdxN1JaVE94WXR4bjJCSUp1M05tR2hocTRsZllGNTE3R3lvZjkxb0xoMmtBSWE2dm1MZ2l3eVJuSmVNRlZxWmJsSjBfRkhqcHYweFUwNmxKVFBDOA?oc=5",
+      "summary": "Inflasi Indonesia Oktober 2026 Turun ke 3,23%: Data Inflasi Indonesia dan Artinya bagi Investor&nbsp;&nbsp;Pintu",
+      "published": "2026-11-16T08:23:55+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "inflasi"
+      ],
+      "big": false,
+      "id": "b7c6108e509813d6"
+    },
+    {
+      "title": "IDR/USD: Indonesian Rupiah Falls to Record Low as Fed Bets Boost Dollar - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNXpBVEtTS1pGSTNSYWRMbURxaUpMSHlBUVVlTVVKRDlrLWU1TFpjWFZET3ZEcUJCcUExeTNlOU56cE03c29BUkFVbWNFa1hNWU5hZGNIaVFfNkh4emZpYmpjemV4aFU4NlR0WXExVkJHTWw0bXRmMEJEU2t1NzM5bm5xVHBSdFEtclRCdkpZRDA2ZGRyZWlsY1hkbDZqRXo0RkpLNXlfTWhhUQ?oc=5",
+      "summary": "IDR/USD: Indonesian Rupiah Falls to Record Low as Fed Bets Boost Dollar&nbsp;&nbsp;Bloomberg",
+      "published": "2026-11-16T07:31:00+00:00",
+      "source": "Bloomberg (via GNews)",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "rupiah"
+      ],
+      "big": true,
+      "id": "daa1963aeb17395d"
+    },
+    {
+      "title": "Rupiah Melemah ke Rp 18.219 per Dolar AS - republika.co.id",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdS11U09PVW9mNTYyaGl6Y1BpZUxGQWN5T0FyVldCN21VSlpHZjhDbE04SE10dlFJRVhWZndIaHlfM1pTMjA3OUxCQ2ZialN4WkNPLVhEYXBzMmF0WnFUaXpaN1R2dHlCVy04V0ZQbWppdWI2eHNteUZsMjFMMFBkQ3RwVGxtUmhpSU0weVNrRVZ4QQ?oc=5",
+      "summary": "Rupiah Melemah ke Rp 18.219 per Dolar AS&nbsp;&nbsp;republika.co.id",
+      "published": "2026-11-16T07:30:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "rupiah"
+      ],
+      "big": true,
+      "id": "0c662109d59953c3"
+    },
     {
       "title": "Biden Akui Netanyahu Tak Bisa Dipercaya: Bibi Mirip Trump",
       "link": "https://www.cnnindonesia.com/internasional/20261116111027-134-1427553/biden-akui-netanyahu-tak-bisa-dipercaya-bibi-mirip-trump",
@@ -139,6 +1076,22 @@
       ],
       "big": false,
       "id": "409b6e20866205b4"
+    },
+    {
+      "title": "Hawkish Bank of Japan Member Urges Nimble Rate Hikes - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNlpmbVJtQTN1Sk9SNm92WWdHRkRPTDBtRG4xNS1zaEVqVkJ4a2lOeHZvT19LOThNV0ZKSlVfbmdVT01UbEhHQ0dHYWltS3Y3OU9iZzNiMlpnSzdSY2NhR3R0cFF0Z3JHQkUzd24tZlFqXy1jSm1BM1FRcjNleExYNUJFcWtOOGszNHhmTzlCczVNSVp2NURoSnVQSWliQ0EyVUpvMDBSMmE?oc=5",
+      "summary": "Hawkish Bank of Japan Member Urges Nimble Rate Hikes&nbsp;&nbsp;WSJ",
+      "published": "2026-11-16T05:11:00+00:00",
+      "source": "WSJ (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "Bank of Japan",
+        "rate hike"
+      ],
+      "big": true,
+      "id": "87153515fe2c3482"
     },
     {
       "title": "Ketua DPD RI Sambut Baik Rencana Prabowo Tambah Anggaran Daerah",
@@ -297,6 +1250,21 @@
       ],
       "big": false,
       "id": "26a3acd19913eb1d"
+    },
+    {
+      "title": "Rupiah Terlemah Sepanjang Sejarah, Berapa Nilai Wajarnya? - Market - Bloomberg Technoz",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY0s2a1ZNN1Z1eWI0bnBJcjQwVTFocTBWbDNBZDFJbFhuZHRDQ1phcFQyT0VlUEVydFUwRGRHSHk4MHhQNXJiWWZvRUlVZ1VTRUVraDBMOVFUTzBRbEpVYVViVnU3b1BZcDdPd0ZxYlIzaFpDRUpTckY3M2U2c3k4SHllYW5haWkxX3BEMkVjRHN6UUxKSU9MMTZ3R2QzeVZucHlfc1Z0YVBIb0dYUFE?oc=5",
+      "summary": "Rupiah Terlemah Sepanjang Sejarah, Berapa Nilai Wajarnya? - Market&nbsp;&nbsp;Bloomberg Technoz",
+      "published": "2026-11-16T03:37:19+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "rupiah"
+      ],
+      "big": true,
+      "id": "b7f5e00ad5efe120"
     },
     {
       "title": "Di KTT ASEAN, Prabowo Beber 16 Petugas Pemadam Karhutla Meninggal",
@@ -851,6 +1819,23 @@
       "id": "c42e454bc609f1fd"
     },
     {
+      "title": "Asian Bond Yields Rise on Growing Expectations for Fed Rate Hike - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0lWUTNMTnpyanJUcWctaTM1TjBEajVySEdCRG9FTVVtNmFJYkdULXo1cll5Yi1UbVZRVmg2UmZBZkJESG1pelM1NHluMG1OVVI5Z3hkamRIU0xFVVZvd1Q5Ymdma3J6MFRoVWNMUS1HZlhXaThDWG16aGh3Zllfd0dkUlJrTnE4bVhYY2QyNW9Ha3VvV3Flb2RoYVFwazZBUWM0?oc=5",
+      "summary": "Asian Bond Yields Rise on Growing Expectations for Fed Rate Hike&nbsp;&nbsp;WSJ",
+      "published": "2026-11-15T19:07:30+00:00",
+      "source": "WSJ (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "Fed rate",
+        "bond yield",
+        "rate hike"
+      ],
+      "big": true,
+      "id": "2ecaba572cce2e73"
+    },
+    {
       "title": "Maruarar dorong UMKM konstruksi manfaatkan KUR Perumahan",
       "link": "https://www.antaranews.com/berita/5856079/maruarar-dorong-umkm-konstruksi-manfaatkan-kur-perumahan",
       "summary": "Menteri Perumahan dan Kawasan Permukiman (PKP) Maruarar Sirait mengatakan Kredit Usaha Rakyat (KUR) Perumahan membantu ...",
@@ -1121,1132 +2106,10 @@
       "id": "2267d22e3c771e6b"
     },
     {
-      "title": "Keluarga besar Bung Karno-Fatmawati dukung ajang Fatmawati Trophy 2026",
-      "link": "https://www.antaranews.com/berita/5855967/keluarga-besar-bung-karno-fatmawati-dukung-ajang-fatmawati-trophy-2026",
-      "summary": "Pembina Fatmawati Trophy 2026, Nancy Prananda Prabowo, mengungkapkan bahwa keluarga besar Bung Karno dan Fatmawati ...",
-      "published": "2026-11-15T14:42:48+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "4546142a8404da60"
-    },
-    {
-      "title": "Prabowo tegaskan komitmen RI tangani karhutla dalam KTT ke-49 ASEAN",
-      "link": "https://www.antaranews.com/berita/5855955/prabowo-tegaskan-komitmen-ri-tangani-karhutla-dalam-ktt-ke-49-asean",
-      "summary": "Presiden RI Prabowo Subianto menyatakan komitmen Indonesia untuk mencegah dan menangani kebakaran hutan dan lahan ...",
-      "published": "2026-11-15T14:36:41+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Geopolitics",
-        "Government / Policy"
-      ],
-      "matched": [
-        "ASEAN",
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "787185e926befcce"
-    },
-    {
-      "title": "Laporan Intel AS: Iran Masih Punya 2.500 Rudal, Beda dari Klaim Trump",
-      "link": "https://www.cnnindonesia.com/internasional/20261115153146-120-1427387/laporan-intel-as-iran-masih-punya-2500-rudal-beda-dari-klaim-trump",
-      "summary": "Iran diperkirakan masih memiliki 1.500-2.500 rudal meski telah berbulan-bulan jadi sasaran serangan Amerika Serikat (AS) dan Israel.",
-      "published": "2026-11-15T14:25:47+00:00",
-      "source": "CNN Indonesia",
-      "groups": [
-        "Geopolitics"
-      ],
-      "matched": [
-        "Trump"
-      ],
-      "big": false,
-      "id": "37a7c791d9314fef"
-    },
-    {
-      "title": "Di KTT ASEAN, Prabowo tegaskan pangan dan energi jadi prioritas RI",
-      "link": "https://www.antaranews.com/berita/5855951/di-ktt-asean-prabowo-tegaskan-pangan-dan-energi-jadi-prioritas-ri",
-      "summary": "Presiden Prabowo Subianto menegaskan sektor pangan dan energi menjadi prioritas tertinggi Indonesia dalam menghadapi ...",
-      "published": "2026-11-15T14:25:02+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Geopolitics",
-        "Government / Policy"
-      ],
-      "matched": [
-        "ASEAN",
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "36c80cada95a25e2"
-    },
-    {
-      "title": "Prabowo dorong ASEAN saling dukung kandidat untuk isi posisi di PBB",
-      "link": "https://www.antaranews.com/berita/5855947/prabowo-dorong-asean-saling-dukung-kandidat-untuk-isi-posisi-di-pbb",
-      "summary": "Presiden RI Prabowo Subianto mendorong negara anggota ASEAN untuk saling mendukung jika salah satu di antaranya menjadi ...",
-      "published": "2026-11-15T14:21:53+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Geopolitics",
-        "Government / Policy"
-      ],
-      "matched": [
-        "ASEAN",
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "622c6918e782c5bf"
-    },
-    {
-      "title": "Indonesia 'Fully Supports' Timor-Leste's Bid to Chair ASEAN in 2029",
-      "link": "https://en.tempo.co/read/2123691/indonesia-fully-supports-timor-lestes-bid-to-chair-asean-in-2029",
-      "summary": "President Prabowo Subianto declared Indonesia's full support for Timor-Leste's aspiration to assume ASEAN chairship in 2029.",
-      "published": "2026-11-15T14:10:31+00:00",
-      "source": "Tempo.co",
-      "groups": [
-        "Geopolitics",
-        "Government / Policy"
-      ],
-      "matched": [
-        "ASEAN",
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "ad650004d45aa427"
-    },
-    {
-      "title": "Anggota DPR minta Kemendag jaga harga kebutuhan pokok jelang Nataru",
-      "link": "https://www.antaranews.com/berita/5855923/anggota-dpr-minta-kemendag-jaga-harga-kebutuhan-pokok-jelang-nataru",
-      "summary": "Anggota Komisi VI DPR RI Rivqy Abdul Halim meminta Kementerian Perdagangan (Kemendag) untuk menjaga harga kebutuhan ...",
-      "published": "2026-11-15T13:49:10+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "DPR"
-      ],
-      "big": false,
-      "id": "f36699f8885c909c"
-    },
-    {
-      "title": "Prabowo: DEFA buka potensi ekonomi digital ASEAN 2 triliun dolar AS",
-      "link": "https://www.antaranews.com/berita/5855911/prabowo-defa-buka-potensi-ekonomi-digital-asean-2-triliun-dolar-as",
-      "summary": "Presiden RI Prabowo Subianto menyoroti Perjanjian Kerangka Kerja Ekonomi Digital ASEAN (ASEAN Digital Economy Framework ...",
-      "published": "2026-11-15T13:46:02+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Geopolitics",
-        "Government / Policy"
-      ],
-      "matched": [
-        "ASEAN",
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "b2a102d9139f941c"
-    },
-    {
-      "title": "Prabowo: Indonesia dukung aspirasi Timor Leste jabat Ketua ASEAN 2029",
-      "link": "https://www.antaranews.com/berita/5855907/prabowo-indonesia-dukung-aspirasi-timor-leste-jabat-ketua-asean-2029",
-      "summary": "Presiden Prabowo Subianto menegaskan dukungan penuh Indonesia terhadap aspirasi Timor Leste untuk menjabat sebagai ...",
-      "published": "2026-11-15T13:43:48+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Geopolitics",
-        "Government / Policy"
-      ],
-      "matched": [
-        "ASEAN",
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "159d5c669ddb6b80"
-    },
-    {
-      "title": "BI Jatim perluas QRIS Cross Border untuk permudah transaksi wisatawan",
-      "link": "https://www.antaranews.com/berita/5855903/bi-jatim-perluas-qris-cross-border-untuk-permudah-transaksi-wisatawan",
-      "summary": "Bank Indonesia (BI) Provinsi Jawa Timur (Jatim) memperluas pemanfaatan QRIS Cross Border pada berbagai destinasi wisata ...",
-      "published": "2026-11-15T13:40:00+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "Bank Indonesia"
-      ],
-      "big": false,
-      "id": "5842ec3fe1cc9537"
-    },
-    {
-      "title": "Anggota Komisi VII ajak warga Kaltara perkuat wawasan kebangsaan",
-      "link": "https://www.antaranews.com/video/5855891/anggota-komisi-vii-ajak-warga-kaltara-perkuat-wawasan-kebangsaan",
-      "summary": "ANTARA - Anggota Komisi VII DPR RI, Rahmawati, menekankan pentingnya memperkuat wawasan kebangsaan serta merajut ...",
-      "published": "2026-11-15T13:36:08+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "DPR"
-      ],
-      "big": false,
-      "id": "8c43e5a7849c0a18"
-    },
-    {
-      "title": "ASEAN Offers Sidelined Myanmar Leaders Path Back to Talks",
-      "link": "https://en.tempo.co/read/2123689/asean-offers-sidelined-myanmar-leaders-path-back-to-talks",
-      "summary": "Southeast Asian leaders have agreed to engage Myanmar in stages after years of excluding its leaders from high-level meetings.",
-      "published": "2026-11-15T13:28:55+00:00",
-      "source": "Tempo.co",
-      "groups": [
-        "Geopolitics"
-      ],
-      "matched": [
-        "ASEAN"
-      ],
-      "big": false,
-      "id": "19c99ef59d76f07a"
-    },
-    {
-      "title": "Hadiri KTT ASEAN, Prabowo Tekankan Persatuan Hadapi Dinamika Global",
-      "link": "https://www.cnnindonesia.com/internasional/20261115195816-106-1427438/hadiri-ktt-asean-prabowo-tekankan-persatuan-hadapi-dinamika-global",
-      "summary": "Presiden Prabowo Subianto menegaskan bahwa ASEAN perlu memperkuat ketahanan dan persatuan kawasan untuk menghadapi berbagai tantangan global yang kian kompleks.",
-      "published": "2026-11-15T13:03:55+00:00",
-      "source": "CNN Indonesia",
-      "groups": [
-        "Geopolitics",
-        "Government / Policy"
-      ],
-      "matched": [
-        "ASEAN",
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "5721f35e5b95bd99"
-    },
-    {
-      "title": "RI Dukung Deklarasi Mineral Kritis untuk Perkuat Rantai Pasok ASEAN",
-      "link": "https://www.cnnindonesia.com/ekonomi/20261115194358-90-1427436/ri-dukung-deklarasi-mineral-kritis-untuk-perkuat-rantai-pasok-asean",
-      "summary": "Deklarasi ini menjadi pijakan bagi ASEAN, termasuk Indonesia, untuk membangun rantai nilai mineral kritis kawasan, mulai dari eksplorasi hingga daur ulang.",
-      "published": "2026-11-15T12:55:58+00:00",
-      "source": "CNN Indonesia",
-      "groups": [
-        "Geopolitics"
-      ],
-      "matched": [
-        "ASEAN"
-      ],
-      "big": false,
-      "id": "34be994c960ae9fc"
-    },
-    {
-      "title": "ASEAN Adopsi Deklarasi Mineral Kritis, Indonesia Dorong Penguatan Rantai Pasok Kawasan",
-      "link": "https://www.antaranews.com/berita/5855871/asean-adopsi-deklarasi-mineral-kritis-indonesia-dorong-penguatan-rantai-pasok-kawasan",
-      "summary": "Para pemimpin ASEAN mengadopsi Deklarasi Mineral Kritis ASEAN untuk Ketahanan Kawasan dan Pertumbuhan Berkelanjutan ...",
-      "published": "2026-11-15T12:47:54+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Geopolitics"
-      ],
-      "matched": [
-        "ASEAN"
-      ],
-      "big": false,
-      "id": "5f7715e232acf744"
-    },
-    {
-      "title": "Dampingi Presiden di KTT ASEAN ke-49, Bahlil Kawal Kepentingan Nasional dalam ASEAN Power Grid",
-      "link": "https://www.antaranews.com/berita/5855855/dampingi-presiden-di-ktt-asean-ke-49-bahlil-kawal-kepentingan-nasional-dalam-asean-power-grid",
-      "summary": "Indonesia membawa prinsip saling menguntungkan dalam pembahasan interkoneksi listrik kawasan atau ASEAN Power Grid ...",
-      "published": "2026-11-15T12:31:59+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Geopolitics"
-      ],
-      "matched": [
-        "ASEAN"
-      ],
-      "big": false,
-      "id": "7fc2aa16e5921670"
-    },
-    {
-      "title": "Bond Drought in Emerging Markets Lifts Prices as Sales Slump 41% - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbm16MVNnOTJvY2hpMU1mbmlVMDhfLWNoSjI1Q0hPLUdvU2hkSF9QVzBmMkZ2UmNYcTdHS3p5dDE3NWxzVlpsd0tCVlhOTUlQaEFzaC1JWTg0N0R0cFNFVWxPYVBMOUZjWUc1N243WlY5RWlJTVNxWWV2VVhBV2dUczVucXpQbm5BZVl2alptOEVwTVNmRzJqLUQwb01HVlJuXzdEclQ1MkR6QXRYNGZ5enljd0U?oc=5",
-      "summary": "Bond Drought in Emerging Markets Lifts Prices as Sales Slump 41%&nbsp;&nbsp;Bloomberg.com",
-      "published": "2026-11-15T12:30:00+00:00",
-      "source": "Bloomberg (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "emerging market"
-      ],
-      "big": false,
-      "id": "f7a77b7dd2706572"
-    },
-    {
-      "title": "Jelang KTT ASEAN ke-49, Indonesia Siap Teken Enhanced MoU ASEAN Power Grid dengan Prinsip Saling Menguntungkan",
-      "link": "https://www.antaranews.com/berita/5855851/jelang-ktt-asean-ke-49-indonesia-siap-teken-enhanced-mou-asean-power-grid-dengan-prinsip-saling-menguntungkan",
-      "summary": "Indonesia tidak ingin sekadar ikut menyambungkan kabel listrik dengan negara tetangga. Indonesia ingin bergabung ...",
-      "published": "2026-11-15T12:29:59+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Geopolitics"
-      ],
-      "matched": [
-        "ASEAN"
-      ],
-      "big": false,
-      "id": "3f88a496c77e44f2"
-    },
-    {
-      "title": "Pembangunan kawasan legislatif dan yudikatif IKN capai 25--32 persen",
-      "link": "https://www.antaranews.com/berita/5855847/pembangunan-kawasan-legislatif-dan-yudikatif-ikn-capai-25-32-persen",
-      "summary": "Pembangunan gedung dan infrastruktur jalan di kawasan Lembaga Legislatif serta Yudikatif Ibu Kota Nusantara (IKN) terus ...",
-      "published": "2026-11-15T12:23:25+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Commodity / Energy Policy"
-      ],
-      "matched": [
-        "IKN"
-      ],
-      "big": false,
-      "id": "d87a85d27a2226b5"
-    },
-    {
-      "title": "Ketua ASEAN soal Krisis Myanmar: Apa Lagi yang Bisa Kita Lakukan?",
-      "link": "https://www.cnnindonesia.com/internasional/20261115162355-106-1427402/ketua-asean-soal-krisis-myanmar-apa-lagi-yang-bisa-kita-lakukan",
-      "summary": "Presiden Filipina Ferdinand Marcos Jr mengatakan Myanmar adalah bagian dari keluarga besar ASEAN.",
-      "published": "2026-11-15T12:01:56+00:00",
-      "source": "CNN Indonesia",
-      "groups": [
-        "Geopolitics"
-      ],
-      "matched": [
-        "ASEAN"
-      ],
-      "big": false,
-      "id": "e8301364621cc131"
-    },
-    {
-      "title": "ASEAN putuskan belum cabut larangan pemimpin Myanmar hadiri KTT",
-      "link": "https://www.antaranews.com/berita/5855803/asean-putuskan-belum-cabut-larangan-pemimpin-myanmar-hadiri-ktt",
-      "summary": "Para pemimpin negara ASEAN sepakat menjaga pendekatan berjenjang terhadap otoritas Myanmar dengan tetap mempertahankan ...",
-      "published": "2026-11-15T11:44:28+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Geopolitics"
-      ],
-      "matched": [
-        "ASEAN"
-      ],
-      "big": false,
-      "id": "ebbe3e589c1e405e"
-    },
-    {
-      "title": "Prabowo Minta Negara ASEAN Kompak Dukung Kandidat Anggota di PBB",
-      "link": "https://www.cnnindonesia.com/internasional/20261115180154-106-1427421/prabowo-minta-negara-asean-kompak-dukung-kandidat-anggota-di-pbb",
-      "summary": "Presiden Prabowo Subianto meminta seluruh anggota ASEAN mendukung kandidat dari negara anggota yang maju di posisi PBB atau organisasi afiliasinya.",
-      "published": "2026-11-15T11:26:50+00:00",
-      "source": "CNN Indonesia",
-      "groups": [
-        "Geopolitics",
-        "Government / Policy"
-      ],
-      "matched": [
-        "ASEAN",
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "18f2e2f55bebe3ee"
-    },
-    {
-      "title": "Jelang KTT ASEAN ke-49, RI Siap Teken Enhanced MoU ASEAN Power Grid",
-      "link": "https://www.cnnindonesia.com/ekonomi/20261115180146-90-1427420/jelang-ktt-asean-ke-49-ri-siap-teken-enhanced-mou-asean-power-grid",
-      "summary": "Melalui ASEAN Power Grid, sistem ketenagalistrikan antarnegara anggota ASEAN akan saling terhubung, sehingga pasokan listrik di kawasan lebih andal dan efisien.",
-      "published": "2026-11-15T11:05:02+00:00",
-      "source": "CNN Indonesia",
-      "groups": [
-        "Geopolitics"
-      ],
-      "matched": [
-        "ASEAN"
-      ],
-      "big": false,
-      "id": "31cef7f84513953c"
-    },
-    {
-      "title": "Prabowo Highlights ASEAN Resilience as Global Pressure Mounts",
-      "link": "https://en.tempo.co/read/2123684/prabowo-highlights-asean-resilience-as-global-pressure-mounts",
-      "summary": "Prabowo highlighted mounting pressures from geopolitical tensions, economic volatility, and resource competition during ASEAN Summit in Manila.",
-      "published": "2026-11-15T11:04:22+00:00",
-      "source": "Tempo.co",
-      "groups": [
-        "Geopolitics",
-        "Government / Policy"
-      ],
-      "matched": [
-        "ASEAN",
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "35d84cad2afbea08"
-    },
-    {
-      "title": "Presiden Filipina Ungkap KTT ASEAN Sempat Nyaris Ditunda",
-      "link": "https://www.cnnindonesia.com/internasional/20261115151044-106-1427383/presiden-filipina-ungkap-ktt-asean-sempat-nyaris-ditunda",
-      "summary": "Presiden Filipina Ferdinand Marcos jr mengungkapkan, KTT ASEAN di Cebu pada Mei lalu nyaris ditunda imbas konflik Timur Tengah.",
-      "published": "2026-11-15T10:40:45+00:00",
-      "source": "CNN Indonesia",
-      "groups": [
-        "Geopolitics"
-      ],
-      "matched": [
-        "ASEAN"
-      ],
-      "big": false,
-      "id": "dff393c1c2fbb69e"
-    },
-    {
-      "title": "Protesters condemn US policies as ASEAN summit begins in Manila",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/protesters-condemn-us-policies-as-asean-summit-begins-in-manila?traffic_source=rss",
-      "summary": "Southeast Asian leaders arriving in the Philippines for the ASEAN summit have been met with protests.",
-      "published": "2026-11-15T09:49:43+00:00",
-      "source": "Al Jazeera",
-      "groups": [
-        "Geopolitics"
-      ],
-      "matched": [
-        "ASEAN"
-      ],
-      "big": false,
-      "id": "bcbfb7dfd5b716b0"
-    },
-    {
-      "title": "Today's Top 3 News: Prabowo Arrives in Manila for 49th ASEAN Summit",
-      "link": "https://en.tempo.co/read/2123682/todays-top-3-news-prabowo-arrives-in-manila-for-49th-asean-summit",
-      "summary": "Here is the list of the top 3 news on Tempo English today.",
-      "published": "2026-11-15T09:26:55+00:00",
-      "source": "Tempo.co",
-      "groups": [
-        "Geopolitics",
-        "Government / Policy"
-      ],
-      "matched": [
-        "ASEAN",
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "91c0f3ef889ca105"
-    },
-    {
-      "title": "Danantara Is Forced to Prop Up a Falling Stock Index",
-      "link": "https://en.tempo.co/read/2123680/danantara-is-forced-to-prop-up-a-falling-stock-index",
-      "summary": "Danantara is pouring trillions of rupiah into the stock market to prop up share prices. But the support may prove only temporary.",
-      "published": "2026-11-15T09:06:28+00:00",
-      "source": "Tempo.co",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah"
-      ],
-      "big": true,
-      "id": "2022067c5a6c2ecf"
-    },
-    {
-      "title": "Is Myanmar Returning to ASEAN Bloc's Key Meetings?",
-      "link": "https://en.tempo.co/read/2123678/is-myanmar-returning-to-asean-blocs-key-meetings",
-      "summary": "ASEAN leaders convene in Manila, Philippines, on November 15-17, 2026.",
-      "published": "2026-11-15T08:13:43+00:00",
-      "source": "Tempo.co",
-      "groups": [
-        "Geopolitics"
-      ],
-      "matched": [
-        "ASEAN"
-      ],
-      "big": false,
-      "id": "311f03511bf0aa64"
-    },
-    {
-      "title": "Rupiah Melemah ke Rp18.200, Ekonom Soroti Tekanan Global dan Domestik - republika.co.id",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTnBUa2RaZjA1eV9LN3hSMF8yYjhtQ01tYlRHSnFjbURpQmNyY2pQMDlUMU9CUm9DRVRiQUMyakZSOGs3aXpSSktIWTZyYkNaeTd5NVJZT0EwOFp1bDRuUzdqUzl4TkdHendCa3RtMVRVQkdyRzYzWlNzTUh3NmxmWDBnM0x0R2FIbm5nbXlFb000ZURROGhZckpMQnlwM1I5dEVVWEVyUkhtMWJMaTY3TG1INmdYM28?oc=5",
-      "summary": "Rupiah Melemah ke Rp18.200, Ekonom Soroti Tekanan Global dan Domestik&nbsp;&nbsp;republika.co.id",
-      "published": "2026-11-15T07:43:36+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah"
-      ],
-      "big": true,
-      "id": "95390a7b143b5d29"
-    },
-    {
-      "title": "Warga Filipina Tolak Kedatangan Trump di KTT ASEAN, Patungnya Dibakar",
-      "link": "https://www.cnnindonesia.com/internasional/20261115140630-106-1427366/warga-filipina-tolak-kedatangan-trump-di-ktt-asean-patungnya-dibakar",
-      "summary": "Warga Filipina menggelar demonstrasi hingga membakar patung menyerupai Presiden AS Donald Trump jelang kunjungannya ke KTT ASEAN di Manila.",
-      "published": "2026-11-15T07:35:31+00:00",
-      "source": "CNN Indonesia",
-      "groups": [
-        "Geopolitics"
-      ],
-      "matched": [
-        "ASEAN",
-        "Trump"
-      ],
-      "big": false,
-      "id": "652b3acbd2a92cd5"
-    },
-    {
-      "title": "Tradisi Pemakaman Mewah di Pantai Gading, Biayanya Selangit",
-      "link": "https://www.cnnindonesia.com/internasional/20261115124855-127-1427338/tradisi-pemakaman-mewah-di-pantai-gading-biayanya-selangit",
-      "summary": "Tradisi pemakaman mewah di Pantai Gading membuat keluarga harus merogoh kocek hingga puluhan juta rupiah demi menghormati orang terkasih.",
-      "published": "2026-11-15T07:20:56+00:00",
-      "source": "CNN Indonesia",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah"
-      ],
-      "big": true,
-      "id": "21d796278ffaf772"
-    },
-    {
-      "title": "How Ahrie Sonta Became Listyo Sigit's Top Cop",
-      "link": "https://en.tempo.co/read/2123675/how-ahrie-sonta-became-listyo-sigits-top-cop",
-      "summary": "General Listyo Sigit Prabowo repeatedly relied on Ahrie Sonta Nasution for important assignments. Ahrie enjoyed rapid promotions through the ranks.",
-      "published": "2026-11-15T06:59:06+00:00",
-      "source": "Tempo.co",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "d532b83451368e68"
-    },
-    {
-      "title": "Pemerintah apresiasi peningkatan kualitas Borobudur Marathon",
-      "link": "https://www.antaranews.com/berita/5855427/pemerintah-apresiasi-peningkatan-kualitas-borobudur-marathon",
-      "summary": "Wakil Menteri Dalam Negeri Bima Arya Sugiarto mengapresiasi peningkatan kualitas Borobudur Marathon di Kabupaten ...",
-      "published": "2026-11-15T06:53:35+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Government / Policy",
-        "Macro / Economy"
-      ],
-      "matched": [
-        "apresiasi",
-        "menteri"
-      ],
-      "big": false,
-      "id": "924b688780d6cfef"
-    },
-    {
-      "title": "Prabowo Takes Part in ASEAN Leaders' Retreat in Metro Manila",
-      "link": "https://en.tempo.co/read/2123674/prabowo-takes-part-in-asean-leaders-retreat-in-metro-manila",
-      "summary": "Prabowo joins ASEAN leaders for the Retreat Session after attending the summit's opening ceremony and Plenary Session in Metro Manila.",
-      "published": "2026-11-15T06:53:18+00:00",
-      "source": "Tempo.co",
-      "groups": [
-        "Geopolitics",
-        "Government / Policy"
-      ],
-      "matched": [
-        "ASEAN",
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "d8e76f51c51c1d0c"
-    },
-    {
-      "title": "Legislator minta DKI prioritaskan infrastruktur saat anggaran terbatas",
-      "link": "https://www.antaranews.com/berita/5855399/legislator-minta-dki-prioritaskan-infrastruktur-saat-anggaran-terbatas",
-      "summary": "Ketua Komisi D DPRD DKI Jakarta Yuke Yurike meminta Pemerintah Provinsi (Pemprov) DKI Jakarta menetapkan skala ...",
-      "published": "2026-11-15T06:32:12+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "anggaran"
-      ],
-      "big": false,
-      "id": "c461979db40a6a3f"
-    },
-    {
-      "title": "Gerindra Sulut dukung Dasco jadi wapres sebab andal perpolitikan",
-      "link": "https://www.antaranews.com/berita/5855391/gerindra-sulut-dukung-dasco-jadi-wapres-sebab-andal-perpolitikan",
-      "summary": "Dewan Pimpinan Daerah (DPD) Partai Gerindra Sulawesi Utara mendukung Wakil Ketua DPR RI Sufmi Dasco Ahmad menjadi calon ...",
-      "published": "2026-11-15T06:28:08+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "DPR"
-      ],
-      "big": false,
-      "id": "bdc91a54a178770d"
-    },
-    {
-      "title": "Menlu Tata Bahas Karhutla saat Bertemu Singapura dan Malaysia",
-      "link": "https://www.cnnindonesia.com/internasional/20261115130001-106-1427340/menlu-tata-bahas-karhutla-saat-bertemu-singapura-dan-malaysia",
-      "summary": "Menlu RI Arrmanatha Nasir membahas penanganan karhutla saat bertemu Singapura dan Malaysia jelang pelaksanaan KTT ASEAN di Manila, Filipina.",
-      "published": "2026-11-15T06:15:25+00:00",
-      "source": "CNN Indonesia",
-      "groups": [
-        "Geopolitics"
-      ],
-      "matched": [
-        "ASEAN"
-      ],
-      "big": false,
-      "id": "5547758a0eee8580"
-    },
-    {
-      "title": "Eight Names Emerge as Potential Candidates to Replace Gibran as Indonesia's VP",
-      "link": "https://en.tempo.co/read/2123670/eight-names-emerge-as-potential-candidates-to-replace-gibran-as-indonesias-vp",
-      "summary": "Eight political figures, including Puan Maharani and Bahlil Lahadalia, emerge as potential candidates to replace Gibran as vice president of Indonesia",
-      "published": "2026-11-15T06:10:14+00:00",
-      "source": "Tempo.co",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Gibran"
-      ],
-      "big": false,
-      "id": "ba4ec6653fc260b8"
-    },
-    {
-      "title": "Menag minta UIN Palu implementasikan tiga isu prioritas Kemenag",
-      "link": "https://www.antaranews.com/berita/5855371/menag-minta-uin-palu-implementasikan-tiga-isuprioritas-kemenag",
-      "summary": "Menteri Agama (Menag) Nasaruddin Umar mengatakan Universitas Islam Negeri (UIN) Datokarama Palu, Sulawesi Tengah ...",
-      "published": "2026-11-15T06:00:20+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "menteri"
-      ],
-      "big": false,
-      "id": "f2077abb71408f3a"
-    },
-    {
-      "title": "Peran Kebijakan Moneter dalam Menjaga Stabilitas Inflasi di Indonesia - kumparan.com - kumparan",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOTJ3NG9rT0Z5a3F0MWpLVzFQcDdpdENmT2U5STJwNE5jMGhOQ1dsMC1reEhvRVQ1R3Y2YzdmTmc4X3hFakc0NHQyNDdkWlNHaDlwZjJidS0zem02aFhZZlJNc0RuM3FjbkpkRHk5YkVkWUVYMXpRWWFFaTdDY0h0b0tab2dRWDZ1VnVzMUFqR0liZXp4QnQ2dkUtQ3ZCbkhFUEVBd3YtajNaRDBGU0YzM2h6N0NBeHc5Q3EyWDBOYVkxNUhJQ1RHV1M0WUxJRVXSAdcBQVVfeXFMUGdBMmRCemozVDRNc0FVdU90VGRUZGEyc0JBR0lzYktNNUNiN0VodVU3V3QwUlRrNkN0cFhWQTRUSHBiYllaa1NSMm9lU1BXNXdVU2p0QklTa3JqWFhGM2J4RHUzTVdkb3VhaHFfM29kd041VjFNWnBPQndvRkMyMS1sTURDMmhXOU51N1BSaWpaNzJqeVdIQ1BoOFRyMkJKNDlGWWRCN0xydFMzeUs4VW9KM1ZqUzFjdWRfNksyOHdJdFEtcmp4THJKUU4yU3doS2xLR19hTW8?oc=5",
-      "summary": "Peran Kebijakan Moneter dalam Menjaga Stabilitas Inflasi di Indonesia - kumparan.com&nbsp;&nbsp;kumparan",
-      "published": "2026-11-15T05:51:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "inflasi"
-      ],
-      "big": false,
-      "id": "c87a00c8a71d2718"
-    },
-    {
-      "title": "Philippine President Calls for Stronger ASEAN Unity Amid Global Tensions",
-      "link": "https://en.tempo.co/read/2123669/philippine-president-calls-for-stronger-asean-unity-amid-global-tensions",
-      "summary": "Philippine President Ferdinand Marcos Jr. urges ASEAN nations to unite and find collective solutions to geopolitical challenges.",
-      "published": "2026-11-15T05:50:37+00:00",
-      "source": "Tempo.co",
-      "groups": [
-        "Geopolitics"
-      ],
-      "matched": [
-        "ASEAN"
-      ],
-      "big": false,
-      "id": "4946862d7ff2f253"
-    },
-    {
-      "title": "FTSE Russell pertahankan RI sebagai ‘secondary emerging market’",
-      "link": "https://www.antaranews.com/berita/5855335/ftse-russell-pertahankan-ri-sebagai-secondary-emerging-market",
-      "summary": "Penyedia indeks global FTSE Russell mempertahankan status pasar modal Indonesia sebagai Secondary Emerging Market atau ...",
-      "published": "2026-11-15T05:36:33+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "emerging market"
-      ],
-      "big": false,
-      "id": "d045dd5e1acbed0d"
-    },
-    {
-      "title": "ASEAN belum putuskan kembalinya Myanmar ke forum politik blok regional",
-      "link": "https://www.antaranews.com/berita/5855331/asean-belum-putuskan-kembalinya-myanmar-ke-forum-politik-blok-regional",
-      "summary": "ASEAN diperkirakan belum akan memutuskan pemulihan kehadiran Myanmar dalam pertemuan-pertemuan politik tingkat tinggi ...",
-      "published": "2026-11-15T05:32:43+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Geopolitics"
-      ],
-      "matched": [
-        "ASEAN"
-      ],
-      "big": false,
-      "id": "53f34925297a8225"
-    },
-    {
-      "title": "Prabowo hadiri pembukaan KTT ke-49 ASEAN di Manila",
-      "link": "https://www.antaranews.com/video/5855323/prabowo-hadiri-pembukaan-ktt-ke-49-asean-di-manila",
-      "summary": "ANTARA - Presiden RI Prabowo Subianto tiba di Philippine International Convention Center (PICC), Pasay City, Filipina, ...",
-      "published": "2026-11-15T05:27:26+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Geopolitics",
-        "Government / Policy"
-      ],
-      "matched": [
-        "ASEAN",
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "f09e0f81822bd599"
-    },
-    {
-      "title": "Prabowo Joins ASEAN Leaders in Handshake at 49th Summit Opening",
-      "link": "https://en.tempo.co/read/2123668/prabowo-joins-asean-leaders-in-handshake-at-49th-summit-opening",
-      "summary": "Prabowo joins 10 other Southeast Asian leaders in the ASEAN Handshake during the opening of the 49th ASEAN Summit in the Philippines.",
-      "published": "2026-11-15T05:27:23+00:00",
-      "source": "Tempo.co",
-      "groups": [
-        "Geopolitics",
-        "Government / Policy"
-      ],
-      "matched": [
-        "ASEAN",
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "b02d1f37f046254e"
-    },
-    {
-      "title": "Hadiri KTT Ke-49 ASEAN di Manila, Presiden Prabowo disambut langsung Ferdinand Marcos Jr. dan Louise Araneta-Marcos",
-      "link": "https://www.antaranews.com/foto/5855319/hadiri-ktt-ke-49-asean-di-manila-presiden-prabowo-disambut-langsung-ferdinand-marcos-jr-dan-louise-araneta-marcos",
-      "summary": "Presiden Filipina Ferdinand Marcos Jr. (tengah) bersama Ibu Negara Louise Araneta-Marcos (kanan) menyambut Presiden ...",
-      "published": "2026-11-15T05:16:35+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Geopolitics",
-        "Government / Policy"
-      ],
-      "matched": [
-        "ASEAN",
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "456e3e4d5ea93d69"
-    },
-    {
-      "title": "Presiden Prabowo hadiri Sesi Retreat KTT Ke-49 ASEAN",
-      "link": "https://www.antaranews.com/berita/5855311/presiden-prabowo-hadiri-sesi-retreat-ktt-ke-49-asean",
-      "summary": "Presiden Prabowo Subianto menghadiri Sesi Retreat Konferensi Tingkat Tinggi (KTT) Ke-49 ASEAN di Filipina pada Minggu ...",
-      "published": "2026-11-15T05:15:22+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Geopolitics",
-        "Government / Policy"
-      ],
-      "matched": [
-        "ASEAN",
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "f1567d1c10ea11b5"
-    },
-    {
-      "title": "Zulhas Sebut Semua Ketum Parpol Sepakat Wapres dari Gerindra",
-      "link": "https://www.cnnindonesia.com/nasional/20261115120803-32-1427332/zulhas-sebut-semua-ketum-parpol-sepakat-wapres-dari-gerindra",
-      "summary": "Ketua Umum PAN Zulkifli Hasan mengatakan, semua parpol koalisi sepakat wakil presiden pengganti Gibran Rakabuming berasal dari Gerindra.",
-      "published": "2026-11-15T05:15:18+00:00",
-      "source": "CNN Indonesia",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Gibran"
-      ],
-      "big": false,
-      "id": "93cf464316b519b9"
-    },
-    {
-      "title": "Gerindra Riau dukung Dasco jadi wapres sebab berpengalaman memimpin",
-      "link": "https://www.antaranews.com/berita/5855303/gerindra-riau-dukung-dasco-jadi-wapres-sebab-berpengalaman-memimpin",
-      "summary": "Dewan Pimpinan Daerah (DPD) Partai Gerindra Riau menyatakan sikap dukungan kepada Wakil Ketua DPR RI Sufmi Dasco Ahmad ...",
-      "published": "2026-11-15T05:10:35+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "DPR"
-      ],
-      "big": false,
-      "id": "12fba85d56bf5578"
-    },
-    {
-      "title": "Isi Garasi Gibran Tak Berubah dari Wali Kota hingga Wapres",
-      "link": "https://www.cnnindonesia.com/otomotif/20261115111745-579-1427325/isi-garasi-gibran-tak-berubah-dari-wali-kota-hingga-wapres",
-      "summary": "LHKPN Gibran sejak menjabat wali kota hingga wapres mencatat empat mobil dan tiga motor yang sama.",
-      "published": "2026-11-15T05:00:46+00:00",
-      "source": "CNN Indonesia",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Gibran"
-      ],
-      "big": false,
-      "id": "94acdb505bdee49f"
-    },
-    {
-      "title": "APEC summit in Shenzhen, Indonesia monetary policy, ASEAN diplomacy - Nikkei Asia",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS1RtYzNMbFRYWVlnZVA4UnRTdGRzN2hQUHdON0VfOHdiRWdDRVV5c3doTGpBbWlqdndlWkg1NDVBN1A4dzl0WS1rUlh3dmppT3otZzVINmE4cV9xV3hrWHo0eU8xQkdtZ0lBZk45T3E0RHpKMU9SdlcwWU1RcGM3cjBIbXpYWlp2cUlBaUFKRUNUMExqU3BKWlJHSjRXa2NvVmlpRHhiVVJiZEh3a2JHVGFWbG0yNExo?oc=5",
-      "summary": "APEC summit in Shenzhen, Indonesia monetary policy, ASEAN diplomacy&nbsp;&nbsp;Nikkei Asia",
-      "published": "2026-11-15T05:00:00+00:00",
-      "source": "Nikkei Asia (via GNews)",
-      "groups": [
-        "Geopolitics"
-      ],
-      "matched": [
-        "ASEAN"
-      ],
-      "big": false,
-      "id": "45142a04ce3cff83"
-    },
-    {
-      "title": "Pertamina: SMEXPO jadi ajang masyarakat kenal produk UMKM lokal",
-      "link": "https://www.antaranews.com/berita/5855267/pertamina-smexpo-jadi-ajang-masyarakat-kenal-produk-umkm-lokal",
-      "summary": "Vice President Corporate Communication PT Pertamina (Persero) Muhammad Baron mengatakan pameran Pertamina SMEXPO 2026 ...",
-      "published": "2026-11-15T04:51:07+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Commodity / Energy Policy"
-      ],
-      "matched": [
-        "Pertamina"
-      ],
-      "big": false,
-      "id": "16e1bea6b94e7701"
-    },
-    {
-      "title": "Gerindra Langkat dukung Dasco jadi Wapres: Indonesia sejahtera",
-      "link": "https://www.antaranews.com/berita/5855263/gerindra-langkat-dukung-dasco-jadi-wapres-indonesia-sejahtera",
-      "summary": "DPC Partai Gerindra Langkat mendukung sepenuhnya Wakil Ketua DPR RI Sufmi Dasco Ahmad menjadi wakil presiden (wapres) ...",
-      "published": "2026-11-15T04:42:49+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "DPR"
-      ],
-      "big": false,
-      "id": "05055e98c29a3650"
-    },
-    {
-      "title": "Prabowo to Decide on Gibran's Successor After ASEAN, APEC Visits",
-      "link": "https://en.tempo.co/read/2123667/prabowo-to-decide-on-gibrans-successor-after-asean-apec-visits",
-      "summary": "Prabowo says he will decide on candidates to replace Gibran after completing his visits to the Philippines and China for the ASEAN and APEC summits.",
-      "published": "2026-11-15T04:31:41+00:00",
-      "source": "Tempo.co",
-      "groups": [
-        "Geopolitics",
-        "Government / Policy"
-      ],
-      "matched": [
-        "ASEAN",
-        "Gibran",
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "5f0fd1a0927c28e7"
-    },
-    {
-      "title": "Buka KTT ke-49 ASEAN, Presiden Filipina serukan persatuan kawasan",
-      "link": "https://www.antaranews.com/berita/5855259/buka-ktt-ke-49-asean-presiden-filipina-serukan-persatuan-kawasan",
-      "summary": "Presiden Filipina Ferdinand Marcos Jr menyerukan negara-negara Asia Tenggara menguatkan persatuan dan upaya mencari ...",
-      "published": "2026-11-15T04:29:14+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Geopolitics"
-      ],
-      "matched": [
-        "ASEAN"
-      ],
-      "big": false,
-      "id": "975d831299378b19"
-    },
-    {
-      "title": "ASEAN Luncurkan Logo Baru, Sambut Timor Leste Anggota Ke-11",
-      "link": "https://www.cnnindonesia.com/internasional/20261115104743-106-1427321/asean-luncurkan-logo-baru-sambut-timor-leste-anggota-ke-11",
-      "summary": "ASEAN meluncurkan logo baru dengan 11 batang padi untuk menandai keanggotaan penuh Timor Leste dalam pembukaan KTT ke-49 ASEAN di Manila, Filipina.",
-      "published": "2026-11-15T04:25:44+00:00",
-      "source": "CNN Indonesia",
-      "groups": [
-        "Geopolitics"
-      ],
-      "matched": [
-        "ASEAN"
-      ],
-      "big": false,
-      "id": "a7f6e3f6f583128d"
-    },
-    {
-      "title": "Gerindra Papua Barat Daya dukung Dasco yang paham dinamika jadi Wapres",
-      "link": "https://www.antaranews.com/berita/5855251/gerindra-papua-barat-daya-dukung-dasco-yang-paham-dinamika-jadi-wapres",
-      "summary": "DPD Partai Gerindra Papua Barat Daya mendukung Wakil Ketua DPR RI Sufmi Dasco Ahmad sebagai calon Wakil Presiden ...",
-      "published": "2026-11-15T04:22:26+00:00",
-      "source": "Antara News",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "DPR"
-      ],
-      "big": false,
-      "id": "f68e9f1a139365a6"
-    },
-    {
-      "title": "Kazakh arrests of state asset heads raise doubt on railway IPO in Hong Kong - Nikkei Asia",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU0NaSHg0c3NvZ3ROUjlEcXlzOGx1eGo1YlRRczNuZTUtQWlITEl5bWFBblZWRWlVOUxjMXlSX0V1QWdpRXRpaDhBYXhTLTliYjN3Q0h1aDlUVUNlVm9pRGF0ZC10TWRmN2MtcS00c0YzcXJTci1RMXF2WXBaUWVJUklRdjJ0UVJNLVJ6WHA5amNzeC1CWkh6dnNWeTB1cmxGN0xyMnBqZ3E5X1Q4MjdxYWlJb0c4WEZ3NnRwMg?oc=5",
-      "summary": "Kazakh arrests of state asset heads raise doubt on railway IPO in Hong Kong&nbsp;&nbsp;Nikkei Asia",
-      "published": "2026-11-12T15:43:00+00:00",
-      "source": "Nikkei Asia (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "IPO"
-      ],
-      "big": false,
-      "id": "c31c6b305f5acfeb"
-    },
-    {
-      "title": "Ekonom Prediksi BI Naikkan Suku Bunga Jadi 6,25 Persen Akhir 2026 - Kompas.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbHE2Z213b2FuRVUyVnBXZE1HODMzZTZ4SWdIMDVRay1VcUYtcUFucFMxME5BN3BaRm83S0d4V2gxTmFIbjZQV3Ric09ueWdEODFoNFJxblRpbVdTSm9rNG5TVTFaWjNJM1h3NWt3ZG9fLTRQUEVYMGJCSUdxMEZDRThmUGdjbDhMWnJJQ3hYb3ZlUG1fcXU1N1czZmd4STVNcTRObFBoaXlscXQxMFBic0dyOHE0OXM?oc=5",
-      "summary": "Ekonom Prediksi BI Naikkan Suku Bunga Jadi 6,25 Persen Akhir 2026&nbsp;&nbsp;Kompas.com",
-      "published": "2026-11-11T09:20:00+00:00",
-      "source": "GNews – BI rate rupiah",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "suku bunga"
-      ],
-      "big": true,
-      "id": "5fc5f5c35a2f622c"
-    },
-    {
-      "title": "Indonesian VP Gibran to resign, presidential office says - Nikkei Asia",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcC05V3FDY0t4SU1SN1ZqMmxjVXRhWV9lZlRwRFFhUDZFUTB0eUZYWHlpTUowaEdDUS1sUm5pMFNDSm9ZcEN2T214c1BxSTBuakVoOTF1cWJmS09qeEp1OWkzZUh5by1DenZYb1dCcGpOWExRS3VLdlFSOFdmU2R5WUljeXBOQmdkMjdtZVl0Q1ltZw?oc=5",
-      "summary": "Indonesian VP Gibran to resign, presidential office says&nbsp;&nbsp;Nikkei Asia",
-      "published": "2026-11-10T11:23:00+00:00",
-      "source": "Nikkei Asia (via GNews)",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Gibran"
-      ],
-      "big": false,
-      "id": "d8781e31e58f7fc6"
-    },
-    {
-      "title": "Watch ECB's Kazāks Sees Rate-Hike Judgments Getting ‘More Nuanced’ - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT1lNcThwZElteEFsbG5WQUtDMnZRblNCRTc4RVZVeVBSU0RFOWp0Vm9QSmNwMTBDM0tuSW41eVJFT3JUSmlWbnZCbnd1R2hlTVRUSUNKNzJfQzNFdWlmVm9xbnZrZHN0QlB1UHA1SF9EZmhZOUZ2cVpPaWRQLVQ3X1RlWDJ3TWhVSHRhY0pFTGlrQzd2SDhvdnNKSnNiZlhWR0IwUkdyYk9tNWc?oc=5",
-      "summary": "Watch ECB's Kazāks Sees Rate-Hike Judgments Getting ‘More Nuanced’&nbsp;&nbsp;Bloomberg.com",
-      "published": "2026-11-10T00:00:00+00:00",
-      "source": "Bloomberg (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "ECB"
-      ],
-      "big": false,
-      "id": "ffcb50222d57e3eb"
-    },
-    {
-      "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
-      "link": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
-      "summary": "The personal consumption expenditures price index was projected to increase 0.5% in September for an annual rate of 3.7%, according to the Dow Jones consensus.",
-      "published": "2026-10-29T18:06:31+00:00",
-      "source": "CNBC Global Markets",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "Dow Jones"
-      ],
-      "big": false,
-      "id": "93bea1bfa4e179fa"
-    },
-    {
-      "title": "Indonesia stocks post largest drop in 28 years after MSCI warns of downgrade - Nikkei Asia",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSk93WU1zTzg5ZVYwOHN4QWZnVjlBUzR4VktkclZnOC1KS2h3RktjYkFndk5GOTZyZjU5bk9BR001LU9mODZsOHJUUDFuRm5FclFFUGxsSFRwMHA3ZHBtYXBqN3luNEFWSktTeTJPVEJ1LXpPZmJEb3Z6TXhadFdSUnlUei1PSlhpc2loQnRFaGZUbkhSekV2WFNWZ0VGRXVZemJLbzMzbEVHUXp5WDZrQjVpWE56SUV6?oc=5",
-      "summary": "Indonesia stocks post largest drop in 28 years after MSCI warns of downgrade&nbsp;&nbsp;Nikkei Asia",
-      "published": "2026-10-15T07:00:00+00:00",
-      "source": "Nikkei Asia (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "downgrade"
-      ],
-      "big": true,
-      "id": "b29b290a8da353fe"
-    },
-    {
-      "title": "Indonesia Holds Rate, Boosting Hedging Incentives for Rupiah - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeFFlbTBhODNqeDRHTHVsaUVRNi0wUk9wVUlQU2JXYmYwcFNIWHZ0bHlIaC1obU5Kc21ISi01dzlqNm5ZcUc5SEFhTlpfaUhrM2kwd2loNlBpSkpWTWdGREpva2tFX1VoTFBmTnhjaU1fcjBtVjFpT1J0Tm44a0tqZlVRdzhQVlozMzEzMXFSR1RxQjNaVmZ2c1gwSkFzM2VuVlZ4amY4cHcwejQ0aTFTSFZUc1JNa2RPRHFKejI4UQ?oc=5",
-      "summary": "Indonesia Holds Rate, Boosting Hedging Incentives for Rupiah&nbsp;&nbsp;Bloomberg.com",
-      "published": "2026-09-23T07:00:00+00:00",
-      "source": "Bloomberg (via GNews)",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah"
-      ],
-      "big": true,
-      "id": "c60424727dfa318e"
-    },
-    {
-      "title": "Indonesia Holds Rate as New Chief Forecasts Further Rupiah Gains - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSG5BbV9jejZ2aFcxZ2FWUml3N0hOWnJKRzl4NC1hQVdleThpSmVrN0o1UnBPaFFfam9hOWlfTml4TEVOQXBPTXhIVkZjMlVXeGhZcWF1WmlULUZfTTVabklzamthVmhRNm00LWpvRU11d1JjUkdXSVZGaDVaT0ZyMHVwVk9ielQwT216dm5PNElvWXRoWGJ5SUljdmY2MUFzZlA3bmxxbVdnbExsRTBhZmRuUmVEdw?oc=5",
-      "summary": "Indonesia Holds Rate as New Chief Forecasts Further Rupiah Gains&nbsp;&nbsp;Bloomberg",
-      "published": "2026-08-19T07:00:00+00:00",
-      "source": "Bloomberg (via GNews)",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "rupiah"
-      ],
-      "big": true,
-      "id": "b30b6047251e80ac"
-    },
-    {
-      "title": "Prabowo Picks Insiders for Top Indonesia Central Bank Posts - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR1hmczlWNjJrUDlFTjYxUDlxVXpJaGdTZ09HbEVJWWg0eFNhaXp0WnU2dThETy1tU1RtZjJBMTBNTDBVU1FZYTItcjNjR0JnMFhueVNJZk5QbjJoTHdQQ3hZdE1rOW8zal9UQTBYeWR3UXJoRTU4LXJDYVpzUTFMZGVQdjRtalpTVUN6NmFFc0J1aDNWdC1aOGptckZTZGNXd0ZqYWotOWM2X29jVm9N?oc=5",
-      "summary": "Prabowo Picks Insiders for Top Indonesia Central Bank Posts&nbsp;&nbsp;Bloomberg.com",
-      "published": "2026-08-12T07:00:00+00:00",
-      "source": "Bloomberg (via GNews)",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "Prabowo"
-      ],
-      "big": false,
-      "id": "19f3e5e08235c9a7"
-    },
-    {
-      "title": "Bank Indonesia Says It Is Enhancing Efforts to Support Rupiah - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM0lUWGZyUElwQzFZSmFEamZpM1lseWdUR2w0X01xQ2l0QU9NWW11c1QzdlJFT0Z1UmxaNWFTVm1aRTlZdkxhMDFKWjBURDZpZFhVd1J2aHM2VWZpaEVGRWFUUnpkLU5qTE9NVVBUeVdpRkpNbG43MXpRNGtsczVQMktNbXVNeGtTV3ZGMlltbnd0VXExMzVQWGgwVzI3cjhzTEtGRTVId1lTSHROR0xoME9n?oc=5",
-      "summary": "Bank Indonesia Says It Is Enhancing Efforts to Support Rupiah&nbsp;&nbsp;Bloomberg.com",
-      "published": "2026-07-28T07:00:00+00:00",
-      "source": "Bloomberg (via GNews)",
-      "groups": [
-        "Macro / Economy"
-      ],
-      "matched": [
-        "Bank Indonesia",
-        "rupiah"
-      ],
-      "big": true,
-      "id": "595b4b00e5cb37ea"
-    },
-    {
-      "title": "Presiden Prabowo Sampaikan Langsung KEM-PPKF 2027 di DPR, Johan Rosihan: APBN Harus Menjadi Instrumen Kedaulatan Ekonomi Nasional - mpr.go.id",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdWNLOWZkNzltdGlXOVBDS2FNWnBPNEVBOUR0b1JSZjFBT3Nka1A3a3ZyMXhnNldNQXdCSXNUa0RJRW1IZmVzZml4MWhxbEt5N1BVV3htRDlCZ0xrT2NDZ1BRd00ySUk0LWVUUjZKd2pja1NPdUp6OU1sTGRKNWJtQ09yVUdyV2pzTGtNM2hwckpxQQ?oc=5",
-      "summary": "Presiden Prabowo Sampaikan Langsung KEM-PPKF 2027 di DPR, Johan Rosihan: APBN Harus Menjadi Instrumen Kedaulatan Ekonomi Nasional&nbsp;&nbsp;mpr.go.id",
-      "published": "2026-05-20T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "APBN",
-        "DPR",
-        "MPR",
-        "Prabowo"
-      ],
-      "big": true,
-      "id": "5ee693dbfd1623d2"
-    },
-    {
-      "title": "Prabowo Tegaskan APBN Bukan Sekadar Dokumen Keuangan Negara, tetapi Alat Perjuangan Bangsa - InvestorTrust",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZVZ4TXhCdENINGhYQTM3Mk01SzN4WmprVG9CSVRMdi1MbGJFOEZiQXNFSk4tQ2lZTnBReGlrS2pKckZGQV9uRUM5aXotWjdJZlVPZDJPWFU1c1JHUXlNY0xzcDhoblJuTWV5VVNTQWs4b3FZZHJ4UU5FVmhoYkVRTnJIdW1rZ3daMVZ2WUxCbWZ2MTUtTU5FWEtEUkFCWm1uSmh6Vy1ZVFp3R2M0Qnk0ZDJoZzRuWG9VdU9OOHJNR3F3aWRLUThyQTF3?oc=5",
-      "summary": "Prabowo Tegaskan APBN Bukan Sekadar Dokumen Keuangan Negara, tetapi Alat Perjuangan Bangsa&nbsp;&nbsp;InvestorTrust",
-      "published": "2026-05-20T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "APBN",
-        "Prabowo"
-      ],
-      "big": true,
-      "id": "548fe036d9b3b9d3"
-    },
-    {
-      "title": "Defisit APBN Membesar, Saatnya Prabowo Menata Ulang Program Prioritas - Kompas.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcW1kX1hmbFBKZTczS3ZFSW1zbnVsXzVrOHhWOXkwbHU1Y2R4SmxfTjNWUUI2dnNQT1pnV1RLbW14cXI3U3FydXk1U25qenAtWERoaS1SeUZuR215Vm5oWk4wckUteWZQbmYtdVppckNXQ0hjM0dObXFtZDhLLTFHZlNyV3BWd2ZYUElWRTVhaDJMVF8wOHFldTFjZWR0TjhkN21ZTHluSmU4SXZEbTU3dW8wclIwckhtUERiRlNR?oc=5",
-      "summary": "Defisit APBN Membesar, Saatnya Prabowo Menata Ulang Program Prioritas&nbsp;&nbsp;Kompas.com",
-      "published": "2026-04-11T07:00:00+00:00",
-      "source": "GNews – Prabowo APBN",
-      "groups": [
-        "Government / Policy"
-      ],
-      "matched": [
-        "APBN",
-        "Prabowo"
-      ],
-      "big": true,
-      "id": "965f0d04c793e21a"
-    },
-    {
-      "title": "Why Indonesia’s Emerging Market Status Is Under Threat - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOWFqSWsxMjZTZFJTZGw1dUdBX1VJT3RZc1kxRVJRTGFIaWpsVGZHdG1IeWhxSU05c0hTY3FQZWIzNUpOZUtEYXJNZ0ZhUmMzMURwcGFtSmlwbFg2N3hJRmZkTV9WT2hqcHRVVVpCdHpoVG5XUmtVWm01V2VQbnpUSTlrUV9maWtwVXNJUUhxRmxRN2dma3ZkWFYtWVVuYzVBVVdGdDVwLXJZQ0hfVXFwN0hIQ0dMZTQxTmc?oc=5",
-      "summary": "Why Indonesia’s Emerging Market Status Is Under Threat&nbsp;&nbsp;Bloomberg.com",
-      "published": "2026-01-30T08:00:00+00:00",
-      "source": "Bloomberg (via GNews)",
-      "groups": [
-        "Global Finance"
-      ],
-      "matched": [
-        "emerging market"
-      ],
-      "big": false,
-      "id": "bb5710783752b3a1"
-    },
-    {
-      "title": "Trump’s Tariffs on China, Canada and the U.K.: Here’s Where Things Stand - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSkMzdmhsWlpUOFBsSEtrUlQyalRzNWRjbHJoSlpJX19NZ0x4NXVzZDZacnJwb1I0RXRVWHlocXgwM1lkYkRFdlNxNlVsQXBTR09XczNoQ1J5bDVzcmRIT210U2xWdmJ6MG5EdG9GRWR2aEZLVmpXVHRKQ05QX1lwak9LeHN3ZFdYZEJ6M3RSemNSa1Az?oc=5",
-      "summary": "Trump’s Tariffs on China, Canada and the U.K.: Here’s Where Things Stand&nbsp;&nbsp;WSJ",
-      "published": "2025-05-29T07:00:00+00:00",
+      "title": "U.S. Figures Iran Still Has up to 2,500 Missiles, Countering Trump Assertions - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUDVwNnk4SFpaRVhKQVNBZFI3VkdXM1VQaEtPcURJT3FMUUxXaVF5NjNVOUt6U0gyY0NWeV8tQkR5cXQtT2V0OUVncDhrdlh3amRZckptN2Uzbi1yNXhteFN2S1hMbGpIZEdXLTN0YTQ5aXVkVURRWmFHTTdIS2cxUjFKWVlFY19JbmZFN3ZucXVFTkV5OV83a2xrdnFRb0VUT0x2R3N5TVJFbWZFNzF5N0hSQlVhNmpYUDExU1Njbw?oc=5",
+      "summary": "U.S. Figures Iran Still Has up to 2,500 Missiles, Countering Trump Assertions&nbsp;&nbsp;WSJ",
+      "published": "2026-11-15T01:00:00+00:00",
       "source": "WSJ (via GNews)",
       "groups": [
         "Geopolitics"
@@ -2255,28 +2118,74 @@
         "Trump"
       ],
       "big": false,
-      "id": "3e3a58dfc1b46c2a"
+      "id": "cae1f9a2856e111b"
     },
     {
-      "title": "Indonesia intervenes as rupiah falls to Asian crisis lows - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV2UwR0xxT3VVdUE0QXExR3gwNlFlSVp0UkVuZWNMdnYxa3BSQUZUeFdCZE85MlhNYm9ST09Ucmo0YkIzRm5FRDg0ZzI4bWpYd05qNERSdHBzRGs3X3ZKNzFpLTVtdGhjYlFoTktRZW5OdnFzQ0N3dlh5VC1fRE5vbERQU1NFekJpeEt5eUhmc0dXeU5Ta2Q0cGJsV2hOczVidGNfNE1Ic1JSb0x4ejhUUE9IOVp3NUJOWm9iWGl1QWhNUQ?oc=5",
-      "summary": "Indonesia intervenes as rupiah falls to Asian crisis lows&nbsp;&nbsp;Reuters",
-      "published": "2025-03-24T07:00:00+00:00",
-      "source": "Reuters – Indonesia",
+      "title": "Federal Reserve to Forgo Rate Decision at October 2027 Meeting - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkZiVk1uU2k5a1RQRGUxdFBJMEcxSVhtWEJfR0s3Q3E3T185OXRrZHRZMDVsQlhTdVpIbVlfQnNPem4zbGlTMDR6elFDRlM3RzhETUhCVzlTTDJvWmtfQzctcUFhRXZsVmxpVjBQUXpXTkRUTThQNVJwQV9YX19qaTZGVGswRGF1N2d0dktsZW5DVHlFWVNENmtQaERZYm5ZTmREdm8tMzVjX3ZCQUdqbTFCbWktdw?oc=5",
+      "summary": "Federal Reserve to Forgo Rate Decision at October 2027 Meeting&nbsp;&nbsp;WSJ",
+      "published": "2026-11-12T18:33:00+00:00",
+      "source": "WSJ (via GNews)",
       "groups": [
-        "Macro / Economy"
+        "Global Finance"
       ],
       "matched": [
-        "rupiah"
+        "Federal Reserve"
       ],
-      "big": true,
-      "id": "a09f12efb834dc1d"
+      "big": false,
+      "id": "faddc04c009bd792"
     },
     {
-      "title": "Tariff Wars Are Often Short. Their Legacies Aren’t. - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRTNhakUtUkRqVWliQVpuLWJtWEVLZDJZcGRDMWRuOXpWa1VNLTNVaXlaQVljOWUyY3NKWVhYazFxc1Nic0QzT3laT0s3Y21DTU9nUFNySnc0UmsxeXA5aGxTVWZfNmZCaEtNcVNSaGsya3YzdElLci1CWTRGaUdOb1FxZXNPRjNaRmlyZA?oc=5",
-      "summary": "Tariff Wars Are Often Short. Their Legacies Aren’t.&nbsp;&nbsp;WSJ",
-      "published": "2025-03-09T08:00:00+00:00",
+      "title": "Gold Holds Below $4,000 as Market Looks Ahead to Fed Rate Hike - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMTJybnByRUZtMk5uajdEUVROVDJnSmZlQVRsazNHSmZaY0FKMVM0d0tvVnhDdlozdUhuMkx4ZkJZV0IyUDRCMmxtSzF0U3RmWWkxckVJVVVUV1pZczI2dmZfN29TYmN0YkVWMml2X2NJY1liZk1WeWFVdXNHbFpqdHBVWmhMTE4zTHozN2l5ZGFOWVBxWVBzTVB6V3dLeTR5UmlYYTVtN0xJQW5MMTVRdUJn?oc=5",
+      "summary": "Gold Holds Below $4,000 as Market Looks Ahead to Fed Rate Hike&nbsp;&nbsp;Bloomberg",
+      "published": "2026-11-12T11:17:15+00:00",
+      "source": "Bloomberg (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "Fed rate",
+        "rate hike"
+      ],
+      "big": true,
+      "id": "8b86f13a25e152dd"
+    },
+    {
+      "title": "BOE Should Raise Key Rate to Around 5%, U.K. Economic Think Tank Says - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRXRSNC0yamptaWZaOGVDNjBrM3F2VWlBanF1WmVwNEVQeFh0blFHTGJQVG0zRHZtTndud01RQTlIMTR2QjlzdGpXSVl2VWVFQWZXTWtxSjhwbFBmQ0hYNXdNcEFucFFTS0RhU2o4S0I3ZEhCS0xVQnRrcEV6aEtveHNHNld6LTBIYjIzaVd2RWlJdmp4NFBEMW5LYzlhV081Skp3aEdMUURNVjJBWl93?oc=5",
+      "summary": "BOE Should Raise Key Rate to Around 5%, U.K. Economic Think Tank Says&nbsp;&nbsp;WSJ",
+      "published": "2026-11-11T06:42:00+00:00",
+      "source": "WSJ (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "BOE"
+      ],
+      "big": false,
+      "id": "f95a199267b5c593"
+    },
+    {
+      "title": "New Indonesia Finance Chief Steers Clear of Prabowo Turf Wars - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcjJhekR1blE4RURnMTNoMHEtUVY0TUx6cmoycmQxbkpaYkFaSkozR3UtOVNBSlY3eFJ5ajM3aVZiZDRuUUk5SWduTmdQTnpxaWU2Z3V4Q0VlZHBvR1liTjFNTFF6WElPWE40aE9tVGNibWl1QXZmZVRMU0xRb2xNYUpqcVM2N1NJaTNlX2c4bXVxRTJLcWF5X1ZUdFRVRGRLNTR0ZDNRcUpKQWpIOXp1VWhB?oc=5",
+      "summary": "New Indonesia Finance Chief Steers Clear of Prabowo Turf Wars&nbsp;&nbsp;Bloomberg.com",
+      "published": "2026-10-02T07:00:00+00:00",
+      "source": "Bloomberg (via GNews)",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "062ca56fbc5a65e4"
+    },
+    {
+      "title": "Copper Scales New Heights on U.S. Tariff Fears, Supply Challenges - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeEp6RlN2a3RNRXNfNW9NT3NycUxmZlVmMGpMWDZVaWdzUVBjMDFTMEtBOXQ3dTdoX2o5cldUVzl0ejNaUjRsQm5Eczh1MWdPQ1FISFROQzlNRXV6cE1fRG85S1QtLXJQRXcyOHFJbV9iUl9KTWVSclJUY0Z5TGhseUdRdGZsOVk0UHhncWU4SDV0OHd4MTRJNDkteGwxcGZPdnBiYjNsSE43eURvTE9yUTV6c0V5SkxoR2p3?oc=5",
+      "summary": "Copper Scales New Heights on U.S. Tariff Fears, Supply Challenges&nbsp;&nbsp;WSJ",
+      "published": "2026-09-08T07:00:00+00:00",
       "source": "WSJ (via GNews)",
       "groups": [
         "Global Finance"
@@ -2285,28 +2194,45 @@
         "tariff"
       ],
       "big": false,
-      "id": "ef0a6ea8f6f8ac39"
+      "id": "46bb3a26cedf6576"
     },
     {
-      "title": "Indonesia launches Danantara sovereign wealth fund: 5 things to know - Nikkei Asia",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMjQzeXdNWTB0TlRubG1qTC1sc3FYWVNvZ0JUYVNVMENYRFp0SkkyT3NWVlJkeHBMLWNqTERGX3NPZzE4VnEwU0tYVXB5dXBQU0lMcEozS2NuZVFPQ2dOZ3kzUDBEX2x2Q2hyaXJqVjQwakl2NGhDXzU0WFVNZFF4bnpYZlRJQVhscEZXX2JDVXNWREstRTVJV1JHLVNZNVll?oc=5",
-      "summary": "Indonesia launches Danantara sovereign wealth fund: 5 things to know&nbsp;&nbsp;Nikkei Asia",
-      "published": "2025-02-24T08:00:00+00:00",
-      "source": "Nikkei Asia (via GNews)",
+      "title": "Dollar Jumps to Highest Since November on Fed Rate Hike Bets - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb0xYUFRzcGVxMGFYc1ZKWEJva1cyczJQVEY2Sk9SeU5fdVJza01MM0x0eURtOVhtNlFKbGFXRDVRNl92TmVsQmx5amZEZVBGUHh4bVZWbjRkYVpkS1dfeHZxVGtkLTdDcm5WeXhKbGtiM0lwZjJRVFFfaWE3Z2x1bEc1VmVQRi1ueGVWVDdXdnc1LThJaXEwR2xoaFlwRmZqY2ZVNUpqTnNNU1NzREtDRA?oc=5",
+      "summary": "Dollar Jumps to Highest Since November on Fed Rate Hike Bets&nbsp;&nbsp;Bloomberg.com",
+      "published": "2026-06-23T07:00:00+00:00",
+      "source": "Bloomberg (via GNews)",
       "groups": [
-        "Macro / Economy"
+        "Global Finance"
       ],
       "matched": [
-        "sovereign"
+        "Fed rate",
+        "rate hike"
       ],
-      "big": false,
-      "id": "d208a57c21cfdaa8"
+      "big": true,
+      "id": "221f1d0aa2beb180"
     },
     {
-      "title": "Trump Calls India a Tariff King, a Title Modi Wants to Shed - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUl9Hc1pDRzNOaEtnYnU4N3IzNkdsazFDQ1NUYndKMnNnTUExZjRSSjFwNGRaNVZRYmJBWEhscWs4a0pGSU1XbzRiZXJENGhzMlhoMlFHQ2NWZXptUkFUOVp6X3NBSEZMM0g2blRlZndRUzZwMVdObkFRTHlIR1hiejV3Ui1OUU5PVnpsNUVraC1nRkZERlBBVkhTNnFMeHp0?oc=5",
-      "summary": "Trump Calls India a Tariff King, a Title Modi Wants to Shed&nbsp;&nbsp;WSJ",
-      "published": "2025-02-12T08:00:00+00:00",
+      "title": "Menkeu Sampaikan Capaian Satu Tahun Pemerintahan Prabowo-Gibran Bidang Ekonomi - Kementerian Keuangan",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSUhXel9UcUxNY056TVlDanBUTkV3cmVHRzhWaFhYTUs5RG4ySDZhaXYtSmRzLVBpSS1OREZIa3NzM2Y5V0VpS0c4bWxUXzRBMkw3VGZWRGExZVVGV3hFdmlSelhaRVRCek9YVEZsM2xjcXF4S19Gd0ZfdGZtN3IyOENrR1Zad0RJeThzQUVaNWtTem1WZlpqRmRXMGpjN2ZoTUpaV25fQ21FdllfMFdSdjNScw?oc=5",
+      "summary": "Menkeu Sampaikan Capaian Satu Tahun Pemerintahan Prabowo-Gibran Bidang Ekonomi&nbsp;&nbsp;Kementerian Keuangan",
+      "published": "2025-10-17T07:00:00+00:00",
+      "source": "GNews – Prabowo APBN",
+      "groups": [
+        "Government / Policy"
+      ],
+      "matched": [
+        "Gibran",
+        "Prabowo"
+      ],
+      "big": false,
+      "id": "cf304d02056c7fac"
+    },
+    {
+      "title": "Trump Threatens 35% Tariff on Some Canadian Goods - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRzY2ZjA1SmtMbGRnNXVQSllVUGJEaWhEQXBGb2tTNnJOSWx3aTBQdXdLMWJHRXdmclM4eFM4ODlCVVZZSjJNN0tia0tfM0sxQ2V6akVpU1B4dGdQT2tmTnZCVVlPTjlJOVJLZDNFZS1GNlZsTzZyRk9TM3hIaEIxMUFyelpLRXZLb2twUmhWYXloV3hUSWIw?oc=5",
+      "summary": "Trump Threatens 35% Tariff on Some Canadian Goods&nbsp;&nbsp;WSJ",
+      "published": "2025-07-11T07:00:00+00:00",
       "source": "WSJ (via GNews)",
       "groups": [
         "Geopolitics",
@@ -2317,13 +2243,78 @@
         "tariff"
       ],
       "big": false,
-      "id": "a89220f13be2e1e9"
+      "id": "b70f5110aac27ec5"
     },
     {
-      "title": "Emerging markets - The Economist - The Economist",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpMlRUcDlaWVctcHZzcDF5YkFveTBKNlgtT3NNd2o3Zjc1aDh2dG1xVXBRRnhuYUV3cml1eS11TTQwcHdoVHdNMW95aEFaZEF1aV90Sm96NVFRLUpYRkE?oc=5",
-      "summary": "Emerging markets - The Economist&nbsp;&nbsp;The Economist",
-      "published": "2010-10-15T22:17:18+00:00",
+      "title": "The U.S. Economy Pushes Through the Trade War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaEZIdXVkS25UeFV6YWRfUGlYN3BDSmhDQWZKSDdyUDhyeU5temlIUV9NeG1JSU05ZnFGZTluS3hGU1Y3dkxpbTRuR0hncnczb3hNRnV6N3RIdGRnTzdQWk1MZEJMdEwxNFhwQlJIV2U2cGNPUFY3eHhUOG1UZ295OS0tdnlTYVJuWWMyWGhn?oc=5",
+      "summary": "The U.S. Economy Pushes Through the Trade War&nbsp;&nbsp;WSJ",
+      "published": "2025-06-27T07:00:00+00:00",
+      "source": "WSJ (via GNews)",
+      "groups": [
+        "Geopolitics",
+        "Global Finance"
+      ],
+      "matched": [
+        "trade war"
+      ],
+      "big": true,
+      "id": "606ebae4f524c4fb"
+    },
+    {
+      "title": "The First Victim of Trump’s Trade War: Michigan’s Economy - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYVdsdnd0SmM1RHFtNVdBbFBoOEhtY1c1UW9FaE5RMlgyLU9lR2t0bUtQZGZYbkRBMW5Uc2xSMTA1OHQ0LVNObGpDVGJqX3RxUy1nZU93NU1pOHFoZXh2N0ZZMzlXbW9ucHpjZHR0c1ItdXlhb25Ddy0ySHY4YldxNm9zdkhONEdrREZtOUZ3NFVkc0hlcnc?oc=5",
+      "summary": "The First Victim of Trump’s Trade War: Michigan’s Economy&nbsp;&nbsp;WSJ",
+      "published": "2025-04-08T07:00:00+00:00",
+      "source": "WSJ (via GNews)",
+      "groups": [
+        "Geopolitics",
+        "Global Finance"
+      ],
+      "matched": [
+        "Trump",
+        "trade war"
+      ],
+      "big": true,
+      "id": "d738c9e8f1f34258"
+    },
+    {
+      "title": "Bank Indonesia delivers surprise rate cut to support growth - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVE9YeUl5SE1JdG5ZQ0Fud3hjVVF2Mkl5UG1YZE05SU1xYnF2dzNFR1REOGFNY2FiSVdSM1pVM0cwcG1YWVFPM2FGT2tPTnVkdl9DdnBxeVl3eHFkVGdBYXQ2RGdmMkQ1OWlVbVNZbXUxT19nbnNFUHdIVGx2VDFuTFhXc2dPVjFSZDYtLUxOeGptd3BiSkhPUlhjTEpSQ3k0ZnkxaGJtSVQ?oc=5",
+      "summary": "Bank Indonesia delivers surprise rate cut to support growth&nbsp;&nbsp;Reuters",
+      "published": "2025-01-15T08:00:00+00:00",
+      "source": "Reuters – Indonesia",
+      "groups": [
+        "Global Finance",
+        "Macro / Economy"
+      ],
+      "matched": [
+        "Bank Indonesia",
+        "rate cut"
+      ],
+      "big": true,
+      "id": "38706bf22190bf2f"
+    },
+    {
+      "title": "BI 7-Day Reverse Repo Rate Tetap 5,75%: Sinergi Menjaga Stabilitas dan Mendorong Pertumbuhan - Bank Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSWk3SWk0VVUzcTZZUWVHZ2ZnRldYRk9pb251ZmF1SjBOaVNWLTl1TC1Ea0pqV1ViekR3bElIMUhaVWpxSkRpT1ZDRWEybURScTFSaWZvQTRQNU5oekFITDJJWmw0UHU2dkpWQ3lrdFB2c3pJdzlRcEJINmd5ZmN4TGp2WTdOdw?oc=5",
+      "summary": "BI 7-Day Reverse Repo Rate Tetap 5,75%: Sinergi Menjaga Stabilitas dan Mendorong Pertumbuhan&nbsp;&nbsp;Bank Indonesia",
+      "published": "2023-03-16T07:00:00+00:00",
+      "source": "GNews – BI rate rupiah",
+      "groups": [
+        "Macro / Economy"
+      ],
+      "matched": [
+        "Bank Indonesia"
+      ],
+      "big": false,
+      "id": "93edbc3a41d0a35c"
+    },
+    {
+      "title": "Three threats to growth in emerging markets - The Economist",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTVhQU3RkYVd1Zy1oREdkekRQZkVIZU9TOENXQXhadDZpWEZaSkVfalRLMHJDVjFma1ljZk5HS3RLdFFVcmxBZDVrRE9NOFZkTTgtb0t3X1E3cGZCSFZRQmRxZ0xnWWdCLXM0eV9tSnVBZEZZeW9peW53TEMtQXhBbGY1blhlb0FuSEV5UjVwSzI2Y3ZFWmJseGdmbDZXTzlneXFtTA?oc=5",
+      "summary": "Three threats to growth in emerging markets&nbsp;&nbsp;The Economist",
+      "published": "2021-12-01T08:00:00+00:00",
       "source": "The Economist (via GNews)",
       "groups": [
         "Global Finance"
@@ -2332,7 +2323,38 @@
         "emerging market"
       ],
       "big": false,
-      "id": "6e4043a388cf7a02"
+      "id": "6372a471727536fb"
+    },
+    {
+      "title": "Shares in emerging markets have hit a record peak - The Economist",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVkhNNUpJVXZoWXkzdWpnRU9VbExMNlBFLXRFNEZZNmFBR3lMd1RnV0doQXZrM1R5UVdDcnhTQWtzZ0pfQ2RNdDUxcXo2dVBJN1BxbWptOWdMOC1BVHBEYmF5QnZ2TjVUX25kU3hYSE84RDNQejRqWDVsU2lrZ2Q0bjh2VG9SckQtaE5LVDI2UnlvVi0xOVBEYmZpSXJvWHdHYkE1SkxFN19LcEJf?oc=5",
+      "summary": "Shares in emerging markets have hit a record peak&nbsp;&nbsp;The Economist",
+      "published": "2021-01-14T08:00:00+00:00",
+      "source": "The Economist (via GNews)",
+      "groups": [
+        "Global Finance"
+      ],
+      "matched": [
+        "emerging market"
+      ],
+      "big": false,
+      "id": "a8f8488b5b25fb1e"
+    },
+    {
+      "title": "China Trade War Didn’t Boost U.S. Manufacturing Might - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbjd4TUZWS1dsQmZyWTFsOWNHNVZ2UG1MaE9CamtLazJJT2QtbmE1QWVvSXBFTXc4dmxVRE1GYWNkVVhha21uX1FPLWc5c3VPbmhwaVI3VzNETXZZdHgtNzFTR28xLWpTSE1Pb2l6RUxTM3puV2xXVGcxY3VnWjJVQ3ZFOWI2U1JMc2ZXeFpYNW9FXzY4SWZpVzREVkx2UQ?oc=5",
+      "summary": "China Trade War Didn’t Boost U.S. Manufacturing Might&nbsp;&nbsp;WSJ",
+      "published": "2020-10-25T07:00:00+00:00",
+      "source": "WSJ (via GNews)",
+      "groups": [
+        "Geopolitics",
+        "Global Finance"
+      ],
+      "matched": [
+        "trade war"
+      ],
+      "big": true,
+      "id": "12e23489a2a25630"
     }
   ]
 }

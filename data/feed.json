@@ -1,7 +1,37 @@
 {
-  "updated": "2026-11-19T19:07:24.312369+00:00",
+  "updated": "2026-11-20T01:14:18.773999+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "Investor Asing Jual Bersih Rp 662 Miliar, Ramai Lepas Saham BBCA",
+      "link": "https://katadata.co.id/finansial/bursa/6aff9d59c2666/investor-asing-jual-bersih-rp-662-miliar-ramai-lepas-saham-bbca",
+      "summary": "Saham perbankan dan produsen emas mengalami tekanan.",
+      "published": "2026-11-20T01:07:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Djarum / Hartono"
+      ],
+      "matched": [
+        "BBCA"
+      ],
+      "big": false,
+      "id": "aab4a42eaa46137e"
+    },
+    {
+      "title": "BBCA Bakal Tebar Dividen Interim Ketiga Rp 35 per Saham, Catat Jadwalnya",
+      "link": "https://katadata.co.id/finansial/bursa/6aff8e73b69fa/bbca-bakal-tebar-dividen-interim-ketiga-rp-35-per-saham-catat-jadwalnya",
+      "summary": "Emiten bank swasta raksasa PT Bank Central Asia Tbk (BBCA) akan membagikan dividen interim ketiga sebesar Rp 35 per saham pada kuaral keempat, tepatnya 16 Desember 2026.",
+      "published": "2026-11-20T00:04:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Djarum / Hartono"
+      ],
+      "matched": [
+        "BBCA"
+      ],
+      "big": true,
+      "id": "c9688e05265061d6"
+    },
     {
       "title": "BCA (BBCA) Tebar Dividen Interim Rp 35 per Saham, Total 2026 Naik 45,5%",
       "link": "https://katadata.co.id/finansial/bursa/6aff06923f32e/bca-bbca-tebar-dividen-interim-rp-35-per-saham-total-2026-naik-45-5",
@@ -3096,38 +3126,6 @@
       ],
       "big": true,
       "id": "94f8ac271cbaf325"
-    },
-    {
-      "title": "Laba Emiten Prajogo (BRPT) Anjlok 60,65% Ini Penyebabnya",
-      "link": "https://www.cnbcindonesia.com/market/20261030174634-17-781034/laba-emiten-prajogo--brpt--anjlok-6065-ini-penyebabnya",
-      "summary": "PT Barito Pacific (BRPT) laporkan laba bersih US$229 juta hingga kuartal III/2026, turun 60,65% YoY.",
-      "published": "2026-10-30T10:58:36+00:00",
-      "source": "CNBC Indonesia - Market",
-      "groups": [
-        "Prajogo / Barito"
-      ],
-      "matched": [
-        "BRPT",
-        "Barito Pacific",
-        "Prajogo"
-      ],
-      "big": true,
-      "id": "c99952c2f60b1d70"
-    },
-    {
-      "title": "IHSG Ditutup Turun ke 5.057, Saham Grup Barito Milik Prajogo Berguguran - Bisnis.com - Market",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOanRxN0h0aGNiQVJwa2Y5QVVQYW1NRUJGQzZJZGlXTEQwRG9KbTJPNFZBamhteF9DUFB3ZEZTY0pCaWVuajY3YVVJUXl6S3ZCSXhOUmlhU2ZDOU9BNWs1VHJVenVhamwtX1Z6NmVQLWsyZnE1WDFKUkJrQWMxb3ZUTDVzVEtKNjV2RDFWWW5oOHRYcFRUN1pQX1Q5SVNfM3luSG04S0wtdk8wejVKMG1XdEh3andiYmQ5bEJz?oc=5",
-      "summary": "IHSG Ditutup Turun ke 5.057, Saham Grup Barito Milik Prajogo Berguguran&nbsp;&nbsp;Bisnis.com - Market",
-      "published": "2026-10-30T09:16:11+00:00",
-      "source": "Bisnis Indonesia (via GNews)",
-      "groups": [
-        "Prajogo / Barito"
-      ],
-      "matched": [
-        "Prajogo"
-      ],
-      "big": false,
-      "id": "215f2c21041db95c"
     }
   ]
 }

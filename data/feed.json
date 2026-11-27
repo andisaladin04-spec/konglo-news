@@ -1,7 +1,56 @@
 {
-  "updated": "2026-11-27T02:57:15.577538+00:00",
+  "updated": "2026-11-27T11:53:54.869213+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "IHSG Akhir Pekan Menguat 1,65% ke 5.327, Saham BRMS dan BRPT Melonjak",
+      "link": "https://katadata.co.id/finansial/bursa/6b095c08eaac8/ihsg-akhir-pekan-menguat-1-65-ke-5327-saham-brms-dan-brpt-melonjak",
+      "summary": "Indeks Harga Saham Gabungan (IHSG) akhir pekan menguat 1, 65% ke 5.327. Saham apa saha yang naik.",
+      "published": "2026-11-27T10:31:00+00:00",
+      "source": "Katadata",
+      "groups": [
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "BRMS",
+        "BRPT"
+      ],
+      "big": true,
+      "id": "c45a722631e8cb5a"
+    },
+    {
+      "title": "Indeks Bisnis-27 Ditutup Menguat, Saham BRMS, DEWA, BUMI Pimpin Kenaikan - Bisnis.com - Market",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQakFwZjZvZ3Y1cGNPNEkyaGlySG9VSG1nSC1ZVFFvM2lFbzZkYzZMaVQ5SVR0OFhpQWNhZVVXSkVYY0lMNmg0ZWFoQUdnZU0zSlRqVWpBQkpHV2FNYXRHZG52ZUJiV2tnb1Y1Z0l6cHIzYmM0d3pPYnRnZ0w5cnJ2a1dkNUVoM2NtVmZqZHZJRF9fRjIzY3dEOVFPbGRvODM3dDJYTlFZeEI1UkFZaTlGcGlTeWRGaGV3NUVz?oc=5",
+      "summary": "Indeks Bisnis-27 Ditutup Menguat, Saham BRMS, DEWA, BUMI Pimpin Kenaikan&nbsp;&nbsp;Bisnis.com - Market",
+      "published": "2026-11-27T10:27:10+00:00",
+      "source": "Bisnis Indonesia (via GNews)",
+      "groups": [
+        "Bakrie",
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "BRMS",
+        "BUMI",
+        "DEWA"
+      ],
+      "big": false,
+      "id": "690587e07f3af19d"
+    },
+    {
+      "title": "Indeks Bisnis-27 Dibuka Menguat, Saham ANTM & BRMS Memimpin - Bisnis.com - Market",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNjRaTi1tV2Jna1MyUkZtYXh1WXpvT1VzNHZMdjZyeldmLWUya2FmMUoxMUJDUC1kRU1tRFJyV3JJejhLdHZZcWhxWHBFRVJYc21jcXJEWHV6eU92bFhLWVNFRVhxaDRNWFllNWpsTEFvZlBOQmFWZEJaNENYRHFBR21Ydi1IZWxxNXBvaUh5Y1RpQ1NxckhTa1BrYmJCcndGZFpIQ0t1TjhIdw?oc=5",
+      "summary": "Indeks Bisnis-27 Dibuka Menguat, Saham ANTM & BRMS Memimpin&nbsp;&nbsp;Bisnis.com - Market",
+      "published": "2026-11-27T02:57:47+00:00",
+      "source": "Bisnis Indonesia (via GNews)",
+      "groups": [
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "BRMS"
+      ],
+      "big": false,
+      "id": "70248c7009051023"
+    },
     {
       "title": "Jelang Akhir Pekan, Simak 5 Saham Pilihan Hari Ini",
       "link": "https://www.cnbcindonesia.com/market/20261127082119-17-788937/jelang-akhir-pekan-simak-5-saham-pilihan-hari-ini",
@@ -3055,54 +3104,6 @@
       ],
       "big": false,
       "id": "31d4b4adb7f6976e"
-    },
-    {
-      "title": "Ada Jejak Prajogo Pangestu di Balik IPO Andalan Artha (ANDA) lewat PTRO dan CUAN",
-      "link": "https://katadata.co.id/finansial/bursa/6aed86bd0ddf6/ada-jejak-prajogo-pangestu-di-balik-ipo-andalan-artha-anda-lewat-ptro-dan-cuan",
-      "summary": "Dalam prospektus IPO, PT Andalan Artha Primanusa Tbk (ANDA) mengungkapkan telah menjalin kerja sama dengan sederet perusahaan besar, termasuk emiten jasa pertambangan seperti PTRO dan PTBA.",
-      "published": "2026-11-06T07:50:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Prajogo / Barito"
-      ],
-      "matched": [
-        "CUAN",
-        "PTRO",
-        "Pangestu",
-        "Prajogo"
-      ],
-      "big": false,
-      "id": "b13e2db6f434cb8a"
-    },
-    {
-      "title": "Pendapatan Tergerus, Laba Bank Permata Q3-2026 Susut 10,9%",
-      "link": "https://www.cnbcindonesia.com/market/20261106095058-17-782874/pendapatan-tergerus-laba-bank-permata-q3-2026-susut-109",
-      "summary": "PT Bank Permata Tbk. (BNLI) mencatat laba bersih Rp2,57 triliun hingga kuartal III/2026, turun 10,9% YoY.",
-      "published": "2026-11-06T03:25:35+00:00",
-      "source": "CNBC Indonesia - Market",
-      "groups": [
-        "Astra"
-      ],
-      "matched": [
-        "BNLI"
-      ],
-      "big": false,
-      "id": "6b4d21f45c893561"
-    },
-    {
-      "title": "IHSG Ditutup Menguat, Simak 5 Saham Pilihan Hari Ini",
-      "link": "https://www.cnbcindonesia.com/market/20261106081437-17-782829/ihsg-ditutup-menguat-simak-5-saham-pilihan-hari-ini",
-      "summary": "IHSG menguat 2,25% di level 5.030, didorong saham BBCA dan AMMN. Investor asing mencatat net sell, sementara LPKR dan AUTO ekspansi bisnis.",
-      "published": "2026-11-06T01:58:10+00:00",
-      "source": "CNBC Indonesia - Market",
-      "groups": [
-        "Djarum / Hartono"
-      ],
-      "matched": [
-        "BBCA"
-      ],
-      "big": false,
-      "id": "3be4282e0217253b"
     }
   ]
 }

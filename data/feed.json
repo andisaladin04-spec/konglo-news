@@ -1,7 +1,24 @@
 {
-  "updated": "2026-11-26T20:17:00.237634+00:00",
+  "updated": "2026-11-27T02:57:15.577538+00:00",
   "count": 200,
   "items": [
+    {
+      "title": "Jelang Akhir Pekan, Simak 5 Saham Pilihan Hari Ini",
+      "link": "https://www.cnbcindonesia.com/market/20261127082119-17-788937/jelang-akhir-pekan-simak-5-saham-pilihan-hari-ini",
+      "summary": "IHSG menguat 0,86% pada 26 November, didorong oleh saham BBCA dan BRPT. Investor asing mencatatkan net buy signifikan.",
+      "published": "2026-11-27T01:51:21+00:00",
+      "source": "CNBC Indonesia - Market",
+      "groups": [
+        "Djarum / Hartono",
+        "Prajogo / Barito"
+      ],
+      "matched": [
+        "BBCA",
+        "BRPT"
+      ],
+      "big": false,
+      "id": "9ed2ce8b02bb86ee"
+    },
     {
       "title": "Produksi Batu Bara BUMI Meningkat - Bisnis Indonesia e-Paper",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQWVuSUFBek9GR3ZaYjJWVUE3dERoRkRhYUxZbUUwdW9qeEVhSXlPYVNjSEpvNUpvQWdoTkxxWVRTV1N6WlNwdEdNejhtS1VnQlJKa2oxWERLSGlvcndZSUJtWUVCcy00Z2Q3M013N29tNk02MTJIUGRyUld4S216d3F3VWNxcndSTTRMY1ZZM3gwM2ZzVVU2XzRB?oc=5",
@@ -3086,23 +3103,6 @@
       ],
       "big": false,
       "id": "3be4282e0217253b"
-    },
-    {
-      "title": "Saham BRMS dan BRPT Dinilai Berpotensi Terdepak dari MSCI, Bagaimana Kansnya?",
-      "link": "https://katadata.co.id/finansial/bursa/6aec332bf1b89/saham-brms-dan-brpt-dinilai-berpotensi-terdepak-dari-msci-bagaimana-kansnya",
-      "summary": "Dua saham emiten tambang, PT Bumi Resources Minerals Tbk (BRMS) dan PT Barito Pacific Tbk (BRPT), dibayangi risiko keluar dari indeks MSCI Standard dalam rebalancing November 2026.",
-      "published": "2026-11-05T12:28:00+00:00",
-      "source": "Katadata",
-      "groups": [
-        "Prajogo / Barito"
-      ],
-      "matched": [
-        "BRMS",
-        "BRPT",
-        "Barito Pacific"
-      ],
-      "big": false,
-      "id": "2272e1060de42e8d"
     }
   ]
 }
